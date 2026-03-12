@@ -3,6 +3,17 @@ import { Clock, ExternalLink, ArrowRight } from 'lucide-react';
 import type { NewsArticle } from '@/lib/types';
 import { getCategoryBadgeClass, timeAgo } from '@/lib/utils';
 
+const FEATURED_GRADIENTS = [
+  'from-violet-900 via-purple-900 to-slate-900',
+  'from-cyan-900 via-blue-900 to-slate-900',
+  'from-emerald-900 via-teal-900 to-slate-900',
+  'from-rose-900 via-pink-900 to-slate-900',
+  'from-orange-900 via-amber-900 to-slate-900',
+  'from-indigo-900 via-violet-900 to-slate-900',
+  'from-sky-900 via-cyan-900 to-slate-900',
+  'from-blue-900 via-indigo-900 to-slate-900',
+];
+
 interface FeaturedArticleProps {
   article: NewsArticle;
 }
@@ -11,7 +22,7 @@ export function FeaturedArticle({ article }: FeaturedArticleProps) {
   return (
     <div className="relative rounded-2xl overflow-hidden glass border border-white/[0.07] group cursor-pointer">
       {/* Background gradient */}
-      <div className={`absolute inset-0 bg-gradient-to-br ${article.imageGradient ?? 'from-violet-900/60 to-surface-950'}`} />
+      <div className={`absolute inset-0 bg-gradient-to-br ${FEATURED_GRADIENTS[parseInt(article.id, 10) % FEATURED_GRADIENTS.length] ?? 'from-violet-900 to-slate-900'}`} />
 
       {/* Decorative grid lines */}
       <div className="absolute inset-0 opacity-20"

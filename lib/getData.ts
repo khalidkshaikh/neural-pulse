@@ -3,6 +3,8 @@
  * Falls back to mockData when JSON files are empty (first run / dev mode).
  */
 
+import { readFileSync, existsSync } from 'fs';
+import { join } from 'path';
 import type { NewsArticle, SAPUpdate, AITool, OpenSourceRepo } from './types';
 import {
   newsArticles as mockArticles,
@@ -11,11 +13,12 @@ import {
   openSourceRepos as mockRepos,
 } from './mockData';
 
-function loadJson<T>(path: string, fallback: T[]): T[] {
+function loadJson<T>(fileName: string, fallback: T[]): T[] {
   try {
-    // Dynamic require for server-side reads at build time
-    // eslint-disable-next-line @typescript-eslint/no-var-requires
-    const data = require(path) as T[];
+    const filePath = join(process.cwd(), 'data', fileName);
+    if (!existsSync(filePath)) return fallback;
+    const raw = readFileSync(filePath, 'utf-8');
+    const data = JSON.parse(raw) as T[];
     return Array.isArray(data) && data.length > 0 ? data : fallback;
   } catch {
     return fallback;
@@ -23,17 +26,17 @@ function loadJson<T>(path: string, fallback: T[]): T[] {
 }
 
 export function getArticles(): NewsArticle[] {
-  return loadJson<NewsArticle>('../data/articles.json', mockArticles);
+  return loadJson<NewsArticle>('articles.json', mockArticles);
 }
 
 export function getSAPUpdates(): SAPUpdate[] {
-  return loadJson<SAPUpdate>('../data/sap-updates.json', mockSAPUpdates);
+  return loadJson<SAPUpdate>('sap-updates.json', mockSAPUpdates);
 }
 
 export function getTools(): AITool[] {
-  return loadJson<AITool>('../data/tools.json', mockTools);
+  return loadJson<AITool>('tools.json', mockTools);
 }
 
 export function getRepos(): OpenSourceRepo[] {
-  return mockRepos; // GitHub trending via future scraper; use mock for now
+  return mockRepos;
 }

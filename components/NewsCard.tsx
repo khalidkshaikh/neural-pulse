@@ -34,7 +34,7 @@ export function NewsCard({ article, variant = 'default' }: NewsCardProps) {
     <Link href={`/article/${article.slug}`} className="block group">
       <article className="glass glass-hover rounded-xl overflow-hidden h-full flex flex-col">
         {/* Image area */}
-        <div className={`relative h-32 bg-gradient-to-br ${article.imageGradient ?? 'from-violet-900/60 via-violet-800/40 to-surface-950'} overflow-hidden flex-shrink-0`}>
+        <div className={`relative h-32 bg-gradient-to-br ${getImageGradient(article.id)} overflow-hidden flex-shrink-0`}>
           {/* Grid overlay */}
           <div className="absolute inset-0 opacity-30"
             style={{
@@ -90,6 +90,22 @@ export function NewsCard({ article, variant = 'default' }: NewsCardProps) {
       </article>
     </Link>
   );
+}
+
+const IMAGE_GRADIENTS = [
+  'from-violet-900 via-violet-800 to-slate-900',
+  'from-cyan-900 via-cyan-800 to-slate-900',
+  'from-emerald-900 via-emerald-800 to-slate-900',
+  'from-blue-900 via-blue-800 to-slate-900',
+  'from-rose-900 via-rose-800 to-slate-900',
+  'from-orange-900 via-orange-800 to-slate-900',
+  'from-indigo-900 via-indigo-800 to-slate-900',
+  'from-sky-900 via-sky-800 to-slate-900',
+];
+
+function getImageGradient(id: string): string {
+  const idx = parseInt(id, 10);
+  return IMAGE_GRADIENTS[(isNaN(idx) ? 0 : idx) % IMAGE_GRADIENTS.length];
 }
 
 function getCardAccent(category: string): string {
