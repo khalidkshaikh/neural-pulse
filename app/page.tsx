@@ -1,7 +1,7 @@
 import { Hero } from '@/components/Hero';
 import { LiveTicker } from '@/components/LiveTicker';
 import { FeaturedArticle } from '@/components/FeaturedArticle';
-import { NewsCard } from '@/components/NewsCard';
+import { ArticleGrid } from '@/components/ArticleGrid';
 import { TrendingTopics } from '@/components/TrendingTopics';
 import { CategoryFilter } from '@/components/CategoryFilter';
 import { SAPCard } from '@/components/SAPCard';
@@ -13,7 +13,7 @@ export default function HomePage() {
   const newsArticles = getArticles();
   const sapUpdates = getSAPUpdates();
   const featuredArticle = newsArticles.find((a) => a.featured) ?? newsArticles[0];
-  const gridArticles = newsArticles.filter((a) => !a.featured).slice(0, 9);
+  const gridArticles = newsArticles.filter((a) => !a.featured);
   const latestSAPUpdates = sapUpdates.filter((u) => !u.isWeeklyDigest).slice(0, 3);
 
   return (
@@ -47,12 +47,8 @@ export default function HomePage() {
 
         {/* News grid + sidebar */}
         <div className="grid lg:grid-cols-[1fr_300px] gap-8">
-          {/* Article grid */}
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {gridArticles.map((article) => (
-              <NewsCard key={article.id} article={article} />
-            ))}
-          </div>
+          {/* Article grid with load more */}
+          <ArticleGrid articles={gridArticles} />
 
           {/* Sidebar */}
           <div className="space-y-6">

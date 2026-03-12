@@ -13,7 +13,7 @@
  *   (none)             — falls back to raw RSS description
  */
 
-import { writeFileSync, readFileSync, existsSync } from 'fs';
+import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -307,28 +307,65 @@ async function fetchSAPNews() {
 
 // ─── Entry point ──────────────────────────────────────────────────────────────
 
+function loadExisting(filePath) {
+  try {
+    if (!existsSync(filePath)) return [];
+    const data = JSON.parse(readFileSync(filePath, 'utf-8'));
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+}
+
+function mergeArticles(fresh, existing, maxKeep = 500) {
+  const seenUrls = new Set(fresh.map((a) => a.sourceUrl));
+  const oldOnly  = existing.filter((a) => !seenUrls.has(a.sourceUrl));
+  const merged   = [...fresh, ...oldOnly];
+  // Sort newest first, then re-index IDs
+  merged.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+  return merged.slice(0, maxKeep).map((a, i) => ({ ...a, id: String(i + 1) }));
+}
+
+function mergeSAPUpdates(fresh, existing, maxKeep = 200) {
+  const digest  = fresh.find((u) => u.isWeeklyDigest);
+  const freshNon = fresh.filter((u) => !u.isWeeklyDigest);
+  const seenUrls = new Set(freshNon.map((u) => u.sourceUrl));
+  const oldNon   = existing.filter((u) => !u.isWeeklyDigest && !seenUrls.has(u.sourceUrl));
+  const merged   = [...freshNon, ...oldNon];
+  merged.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+  const trimmed  = merged.slice(0, maxKeep).map((u, i) => ({ ...u, id: String(i + 1) }));
+  if (digest) trimmed.unshift({ ...digest, id: '0' });
+  return trimmed;
+}
+
 async function main() {
   console.log('🚀 NeuralPulse daily fetch starting...\n');
 
-  const [articles, sapUpdates] = await Promise.all([
+  const articlesPath = resolve(ROOT, 'data/articles.json');
+  const sapPath      = resolve(ROOT, 'data/sap-updates.json');
+
+  // Ensure data/ directory exists
+  mkdirSync(resolve(ROOT, 'data'), { recursive: true });
+
+  const [freshArticles, freshSAP] = await Promise.all([
     fetchAINews(),
     fetchSAPNews(),
   ]);
 
-  // If fetch yielded nothing (rate limits, blocked), keep existing data
-  const articlesPath = resolve(ROOT, 'data/articles.json');
-  const sapPath      = resolve(ROOT, 'data/sap-updates.json');
-
-  if (articles.length > 0) {
-    writeFileSync(articlesPath, JSON.stringify(articles, null, 2));
-    console.log(`\n💾 Wrote ${articles.length} articles → data/articles.json`);
+  if (freshArticles.length > 0) {
+    const existing = loadExisting(articlesPath);
+    const merged   = mergeArticles(freshArticles, existing);
+    writeFileSync(articlesPath, JSON.stringify(merged, null, 2));
+    console.log(`\n💾 Wrote ${merged.length} articles (${freshArticles.length} new + ${merged.length - freshArticles.length} kept) → data/articles.json`);
   } else {
     console.log('\n⚠️  No articles fetched, keeping existing data.');
   }
 
-  if (sapUpdates.length > 0) {
-    writeFileSync(sapPath, JSON.stringify(sapUpdates, null, 2));
-    console.log(`💾 Wrote ${sapUpdates.length} SAP updates → data/sap-updates.json`);
+  if (freshSAP.length > 0) {
+    const existing = loadExisting(sapPath);
+    const merged   = mergeSAPUpdates(freshSAP, existing);
+    writeFileSync(sapPath, JSON.stringify(merged, null, 2));
+    console.log(`💾 Wrote ${merged.length} SAP updates (${freshSAP.length} new + ${merged.length - freshSAP.length} kept) → data/sap-updates.json`);
   } else {
     console.log('⚠️  No SAP updates fetched, keeping existing data.');
   }
