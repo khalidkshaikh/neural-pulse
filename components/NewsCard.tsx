@@ -1,0 +1,94 @@
+import Link from 'next/link';
+import { Clock, ArrowUpRight } from 'lucide-react';
+import type { NewsArticle } from '@/lib/types';
+import { getCategoryBadgeClass, timeAgo } from '@/lib/utils';
+
+interface NewsCardProps {
+  article: NewsArticle;
+  variant?: 'default' | 'compact';
+}
+
+export function NewsCard({ article, variant = 'default' }: NewsCardProps) {
+  if (variant === 'compact') {
+    return (
+      <Link href={`/article/${article.slug}`} className="block group">
+        <div className="flex gap-3 py-3 border-b border-white/[0.05] hover:bg-white/[0.02] rounded-lg px-2 -mx-2 transition-colors duration-150">
+          <div className="flex-1 min-w-0">
+            <div className="flex items-center gap-2 mb-1">
+              <span className={`badge text-[10px] ${getCategoryBadgeClass(article.category)}`}>
+                {article.category}
+              </span>
+              <span className="text-xs text-slate-600">{timeAgo(article.publishedAt)}</span>
+            </div>
+            <h3 className="text-sm font-semibold text-slate-200 group-hover:text-white leading-snug line-clamp-2 transition-colors">
+              {article.title}
+            </h3>
+          </div>
+          <ArrowUpRight className="w-4 h-4 text-slate-600 group-hover:text-slate-400 flex-shrink-0 mt-1 transition-colors" />
+        </div>
+      </Link>
+    );
+  }
+
+  return (
+    <Link href={`/article/${article.slug}`} className="block group">
+      <article className="glass glass-hover rounded-xl overflow-hidden h-full flex flex-col">
+        {/* Color bar top */}
+        <div className={`h-0.5 bg-gradient-to-r ${getCardAccent(article.category)}`} />
+
+        <div className="p-5 flex flex-col flex-1">
+          {/* Meta row */}
+          <div className="flex items-center justify-between gap-2 mb-3">
+            <span className={`badge ${getCategoryBadgeClass(article.category)}`}>
+              {article.category}
+            </span>
+            <div className="flex items-center gap-1 text-xs text-slate-600">
+              <Clock className="w-3 h-3" />
+              {article.readTime}m
+            </div>
+          </div>
+
+          {/* Title */}
+          <h3 className="text-base font-bold text-slate-100 group-hover:text-white leading-snug mb-2.5 line-clamp-3 flex-1 transition-colors duration-200">
+            {article.title}
+          </h3>
+
+          {/* Summary */}
+          <p className="text-sm text-slate-500 leading-relaxed line-clamp-2 mb-4">
+            {article.summary}
+          </p>
+
+          {/* Tags */}
+          <div className="flex flex-wrap gap-1.5 mb-4">
+            {article.tags.slice(0, 3).map((tag) => (
+              <span key={tag} className="tag">{tag}</span>
+            ))}
+          </div>
+
+          {/* Footer */}
+          <div className="flex items-center justify-between pt-3 border-t border-white/[0.05]">
+            <div className="text-xs text-slate-500">
+              <span className="text-slate-400 font-medium">{article.source}</span>
+              {' · '}
+              {timeAgo(article.publishedAt)}
+            </div>
+            <ArrowUpRight className="w-4 h-4 text-slate-600 group-hover:text-violet-400 transition-colors duration-200" />
+          </div>
+        </div>
+      </article>
+    </Link>
+  );
+}
+
+function getCardAccent(category: string): string {
+  const map: Record<string, string> = {
+    'Model Release': 'from-violet-500 to-purple-500',
+    'Tool Launch': 'from-cyan-500 to-sky-500',
+    Research: 'from-indigo-500 to-violet-500',
+    'Open Source': 'from-emerald-500 to-teal-500',
+    'SAP AI': 'from-emerald-400 to-cyan-500',
+    Industry: 'from-sky-500 to-blue-500',
+    Framework: 'from-orange-500 to-rose-500',
+  };
+  return map[category] ?? 'from-violet-500 to-cyan-500';
+}

@@ -1,0 +1,166 @@
+import { newsArticles } from '@/lib/mockData';
+import { getCategoryBadgeClass, timeAgo } from '@/lib/utils';
+import { Clock, ArrowLeft, ExternalLink, Share2 } from 'lucide-react';
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+
+interface Props {
+  params: { slug: string };
+}
+
+export function generateStaticParams() {
+  return newsArticles.map((a) => ({ slug: a.slug }));
+}
+
+export default function ArticlePage({ params }: Props) {
+  const article = newsArticles.find((a) => a.slug === params.slug);
+  if (!article) notFound();
+
+  const related = newsArticles.filter(
+    (a) => a.id !== article.id && a.category === article.category
+  ).slice(0, 3);
+
+  return (
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-12 pb-16">
+      <div className="grid lg:grid-cols-[1fr_320px] gap-12">
+        {/* Article */}
+        <div>
+          {/* Back */}
+          <Link
+            href="/"
+            className="inline-flex items-center gap-1.5 text-sm text-slate-500 hover:text-slate-300 transition-colors mb-8"
+          >
+            <ArrowLeft className="w-4 h-4" />
+            Back to Daily AI
+          </Link>
+
+          {/* Header */}
+          <div className="mb-8">
+            <div className="flex items-center gap-2 mb-4">
+              <span className={`badge ${getCategoryBadgeClass(article.category)}`}>
+                {article.category}
+              </span>
+              <div className="flex items-center gap-1 text-xs text-slate-600">
+                <Clock className="w-3 h-3" />
+                {article.readTime} min read
+              </div>
+            </div>
+
+            <h1 className="text-3xl sm:text-4xl font-black text-white leading-tight mb-4">
+              {article.title}
+            </h1>
+
+            <p className="text-xl text-slate-400 font-light leading-relaxed mb-6">
+              {article.summary}
+            </p>
+
+            <div className="flex items-center justify-between py-4 border-y border-white/[0.06]">
+              <div className="flex items-center gap-3">
+                <div className="w-8 h-8 rounded-full bg-gradient-to-br from-violet-600 to-cyan-500 flex items-center justify-center text-xs font-bold text-white">
+                  {article.source[0]}
+                </div>
+                <div>
+                  <div className="text-sm font-medium text-slate-300">{article.source}</div>
+                  <div className="text-xs text-slate-600">{timeAgo(article.publishedAt)}</div>
+                </div>
+              </div>
+              <div className="flex gap-2">
+                <a
+                  href={article.sourceUrl}
+                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-xs text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all"
+                >
+                  <ExternalLink className="w-3.5 h-3.5" />
+                  Source
+                </a>
+                <button className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-xs text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all">
+                  <Share2 className="w-3.5 h-3.5" />
+                  Share
+                </button>
+              </div>
+            </div>
+          </div>
+
+          {/* Article body placeholder */}
+          <div className="prose prose-invert prose-sm max-w-none">
+            <div className="space-y-5 text-slate-300 leading-relaxed">
+              <p>
+                {article.summary} This story continues to develop as more details emerge from the original sources.
+              </p>
+              <p>
+                The implications of this development extend across the AI industry. Practitioners and organizations watching
+                this space closely will want to evaluate how this fits into their existing workflows and toolchains.
+              </p>
+              <div className="glass rounded-xl p-5 border border-white/[0.07] my-6">
+                <h3 className="text-base font-bold text-white mb-3">Key Takeaways</h3>
+                <ul className="space-y-2">
+                  {article.tags.map((tag) => (
+                    <li key={tag} className="flex items-center gap-2 text-sm text-slate-300">
+                      <span className="w-1.5 h-1.5 rounded-full bg-violet-400 flex-shrink-0" />
+                      Coverage includes: <strong className="text-white">{tag}</strong>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <p>
+                This article was automatically generated from aggregated sources by the NeuralPulse AI pipeline.
+                Content is synthesized and reformulated — always refer to the original source for full details.
+              </p>
+            </div>
+          </div>
+
+          {/* Tags */}
+          <div className="mt-8 pt-6 border-t border-white/[0.06]">
+            <p className="text-xs text-slate-600 mb-3 font-semibold uppercase tracking-wide">Tags</p>
+            <div className="flex flex-wrap gap-2">
+              {article.tags.map((tag) => (
+                <span key={tag} className="px-3 py-1 rounded-lg text-xs font-medium bg-white/5 border border-white/10 text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all cursor-pointer">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        {/* Sidebar */}
+        <div className="space-y-6">
+          {/* Related */}
+          {related.length > 0 && (
+            <div className="glass rounded-xl p-5 border border-white/[0.07]">
+              <div className="flex items-center gap-2 mb-4">
+                <div className="section-accent" />
+                <h3 className="text-sm font-bold text-slate-200">Related Articles</h3>
+              </div>
+              <div className="space-y-1">
+                {related.map((r) => (
+                  <Link
+                    key={r.id}
+                    href={`/article/${r.slug}`}
+                    className="block py-3 border-b border-white/[0.05] last:border-0 group"
+                  >
+                    <div className="flex items-start gap-2">
+                      <span className={`badge text-[10px] flex-shrink-0 mt-0.5 ${getCategoryBadgeClass(r.category)}`}>
+                        {r.category}
+                      </span>
+                    </div>
+                    <p className="text-sm font-medium text-slate-300 group-hover:text-white mt-1 leading-snug line-clamp-2 transition-colors">
+                      {r.title}
+                    </p>
+                    <span className="text-xs text-slate-600 mt-1 block">{timeAgo(r.publishedAt)}</span>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* AI disclaimer */}
+          <div className="rounded-xl p-4 bg-amber-500/5 border border-amber-500/15">
+            <p className="text-xs text-amber-300/80 leading-relaxed">
+              <strong className="text-amber-300">AI-generated content.</strong> This article was synthesized automatically
+              from multiple sources. Always verify claims with primary sources before acting on this information.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
