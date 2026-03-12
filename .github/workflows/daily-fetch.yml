@@ -54,12 +54,7 @@ jobs:
           git commit -m "chore: daily news fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
-      - name: Trigger Vercel rebuild (via deploy hook)
-        if: steps.changes.outputs.changed == 'true' && env.VERCEL_DEPLOY_HOOK != ''
-        env:
-          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
-        run: |
-          curl -X POST "$VERCEL_DEPLOY_HOOK"
+      # Pushing updated data/  triggers the deploy.yml workflow automatically
 
       - name: Summary
         run: |
