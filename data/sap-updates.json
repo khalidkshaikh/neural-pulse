@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "0",
+    "title": "Weekly SAP AI Digest — Week of March 12, 2026",
+    "summary": "This week in SAP AI: Next‑Gen SAP Ariba Is Here, Announcing the 2026 SAP Partner Awards – Global Winners, SAP Distributed Energy Resources Enables the Energy Flexibility Market and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
+    "product": "Community",
+    "updateType": "Deep Dive",
+    "publishedAt": "2026-03-12T21:41:13.667Z",
+    "sourceUrl": "#",
+    "isNew": false,
+    "isWeeklyDigest": true,
+    "tags": [
+      "Weekly Digest",
+      "SAP AI"
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Next‑Gen SAP Ariba Is Here: Building the Foundation for Intelligent Procurement",
+    "summary": "SAP Ariba has launched its next-generation platform, leveraging AI for intelligent procurement. This update aims to transform the source-to-pay process.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-12T12:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/next-gen-sap-ariba-foundation-for-intelligent-procurement/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Announcing the 2026 SAP Partner Awards – Global Winners",
+    "summary": "SAP announces the 2026 Partner Awards, recognizing top-performing partners. Global winners are honored for helping customers achieve their best results.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-12T11:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/announcing-the-2026-sap-partner-awards-global-winners/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "SAP Distributed Energy Resources Enables the Energy Flexibility Market",
+    "summary": "SAP introduces Distributed Energy Resources to unlock energy flexibility market value. This solution requires more than connectivity, it needs data orchestration to succeed.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-11T13:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/sap-distributed-energy-resources-energy-flexibility-market/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Strengthening Customer Experience Across the Lead-to-Cash Journey",
+    "summary": "Companies are integrating customer experience with operational precision across the lead-to-cash journey. This shift matters as it enables businesses to deliver seamless experiences and drive revenue growth.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-10T12:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/sap-cpq-lead-to-cash-journey-strengthening-customer-experience/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": []
+  }
+]
