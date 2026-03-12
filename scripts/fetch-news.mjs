@@ -1,14 +1,16 @@
 /**
  * NeuralPulse — Daily News Fetcher
  *
- * Fetches from real RSS/API sources, optionally summarizes with Claude,
- * and writes to data/articles.json and data/sap-updates.json
+ * Fetches from real RSS/API sources, summarizes with AI, and writes
+ * to data/articles.json and data/sap-updates.json
  *
  * Usage:
  *   node scripts/fetch-news.mjs
  *
- * Env vars (set in GitHub Actions secrets):
- *   ANTHROPIC_API_KEY  — optional, for AI-powered summaries
+ * Env vars (set in GitHub Actions secrets) — first found is used:
+ *   GROQ_API_KEY       — free at console.groq.com  ← recommended
+ *   ANTHROPIC_API_KEY  — paid, claude-haiku-4-5
+ *   (none)             — falls back to raw RSS description
  */
 
 import { writeFileSync, readFileSync, existsSync } from 'fs';
@@ -141,11 +143,39 @@ const imageGradients = [
   'from-sky-900/60 via-sky-800/40 to-surface-950',
 ];
 
-// ─── Optional: Claude AI summaries ───────────────────────────────────────────
+// ─── AI summarization (Groq → Anthropic → raw fallback) ──────────────────────
 
-async function aiSummarize(title, rawDesc) {
+const SUMMARIZE_PROMPT = (title, content) =>
+  `Summarize this AI/tech news in 2 sharp sentences (max 240 chars total). Lead with what's new, end with why it matters. No fluff.\n\nTitle: ${title}\nContent: ${content.slice(0, 800)}`;
+
+async function summarizeWithGroq(title, rawDesc) {
+  const apiKey = process.env.GROQ_API_KEY;
+  if (!apiKey) return null;
+  try {
+    const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        model: 'llama-3.1-8b-instant',   // free, fast, capable
+        max_tokens: 120,
+        temperature: 0.4,
+        messages: [{ role: 'user', content: SUMMARIZE_PROMPT(title, rawDesc) }],
+      }),
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    return data.choices?.[0]?.message?.content?.trim() ?? null;
+  } catch {
+    return null;
+  }
+}
+
+async function summarizeWithAnthropic(title, rawDesc) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey || !rawDesc) return truncate(rawDesc, 280);
+  if (!apiKey) return null;
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -157,18 +187,25 @@ async function aiSummarize(title, rawDesc) {
       body: JSON.stringify({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 120,
-        messages: [{
-          role: 'user',
-          content: `Summarize this AI news article in 1-2 concise sentences (max 200 chars). Focus on what's new and why it matters. No filler phrases.\n\nTitle: ${title}\nContent: ${rawDesc.slice(0, 800)}`,
-        }],
+        messages: [{ role: 'user', content: SUMMARIZE_PROMPT(title, rawDesc) }],
       }),
     });
-    if (!res.ok) return truncate(rawDesc, 280);
+    if (!res.ok) return null;
     const data = await res.json();
-    return data.content?.[0]?.text?.trim() ?? truncate(rawDesc, 280);
+    return data.content?.[0]?.text?.trim() ?? null;
   } catch {
-    return truncate(rawDesc, 280);
+    return null;
   }
+}
+
+async function aiSummarize(title, rawDesc) {
+  if (!rawDesc) return '';
+  // Try providers in priority order
+  const result =
+    (await summarizeWithGroq(title, rawDesc)) ??
+    (await summarizeWithAnthropic(title, rawDesc)) ??
+    truncate(rawDesc, 280);
+  return result;
 }
 
 // ─── Main fetch logic ─────────────────────────────────────────────────────────
