@@ -5,11 +5,13 @@ import { NewsCard } from '@/components/NewsCard';
 import { TrendingTopics } from '@/components/TrendingTopics';
 import { CategoryFilter } from '@/components/CategoryFilter';
 import { SAPCard } from '@/components/SAPCard';
-import { newsArticles, sapUpdates } from '@/lib/mockData';
+import { getArticles, getSAPUpdates } from '@/lib/getData';
 import { ArrowRight, Cpu } from 'lucide-react';
 import Link from 'next/link';
 
 export default function HomePage() {
+  const newsArticles = getArticles();
+  const sapUpdates = getSAPUpdates();
   const featuredArticle = newsArticles.find((a) => a.featured) ?? newsArticles[0];
   const gridArticles = newsArticles.filter((a) => !a.featured).slice(0, 9);
   const latestSAPUpdates = sapUpdates.filter((u) => !u.isWeeklyDigest).slice(0, 3);

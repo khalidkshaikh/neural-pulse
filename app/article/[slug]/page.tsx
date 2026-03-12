@@ -1,4 +1,4 @@
-import { newsArticles } from '@/lib/mockData';
+import { getArticles } from '@/lib/getData';
 import { getCategoryBadgeClass, timeAgo } from '@/lib/utils';
 import { Clock, ArrowLeft, ExternalLink, Share2 } from 'lucide-react';
 import Link from 'next/link';
@@ -9,14 +9,15 @@ interface Props {
 }
 
 export function generateStaticParams() {
-  return newsArticles.map((a) => ({ slug: a.slug }));
+  return getArticles().map((a) => ({ slug: a.slug }));
 }
 
 export default function ArticlePage({ params }: Props) {
-  const article = newsArticles.find((a) => a.slug === params.slug);
+  const articles = getArticles();
+  const article = articles.find((a) => a.slug === params.slug);
   if (!article) notFound();
 
-  const related = newsArticles.filter(
+  const related = articles.filter(
     (a) => a.id !== article.id && a.category === article.category
   ).slice(0, 3);
 

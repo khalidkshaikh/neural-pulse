@@ -33,20 +33,32 @@ export function NewsCard({ article, variant = 'default' }: NewsCardProps) {
   return (
     <Link href={`/article/${article.slug}`} className="block group">
       <article className="glass glass-hover rounded-xl overflow-hidden h-full flex flex-col">
-        {/* Color bar top */}
-        <div className={`h-0.5 bg-gradient-to-r ${getCardAccent(article.category)}`} />
-
-        <div className="p-5 flex flex-col flex-1">
-          {/* Meta row */}
-          <div className="flex items-center justify-between gap-2 mb-3">
+        {/* Image area */}
+        <div className={`relative h-32 bg-gradient-to-br ${article.imageGradient ?? 'from-violet-900/60 via-violet-800/40 to-surface-950'} overflow-hidden flex-shrink-0`}>
+          {/* Grid overlay */}
+          <div className="absolute inset-0 opacity-30"
+            style={{
+              backgroundImage: 'linear-gradient(rgba(255,255,255,0.06) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.06) 1px, transparent 1px)',
+              backgroundSize: '24px 24px',
+            }}
+          />
+          {/* Noise texture overlay */}
+          <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+          {/* Category badge */}
+          <div className="absolute bottom-3 left-3 flex items-center gap-2">
             <span className={`badge ${getCategoryBadgeClass(article.category)}`}>
               {article.category}
             </span>
-            <div className="flex items-center gap-1 text-xs text-slate-600">
-              <Clock className="w-3 h-3" />
+            <div className="flex items-center gap-1 text-[10px] text-slate-400 bg-black/30 rounded px-1.5 py-0.5">
+              <Clock className="w-2.5 h-2.5" />
               {article.readTime}m
             </div>
           </div>
+          {/* Accent line */}
+          <div className={`absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r ${getCardAccent(article.category)}`} />
+        </div>
+
+        <div className="p-5 flex flex-col flex-1">
 
           {/* Title */}
           <h3 className="text-base font-bold text-slate-100 group-hover:text-white leading-snug mb-2.5 line-clamp-3 flex-1 transition-colors duration-200">
