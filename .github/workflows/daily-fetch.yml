@@ -55,7 +55,11 @@ jobs:
           git commit -m "chore: daily news fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
-      # Pushing updated data/  triggers the deploy.yml workflow automatically
+      - name: Trigger GitHub Pages rebuild
+        if: steps.changes.outputs.changed == 'true'
+        run: gh workflow run deploy.yml --repo xdrkzx1/neural-pulse
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Summary
         run: |
