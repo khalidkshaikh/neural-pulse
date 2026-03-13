@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of March 13, 2026",
+    "title": "Weekly SAP AI Digest — Week of March 14, 2026",
     "summary": "This week in SAP AI: Next‑Gen SAP Ariba Is Here, Announcing the 2026 SAP Partner Awards – Global Winners, SAP Distributed Energy Resources Enables the Energy Flexibility Market and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-03-13T18:26:28.493Z",
+    "publishedAt": "2026-03-13T20:53:21.071Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Next‑Gen SAP Ariba Is Here: Building the Foundation for Intelligent Procurement",
-    "summary": "SAP Ariba has launched its next-gen platform, integrating AI capabilities for intelligent procurement. This update aims to streamline and automate procurement processes.",
+    "summary": "SAP has launched the next-gen SAP Ariba, an AI-driven procurement platform. This upgrade aims to revolutionize the source-to-pay process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-12T12:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "SAP Distributed Energy Resources Enables the Energy Flexibility Market",
-    "summary": "SAP Distributed Energy Resources offers data orchestration for utilities to unlock value from distributed energy resources. This enables utilities to manage energy flexibility more effectively.",
+    "summary": "SAP introduces Distributed Energy Resources to facilitate energy flexibility market. \nThis matters because it enables utilities to unlock data orchestration, crucial for harnessing distributed energy resources' value.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-11T13:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Strengthening Customer Experience Across the Lead-to-Cash Journey",
-    "summary": "Companies are prioritizing seamless customer experiences across the entire sales process. This shift matters as it directly impacts customer loyalty and business revenue.",
+    "summary": "Companies are integrating customer experience into the lead-to-cash journey to boost efficiency. This matters because it drives operational precision and customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-10T12:15:00.000Z",
