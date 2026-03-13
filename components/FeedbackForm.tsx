@@ -8,6 +8,7 @@ export function FeedbackForm() {
   const [rating, setRating] = useState(0);
   const [hovered, setHovered] = useState(0);
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
+  const [errorMsg, setErrorMsg] = useState('');
   const [form, setForm] = useState({ name: '', email: '', message: '' });
 
   function handleChange(e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) {
@@ -20,17 +21,19 @@ export function FeedbackForm() {
     setStatus('sending');
 
     try {
+      const payload: Record<string, string> = {
+        access_key: process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? '',
+        subject: `NeuralPulse Feedback — ${rating}/5 stars from ${form.name}`,
+        from_name: form.name || 'Anonymous',
+        message: `Rating: ${rating}/5 stars\n\n${form.message}`,
+      };
+      // Only include email if provided — empty email causes Web3Forms validation error
+      if (form.email) payload.email = form.email;
+
       const res = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          access_key: process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? '',
-          subject: `NeuralPulse Feedback — ${rating}/5 stars from ${form.name}`,
-          from_name: form.name,
-          email: form.email,
-          message: `Rating: ${rating}/5 stars\n\n${form.message}`,
-          botcheck: '',
-        }),
+        body: JSON.stringify(payload),
       });
 
       const data = await res.json();
@@ -43,9 +46,11 @@ export function FeedbackForm() {
           setRating(0);
         }, 2800);
       } else {
+        setErrorMsg(data.message ?? 'Submission failed');
         setStatus('error');
       }
-    } catch {
+    } catch (err) {
+      setErrorMsg(err instanceof Error ? err.message : 'Network error');
       setStatus('error');
     }
   }
@@ -178,9 +183,9 @@ export function FeedbackForm() {
 
                 {/* Error */}
                 {status === 'error' && (
-                  <div className="flex items-center gap-2 text-xs text-rose-400 bg-rose-500/10 border border-rose-500/20 rounded-lg px-3 py-2">
-                    <AlertCircle className="w-3.5 h-3.5 flex-shrink-0" />
-                    Failed to send. Please try again or email directly.
+                  <div className="flex items-start gap-2 text-xs text-rose-400 bg-rose-500/10 border border-rose-500/20 rounded-lg px-3 py-2">
+                    <AlertCircle className="w-3.5 h-3.5 flex-shrink-0 mt-0.5" />
+                    <span>{errorMsg || 'Failed to send. Please try again.'}</span>
                   </div>
                 )}
 
