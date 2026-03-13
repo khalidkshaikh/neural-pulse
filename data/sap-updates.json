@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Next‑Gen SAP Ariba Is Here, Announcing the 2026 SAP Partner Awards – Global Winners, SAP Distributed Energy Resources Enables the Energy Flexibility Market and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-03-13T12:41:59.410Z",
+    "publishedAt": "2026-03-13T12:44:36.700Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Next‑Gen SAP Ariba Is Here: Building the Foundation for Intelligent Procurement",
-    "summary": "SAP Ariba has been revamped with a focus on AI-driven procurement. This upgrade aims to improve efficiency and decision-making in the procurement process.",
+    "summary": "SAP Ariba has launched its next-generation platform, leveraging AI for intelligent procurement. This update aims to revolutionize the source-to-pay process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-12T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Announcing the 2026 SAP Partner Awards – Global Winners",
-    "summary": "SAP has announced its 2026 Partner Awards, recognizing top-performing partners globally. The awards honor partners that have excelled in helping customers achieve their goals.",
+    "summary": "SAP announces the 2026 Partner Awards, recognizing top-performing partners. Global winners are chosen for their excellence in helping customers achieve their goals.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-12T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "SAP Distributed Energy Resources Enables the Energy Flexibility Market",
-    "summary": "SAP introduces Distributed Energy Resources to unlock energy flexibility market value. It requires data orchestration beyond connectivity to achieve this goal.",
+    "summary": "SAP launches Distributed Energy Resources to unlock value in energy flexibility market through data orchestration. This enables utilities to better manage and utilize distributed energy resources.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-11T13:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Strengthening Customer Experience Across the Lead-to-Cash Journey",
-    "summary": "Companies are increasingly linking customer experience to operational efficiency to streamline the lead-to-cash journey. This integration matters as it can lead to improved customer satisfaction and reduced costs.",
+    "summary": "Companies are integrating customer experience and operational precision to improve the lead-to-cash journey. This matters because seamless experiences drive customer loyalty and revenue growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-10T12:15:00.000Z",
