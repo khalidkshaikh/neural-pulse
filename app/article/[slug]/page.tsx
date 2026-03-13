@@ -1,8 +1,11 @@
 import { getArticles } from '@/lib/getData';
 import { getCategoryBadgeClass, timeAgo } from '@/lib/utils';
-import { Clock, ArrowLeft, ExternalLink, Share2 } from 'lucide-react';
+import { Clock, ArrowLeft, ExternalLink } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { ArticleCover } from '@/components/ArticleCover';
+import { ShareButton } from '@/components/ShareButton';
+import { ReadingProgress } from '@/components/ReadingProgress';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -18,12 +21,14 @@ export default async function ArticlePage({ params }: Props) {
   const article = articles.find((a) => a.slug === slug);
   if (!article) notFound();
 
-  const related = articles.filter(
-    (a) => a.id !== article.id && a.category === article.category
-  ).slice(0, 3);
+  const related = articles
+    .filter((a) => a.id !== article.id && a.category === article.category)
+    .slice(0, 3);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 py-12 pb-16">
+      <ReadingProgress />
+
       <div className="grid lg:grid-cols-[1fr_320px] gap-12">
         {/* Article */}
         <div>
@@ -36,18 +41,25 @@ export default async function ArticlePage({ params }: Props) {
             Back to Daily AI
           </Link>
 
-          {/* Header */}
-          <div className="mb-8">
-            <div className="flex items-center gap-2 mb-4">
+          {/* Hero cover */}
+          <div className="relative w-full h-52 sm:h-72 rounded-2xl overflow-hidden mb-8">
+            <ArticleCover category={article.category} slug={article.slug} />
+            {/* Extra dark gradient so text below isn't competing */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+            {/* Category + read time chip */}
+            <div className="absolute bottom-5 left-5 flex items-center gap-2">
               <span className={`badge ${getCategoryBadgeClass(article.category)}`}>
                 {article.category}
               </span>
-              <div className="flex items-center gap-1 text-xs text-slate-600">
+              <div className="flex items-center gap-1 text-xs text-slate-300 bg-black/40 backdrop-blur-sm rounded px-2 py-0.5">
                 <Clock className="w-3 h-3" />
                 {article.readTime} min read
               </div>
             </div>
+          </div>
 
+          {/* Header */}
+          <div className="mb-8">
             <h1 className="text-3xl sm:text-4xl font-black text-white leading-tight mb-4">
               {article.title}
             </h1>
@@ -69,28 +81,29 @@ export default async function ArticlePage({ params }: Props) {
               <div className="flex gap-2">
                 <a
                   href={article.sourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-xs text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all"
                 >
                   <ExternalLink className="w-3.5 h-3.5" />
                   Source
                 </a>
-                <button className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-xs text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all">
-                  <Share2 className="w-3.5 h-3.5" />
-                  Share
-                </button>
+                <ShareButton title={article.title} />
               </div>
             </div>
           </div>
 
-          {/* Article body placeholder */}
+          {/* Article body */}
           <div className="prose prose-invert prose-sm max-w-none">
             <div className="space-y-5 text-slate-300 leading-relaxed">
               <p>
-                {article.summary} This story continues to develop as more details emerge from the original sources.
+                {article.summary} This story continues to develop as more details emerge from the
+                original sources.
               </p>
               <p>
-                The implications of this development extend across the AI industry. Practitioners and organizations watching
-                this space closely will want to evaluate how this fits into their existing workflows and toolchains.
+                The implications of this development extend across the AI industry. Practitioners
+                and organizations watching this space closely will want to evaluate how this fits
+                into their existing workflows and toolchains.
               </p>
               <div className="glass rounded-xl p-5 border border-white/[0.07] my-6">
                 <h3 className="text-base font-bold text-white mb-3">Key Takeaways</h3>
@@ -104,8 +117,9 @@ export default async function ArticlePage({ params }: Props) {
                 </ul>
               </div>
               <p>
-                This article was automatically generated from aggregated sources by the NeuralPulse AI pipeline.
-                Content is synthesized and reformulated — always refer to the original source for full details.
+                This article was automatically generated from aggregated sources by the NeuralPulse
+                AI pipeline. Content is synthesized and reformulated — always refer to the original
+                source for full details.
               </p>
             </div>
           </div>
@@ -115,7 +129,10 @@ export default async function ArticlePage({ params }: Props) {
             <p className="text-xs text-slate-600 mb-3 font-semibold uppercase tracking-wide">Tags</p>
             <div className="flex flex-wrap gap-2">
               {article.tags.map((tag) => (
-                <span key={tag} className="px-3 py-1 rounded-lg text-xs font-medium bg-white/5 border border-white/10 text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all cursor-pointer">
+                <span
+                  key={tag}
+                  className="px-3 py-1 rounded-lg text-xs font-medium bg-white/5 border border-white/10 text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all cursor-pointer"
+                >
                   {tag}
                 </span>
               ))}
@@ -125,7 +142,6 @@ export default async function ArticlePage({ params }: Props) {
 
         {/* Sidebar */}
         <div className="space-y-6">
-          {/* Related */}
           {related.length > 0 && (
             <div className="glass rounded-xl p-5 border border-white/[0.07]">
               <div className="flex items-center gap-2 mb-4">
@@ -154,11 +170,11 @@ export default async function ArticlePage({ params }: Props) {
             </div>
           )}
 
-          {/* AI disclaimer */}
           <div className="rounded-xl p-4 bg-amber-500/5 border border-amber-500/15">
             <p className="text-xs text-amber-300/80 leading-relaxed">
-              <strong className="text-amber-300">AI-generated content.</strong> This article was synthesized automatically
-              from multiple sources. Always verify claims with primary sources before acting on this information.
+              <strong className="text-amber-300">AI-generated content.</strong> This article was
+              synthesized automatically from multiple sources. Always verify claims with primary
+              sources before acting on this information.
             </p>
           </div>
         </div>

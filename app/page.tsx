@@ -3,6 +3,7 @@ import { LiveTicker } from '@/components/LiveTicker';
 import { FeaturedArticle } from '@/components/FeaturedArticle';
 import { ArticleGrid } from '@/components/ArticleGrid';
 import { TrendingTopics } from '@/components/TrendingTopics';
+import { AISummaryWidget } from '@/components/AISummaryWidget';
 import { CategoryFilter } from '@/components/CategoryFilter';
 import { SAPCard } from '@/components/SAPCard';
 import { getArticles, getSAPUpdates } from '@/lib/getData';
@@ -52,6 +53,7 @@ export default function HomePage() {
 
           {/* Sidebar */}
           <div className="space-y-6">
+            <AISummaryWidget />
             <TrendingTopics />
 
             {/* SAP AI preview */}

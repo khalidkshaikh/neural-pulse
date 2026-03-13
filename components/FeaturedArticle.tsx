@@ -1,18 +1,8 @@
 import Link from 'next/link';
-import { Clock, ExternalLink, ArrowRight } from 'lucide-react';
+import { Clock, ArrowRight } from 'lucide-react';
 import type { NewsArticle } from '@/lib/types';
 import { getCategoryBadgeClass, timeAgo } from '@/lib/utils';
-
-const FEATURED_GRADIENTS = [
-  'from-violet-900 via-purple-900 to-slate-900',
-  'from-cyan-900 via-blue-900 to-slate-900',
-  'from-emerald-900 via-teal-900 to-slate-900',
-  'from-rose-900 via-pink-900 to-slate-900',
-  'from-orange-900 via-amber-900 to-slate-900',
-  'from-indigo-900 via-violet-900 to-slate-900',
-  'from-sky-900 via-cyan-900 to-slate-900',
-  'from-blue-900 via-indigo-900 to-slate-900',
-];
+import { ArticleCover } from './ArticleCover';
 
 interface FeaturedArticleProps {
   article: NewsArticle;
@@ -21,18 +11,20 @@ interface FeaturedArticleProps {
 export function FeaturedArticle({ article }: FeaturedArticleProps) {
   return (
     <div className="relative rounded-2xl overflow-hidden glass border border-white/[0.07] group cursor-pointer">
-      {/* Background gradient */}
-      <div className={`absolute inset-0 bg-gradient-to-br ${FEATURED_GRADIENTS[parseInt(article.id, 10) % FEATURED_GRADIENTS.length] ?? 'from-violet-900 to-slate-900'}`} />
+      {/* Branded cover art */}
+      <ArticleCover category={article.category} slug={article.slug} />
 
-      {/* Decorative grid lines */}
-      <div className="absolute inset-0 opacity-20"
+      {/* Decorative grid lines on top */}
+      <div
+        className="absolute inset-0 opacity-20"
         style={{
-          backgroundImage: 'linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px)',
+          backgroundImage:
+            'linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px)',
           backgroundSize: '32px 32px',
         }}
       />
 
-      {/* Glow on hover */}
+      {/* Hover glow */}
       <div className="absolute inset-0 bg-gradient-to-t from-violet-600/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 
       <div className="relative p-8 sm:p-10 min-h-[320px] flex flex-col justify-between">
@@ -46,7 +38,7 @@ export function FeaturedArticle({ article }: FeaturedArticleProps) {
               FEATURED
             </span>
           </div>
-          <div className="flex items-center gap-1.5 text-xs text-slate-500">
+          <div className="flex items-center gap-1.5 text-xs text-slate-400">
             <Clock className="w-3.5 h-3.5" />
             {article.readTime} min read
           </div>
@@ -57,15 +49,14 @@ export function FeaturedArticle({ article }: FeaturedArticleProps) {
           <h2 className="text-2xl sm:text-3xl font-bold text-white leading-tight mb-3 group-hover:text-violet-100 transition-colors duration-200">
             {article.title}
           </h2>
-          <p className="text-slate-400 text-base leading-relaxed mb-6 max-w-3xl">
+          <p className="text-slate-300 text-base leading-relaxed mb-6 max-w-3xl">
             {article.summary}
           </p>
 
-          {/* Footer */}
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <div className="flex items-center gap-1.5 text-xs text-slate-500">
-                <span className="font-medium text-slate-400">{article.source}</span>
+              <div className="flex items-center gap-1.5 text-xs text-slate-400">
+                <span className="font-medium text-slate-300">{article.source}</span>
                 <span>·</span>
                 <span>{timeAgo(article.publishedAt)}</span>
               </div>

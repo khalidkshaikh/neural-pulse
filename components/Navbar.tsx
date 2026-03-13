@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Cpu, Zap } from 'lucide-react';
+import { ThemeToggle } from './ThemeToggle';
 
 const navLinks = [
   { href: '/', label: 'Daily AI' },
@@ -21,7 +22,7 @@ export function Navbar() {
   });
 
   return (
-    <header className="sticky top-0 z-50 glass border-b border-white/[0.06]">
+    <header className="sticky top-0 z-50 glass border-b border-black/[0.06] dark:border-white/[0.06]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 h-[60px] flex items-center justify-between gap-6">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2.5 flex-shrink-0 group">
@@ -30,7 +31,7 @@ export function Navbar() {
             <div className="absolute inset-0 rounded-lg bg-gradient-to-br from-violet-600/50 to-cyan-500/50 blur-md -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
           </div>
           <span className="font-bold text-base tracking-tight">
-            <span className="text-white">Neural</span>
+            <span className="text-slate-900 dark:text-white">Neural</span>
             <span className="gradient-text">Pulse</span>
           </span>
         </Link>
@@ -45,8 +46,8 @@ export function Navbar() {
                 href={link.href}
                 className={`relative px-3.5 py-1.5 rounded-md text-sm font-medium transition-all duration-200 ${
                   isActive
-                    ? 'text-violet-300 bg-violet-500/10'
-                    : 'text-slate-400 hover:text-slate-200 hover:bg-white/5'
+                    ? 'text-violet-600 dark:text-violet-300 bg-violet-500/10'
+                    : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 hover:bg-black/5 dark:hover:bg-white/5'
                 }`}
               >
                 {link.label}
@@ -59,17 +60,21 @@ export function Navbar() {
         </nav>
 
         {/* Right side */}
-        <div className="flex items-center gap-3 flex-shrink-0">
+        <div className="flex items-center gap-2.5 flex-shrink-0">
           {/* Live indicator */}
-          <div className="hidden sm:flex items-center gap-2 px-2.5 py-1 rounded-full bg-white/[0.04] border border-white/[0.07]">
+          <div className="hidden sm:flex items-center gap-2 px-2.5 py-1 rounded-full bg-black/[0.04] dark:bg-white/[0.04] border border-black/[0.07] dark:border-white/[0.07]">
             <span className="live-dot" />
-            <span className="text-xs font-medium text-slate-400">Live</span>
+            <span className="text-xs font-medium text-slate-600 dark:text-slate-400">Live</span>
           </div>
+
           {/* Date */}
-          <div className="hidden lg:flex items-center gap-1.5 text-xs text-slate-500 font-medium">
+          <div className="hidden lg:flex items-center gap-1.5 text-xs text-slate-500 dark:text-slate-500 font-medium">
             <Zap className="w-3 h-3 text-violet-400" />
             {today}
           </div>
+
+          {/* Theme toggle */}
+          <ThemeToggle />
         </div>
       </div>
     </header>

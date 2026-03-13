@@ -2,6 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
+import { ChatbotWrapper } from '@/components/ChatbotWrapper';
+import { BackToTop } from '@/components/BackToTop';
 
 export const metadata: Metadata = {
   title: 'NeuralPulse — AI & SAP AI Intelligence Platform',
@@ -15,10 +17,18 @@ export const metadata: Metadata = {
   },
 };
 
+/**
+ * Runs before first paint — reads localStorage and sets the correct theme
+ * class on <html> with zero flash. Defaults to dark.
+ */
+const themeScript = `(function(){try{var t=localStorage.getItem('np-theme');if(t==='light'){document.documentElement.classList.remove('dark')}else{document.documentElement.classList.add('dark')}}catch(e){document.documentElement.classList.add('dark')}})()`;
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className="dark">
+    <html lang="en" className="dark" suppressHydrationWarning>
       <head>
+        {/* Anti-FOUC: applies theme class before first paint */}
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
@@ -26,7 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
       </head>
-      <body className="bg-surface-950 text-slate-200 min-h-screen flex flex-col">
+      <body className="bg-surface-950 text-slate-200 min-h-screen flex flex-col" suppressHydrationWarning>
         {/* Aurora background */}
         <div className="aurora-bg">
           <div className="aurora-blob aurora-blob-1" />
@@ -41,6 +51,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {children}
         </main>
         <Footer />
+        <ChatbotWrapper />
+        <BackToTop />
       </body>
     </html>
   );

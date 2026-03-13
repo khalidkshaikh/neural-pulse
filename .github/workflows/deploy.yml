@@ -22,12 +22,14 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - run: npm ci
 
       - name: Build static export
+        env:
+          NEXT_PUBLIC_GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: npm run build
 
       - name: Upload Pages artifact

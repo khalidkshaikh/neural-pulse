@@ -48,10 +48,25 @@ const SAP_SOURCES = [
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
+function decodeEntities(str) {
+  return str
+    // Named entities first
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    // Decimal numeric entities  &#8217; → '
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(parseInt(code, 10)))
+    // Hex numeric entities  &#x2019; → '
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, code) => String.fromCodePoint(parseInt(code, 16)));
+}
+
 function extractTag(xml, tag) {
   const match = xml.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>`, 'i'))
     || xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, 'i'));
-  return match ? match[1].trim().replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'") : '';
+  return match ? decodeEntities(match[1].trim().replace(/<[^>]+>/g, '')) : '';
 }
 
 function extractItems(feedXml) {

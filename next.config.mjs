@@ -1,9 +1,11 @@
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production';
+
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  basePath: '/neural-pulse',        // GitHub Pages serves from /neural-pulse/
-  assetPrefix: '/neural-pulse/',    // prefix all _next/static/ asset URLs
+  basePath: isProd ? '/neural-pulse' : '',
+  assetPrefix: isProd ? '/neural-pulse/' : '',
   images: {
     unoptimized: true,
   },

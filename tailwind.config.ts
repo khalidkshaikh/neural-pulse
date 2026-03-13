@@ -1,6 +1,7 @@
 import type { Config } from 'tailwindcss';
 
 const config: Config = {
+  darkMode: 'class',
   content: [
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
     './components/**/*.{js,ts,jsx,tsx,mdx}',
@@ -28,13 +29,13 @@ const config: Config = {
           'indigo-light': '#818cf8',
         },
         surface: {
-          950: '#020817',
-          900: '#0a0f1e',
-          800: '#0d1117',
-          700: '#131a26',
-          600: '#1a2235',
-          500: '#1e293b',
-          400: '#263148',
+          950: 'rgb(var(--c-950) / <alpha-value>)',
+          900: 'rgb(var(--c-900) / <alpha-value>)',
+          800: 'rgb(var(--c-800) / <alpha-value>)',
+          700: 'rgb(var(--c-700) / <alpha-value>)',
+          600: 'rgb(var(--c-600) / <alpha-value>)',
+          500: 'rgb(var(--c-500) / <alpha-value>)',
+          400: 'rgb(var(--c-400) / <alpha-value>)',
         },
       },
       animation: {

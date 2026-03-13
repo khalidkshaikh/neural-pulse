@@ -8,13 +8,24 @@ on:
   # Also allow manual trigger from GitHub Actions UI
   workflow_dispatch:
 
+# Required for GitHub Pages deployment
+permissions:
+  contents: write  # commit updated data files
+  pages: write     # deploy to GitHub Pages
+  id-token: write  # OIDC token for Pages
+
+# Only one deployment at a time
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   fetch-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-
-    permissions:
-      contents: write  # needed to commit updated data files
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repo
@@ -22,10 +33,10 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Set up Node.js 20
+      - name: Set up Node.js 22
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
 
       - name: Install dependencies
@@ -55,15 +66,31 @@ jobs:
           git commit -m "chore: daily news fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
-      - name: Trigger GitHub Pages rebuild
+      # Build & deploy only when articles actually changed
+      - name: Build static export
         if: steps.changes.outputs.changed == 'true'
-        run: gh workflow run deploy.yml --repo xdrkzx1/neural-pulse
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NEXT_PUBLIC_GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: npm run build
+
+      - name: Upload Pages artifact
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+      - name: Deploy to GitHub Pages
+        if: steps.changes.outputs.changed == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Summary
         run: |
-          echo "### Fetch complete" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.changes.outputs.changed }}" == "true" ]; then
+            echo "### ✅ Fetch + Deploy complete" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### ℹ️ No new articles — skipped deployment" >> $GITHUB_STEP_SUMMARY
+          fi
           echo "- Articles: $(cat data/articles.json | python3 -c 'import json,sys; d=json.load(sys.stdin); print(len(d))')" >> $GITHUB_STEP_SUMMARY
           echo "- SAP updates: $(cat data/sap-updates.json | python3 -c 'import json,sys; d=json.load(sys.stdin); print(len(d))')" >> $GITHUB_STEP_SUMMARY
           echo "- Timestamp: $(date -u)" >> $GITHUB_STEP_SUMMARY
