@@ -4,6 +4,7 @@ import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
 import { ChatbotWrapper } from '@/components/ChatbotWrapper';
 import { BackToTop } from '@/components/BackToTop';
+import { FeedbackForm } from '@/components/FeedbackForm';
 
 export const metadata: Metadata = {
   title: 'NeuralPulse — AI & SAP AI Intelligence Platform',
@@ -53,6 +54,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Footer />
         <ChatbotWrapper />
         <BackToTop />
+        <FeedbackForm />
       </body>
     </html>
   );

@@ -7,6 +7,7 @@ import { AISummaryWidget } from '@/components/AISummaryWidget';
 import { CategoryFilter } from '@/components/CategoryFilter';
 import { SAPCard } from '@/components/SAPCard';
 import { getArticles, getSAPUpdates } from '@/lib/getData';
+import { timeAgo } from '@/lib/utils';
 import { ArrowRight, Cpu } from 'lucide-react';
 import Link from 'next/link';
 
@@ -22,7 +23,7 @@ export default function HomePage() {
       <Hero
         articlesToday={newsArticles.length}
         sourcesMonitored={87}
-        lastUpdated="2 min ago"
+        lastUpdated={timeAgo(featuredArticle.publishedAt)}
       />
 
       <LiveTicker />
