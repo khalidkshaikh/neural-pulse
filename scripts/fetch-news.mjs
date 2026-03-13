@@ -20,6 +20,26 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
 
+// ─── Auto-load .env.local for local development ───────────────────────────────
+// In GitHub Actions, secrets are real env vars — this block is a no-op there.
+try {
+  const envPath = resolve(ROOT, '.env.local');
+  if (existsSync(envPath)) {
+    for (const line of readFileSync(envPath, 'utf-8').split('\n')) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const eqIdx = trimmed.indexOf('=');
+      if (eqIdx < 1) continue;
+      const key = trimmed.slice(0, eqIdx).trim();
+      const val = trimmed.slice(eqIdx + 1).trim().replace(/^["']|["']$/g, '');
+      if (!process.env[key]) process.env[key] = val;
+      // Map NEXT_PUBLIC_ prefix → bare name for server-side use
+      if (key === 'NEXT_PUBLIC_GROQ_API_KEY'     && !process.env.GROQ_API_KEY)      process.env.GROQ_API_KEY = val;
+      if (key === 'NEXT_PUBLIC_ANTHROPIC_API_KEY' && !process.env.ANTHROPIC_API_KEY) process.env.ANTHROPIC_API_KEY = val;
+    }
+  }
+} catch { /* silently skip — env vars already provided */ }
+
 // ─── RSS Sources ─────────────────────────────────────────────────────────────
 
 const AI_SOURCES = [
