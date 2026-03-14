@@ -1,9 +1,10 @@
 name: Daily AI News Fetch
 
 on:
-  # Run every day at 7:00 AM UTC (3am ET / midnight PT)
+  # Run twice a day — 7:00 AM UTC (morning) and 7:00 PM UTC (evening)
   schedule:
     - cron: '0 7 * * *'
+    - cron: '0 19 * * *'
 
   # Also allow manual trigger from GitHub Actions UI
   workflow_dispatch:
@@ -18,6 +19,10 @@ permissions:
 concurrency:
   group: pages
   cancel-in-progress: true
+
+# Fix Node.js 20 deprecation warning on GitHub Actions runners
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   fetch-and-deploy:
@@ -63,7 +68,7 @@ jobs:
           git config --local user.name  "NeuralPulse Bot"
           git config --local user.email "bot@neuralpulse.app"
           git add data/
-          git commit -m "chore: daily news fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "chore: auto fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
       # Build & deploy only when articles actually changed
