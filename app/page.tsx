@@ -10,6 +10,7 @@ import { getArticles, getSAPUpdates } from '@/lib/getData';
 import { timeAgo } from '@/lib/utils';
 import { ArrowRight, Cpu } from 'lucide-react';
 import Link from 'next/link';
+import { NewsletterCTA } from '@/components/NewsletterCTA';
 
 export default function HomePage() {
   const newsArticles = getArticles();
@@ -83,33 +84,6 @@ export default function HomePage() {
             {/* Newsletter */}
             <NewsletterCTA />
           </div>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-function NewsletterCTA() {
-  return (
-    <div className="relative rounded-xl overflow-hidden glass border border-violet-500/20">
-      <div className="absolute inset-0 bg-gradient-to-br from-violet-900/30 to-transparent" />
-      <div className="relative p-5">
-        <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-violet-600 to-cyan-500 flex items-center justify-center mb-3">
-          <svg className="w-4 h-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-          </svg>
-        </div>
-        <h4 className="text-sm font-bold text-white mb-1">Daily AI Digest</h4>
-        <p className="text-xs text-slate-400 mb-4">Get the top AI stories delivered to your inbox every morning.</p>
-        <div className="flex gap-2">
-          <input
-            type="email"
-            placeholder="your@email.com"
-            className="flex-1 min-w-0 px-3 py-2 rounded-lg bg-white/5 border border-white/10 text-xs text-slate-200 placeholder-slate-600 focus:outline-none focus:border-violet-500/50 focus:bg-white/8 transition-all"
-          />
-          <button className="px-3 py-2 rounded-lg bg-violet-600 hover:bg-violet-500 text-white text-xs font-semibold transition-colors flex-shrink-0">
-            Join
-          </button>
         </div>
       </div>
     </div>
