@@ -245,8 +245,13 @@ async function aiSummarize(title, rawDesc) {
 
 // ─── Main fetch logic ─────────────────────────────────────────────────────────
 
+const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
+const cutoff = new Date(Date.now() - THIRTY_DAYS_MS);
+
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
 async function fetchAINews() {
-  console.log('🔍 Fetching AI news from', AI_SOURCES.length, 'sources...');
+  console.log('🔍 Fetching AI news from', AI_SOURCES.length, 'sources (last 30 days)...');
   const articles = [];
   let idx = 0;
 
@@ -255,9 +260,18 @@ async function fetchAINews() {
     const xml = await fetchFeed(source.url);
     if (!xml) { console.log('    ✗ failed'); continue; }
 
-    const items = extractItems(xml).slice(0, 5); // top 5 per source
+    // Fetch up to 15 items per source, filter to last 30 days
+    const items = extractItems(xml)
+      .slice(0, 15)
+      .filter(item => {
+        if (!item.pubDate) return true; // keep if no date
+        const d = new Date(item.pubDate);
+        return !isNaN(d.getTime()) && d >= cutoff;
+      });
+
     for (const item of items) {
       const summary = await aiSummarize(item.title, item.desc);
+      await sleep(80); // avoid Groq rate limit (30 req/min free tier)
       const category = guessCategory(item.title, item.desc, source.category);
       articles.push({
         id: String(++idx),
@@ -294,9 +308,17 @@ async function fetchSAPNews() {
     const xml = await fetchFeed(source.url);
     if (!xml) { console.log('    ✗ failed'); continue; }
 
-    const items = extractItems(xml).slice(0, 4);
+    const items = extractItems(xml)
+      .slice(0, 10)
+      .filter(item => {
+        if (!item.pubDate) return true;
+        const d = new Date(item.pubDate);
+        return !isNaN(d.getTime()) && d >= cutoff;
+      });
+
     for (const item of items) {
       const summary = await aiSummarize(item.title, item.desc);
+      await sleep(80);
       const product = guessSAPProduct(item.title, item.desc) ?? source.product;
       updates.push({
         id: String(++idx),

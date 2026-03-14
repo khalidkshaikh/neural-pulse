@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "slug": "not-built-right-the-first-time-musks-xai-is-starting-over-again-again-11",
+    "slug": "not-built-right-the-first-time-musks-xai-is-starting-over-again-again-31",
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-    "summary": "Musk's xAI is restarting its AI coding tool project for the second time. The lab is bringing in new executives from Cursor to revamp the effort.",
+    "summary": "Musk's xAI is revamping its AI coding tool project, with two new executives from Cursor joining the effort. This marks the second restart of the project, which was initially deemed \"not built right the first time.\"",
     "category": "Tool Launch",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
@@ -11,13 +11,13 @@
     "readTime": 2,
     "tags": [],
     "featured": true,
-    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
   },
   {
     "id": "2",
-    "slug": "lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks-12",
+    "slug": "lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks-32",
     "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "summary": "Lawyer warns AI chatbots are being linked to mass casualty cases, outpacing safety measures. This matters because it highlights the urgent need for stricter regulations to prevent AI-related harm.",
+    "summary": "Lawyer claims AI chatbots are appearing in mass casualty cases, outpacing safeguards. This matters because it highlights the urgent need for stricter regulations on AI development.",
     "category": "Industry",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
@@ -25,13 +25,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
   },
   {
     "id": "3",
-    "slug": "nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missin-13",
+    "slug": "nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missin-33",
     "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-    "summary": "Nyne, a data infrastructure startup, raised $5.3 million in seed funding to improve AI agents with human context. This funding will help Nyne develop more effective AI solutions that better understand human behavior and needs.",
+    "summary": "Nyne, a data infrastructure startup, raised $5.3 million in seed funding. This funding will support the development of AI agents that incorporate human context.",
     "category": "Tool Launch",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
@@ -41,11 +41,11 @@
       "Agent"
     ],
     "featured": false,
-    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
   },
   {
     "id": "4",
-    "slug": "beyond-semantic-similarity-introducing-nvidia-nemo-retrievers-generalizable-agen-6",
+    "slug": "beyond-semantic-similarity-introducing-nvidia-nemo-retrievers-generalizable-agen-16",
     "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
     "summary": "",
     "category": "Open Source",
@@ -57,13 +57,13 @@
       "Agent"
     ],
     "featured": false,
-    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
   },
   {
     "id": "5",
-    "slug": "steven-spielberg-says-hes-never-used-ai-in-any-of-his-films-14",
+    "slug": "steven-spielberg-says-hes-never-used-ai-in-any-of-his-films-34",
     "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
-    "summary": "Steven Spielberg claims to have never used AI in his film productions. This stance highlights the ongoing debate about AI's role in creative industries.",
+    "summary": "Steven Spielberg claims he's never used AI in his films, emphasizing human creativity in writing. This stance matters as it highlights the ongoing debate about AI's role in artistic industries.",
     "category": "Industry",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
@@ -71,13 +71,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
   },
   {
     "id": "6",
-    "slug": "the-biggest-ai-stories-of-the-year-so-far-15",
+    "slug": "the-biggest-ai-stories-of-the-year-so-far-35",
     "title": "The biggest AI stories of the year (so far)",
-    "summary": "New developments include major AI acquisitions and indie successes, as well as public outcry over contract negotiations. This matters as it highlights the rapidly evolving AI landscape and its growing impact on industries and society.",
+    "summary": "Major AI acquisitions and indie developer successes have dominated the industry so far this year. This matters because it reflects the rapid growth and increasing stakes of the AI sector.",
     "category": "Industry",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
@@ -85,13 +85,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
   },
   {
     "id": "7",
-    "slug": "the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker-13",
+    "slug": "the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker-36",
     "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
-    "summary": "Gavriel Cohen's open-source project NanoClaw secured a partnership with Docker in just six weeks. This rapid success matters because it highlights the potential for rapid innovation and collaboration in the open-source community.",
+    "summary": "Gavriel Cohen's NanoClaw project secured a partnership with Docker in just six weeks. This rapid success highlights the power of open-source innovation.",
     "category": "Open Source",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
@@ -99,13 +99,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
   },
   {
     "id": "8",
-    "slug": "why-care-about-prompt-caching-in-llms-31",
+    "slug": "why-care-about-prompt-caching-in-llms-71",
     "title": "Why Care About Prompt Caching in LLMs?",
-    "summary": "Prompt caching in LLMs is a technique that stores frequently-used prompts to reduce call latency and costs. It matters because it optimizes the efficiency of large language model interactions.",
+    "summary": "Researchers explore prompt caching in Large Language Models (LLMs) to reduce cost and latency. Prompt caching stores frequently used prompts to speed up LLM calls.",
     "category": "Research",
     "source": "Towards Data Science",
     "sourceUrl": "https://towardsdatascience.com/why-care-about-promp-caching-in-llms/",
@@ -117,9 +117,9 @@
   },
   {
     "id": "9",
-    "slug": "spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations-14",
+    "slug": "spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations-37",
     "title": "Spotify will let you edit your Taste Profile to control your recommendations",
-    "summary": "Spotify introduces edit feature for Taste Profile, allowing users to control personalized playlists and recommendations. This update empowers users to refine their music experience by adjusting their profile.",
+    "summary": "Spotify is introducing the ability to edit users' Taste Profiles, influencing personalized playlists and recommendations. This update matters as it gives users more control over their listening experience and curated content.",
     "category": "Industry",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
@@ -127,13 +127,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
   },
   {
     "id": "10",
-    "slug": "how-vision-language-models-are-trained-from-scratch-32",
+    "slug": "how-vision-language-models-are-trained-from-scratch-72",
     "title": "How Vision Language Models Are Trained from “Scratch”",
-    "summary": "Researchers are fine-tuning text-only language models to process images by feeding them paired text-image data. This enables models to understand visual content, bridging the gap between text and vision.",
+    "summary": "A deep dive into exactly how text-only language models are finetuned to *see* images\nThe post How Vision Language Models Are Trained from “Scratch” appeared first on Towards Data Science.",
     "category": "Research",
     "source": "Towards Data Science",
     "sourceUrl": "https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/",
@@ -145,9 +145,9 @@
   },
   {
     "id": "11",
-    "slug": "the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade-15",
+    "slug": "the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade-38",
     "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
-    "summary": "Google acquires cybersecurity startup Wiz for $32 billion, a record-breaking deal. This matters as it highlights the growing importance of cybersecurity in the AI and cloud era.",
+    "summary": "Google acquires cybersecurity startup Wiz for $32 billion, the largest venture-backed deal in history. This massive acquisition matters as it highlights the growing importance of cybersecurity in the AI and cloud-driven tech landscape.",
     "category": "Tool Launch",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
@@ -157,13 +157,13 @@
       "Google"
     ],
     "featured": false,
-    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
   },
   {
     "id": "12",
-    "slug": "why-physical-ai-is-becoming-manufacturings-next-advantage-16",
+    "slug": "why-physical-ai-is-becoming-manufacturings-next-advantage-46",
     "title": "Why physical AI is becoming manufacturing’s next advantage",
-    "summary": "Manufacturers are shifting from automation to \"physical AI,\" which combines robotics, sensors, and AI to enhance production processes. This approach matters because it enables companies to innovate faster, improve quality, and address labor constraints amidst rising complexity.",
+    "summary": "Manufacturers are shifting from automation to physical AI, which combines robotics and AI to enhance production. This matters because it addresses labor constraints, complexity, and innovation pressure, driving growth and competitiveness.",
     "category": "Research",
     "source": "MIT Tech Review AI",
     "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
@@ -171,13 +171,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
   },
   {
     "id": "13",
-    "slug": "personalized-restaurant-ranking-with-a-two-tower-embedding-variant-33",
+    "slug": "personalized-restaurant-ranking-with-a-two-tower-embedding-variant-73",
     "title": "Personalized Restaurant Ranking with a Two-Tower Embedding Variant",
-    "summary": "Researchers developed a lightweight two-tower model to improve restaurant discovery, outperforming popularity-based rankings. This model matters because it provides more accurate and personalized recommendations for users.",
+    "summary": "How a lightweight two-tower model improved restaurant discovery when popularity ranking failed\nThe post Personalized Restaurant Ranking with a Two-Tower Embedding Variant appeared first on Towards Data Science.",
     "category": "Research",
     "source": "Towards Data Science",
     "sourceUrl": "https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/",
@@ -189,9 +189,9 @@
   },
   {
     "id": "14",
-    "slug": "peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming-14",
+    "slug": "peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming-39",
     "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-    "summary": "Peacock expands into AI-driven video features and mobile-first live sports and gaming. This move aims to boost growth through innovative, engaging content.",
+    "summary": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
     "category": "Industry",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
@@ -199,13 +199,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
   },
   {
     "id": "15",
-    "slug": "a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers-34",
+    "slug": "a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers-74",
     "title": "A Tale of Two Variances: Why NumPy and Pandas Give Different Answers",
-    "summary": "NumPy and Pandas yield different variance calculations due to handling of NaN (not a number) values. This discrepancy matters because it highlights potential inconsistencies in data analysis results.",
+    "summary": "Imagine you are analyzing a small dataset: You want to calculate some summary statistics to get an idea of the distribution of this data, so you use numpy to calculate the mean and variance. Your output Looks like this: Great! Now you have an idea of the distribution of your…",
     "category": "Research",
     "source": "Towards Data Science",
     "sourceUrl": "https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/",
@@ -217,9 +217,9 @@
   },
   {
     "id": "16",
-    "slug": "how-to-build-agentic-rag-with-hybrid-search-35",
+    "slug": "how-to-build-agentic-rag-with-hybrid-search-75",
     "title": "How to Build Agentic RAG with Hybrid Search",
-    "summary": "Researchers now outline a method to build agentic RAG systems with hybrid search capabilities. This development enables more efficient and effective retrieval of relevant information.",
+    "summary": "Learn how to build a powerful agentic RAG system\nThe post How to Build Agentic RAG with Hybrid Search appeared first on Towards Data Science.",
     "category": "Research",
     "source": "Towards Data Science",
     "sourceUrl": "https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/",
@@ -234,9 +234,9 @@
   },
   {
     "id": "17",
-    "slug": "before-quantum-computing-arrives-this-startup-wants-enterprises-already-running--15",
+    "slug": "before-quantum-computing-arrives-this-startup-wants-enterprises-already-running--40",
     "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-    "summary": "Peter Sarlin launches Qutwo, a startup building infrastructure for enterprises to run on quantum computing. This infrastructure will be ready when quantum computing becomes mainstream, giving companies a head start.",
+    "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
     "category": "Tool Launch",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
@@ -244,13 +244,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
   },
   {
     "id": "18",
-    "slug": "truecaller-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family-12",
+    "slug": "truecaller-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family-41",
     "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
-    "summary": "Truecaller launched a feature allowing one family member to end scam calls on behalf of others. This feature enables real-time fraud call alerts and remote call termination.",
+    "summary": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed.",
     "category": "Model Release",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
@@ -258,7 +258,7 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
   },
   {
     "id": "19",
@@ -364,9 +364,9 @@
   },
   {
     "id": "25",
-    "slug": "how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote-13",
+    "slug": "how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote-42",
     "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-    "summary": "Nvidia CEO Jensen Huang will deliver the keynote address at GTC 2026, focusing on the company's vision for future computing and AI. This matters because it will reveal Nvidia's plans for innovation and leadership in the tech industry.",
+    "summary": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role…",
     "category": "Tool Launch",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
@@ -374,13 +374,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
   },
   {
     "id": "26",
-    "slug": "sales-automation-startup-rox-ai-hits-12b-valuation-sources-say-14",
+    "slug": "sales-automation-startup-rox-ai-hits-12b-valuation-sources-say-43",
     "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-    "summary": "Rox AI, a sales automation startup, has reportedly reached a $1.2 billion valuation. The AI-native platform offers an alternative to traditional CRM tools.",
+    "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
     "category": "Tool Launch",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
@@ -388,13 +388,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
   },
   {
     "id": "27",
-    "slug": "a-defense-official-reveals-how-ai-chatbots-could-be-used-for-targeting-decisions-17",
+    "slug": "a-defense-official-reveals-how-ai-chatbots-could-be-used-for-targeting-decisions-47",
     "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-    "summary": "The US military may use AI chatbots to rank target lists and make strike recommendations, which would be vetted by humans. This development matters as it raises concerns about increased reliance on AI in military decision-making.",
+    "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use…",
     "category": "Research",
     "source": "MIT Tech Review AI",
     "sourceUrl": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
@@ -402,13 +402,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
   },
   {
     "id": "28",
-    "slug": "facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages-15",
+    "slug": "facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages-44",
     "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
-    "summary": "Facebook Marketplace now offers sellers the option to use Meta AI to automatically respond to buyer inquiries. This feature saves sellers time by drafting replies based on listing information.",
+    "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
     "category": "Industry",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
@@ -418,13 +418,13 @@
       "Meta"
     ],
     "featured": false,
-    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
   },
   {
     "id": "29",
-    "slug": "tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed--12",
+    "slug": "tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed--45",
     "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-    "summary": "Tinder introduces in-person events and virtual speed dating to revive user base. This revamp aims to attract younger daters and reengage existing users.",
+    "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
     "category": "Industry",
     "source": "TechCrunch AI",
     "sourceUrl": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
@@ -432,7 +432,7 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
   },
   {
     "id": "30",
@@ -478,7 +478,7 @@
   },
   {
     "id": "33",
-    "slug": "exploratory-data-analysis-for-credit-scoring-with-python-37",
+    "slug": "exploratory-data-analysis-for-credit-scoring-with-python-76",
     "title": "Exploratory Data Analysis for Credit Scoring with Python",
     "summary": "Understanding default risk through statistical analysis of borrower and loan characteristics.\nThe post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.",
     "category": "Research",
@@ -488,11 +488,11 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
   },
   {
     "id": "34",
-    "slug": "solving-the-human-training-data-problem-38",
+    "slug": "solving-the-human-training-data-problem-77",
     "title": "Solving the Human Training Data Problem",
     "summary": "How AI has completely transformed the way I study as a graduate student\nThe post Solving the Human Training Data Problem appeared first on Towards Data Science.",
     "category": "Research",
@@ -502,11 +502,11 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
   },
   {
     "id": "35",
-    "slug": "scaling-vector-search-comparing-quantization-and-matryoshka-embeddings-for-80-co-39",
+    "slug": "scaling-vector-search-comparing-quantization-and-matryoshka-embeddings-for-80-co-78",
     "title": "Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction",
     "summary": "Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy.\nThe post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction appeared first on Towards Data…",
     "category": "Research",
@@ -516,13 +516,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
   },
   {
     "id": "36",
-    "slug": "pragmatic-by-design-engineering-ai-for-the-real-world-18",
+    "slug": "pragmatic-by-design-engineering-ai-for-the-real-world-48",
     "title": "Pragmatic by design: Engineering AI for the real world",
-    "summary": "Engineers are increasingly applying AI to design and improve real-world products, from cars to medical devices. This shift matters as it enables more efficient and effective product development, ultimately benefiting users and society.",
+    "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and…",
     "category": "Tool Launch",
     "source": "MIT Tech Review AI",
     "sourceUrl": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
@@ -532,11 +532,11 @@
       "RAG"
     ],
     "featured": false,
-    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
   },
   {
     "id": "37",
-    "slug": "i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected-40",
+    "slug": "i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected-79",
     "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
     "summary": "A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure\nThe post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.",
     "category": "Research",
@@ -546,7 +546,7 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
   },
   {
     "id": "38",
@@ -646,9 +646,9 @@
   },
   {
     "id": "44",
-    "slug": "autonomous-context-compression-26",
+    "slug": "autonomous-context-compression-56",
     "title": "Autonomous context compression",
-    "summary": "Researchers added a tool to the Deep Agents SDK for autonomous context compression, enabling models to reduce their working memory by replacing older messages. This innovation matters as it improves model efficiency and scalability in complex tasks.",
+    "summary": "TL;DR: We've added a tool to the Deep Agents SDK (Python) and CLI that allows models to compress their own context windows at opportune times.MotivationContext compression is an action that reduces the information in an agent’s working memory. Older messages are replaced by",
     "category": "Framework",
     "source": "LangChain Blog",
     "sourceUrl": "https://blog.langchain.com/autonomous-context-compression/",
@@ -658,11 +658,11 @@
       "Agent"
     ],
     "featured": false,
-    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
   },
   {
     "id": "45",
-    "slug": "an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm-40",
+    "slug": "an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm-80",
     "title": "An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm",
     "summary": "Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance.\nThe post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Towards Data Science.",
     "category": "Research",
@@ -676,9 +676,37 @@
   },
   {
     "id": "46",
+    "slug": "spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures-81",
+    "title": "Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures",
+    "summary": "Researchers explain spectral clustering, a method that uses eigenvectors to reveal complex cluster structures, outperforming traditional K-means. This matters because it provides a more effective way to analyze and group complex data.",
+    "category": "Research",
+    "source": "Towards Data Science",
+    "sourceUrl": "https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/",
+    "publishedAt": "2026-03-11T15:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
+  },
+  {
+    "id": "47",
+    "slug": "why-most-ab-tests-are-lying-to-you-82",
+    "title": "Why Most A/B Tests Are Lying to You",
+    "summary": "The 4 statistical sins that invalidate most A/B tests, plus a pre-test checklist and Bayesian vs frequentist decision framework you can use Monday.\nThe post Why Most A/B Tests Are Lying to You appeared first on Towards Data Science.",
+    "category": "Framework",
+    "source": "Towards Data Science",
+    "sourceUrl": "https://towardsdatascience.com/why-most-a-b-tests-are-lying-to-you/",
+    "publishedAt": "2026-03-11T13:30:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
+  },
+  {
+    "id": "48",
     "slug": "rakuten-fixes-issues-twice-as-fast-with-codex-1",
     "title": "Rakuten fixes issues twice as fast with Codex",
-    "summary": "Rakuten now uses Codex from OpenAI to automate software development, cutting MTTR by 50% and delivering full-stack builds in weeks. This matters because it significantly improves software shipping speed and safety.",
+    "summary": "Rakuten now uses Codex from OpenAI to automate software development, cutting time-to-ship by 50%. This matters as it boosts efficiency and reliability in software deployment.",
     "category": "Model Release",
     "source": "OpenAI Blog",
     "sourceUrl": "https://openai.com/index/rakuten",
@@ -692,10 +720,10 @@
     "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
   },
   {
-    "id": "47",
-    "slug": "hustlers-are-cashing-in-on-chinas-openclaw-ai-craze-19",
+    "id": "49",
+    "slug": "hustlers-are-cashing-in-on-chinas-openclaw-ai-craze-49",
     "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-    "summary": "China's OpenClaw AI tool has gained popularity among enthusiasts and entrepreneurs. This AI craze is attracting individuals who see financial opportunities in creating and selling OpenClaw-based products and services.",
+    "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a…",
     "category": "Open Source",
     "source": "MIT Tech Review AI",
     "sourceUrl": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
@@ -705,13 +733,27 @@
       "open-source"
     ],
     "featured": false,
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
+  },
+  {
+    "id": "50",
+    "slug": "how-the-fourier-transform-converts-sound-into-frequencies-83",
+    "title": "How the Fourier Transform Converts Sound Into Frequencies",
+    "summary": "A visual, intuition-first guide to understanding what the math is really doing — from winding machines to spectrograms\nThe post How the Fourier Transform Converts Sound Into Frequencies appeared first on Towards Data Science.",
+    "category": "Research",
+    "source": "Towards Data Science",
+    "sourceUrl": "https://towardsdatascience.com/everything-you-need-to-know-about-fourier-transform/",
+    "publishedAt": "2026-03-11T12:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
     "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
   },
   {
-    "id": "48",
+    "id": "51",
     "slug": "designing-ai-agents-to-resist-prompt-injection-2",
     "title": "Designing AI agents to resist prompt injection",
-    "summary": "Researchers develop methods to shield AI agents from \"prompt injection\" attacks, which manipulate agents into revealing sensitive data. This matters as it enhances AI security and prevents potential data breaches.",
+    "summary": "Researchers have developed methods to prevent AI agents like ChatGPT from being compromised by malicious prompt injection. This defense mechanism constrains risky actions and safeguards sensitive data, enhancing AI security.",
     "category": "Model Release",
     "source": "OpenAI Blog",
     "sourceUrl": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
@@ -724,10 +766,10 @@
     "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
   },
   {
-    "id": "49",
+    "id": "52",
     "slug": "from-model-to-agent-equipping-the-responses-api-with-a-computer-environment-3",
     "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "summary": "OpenAI has integrated a computer environment into its Responses API, enabling secure and scalable agent runtimes with file access and state management. This upgrade allows for more complex AI interactions, bridging the gap between models and agents.",
+    "summary": "OpenAI has equipped its Responses API with a computer environment, allowing it to run secure, scalable agents with files, tools, and state. This upgrade enables the creation of more complex, interactive AI agents, which matters as it expands AI capabilities and applications.",
     "category": "Tool Launch",
     "source": "OpenAI Blog",
     "sourceUrl": "https://openai.com/index/equip-responses-api-computer-environment",
@@ -741,10 +783,10 @@
     "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
   },
   {
-    "id": "50",
+    "id": "53",
     "slug": "wayfair-boosts-catalog-accuracy-and-support-speed-with-openai-4",
     "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "summary": "Wayfair leverages OpenAI to automate ticket triage and enhance product catalog accuracy. This matters as it significantly boosts support speed and catalog accuracy at scale.",
+    "summary": "Wayfair leverages OpenAI models to automate support ticket triage and enhance product catalog accuracy. This matters because it streamlines customer support and boosts product information accuracy, enhancing the overall shopping experience.",
     "category": "Tool Launch",
     "source": "OpenAI Blog",
     "sourceUrl": "https://openai.com/index/wayfair",
@@ -757,10 +799,10 @@
     "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
   },
   {
-    "id": "51",
-    "slug": "the-anatomy-of-an-agent-harness-27",
+    "id": "54",
+    "slug": "the-anatomy-of-an-agent-harness-57",
     "title": "The Anatomy of an Agent Harness",
-    "summary": "Researchers define 'harness' as a system built around AI models to turn them into work engines. Harness engineering is crucial for making AI intelligence useful, not just intelligent.",
+    "summary": "Researchers define \"Agent Harness\" as a system combining a model with a harness to turn intelligence into a work engine. Harness engineering is crucial for making models useful.",
     "category": "Framework",
     "source": "LangChain Blog",
     "sourceUrl": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
@@ -770,13 +812,13 @@
       "Agent"
     ],
     "featured": false,
-    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
   },
   {
-    "id": "52",
-    "slug": "how-coding-agents-are-reshaping-engineering-product-and-design-28",
+    "id": "55",
+    "slug": "how-coding-agents-are-reshaping-engineering-product-and-design-58",
     "title": "How Coding Agents Are Reshaping Engineering, Product and Design",
-    "summary": "Coding agents are being used to automate EPD tasks, streamlining software development. This matters as it increases efficiency and reduces the need for human labor in software creation.",
+    "summary": "EPD (Engineering, Product, and Design) at software company is about creating good software. Separate roles exist, but the end goal is functional software that solves a business problem that users can use. At the end of the day, this is just code. It is important to recognize…",
     "category": "Tool Launch",
     "source": "LangChain Blog",
     "sourceUrl": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/",
@@ -786,13 +828,43 @@
       "Agent"
     ],
     "featured": false,
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
+  },
+  {
+    "id": "56",
+    "slug": "hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules-84",
+    "title": "Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules",
+    "summary": "I really thought I was onto something big: add a couple of simple domain rules to the loss function, and watch fraud detection just skyrocket on super-imbalanced data. The first run looked amazing… until I fixed a sneaky threshold bug and ran the whole thing across five…",
+    "category": "Research",
+    "source": "Towards Data Science",
+    "sourceUrl": "https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/",
+    "publishedAt": "2026-03-10T16:30:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "RAG"
+    ],
+    "featured": false,
     "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
   },
   {
-    "id": "53",
-    "slug": "building-a-strong-data-infrastructure-for-ai-agent-success-20",
+    "id": "57",
+    "slug": "building-a-like-for-like-solution-for-stores-in-power-bi-85",
+    "title": "Building a Like-for-Like solution for Stores in Power BI",
+    "summary": "Like-for-Like (L4L) solutions are essential for comparing elements. It's about comparing only comparable elements, in this case, comparing stores over time. Let's see a solution built in a Semantic model.\nThe post Building a Like-for-Like solution for Stores in Power BI appeared…",
+    "category": "Research",
+    "source": "Towards Data Science",
+    "sourceUrl": "https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-power-bi/",
+    "publishedAt": "2026-03-10T15:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+  },
+  {
+    "id": "58",
+    "slug": "building-a-strong-data-infrastructure-for-ai-agent-success-50",
     "title": "Building a strong data infrastructure for AI agent success",
-    "summary": "Companies are rapidly deploying AI agents in various business functions, with 88% adoption by late 2025. This surge in adoption matters as it highlights the growing need for robust data infrastructure to support AI agent success.",
+    "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one…",
     "category": "Research",
     "source": "MIT Tech Review AI",
     "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
@@ -802,13 +874,13 @@
       "Agent"
     ],
     "featured": false,
-    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
   },
   {
-    "id": "54",
-    "slug": "how-pokmon-go-is-giving-delivery-robots-an-inch-perfect-view-of-the-world-20",
+    "id": "59",
+    "slug": "how-pokmon-go-is-giving-delivery-robots-an-inch-perfect-view-of-the-world-51",
     "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-    "summary": "Pokémon Go is providing high-quality 3D mapping data to companies developing delivery robots. This data helps robots navigate complex environments with precision and accuracy.",
+    "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching…",
     "category": "Model Release",
     "source": "MIT Tech Review AI",
     "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
@@ -818,13 +890,13 @@
       "Google"
     ],
     "featured": false,
-    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
   },
   {
-    "id": "55",
+    "id": "60",
     "slug": "improving-instruction-hierarchy-in-frontier-llms-5",
     "title": "Improving instruction hierarchy in frontier LLMs",
-    "summary": "Researchers have developed IH-Challenge, a training method for frontier LLMs that prioritizes trusted instructions. This improves model safety, steerability, and resistance to attacks.",
+    "summary": "Researchers introduce IH-Challenge, a training method to prioritize trusted instructions in LLMs. This improves safety, steerability, and resistance to prompt injection attacks.",
     "category": "Model Release",
     "source": "OpenAI Blog",
     "sourceUrl": "https://openai.com/index/instruction-hierarchy-challenge",
@@ -835,8 +907,22 @@
     "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
   },
   {
-    "id": "56",
-    "slug": "introducing-storage-buckets-on-the-hugging-face-hub-7",
+    "id": "61",
+    "slug": "new-ways-to-learn-math-and-science-in-chatgpt-6",
+    "title": "New ways to learn math and science in ChatGPT",
+    "summary": "ChatGPT now offers interactive visual explanations for math and science, enhancing student learning through real-time exploration. This update matters as it provides students with a more engaging and effective way to grasp complex concepts.",
+    "category": "Model Release",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "publishedAt": "2026-03-10T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+  },
+  {
+    "id": "62",
+    "slug": "introducing-storage-buckets-on-the-hugging-face-hub-17",
     "title": "Introducing Storage Buckets on the Hugging Face Hub",
     "summary": "",
     "category": "Open Source",
@@ -849,11 +935,11 @@
       "RAG"
     ],
     "featured": false,
-    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
   },
   {
-    "id": "57",
-    "slug": "keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-8",
+    "id": "63",
+    "slug": "keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-18",
     "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
     "summary": "",
     "category": "Open Source",
@@ -865,11 +951,11 @@
       "open-source"
     ],
     "featured": false,
-    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
   },
   {
-    "id": "58",
-    "slug": "granite-40-1b-speech-compact-multilingual-and-built-for-the-edge-9",
+    "id": "64",
+    "slug": "granite-40-1b-speech-compact-multilingual-and-built-for-the-edge-19",
     "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
     "summary": "",
     "category": "Open Source",
@@ -879,13 +965,13 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
-    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
   },
   {
-    "id": "59",
-    "slug": "how-we-built-langchains-gtm-agent-29",
+    "id": "65",
+    "slug": "how-we-built-langchains-gtm-agent-59",
     "title": "How we built LangChain’s GTM Agent",
-    "summary": "LangChain developed a GTM (Go-To-Market) agent that boosts lead conversion by 250% and saves sales reps 40 hours/month. This AI-powered tool streamlines sales processes, increasing efficiency and conversion rates, which matters for businesses seeking to optimize their sales operations.",
+    "summary": "Learn how we built a GTM agent that increased lead conversion by 250% while saving each sales rep 40 hours per month",
     "category": "Framework",
     "source": "LangChain Blog",
     "sourceUrl": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/",
@@ -896,13 +982,13 @@
       "Agent"
     ],
     "featured": false,
-    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
   },
   {
-    "id": "60",
-    "slug": "how-ai-is-turning-the-iran-conflict-into-theater-20",
+    "id": "66",
+    "slug": "how-ai-is-turning-the-iran-conflict-into-theater-52",
     "title": "How AI is turning the Iran conflict into theater",
-    "summary": "AI-powered conflict tracking dashboards are being shared online, allowing users to monitor the Iran conflict in real-time. This matters because it reveals the increasing accessibility and transparency of military intelligence, potentially influencing public perception and global understanding of the conflict.",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was referring to an online…",
     "category": "Research",
     "source": "MIT Tech Review AI",
     "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
@@ -913,8 +999,24 @@
     "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
   },
   {
-    "id": "61",
-    "slug": "ulysses-sequence-parallelism-training-with-million-token-contexts-10",
+    "id": "67",
+    "slug": "openai-to-acquire-promptfoo-7",
+    "title": "OpenAI to acquire Promptfoo",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that detects vulnerabilities in AI systems. This acquisition matters as it strengthens OpenAI's security capabilities and helps mitigate risks in AI development.",
+    "category": "Model Release",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "publishedAt": "2026-03-09T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false,
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+  },
+  {
+    "id": "68",
+    "slug": "ulysses-sequence-parallelism-training-with-million-token-contexts-20",
     "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
     "summary": "",
     "category": "Open Source",
@@ -924,13 +1026,92 @@
     "readTime": 2,
     "tags": [],
     "featured": false,
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+  },
+  {
+    "id": "69",
+    "slug": "lerobot-v050-scaling-every-dimension-21",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "summary": "",
+    "category": "Model Release",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/lerobot-release-v050",
+    "publishedAt": "2026-03-09T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+  },
+  {
+    "id": "70",
+    "slug": "is-the-pentagon-allowed-to-surveil-americans-with-ai-53",
+    "title": "Is the Pentagon allowed to surveil Americans with AI?",
+    "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More…",
+    "category": "Research",
+    "source": "MIT Tech Review AI",
+    "sourceUrl": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "publishedAt": "2026-03-06T19:21:22.000Z",
+    "readTime": 2,
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false,
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+  },
+  {
+    "id": "71",
+    "slug": "how-descript-enables-multilingual-video-dubbing-at-scale-8",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "summary": "Descript now uses OpenAI models to automate multilingual video dubbing at scale. This technology enables natural-sounding translations across languages, improving global content accessibility.",
+    "category": "Model Release",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/descript",
+    "publishedAt": "2026-03-06T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false,
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
+  },
+  {
+    "id": "72",
+    "slug": "codex-security-now-in-research-preview-9",
+    "title": "Codex Security: now in research preview",
+    "summary": "Codex Security is now available in research preview, an AI-powered security agent that detects and patches complex vulnerabilities. This matters because it could significantly improve application security and reduce false positives.",
+    "category": "Research",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/codex-security-now-in-research-preview",
+    "publishedAt": "2026-03-06T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
+  },
+  {
+    "id": "73",
+    "slug": "how-balyasny-asset-management-built-an-ai-research-engine-for-investing-10",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "summary": "Balyasny Asset Management built an AI research engine using GPT-5.4 and rigorous model evaluation. This system enables large-scale investment analysis, transforming the way they make decisions.",
+    "category": "Research",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/balyasny-asset-management",
+    "publishedAt": "2026-03-06T07:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "GPT-5",
+      "Agent"
+    ],
+    "featured": false,
     "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
   },
   {
-    "id": "62",
-    "slug": "evaluating-skills-30",
+    "id": "74",
+    "slug": "evaluating-skills-60",
     "title": "Evaluating Skills",
-    "summary": "LangChain is building skills for coding agents to integrate with their ecosystem. This effort mirrors industry-wide exploration of skills for AI assistants.",
+    "summary": "By Robert XuRecently at LangChain we’ve been building skills to help coding agents like Codex, Claude Code, and Deep Agents CLI work with our ecosystem: namely, LangChain and LangSmith. This is not an effort unique to us - most (if not all) companies are exploring how to",
     "category": "Framework",
     "source": "LangChain Blog",
     "sourceUrl": "https://blog.langchain.com/evaluating-skills/",
@@ -942,10 +1123,421 @@
       "Agent"
     ],
     "featured": false,
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+  },
+  {
+    "id": "75",
+    "slug": "bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-finetuning-and--22",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "publishedAt": "2026-03-05T14:16:49.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
     "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
   },
   {
-    "id": "63",
+    "id": "76",
+    "slug": "introducing-gpt-54-11",
+    "title": "Introducing GPT-5.4",
+    "summary": "OpenAI releases GPT-5.4, its most advanced model for professional tasks, with improved coding, tool search, and 1M-token context capabilities. This matters because it enhances productivity and efficiency for professionals.",
+    "category": "Tool Launch",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-5-4",
+    "publishedAt": "2026-03-05T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "GPT-5",
+      "OpenAI"
+    ],
+    "featured": false,
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
+  },
+  {
+    "id": "77",
+    "slug": "reasoning-models-struggle-to-control-their-chains-of-thought-and-thats-good-12",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "summary": "OpenAI introduces CoT-Control, a new tool to monitor AI reasoning chains. This struggle to control chains of thought reinforces monitorability as a crucial AI safety safeguard.",
+    "category": "Model Release",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "publishedAt": "2026-03-05T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false,
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+  },
+  {
+    "id": "78",
+    "slug": "gpt-54-thinking-system-card-13",
+    "title": "GPT-5.4 Thinking System Card",
+    "summary": "",
+    "category": "Model Release",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "publishedAt": "2026-03-05T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "GPT-5"
+    ],
+    "featured": false,
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+  },
+  {
+    "id": "79",
+    "slug": "online-harassment-is-entering-its-ai-era-54",
+    "title": "Online harassment is entering its AI era",
+    "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow…",
+    "category": "Open Source",
+    "source": "MIT Tech Review AI",
+    "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+    "publishedAt": "2026-03-05T10:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent",
+      "open-source"
+    ],
+    "featured": false,
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+  },
+  {
+    "id": "80",
+    "slug": "ensuring-ai-use-in-education-leads-to-opportunity-14",
+    "title": "Ensuring AI use in education leads to opportunity",
+    "summary": "OpenAI releases new tools, certifications, and measurement resources to support AI adoption in education. This matters as it aims to bridge the AI capability gap and provide equal opportunities for students.",
+    "category": "Tool Launch",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/ai-education-opportunity",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false,
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+  },
+  {
+    "id": "81",
+    "slug": "the-five-ai-value-models-driving-business-reinvention-15",
+    "title": "The five AI value models driving business reinvention",
+    "summary": "New: Five AI value models have emerged to help businesses reinvent themselves through AI adoption. \nThese models sequence AI from workforce fluency to process reinvention, driving durable business advantage.",
+    "category": "Model Release",
+    "source": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "publishedAt": "2026-03-05T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+  },
+  {
+    "id": "82",
+    "slug": "introducing-modular-diffusers---composable-building-blocks-for-diffusion-pipelin-23",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/modular-diffusers",
+    "publishedAt": "2026-03-05T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+  },
+  {
+    "id": "83",
+    "slug": "langsmith-cli-skills-61",
+    "title": "LangSmith CLI & Skills",
+    "summary": "We’re releasing a CLI along with our first set of skills to give AI coding agents expertise in the LangSmith ecosystem. This includes adding tracing to agents, understanding their execution, building test sets, and evaluating performance. On our eval set, this bumps Claude…",
+    "category": "Framework",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/langsmith-cli-skills/",
+    "publishedAt": "2026-03-04T18:00:31.000Z",
+    "readTime": 2,
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+  },
+  {
+    "id": "84",
+    "slug": "langchain-skills-62",
+    "title": "LangChain Skills",
+    "summary": "We’re releasing our first set of skills to give AI coding agents expertise in the open source LangChain ecosystem. This includes building agents with LangChain, LangGraph, and Deep Agents. On our eval set, this bumps Claude Code’s performance on these tasks from 29% to 95%.What",
+    "category": "Open Source",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/langchain-skills/",
+    "publishedAt": "2026-03-04T18:00:19.000Z",
+    "readTime": 2,
+    "tags": [
+      "Claude",
+      "LangChain",
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+  },
+  {
+    "id": "85",
+    "slug": "bridging-the-operational-ai-gap-55",
+    "title": "Bridging the operational AI gap",
+    "summary": "Organizations are shifting from AI pilot projects to production, redirecting budgets and resources. This marks a significant transition from discussing AI to implementing it.",
+    "category": "Tool Launch",
+    "source": "MIT Tech Review AI",
+    "sourceUrl": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+    "publishedAt": "2026-03-04T14:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+  },
+  {
+    "id": "86",
+    "slug": "prx-part-3-training-a-text-to-image-model-in-24h-24",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "publishedAt": "2026-03-03T16:50:49.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
+  },
+  {
+    "id": "87",
+    "slug": "you-dont-know-what-your-agent-will-do-until-its-in-production-63",
+    "title": "You don’t know what your agent will do until it’s in production",
+    "summary": "You can't monitor agents like traditional software. Inputs are infinite, behavior is non-deterministic, and quality lives in the conversations themselves. This article explains what to monitor, how to scale evaluation, and how production traces become the foundation for…",
+    "category": "Tool Launch",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/you-dont-know-what-your-agent-will-do-until-its-in-production/",
+    "publishedAt": "2026-02-26T04:28:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
+  },
+  {
+    "id": "88",
+    "slug": "mixture-of-experts-moes-in-transformers-25",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/moe-transformers",
+    "publishedAt": "2026-02-26T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Transformer"
+    ],
+    "featured": false,
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
+  },
+  {
+    "id": "89",
+    "slug": "how-we-built-agent-builders-memory-system-64",
+    "title": "How we built Agent Builder’s memory system",
+    "summary": "A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory system, what the memory system enables, and discuss future work.",
+    "category": "Framework",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/how-we-built-agent-builders-memory-system/",
+    "publishedAt": "2026-02-22T03:55:36.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
+  },
+  {
+    "id": "90",
+    "slug": "agent-observability-powers-agent-evaluation-65",
+    "title": "Agent Observability Powers Agent Evaluation",
+    "summary": "You can't build reliable agents without understanding how they reason, and you can't validate improvements without systematic evaluation.",
+    "category": "Framework",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/agent-observability-powers-agent-evaluation/",
+    "publishedAt": "2026-02-22T03:51:44.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-cyan-900/60 via-cyan-800/40 to-surface-950"
+  },
+  {
+    "id": "91",
+    "slug": "ggml-and-llamacpp-join-hf-to-ensure-the-long-term-progress-of-local-ai-26",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/ggml-joins-hf",
+    "publishedAt": "2026-02-20T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Llama"
+    ],
+    "featured": false,
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
+  },
+  {
+    "id": "92",
+    "slug": "train-ai-models-with-unsloth-and-hugging-face-jobs-for-free-27",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/unsloth-jobs",
+    "publishedAt": "2026-02-20T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Hugging Face"
+    ],
+    "featured": false,
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
+  },
+  {
+    "id": "93",
+    "slug": "how-to-use-memory-in-agent-builder-66",
+    "title": "How to Use Memory in Agent Builder",
+    "summary": "By Jacob TalbotAgent Builder gets better the more you use it because it remembers your feedback. Every correction you make, preference you share, and approach that works well is something that your agent can hold onto and apply the next time.Memory is one of the things that makes",
+    "category": "Framework",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/how-to-use-memory-in-agent-builder/",
+    "publishedAt": "2026-02-19T18:28:14.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-emerald-900/60 via-emerald-800/40 to-surface-950"
+  },
+  {
+    "id": "94",
+    "slug": "ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast-28",
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "publishedAt": "2026-02-18T16:15:45.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+  },
+  {
+    "id": "95",
+    "slug": "new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry-67",
+    "title": "New in Agent Builder: all new agent chat, file uploads + tool registry",
+    "summary": "New in Agent Builder: an always-available agent, chat, file uploads, and tool registry features have been added. This update aims to make working with an agent feel like working with a teammate.",
+    "category": "Tool Launch",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/",
+    "publishedAt": "2026-02-18T15:55:08.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-blue-900/60 via-blue-800/40 to-surface-950"
+  },
+  {
+    "id": "96",
+    "slug": "monday-service-langsmith-building-a-code-first-evaluation-strategy-from-day-1-68",
+    "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
+    "summary": "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents.",
+    "category": "Framework",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/customers-monday/",
+    "publishedAt": "2026-02-18T08:05:53.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-rose-900/60 via-rose-800/40 to-surface-950"
+  },
+  {
+    "id": "97",
+    "slug": "one-shot-any-web-app-with-gradios-grhtml-29",
+    "title": "One-Shot Any Web App with Gradio's gr.HTML",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "publishedAt": "2026-02-18T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [],
+    "featured": false,
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+  },
+  {
+    "id": "98",
+    "slug": "improving-deep-agents-with-harness-engineering-69",
+    "title": "Improving Deep Agents with harness engineering",
+    "summary": "TLDR: Our coding agent went from Top 30 to Top 5 on Terminal Bench 2.0. We only changed the harness. Here’s our approach to harness engineering (teaser: self-verification & tracing help a lot).The Goal of Harness EngineeringThe goal of a harness is to mold the",
+    "category": "Framework",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/",
+    "publishedAt": "2026-02-17T16:15:28.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
+  },
+  {
+    "id": "99",
+    "slug": "on-agent-frameworks-and-agent-observability-70",
+    "title": "On Agent Frameworks and Agent Observability",
+    "summary": "Every time LLMs get better, the same question comes back: \"Do you still need an agent framework?\" It's a fair question. The best way to build agents changes as the models get more performant and evolve, but fundamentally, the agent is a system around the model,",
+    "category": "Framework",
+    "source": "LangChain Blog",
+    "sourceUrl": "https://blog.langchain.com/on-agent-frameworks-and-agent-observability/",
+    "publishedAt": "2026-02-13T02:23:40.000Z",
+    "readTime": 2,
+    "tags": [
+      "Agent"
+    ],
+    "featured": false,
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+  },
+  {
+    "id": "100",
+    "slug": "custom-kernels-for-all-from-codex-and-claude-30",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "summary": "",
+    "category": "Open Source",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "publishedAt": "2026-02-13T00:00:00.000Z",
+    "readTime": 2,
+    "tags": [
+      "Claude"
+    ],
+    "featured": false,
+    "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
+  },
+  {
+    "id": "101",
     "slug": "railway-secures-100-million-to-challenge-aws-with-ai-native-cloud-infrastructure-21",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "summary": "Railway, a San Francisco-based cloud platform, secured $100 million in funding to develop AI-native infrastructure, challenging AWS and Google Cloud. This investment highlights the growing need for more efficient and cost-effective cloud infrastructure to support AI applications.",
@@ -964,7 +1556,7 @@
     "imageGradient": "from-orange-900/60 via-orange-800/40 to-surface-950"
   },
   {
-    "id": "64",
+    "id": "102",
     "slug": "claude-code-costs-up-to-200-a-month-goose-does-the-same-thing-for-free-22",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "summary": "Claude Code, a terminal-based AI agent, now costs up to $200/month, sparking rebellion among developers. Goose, an open-source alternative, offers identical functionality for free, running on local machines with no subscription fees.",
@@ -983,7 +1575,7 @@
     "imageGradient": "from-indigo-900/60 via-indigo-800/40 to-surface-950"
   },
   {
-    "id": "65",
+    "id": "103",
     "slug": "listen-labs-raises-69m-after-viral-billboard-hiring-stunt-to-scale-ai-customer-i-23",
     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
     "summary": "Listen Labs secured $69M in funding after a viral billboard campaign using AI tokens to attract engineers. This unconventional approach successfully drew thousands of applicants, including some who were hired, and caught the attention of investors.",
@@ -1002,7 +1594,7 @@
     "imageGradient": "from-sky-900/60 via-sky-800/40 to-surface-950"
   },
   {
-    "id": "66",
+    "id": "104",
     "slug": "salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and-google-in-24",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "summary": "Salesforce has launched a rebuilt Slackbot AI agent capable of searching data, drafting documents, and taking action on behalf of employees. This move positions Slack at the center of the emerging \"agentic AI\" movement, where software agents work alongside humans to complete complex tasks, bolstering Salesforce's AI-driven products.",
@@ -1021,7 +1613,7 @@
     "imageGradient": "from-violet-900/60 via-violet-800/40 to-surface-950"
   },
   {
-    "id": "67",
+    "id": "105",
     "slug": "anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no-cod-25",
     "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
     "summary": "Anthropic released Cowork, a non-technical AI agent that integrates with files, no coding required. This marks a major inflection point in the AI market, positioning Anthropic to compete with industry leaders in conversational AI and productivity tools.",

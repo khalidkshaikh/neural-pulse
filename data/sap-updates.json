@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Next‑Gen SAP Ariba Is Here, Announcing the 2026 SAP Partner Awards – Global Winners, SAP Distributed Energy Resources Enables the Energy Flexibility Market and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-03-14T09:29:14.690Z",
+    "publishedAt": "2026-03-14T09:33:28.259Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Next‑Gen SAP Ariba Is Here: Building the Foundation for Intelligent Procurement",
-    "summary": "SAP Ariba has launched its next-generation platform, leveraging AI for intelligent procurement. This update builds the foundation for a more efficient and automated procurement process.",
+    "summary": "SAP Ariba has released its next-gen platform, leveraging AI for intelligent procurement. This update aims to transform the source-to-pay process with AI-driven capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-12T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Announcing the 2026 SAP Partner Awards – Global Winners",
-    "summary": "SAP has announced its 2026 Partner Awards, recognizing top-performing partners globally. The awards highlight partners that have excelled in delivering value to customers.",
+    "summary": "SAP has announced the 2026 Partner Awards, recognizing top-performing partners globally. The awards highlight partners that have excelled in delivering value to customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-12T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "SAP Distributed Energy Resources Enables the Energy Flexibility Market",
-    "summary": "SAP introduces Distributed Energy Resources to facilitate energy flexibility market. It enables data orchestration for utilities to unlock value from distributed energy resources.",
+    "summary": "SAP Distributed Energy Resources offers data orchestration for utilities to unlock value from distributed energy resources. This enables the energy flexibility market by providing real-time data management.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-11T13:15:00.000Z",
@@ -59,11 +59,91 @@
   {
     "id": "4",
     "title": "Strengthening Customer Experience Across the Lead-to-Cash Journey",
-    "summary": "Companies now prioritize seamless customer experiences across the entire sales process. This shift matters as it directly impacts customer loyalty and business revenue.",
+    "summary": "Companies are integrating customer experience with operational precision to streamline the lead-to-cash journey. This matters because it enables more efficient and personalized customer interactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-10T12:15:00.000Z",
     "sourceUrl": "https://news.sap.com/2026/03/sap-cpq-lead-to-cash-journey-strengthening-customer-experience/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": []
+  },
+  {
+    "id": "5",
+    "title": "The SAP-NHL Front Office App for iPad: Real-Time, Data-Driven Decisions On the Go",
+    "summary": "SAP and the NHL launched a mobile app for iPad, providing real-time data for front office decisions. This app gives teams instant access to critical information, enhancing their ability to make informed decisions.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-09T11:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/sap-nhl-front-office-app-for-ipad-data-driven-decisions/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "SAP Cloud ERP Private: Delivering Continuous Innovation with FPS01",
+    "summary": "SAP Cloud ERP Private now integrates AI capabilities, enhancing its functionality. This update enables continuous innovation and improved performance.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-06T13:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/sap-cloud-erp-private-fps01-delivering-continuous-innovation/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "International Women’s Day 2026: Building Trust and Equity Through Pay Transparency",
+    "summary": "Organizations can now leverage pay transparency to build trust and equity. This shift from compliance to proactive action matters because it promotes fairer work environments.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-06T11:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/international-womens-day-trust-equity-pay-transparency/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": []
+  },
+  {
+    "id": "8",
+    "title": "SAP AppHaus Network: Riding the Waves of Change Together",
+    "summary": "SAP AppHaus Network held its annual global meet-up, bringing together nearly all members. This event marks a continued commitment to collaboration and innovation within the network.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-05T11:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/sap-apphaus-network-2026-meet-up/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "SAP Deepens SmartRecruiters Integration for AI-Driven Hiring and a More Connected HCM Suite",
+    "summary": "SAP deepens integration with SmartRecruiters for AI-driven hiring. This integration creates a connected talent architecture for hiring decisions, skills intelligence, and workforce planning.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-04T13:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/smartrecruiters-for-sap-successfactors-ai-driven-hiring-connected-hcm/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Why Generative UI Is the New Frontier for Business Software",
+    "summary": "Generative UI technology allows software to dynamically create user interfaces based on user input and context. This innovation matters because it can revolutionize business software by providing a more personalized and adaptive user experience.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-04T11:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/why-is-generative-ui-the-new-frontier-for-business-software/",
     "isNew": true,
     "isWeeklyDigest": false,
     "tags": []
