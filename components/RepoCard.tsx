@@ -21,16 +21,20 @@ export function RepoCard({ repo, rank }: RepoCardProps) {
           <div className="flex items-start justify-between gap-3 mb-2">
             <div>
               <div className="flex items-center gap-2 mb-0.5">
-                <span className="text-xs text-slate-500">{repo.owner}</span>
+                <a href={repo.url} target="_blank" rel="noopener noreferrer" className="text-xs text-slate-500 hover:text-emerald-400 transition-colors">{repo.owner}</a>
                 <span className="text-slate-700">/</span>
-                <h3 className="text-sm font-bold text-white group-hover:text-emerald-300 transition-colors">
-                  {repo.name}
-                </h3>
+                <a href={repo.url} target="_blank" rel="noopener noreferrer">
+                  <h3 className="text-sm font-bold text-white group-hover:text-emerald-300 transition-colors">
+                    {repo.name}
+                  </h3>
+                </a>
               </div>
               <span className="text-xs text-slate-500 font-medium">{repo.category}</span>
             </div>
             <a
               href={repo.url}
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex-shrink-0 w-7 h-7 rounded-md flex items-center justify-center bg-white/5 border border-white/10 hover:bg-emerald-500/15 hover:border-emerald-500/30 transition-all"
             >
               <ArrowUpRight className="w-3.5 h-3.5 text-slate-500 group-hover:text-emerald-400 transition-colors" />

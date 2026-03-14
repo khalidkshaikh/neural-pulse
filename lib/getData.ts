@@ -38,5 +38,5 @@ export function getTools(): AITool[] {
 }
 
 export function getRepos(): OpenSourceRepo[] {
-  return mockRepos;
+  return loadJson<OpenSourceRepo>('repos.json', mockRepos);
 }

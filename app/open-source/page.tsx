@@ -1,12 +1,14 @@
 import { RepoCard } from '@/components/RepoCard';
-import { openSourceRepos } from '@/lib/mockData';
+import { getRepos } from '@/lib/getData';
 import { Github, Star, TrendingUp, GitFork, Layers } from 'lucide-react';
 import { formatNumber } from '@/lib/utils';
+import type { OpenSourceRepo } from '@/lib/types';
 
-const languages = ['All', 'Python', 'TypeScript', 'Go', 'C++', 'Rust'];
+const languages = ['All', 'Python', 'TypeScript', 'Go', 'C++', 'Rust', 'JavaScript'];
 const sortOptions = ['Stars Today', 'Total Stars', 'Forks', 'Recently Updated'];
 
 export default function OpenSourcePage() {
+  const openSourceRepos = getRepos();
   const totalStars = openSourceRepos.reduce((s, r) => s + r.stars, 0);
   const totalStarsToday = openSourceRepos.reduce((s, r) => s + r.starsToday, 0);
 
@@ -23,7 +25,7 @@ export default function OpenSourcePage() {
           <span className="gradient-text-emerald">AI Projects</span>
         </h1>
         <p className="text-lg text-slate-400 font-light max-w-xl mb-8">
-          The most-starred and fastest-growing AI repositories on GitHub. Updated daily from trending data.
+          The most-starred and fastest-growing AI repositories on GitHub. {openSourceRepos.length} projects tracked across models, agents, frameworks and tools.
         </p>
 
         {/* Stats row */}
@@ -39,7 +41,7 @@ export default function OpenSourcePage() {
       <div className="flex flex-wrap items-center gap-4 mb-8">
         <div>
           <p className="text-xs text-slate-600 mb-2 font-semibold uppercase tracking-wide">Language</p>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
             {languages.map((lang) => (
               <button
                 key={lang}
@@ -56,7 +58,7 @@ export default function OpenSourcePage() {
         </div>
         <div className="ml-auto">
           <p className="text-xs text-slate-600 mb-2 font-semibold uppercase tracking-wide">Sort by</p>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
             {sortOptions.map((opt) => (
               <button
                 key={opt}
@@ -126,10 +128,12 @@ function StatsCard({ icon, value, label, bg }: { icon: React.ReactNode; value: s
   );
 }
 
-function getCategoryStats(repos: typeof openSourceRepos) {
+function getCategoryStats(repos: OpenSourceRepo[]) {
   const counts: Record<string, number> = {};
   repos.forEach((r) => {
     counts[r.category] = (counts[r.category] ?? 0) + 1;
   });
-  return Object.entries(counts).map(([label, count]) => ({ label, count }));
+  return Object.entries(counts)
+    .map(([label, count]) => ({ label, count }))
+    .sort((a, b) => b.count - a.count);
 }
