@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of March 14, 2026",
-    "summary": "This week in SAP AI: Next‑Gen SAP Ariba Is Here, Announcing the 2026 SAP Partner Awards – Global Winners, SAP Distributed Energy Resources Enables the Energy Flexibility Market and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
+    "title": "Weekly SAP AI Digest — Week of April 5, 2026",
+    "summary": "This week in SAP AI: SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems, Showcasing AI Innovation, AI Road Map and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-03-14T09:33:28.259Z",
+    "publishedAt": "2026-04-04T19:35:32.270Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -16,6 +16,142 @@
   },
   {
     "id": "1",
+    "title": "SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems",
+    "summary": "SAP Transportation Management supports resilient, intelligent, and sustainable transportation operations.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-04-01T15:05:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/04/sap-a-leader-2026-gartner-magic-quadrant-tms/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Showcasing AI Innovation: Hasso Plattner Founders’ Award 2025 Winners Announced",
+    "summary": "From 254 submissions, two teams were selected and awarded the prestigious recognition.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-04-01T10:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/04/hasso-plattner-founders-award-2025-winners-announced/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": []
+  },
+  {
+    "id": "3",
+    "title": "AI Road Map: How Accenture Uses AI as a Growth Engine",
+    "summary": "The finance team has saved a combined 57,000 hours annually by having AI generate narrative summaries for reporting.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-31T12:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/how-accenture-uses-ai-as-growth-engine/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": []
+  },
+  {
+    "id": "4",
+    "title": "How Swiss Robotics Company ANYbotics and SAP Are Turning Dirty, Dusty, and Dangerous Industrial Inspections into Busines",
+    "summary": "The combination of robotics and enterprise software is moving swiftly from the experimental stage to real-world implementation.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-30T12:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/anybotics-industrial-inspections-into-business-insights/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "A Cocktail of Intelligent Solutions From SAP Goes Live at Campari Group",
+    "summary": "MILAN — The spirits industry leader is establishing an end-to-end digital architecture.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-30T09:00:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/cocktail-of-sap-solutions-live-at-campari-group/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "SAP to Acquire Reltio: Make SAP and Non-SAP Data AI-Ready",
+    "summary": "WALLDORF & REDWOOD CITY — Enterprise AI needs trusted context that is open and interoperable across heterogeneous IT landscapes.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-27T12:00:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/sap-to-acquire-reltio/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "SAP and UnternehmerTUM Drive Co-Innovation in Embodied AI",
+    "summary": "Ideas can lead to tangible results when students, researchers, and SAP teams work together to apply scientific approaches to real-life challenges.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-26T12:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/sap-utum-drive-co-innovation-embodied-ai/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Team Liquid Turns to Joule to Unlock the Power of Esports Data",
+    "summary": "The world’s largest esports organization is transforming how it manages vast amounts of data.",
+    "product": "Joule",
+    "updateType": "Feature",
+    "publishedAt": "2026-03-25T11:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/team-liquid-joule-unlock-power-esports-data/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "Joule"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Haleon Chooses SAP Solutions to Accelerate Growth Through Technology",
+    "summary": "WALLDORF — The global consumer health company will adopt SAP Business Suite to enhance digital capabilities and advance AI capabilities.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-25T09:45:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/haleon-chooses-sap-solutions-accelerate-growth-through-technology/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "How Würth Standardizes B2B E‑Procurement with Customers via SAP Business Network",
+    "summary": "The Würth Group, a subsidiary of Adolf Würth GmbH & Co. KG, is one of the leading players in the development, production, and sale of...",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-03-24T12:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/03/how-wurth-standardizes-b2b-e-procurement-with-customers-via-sap-business-network/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "11",
     "title": "Next‑Gen SAP Ariba Is Here: Building the Foundation for Intelligent Procurement",
     "summary": "SAP Ariba has released its next-gen platform, leveraging AI for intelligent procurement. This update aims to transform the source-to-pay process with AI-driven capabilities.",
     "product": "Community",
@@ -29,7 +165,7 @@
     ]
   },
   {
-    "id": "2",
+    "id": "12",
     "title": "Announcing the 2026 SAP Partner Awards – Global Winners",
     "summary": "SAP has announced the 2026 Partner Awards, recognizing top-performing partners globally. The awards highlight partners that have excelled in delivering value to customers.",
     "product": "Community",
@@ -43,7 +179,7 @@
     ]
   },
   {
-    "id": "3",
+    "id": "13",
     "title": "SAP Distributed Energy Resources Enables the Energy Flexibility Market",
     "summary": "SAP Distributed Energy Resources offers data orchestration for utilities to unlock value from distributed energy resources. This enables the energy flexibility market by providing real-time data management.",
     "product": "Community",
@@ -57,7 +193,7 @@
     ]
   },
   {
-    "id": "4",
+    "id": "14",
     "title": "Strengthening Customer Experience Across the Lead-to-Cash Journey",
     "summary": "Companies are integrating customer experience with operational precision to streamline the lead-to-cash journey. This matters because it enables more efficient and personalized customer interactions.",
     "product": "Community",
@@ -69,7 +205,7 @@
     "tags": []
   },
   {
-    "id": "5",
+    "id": "15",
     "title": "The SAP-NHL Front Office App for iPad: Real-Time, Data-Driven Decisions On the Go",
     "summary": "SAP and the NHL launched a mobile app for iPad, providing real-time data for front office decisions. This app gives teams instant access to critical information, enhancing their ability to make informed decisions.",
     "product": "Community",
@@ -83,7 +219,7 @@
     ]
   },
   {
-    "id": "6",
+    "id": "16",
     "title": "SAP Cloud ERP Private: Delivering Continuous Innovation with FPS01",
     "summary": "SAP Cloud ERP Private now integrates AI capabilities, enhancing its functionality. This update enables continuous innovation and improved performance.",
     "product": "Community",
@@ -97,7 +233,7 @@
     ]
   },
   {
-    "id": "7",
+    "id": "17",
     "title": "International Women’s Day 2026: Building Trust and Equity Through Pay Transparency",
     "summary": "Organizations can now leverage pay transparency to build trust and equity. This shift from compliance to proactive action matters because it promotes fairer work environments.",
     "product": "Community",
@@ -109,7 +245,7 @@
     "tags": []
   },
   {
-    "id": "8",
+    "id": "18",
     "title": "SAP AppHaus Network: Riding the Waves of Change Together",
     "summary": "SAP AppHaus Network held its annual global meet-up, bringing together nearly all members. This event marks a continued commitment to collaboration and innovation within the network.",
     "product": "Community",
@@ -123,7 +259,7 @@
     ]
   },
   {
-    "id": "9",
+    "id": "19",
     "title": "SAP Deepens SmartRecruiters Integration for AI-Driven Hiring and a More Connected HCM Suite",
     "summary": "SAP deepens integration with SmartRecruiters for AI-driven hiring. This integration creates a connected talent architecture for hiring decisions, skills intelligence, and workforce planning.",
     "product": "Community",
@@ -137,7 +273,7 @@
     ]
   },
   {
-    "id": "10",
+    "id": "20",
     "title": "Why Generative UI Is the New Frontier for Business Software",
     "summary": "Generative UI technology allows software to dynamically create user interfaces based on user input and context. This innovation matters because it can revolutionize business software by providing a more personalized and adaptive user experience.",
     "product": "Community",
