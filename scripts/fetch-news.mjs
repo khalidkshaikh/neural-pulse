@@ -245,13 +245,14 @@ async function aiSummarize(title, rawDesc) {
 
 // ─── Main fetch logic ─────────────────────────────────────────────────────────
 
-const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
-const cutoff = new Date(Date.now() - THIRTY_DAYS_MS);
+// const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
+// const cutoff = new Date(Date.now() - THIRTY_DAYS_MS);
+const cutoff = new Date('2026-01-01T00:00:00Z');
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 async function fetchAINews() {
-  console.log('🔍 Fetching AI news from', AI_SOURCES.length, 'sources (last 30 days)...');
+    console.log('🔍 Fetching AI news from', AI_SOURCES.length, 'sources (since Jan 2026)...');
   const articles = [];
   let idx = 0;
 
@@ -260,9 +261,9 @@ async function fetchAINews() {
     const xml = await fetchFeed(source.url);
     if (!xml) { console.log('    ✗ failed'); continue; }
 
-    // Fetch up to 15 items per source, filter to last 30 days
+    // Fetch up to 50 items per source, filter to since Jan 2026
     const items = extractItems(xml)
-      .slice(0, 15)
+      .slice(0, 50)
       .filter(item => {
         if (!item.pubDate) return true; // keep if no date
         const d = new Date(item.pubDate);
@@ -374,7 +375,7 @@ function loadExisting(filePath) {
   }
 }
 
-function mergeArticles(fresh, existing, maxKeep = 500) {
+function mergeArticles(fresh, existing, maxKeep = 1500) {
   const seenUrls = new Set(fresh.map((a) => a.sourceUrl));
   const oldOnly  = existing.filter((a) => !seenUrls.has(a.sourceUrl));
   const merged   = [...fresh, ...oldOnly];
