@@ -51,11 +51,98 @@ const AI_SOURCES = [
   { name: 'Mistral AI Blog',   url: 'https://mistral.ai/news/rss.xml',                                     category: 'Model Release' },
   { name: 'TechCrunch AI',     url: 'https://techcrunch.com/category/artificial-intelligence/feed/',       category: 'Industry' },
   { name: 'The Verge AI',      url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',   category: 'Industry' },
-  { name: 'MIT Tech Review AI','url': 'https://www.technologyreview.com/topic/artificial-intelligence/feed', category: 'Research' },
+  { name: 'MIT Tech Review AI', url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed', category: 'Research' },
   { name: 'VentureBeat AI',    url: 'https://venturebeat.com/category/ai/feed/',                           category: 'Industry' },
   { name: 'ArXiv CS.AI',       url: 'https://rss.arxiv.org/rss/cs.AI',                                    category: 'Research' },
   { name: 'LangChain Blog',    url: 'https://blog.langchain.dev/rss/',                                     category: 'Framework' },
   { name: 'Towards Data Science', url: 'https://towardsdatascience.com/feed',                              category: 'Research' },
+  { name: 'Wired AI',          url: 'https://www.wired.com/feed/tag/ai/feed',         category: 'Industry' },
+  { name: 'Bloomberg AI',      url: 'https://feeds.bloomberg.com/markets/news.rss', category: 'Industry' },
+  { name: 'Reuters AI',        url: 'https://www.reutersagency.com/feed/?best-topics=tech', category: 'Industry' },
+  { name: 'ZDNet AI',          url: 'https://www.zdnet.com/news/rss.xml',             category: 'Industry' },
+  { name: 'CNET AI',           url: 'https://www.cnet.com/rss/news/',                category: 'Industry' },
+  { name: 'IEEE Spectrum',    url: 'https://spectrum.ieee.org/feeds/feed.rss',                            category: 'Research' },
+  { name: 'Quanta Magazine',   url: 'https://api.allorigins.win/raw?url=https://www.quantamagazine.org/feed/', category: 'Research' },
+  { name: 'Microsoft AI Blog', url: 'https://azure.microsoft.com/en-us/blog/search/rss/?q=AI',            category: 'Model Release' },
+  { name: 'Nvidia Blog',       url: 'https://developer.nvidia.com/blog/feed/',                            category: 'Model Release' },
+  { name: 'Amazon AI',         url: 'https://www.amazon.science/rss/',                                     category: 'Research' },
+  { name: 'IBM Research',      url: 'https://www.research.ibm.com/rss/ai',                                 category: 'Research' },
+  { name: 'Stability AI',      url: 'https://stability.ai/rss.xml',                                       category: 'Model Release' },
+  { name: 'Cohere Blog',       url: 'https://cohere.com/blog/rss.xml',                                     category: 'Model Release' },
+  { name: 'AI21 Labs',         url: 'https://www.ai21.com/blog/rss',                                       category: 'Model Release' },
+  { name: 'DeepLearning.AI',   url: 'https://www.deeplearning.ai/feed/',                                   category: 'Research' },
+  { name: 'Hugging Face RSS',  url: 'https://huggingface.co/blog/rss',                                    category: 'Open Source' },
+  { name: 'Weights & Biases',  url: 'https://wandb.ai/articles/rss',                                      category: 'Framework' },
+  { name: 'PyTorch Blog',      url: 'https://pytorch.org/blog/feed/',                                     category: 'Framework' },
+  { name: 'TensorFlow Blog',   url: 'https://blog.tensorflow.org/feeds/posts/default',                    category: 'Framework' },
+  { name: 'JAX Blog',          url: 'https://github.com/google/jax/releases.atom',                       category: 'Framework' },
+  { name: 'MLOps Newsletter',   url: 'https://neptune.ai/blog/rss',                                         category: 'Tool Launch' },
+  { name: 'Papers with Code',  url: 'https://paperswithcode.com/atom.xml',                                category: 'Research' },
+  { name: 'Analytics Vidhya',  url: 'https://www.analyticsvidhya.com/feed/',                              category: 'Research' },
+  { name: 'KDNuggets',         url: 'https://www.kdnuggets.com/feed/',                                      category: 'Research' },
+  { name: 'Data Science Central', url: 'https://www.datasciencecentral.com/feed/',                       category: 'Research' },
+  { name: 'OpenAI Research',   url: 'https://openai.com/research/rss.xml',                                category: 'Research' },
+  { name: 'Anthropic Research', url: 'https://www.anthropic.com/research/rss.xml',                       category: 'Research' },
+  { name: 'InfoQ',             url: 'https://www.infoq.com/ai/feed/',                                      category: 'Industry' },
+  { name: 'DevOps.com',        url: 'https://devops.com/feed/',                                            category: 'Industry' },
+  { name: 'TechTarget AI',     url: 'https://searchenterpriseai.techtarget.com/rss',                      category: 'Industry' },
+  { name: 'AI News',           url: 'https://www.artificialintelligence-news.com/feed/',                  category: 'Industry' },
+  { name: 'MarkTechPost',      url: 'https://www.marktechpost.com/feed/',                                  category: 'Industry' },
+  { name: 'Synced Review',     url: 'https://syncedreview.com/feed/',                                      category: 'Industry' },
+  { name: 'Unite AI',          url: 'https://unite.ai/feed',                                               category: 'Industry' },
+  { name: 'Robusiness AI',     url: 'https://robusiness.ai/feed/',                                          category: 'Industry' },
+  { name: 'AI Accelerator',    url: 'https://www.aiaccelerator.ai/feed/',                                  category: 'Industry' },
+  { name: 'The Decoder',       url: 'https://the-decoder.com/feed/',                                        category: 'Industry' },
+  { name: 'TechInPlainEnglish', url: 'https://techinplainenglish.com/feed/',                               category: 'Industry' },
+  { name: 'AI Grimoire',       url: 'https://ai.grimoire.news/feed',                                       category: 'Industry' },
+  { name: 'Anakin AI',         url: 'https://anakin.ai/blog/feed/',                                         category: 'Industry' },
+  { name: 'Prompt Engineering', url: 'https://www.promptingguide.ai/blog/rss',                            category: 'Research' },
+  { name: 'LangChain Labs',    url: 'https://blog.langchain.dev/rss/',                                     category: 'Framework' },
+  { name: 'LlamaIndex Blog',    url: 'https://blog.llamaindex.ai/rss.xml',                                  category: 'Framework' },
+  { name: 'AutoGPT Blog',      url: 'https://autogpt.net/feed/',                                            category: 'Framework' },
+  { name: 'BabyAGI',           url: 'https://babyagi.org/feed/',                                            category: 'Framework' },
+  { name: 'CrewAI Blog',       url: 'https://docs.crewai.com/rss',                                          category: 'Framework' },
+  { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/',                   category: 'Research' },
+  { name: 'Google Research',   url: 'https://blog.google/technology/ai/rss',                               category: 'Research' },
+  { name: 'Meta Research',     url: 'https://research.facebook.com/feed',                                   category: 'Research' },
+  { name: 'OpenRouter Blog',   url: 'https://openrouter.ai/blog/rss',                                      category: 'Tool Launch' },
+  { name: 'Together AI',       url: 'https://www.together.ai/blog/rss',                                     category: 'Tool Launch' },
+  { name: 'Anyscale',          url: 'https://www.anyscale.com/blog/rss',                                   category: 'Tool Launch' },
+  { name: 'Modal Labs',        url: 'https://modal.com/blog/rss',                                           category: 'Tool Launch' },
+  { name: 'Replicate',        url: 'https://replicate.com/blog/rss',                                       category: 'Tool Launch' },
+  { name: 'RunPod',            url: 'https://blog.runpod.io/rss',                                           category: 'Tool Launch' },
+  { name: 'Fal AI',            url: 'https://www.fal.ai/blog/rss',                                         category: 'Tool Launch' },
+  { name: 'Lightning AI',      url: 'https://lightning.ai/blog/rss',                                        category: 'Tool Launch' },
+  { name: 'Gradient',          url: 'https://gradient.ai/blog/rss',                                         category: 'Tool Launch' },
+  { name: 'Beam AI',           url: 'https://www.beam.cloud/blog/rss',                                      category: 'Tool Launch' },
+  { name: 'Baseten',           url: 'https://www.baseten.co/blog/rss',                                      category: 'Tool Launch' },
+  { name: 'Forefront AI',      url: 'https://www.forefront.ai/blog/rss',                                    category: 'Tool Launch' },
+  { name: 'Toolformer',       url: 'https://www.toolformer.dev/blog/rss',                                   category: 'Tool Launch' },
+  { name: 'AI21 Playground',   url: 'https://www.ai21.com/playground/rss',                                  category: 'Tool Launch' },
+  { name: 'Hugging Face Spaces', url: 'https://huggingface.co/spaces/feed',                                category: 'Open Source' },
+  { name: 'Control AI',        url: 'https://control.ai/blog/rss',                                          category: 'Model Release' },
+  { name: 'AI21 Jurassic',     url: 'https://www.ai21.com/jurassic/rss',                                    category: 'Model Release' },
+  { name: 'Perplexity Blog',   url: 'https://www.perplexity.ai/blog/rss',                                  category: 'Model Release' },
+  { name: 'Anyscale Endpoints', url: 'https://docs.anyscale.com/rss',                                      category: 'Tool Launch' },
+  { name: 'Papers in Code',    url: 'https://www.papersincode.com/feed',                                   category: 'Research' },
+  { name: 'ArXiv Sanity',      url: 'https://arxiv-sanity.com/rss',                                         category: 'Research' },
+  { name: 'Hacker News AI',    url: 'https://hnrss.org/newest?q=AI',                                        category: 'Industry' },
+  { name: 'Lobsters AI',       url: 'https://lobste.rs/rss',                                                category: 'Industry' },
+  { name: 'Reddit r/MachineLearning', url: 'https://www.reddit.com/r/MachineLearning.rss',               category: 'Research' },
+  { name: 'Reddit r/ArtificialIntelligence', url: 'https://www.reddit.com/r/ArtificialIntelligence.rss',  category: 'Industry' },
+  { name: 'Reddit r/LocalLLaMA', url: 'https://www.reddit.com/r/LocalLLaMA.rss',                          category: 'Open Source' },
+  { name: 'Product Hunt AI',   url: 'https://www.producthunt.com/feed/topics/ai',                         category: 'Tool Launch' },
+  { name: 'Indie Hackers AI',  url: 'https://www.indiehackers.com/feed',                                   category: 'Tool Launch' },
+  { name: 'Mlearning.ai',      url: 'https://mlearning.ai/feed/',                                           category: 'Research' },
+  { name: 'SuperDataScience',  url: 'https://www.superdatascience.com/feed',                               category: 'Research' },
+  { name: 'Data Science Weekly', url: 'https://www.datascienceweekly.org/feed',                           category: 'Research' },
+  { name: 'Benedict Neo',      url: 'https://www.benedictneo.com/feed',                                     category: 'Research' },
+  { name: 'Eugene Yan',        url: 'https://eugene-yan.com/feed',                                          category: 'Research' },
+  { name: 'Chip Huyen',        url: 'https://chiphuyen.com/feeds/posts/default',                           category: 'Research' },
+  { name: 'Jay Alammar',       url: 'https://jalammar.github.io/feed.xml',                                 category: 'Research' },
+  { name: 'Chris Not.md',      url: 'https://chrisalbon.com/feed',                                         category: 'Research' },
+  { name: 'Machine Learning Mastery', url: 'https://machinelearningmastery.com/feed/',                  category: 'Research' },
+  { name: '砸壳',              url: 'https://www.iocoder.cn/rss/',                                          category: 'Research' },
 ];
 
 const SAP_SOURCES = [
@@ -63,7 +150,12 @@ const SAP_SOURCES = [
   { name: 'SAP Community AI',  url: 'https://community.sap.com/khhcw49343/rss/category?category.id=Artificial+Intelligence', product: 'Community' },
   { name: 'SAP BTP Blog',      url: 'https://blogs.sap.com/tag/sap-btp/feed/', product: 'BTP' },
   { name: 'SAP AI Core Blog',  url: 'https://blogs.sap.com/tag/sap-ai-core/feed/', product: 'AI Core' },
-  { name: 'SAP Joule Blog',    url: 'https://blogs.sap.com/tag/joule/feed/', product: 'Joule' },
+  { name: 'SAP Joule Blog',   url: 'https://blogs.sap.com/tag/joule/feed/', product: 'Joule' },
+  { name: 'SAP AI Foundation', url: 'https://blogs.sap.com/tag/sap-ai-foundation/feed/', product: 'AI Foundation' },
+  { name: 'SAP Datasphere',    url: 'https://blogs.sap.com/tag/datasphere/feed/', product: 'Datasphere' },
+  { name: 'SAP Business AI',   url: 'https://blogs.sap.com/tag/business-ai/feed/', product: 'Business AI' },
+  { name: 'SAP Generative AI', url: 'https://blogs.sap.com/tag/generative-ai/feed/', product: 'Generative AI' },
+  { name: 'SAP Hana ML',       url: 'https://blogs.sap.com/tag/sap-hana-machine-learning/feed/', product: 'HANA ML' },
 ];
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -261,9 +353,8 @@ async function fetchAINews() {
     const xml = await fetchFeed(source.url);
     if (!xml) { console.log('    ✗ failed'); continue; }
 
-    // Fetch up to 50 items per source, filter to since Jan 2026
+    // Fetch all items per source, filter to since Jan 2026
     const items = extractItems(xml)
-      .slice(0, 50)
       .filter(item => {
         if (!item.pubDate) return true; // keep if no date
         const d = new Date(item.pubDate);
@@ -375,23 +466,22 @@ function loadExisting(filePath) {
   }
 }
 
-function mergeArticles(fresh, existing, maxKeep = 1500) {
+function mergeArticles(fresh, existing) {
   const seenUrls = new Set(fresh.map((a) => a.sourceUrl));
   const oldOnly  = existing.filter((a) => !seenUrls.has(a.sourceUrl));
   const merged   = [...fresh, ...oldOnly];
-  // Sort newest first, then re-index IDs
   merged.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
-  return merged.slice(0, maxKeep).map((a, i) => ({ ...a, id: String(i + 1) }));
+  return merged.map((a, i) => ({ ...a, id: String(i + 1) }));
 }
 
-function mergeSAPUpdates(fresh, existing, maxKeep = 200) {
+function mergeSAPUpdates(fresh, existing) {
   const digest  = fresh.find((u) => u.isWeeklyDigest);
   const freshNon = fresh.filter((u) => !u.isWeeklyDigest);
   const seenUrls = new Set(freshNon.map((u) => u.sourceUrl));
   const oldNon   = existing.filter((u) => !u.isWeeklyDigest && !seenUrls.has(u.sourceUrl));
   const merged   = [...freshNon, ...oldNon];
   merged.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
-  const trimmed  = merged.slice(0, maxKeep).map((u, i) => ({ ...u, id: String(i + 1) }));
+  const trimmed  = merged.map((u, i) => ({ ...u, id: String(i + 1) }));
   if (digest) trimmed.unshift({ ...digest, id: '0' });
   return trimmed;
 }
