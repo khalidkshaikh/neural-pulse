@@ -39,7 +39,7 @@ export function Hero({ articlesToday, totalArticles, sourcesMonitored, sapUpdate
             <div className="hidden sm:block w-px h-10 bg-white/10" />
             <StatCard icon={<Globe className="w-4 h-4 text-cyan-400" />} value={totalArticles} label="Total Articles" color="cyan" />
             <div className="hidden sm:block w-px h-10 bg-white/10" />
-            <StatCard icon={<Sparkles className="w-4 h-4 text-amber-400" />} value={sapUpdatesToday} label="SAP Today" color="amber" />
+            <StatCard icon={<Sparkles className="w-4 h-4 text-cyan-400" />} value={sapUpdatesToday} label="SAP Today" color="cyan" />
             <div className="hidden sm:block w-px h-10 bg-white/10" />
             <StatCard icon={<Cpu className="w-4 h-4 text-emerald-400" />} value={lastUpdated} label="Last Updated" color="emerald" isText />
           </div>
