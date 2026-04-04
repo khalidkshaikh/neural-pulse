@@ -23,9 +23,6 @@ export default function HomePage() {
   const articlesToday = newsArticles.filter(
     (a) => now.getTime() - new Date(a.publishedAt).getTime() < 86_400_000
   ).length;
-  const sapToday = sapUpdates.filter(
-    (u) => !u.isWeeklyDigest && now.getTime() - new Date(u.publishedAt).getTime() < 86_400_000
-  ).length;
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 pb-16">
@@ -33,7 +30,6 @@ export default function HomePage() {
         articlesToday={articlesToday}
         totalArticles={newsArticles.length}
         sourcesMonitored={87}
-        sapUpdatesToday={sapToday}
         lastUpdated={timeAgo(featuredArticle.publishedAt)}
       />
 
