@@ -18,14 +18,14 @@ export function ShareButton({ title }: Props) {
         return;
       }
     } catch {
-      // share cancelled or not supported — fall through to clipboard
+      // share cancelled or not supported - fall through to clipboard
     }
     try {
       await navigator.clipboard.writeText(url);
       setState('copied');
       setTimeout(() => setState('idle'), 2000);
     } catch {
-      // clipboard also failed — ignore
+      // clipboard also failed - ignore
     }
   }
 

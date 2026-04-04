@@ -15,7 +15,7 @@ interface ChatbotProps {
 
 const GROQ_KEY = process.env.NEXT_PUBLIC_GROQ_API_KEY ?? '';
 
-// Render assistant message — strips markdown stars, formats lists & paragraphs
+// Render assistant message - strips markdown stars, formats lists & paragraphs
 function renderMessage(text: string) {
   const lines = text.split('\n');
   const nodes: React.ReactNode[] = [];
@@ -69,7 +69,7 @@ function renderMessage(text: string) {
 }
 
 function buildSystemPrompt(context: string) {
-  return `You are NeuralPulse AI — the intelligent assistant for NeuralPulse, an automated AI & SAP news intelligence platform. You help users understand the latest developments in artificial intelligence and SAP's AI ecosystem.
+  return `You are NeuralPulse AI - the intelligent assistant for NeuralPulse, an automated AI & SAP news intelligence platform. You help users understand the latest developments in artificial intelligence and SAP's AI ecosystem.
 
 SCOPE: Only answer questions related to:
 - Artificial intelligence, machine learning, LLMs, AI tools, AI research
@@ -80,7 +80,7 @@ If asked about unrelated topics, politely redirect to AI/SAP.
 NEVER generate or describe images, videos, or media. Text answers only.
 Keep answers concise (2-4 sentences for simple questions, up to 6 for complex ones).
 
-FORMATTING RULES — strictly follow these:
+FORMATTING RULES - strictly follow these:
 - Do NOT use asterisks (**), stars, or any markdown symbols whatsoever.
 - Do NOT use bold markers or italic markers.
 - Use plain sentences. For lists, use a dash followed by a space: "- item".
@@ -263,7 +263,7 @@ export function Chatbot({ articleContext, digestSummary }: ChatbotProps) {
                 <Send className="w-3.5 h-3.5 text-white" />
               </button>
             </div>
-            <p className="text-[10px] text-slate-700 text-center mt-1.5">AI answers may be inaccurate — verify with sources</p>
+            <p className="text-[10px] text-slate-700 text-center mt-1.5">AI answers may be inaccurate - verify with sources</p>
           </div>
         </div>
       </div>

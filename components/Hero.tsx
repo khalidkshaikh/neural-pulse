@@ -18,7 +18,7 @@ export function Hero({ articlesToday, totalArticles, sourcesMonitored, lastUpdat
           {/* Eyebrow */}
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-violet-500/10 border border-violet-500/25 text-violet-300 text-xs font-semibold mb-6 animate-fade-up">
             <Sparkles className="w-3.5 h-3.5" />
-            Automated AI Intelligence — Updated Daily
+            Automated AI Intelligence - Updated Daily
           </div>
 
           {/* Main title */}
@@ -29,7 +29,7 @@ export function Hero({ articlesToday, totalArticles, sourcesMonitored, lastUpdat
           {/* Subtitle */}
           <p className="text-lg sm:text-xl text-slate-400 font-light leading-relaxed max-w-2xl mx-auto mb-10 animate-fade-up-delay-2">
             Automated daily digest of model releases, AI tool launches, open-source trends,
-            and SAP AI ecosystem updates — curated by AI, for AI professionals.
+            and SAP AI ecosystem updates - curated by AI, for AI professionals.
           </p>
 
           {/* Stats row */}

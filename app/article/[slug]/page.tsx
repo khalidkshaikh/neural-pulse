@@ -118,7 +118,7 @@ export default async function ArticlePage({ params }: Props) {
               </div>
               <p>
                 This article was automatically generated from aggregated sources by the NeuralPulse
-                AI pipeline. Content is synthesized and reformulated — always refer to the original
+                AI pipeline. Content is synthesized and reformulated - always refer to the original
                 source for full details.
               </p>
             </div>

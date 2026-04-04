@@ -70,7 +70,7 @@ export function ToolsClientPage({ tools }: Props) {
         })}
       </div>
 
-      {/* Featured tool — only show on All tab */}
+      {/* Featured tool - only show on All tab */}
       {active === 'All' && (
         <div className="mb-8">
           <ToolCard tool={featuredTool} featured />

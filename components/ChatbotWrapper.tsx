@@ -7,11 +7,11 @@ export function ChatbotWrapper() {
 
   // Build compact context string for the system prompt
   const articleLines = articles
-    .map((a) => `[${a.category}] ${a.title} — ${a.summary} (${a.source})`)
+    .map((a) => `[${a.category}] ${a.title} - ${a.summary} (${a.source})`)
     .join('\n');
 
   const sapLines = sapUpdates
-    .map((u) => `[SAP ${u.product}] ${u.title} — ${u.summary}`)
+    .map((u) => `[SAP ${u.product}] ${u.title} - ${u.summary}`)
     .join('\n');
 
   const articleContext = `AI NEWS:\n${articleLines}\n\nSAP AI UPDATES:\n${sapLines}`;
@@ -27,7 +27,7 @@ export function ChatbotWrapper() {
     .map(([cat, n]) => `${cat} (${n})`)
     .join(', ');
 
-  const digestSummary = `👋 Hi! I'm NeuralPulse AI — your guide to today's AI & SAP news.\n\n📰 **Today's digest:** ${articles.length} articles tracked across ${topCatsSorted}.\n\n🔝 **Top story:** ${articles[0]?.title ?? 'No stories yet'}\n\nAsk me anything about AI or SAP — I'm grounded in today's latest articles.`;
+  const digestSummary = `👋 Hi! I'm NeuralPulse AI - your guide to today's AI & SAP news.\n\n📰 **Today's digest:** ${articles.length} articles tracked across ${topCatsSorted}.\n\n🔝 **Top story:** ${articles[0]?.title ?? 'No stories yet'}\n\nAsk me anything about AI or SAP - I'm grounded in today's latest articles.`;
 
   return <Chatbot articleContext={articleContext} digestSummary={digestSummary} />;
 }

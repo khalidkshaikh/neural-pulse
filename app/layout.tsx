@@ -7,19 +7,19 @@ import { BackToTop } from '@/components/BackToTop';
 import { FeedbackForm } from '@/components/FeedbackForm';
 
 export const metadata: Metadata = {
-  title: 'NeuralPulse — AI & SAP AI Intelligence Platform',
+  title: 'NeuralPulse - AI & SAP AI Intelligence Platform',
   description:
     'The Bloomberg terminal for AI news. Automated daily intelligence on model releases, AI tools, open-source repos, and SAP AI ecosystem updates.',
   keywords: ['AI news', 'SAP AI', 'Joule', 'AI Core', 'Generative AI Hub', 'LLM', 'AI tools'],
   openGraph: {
-    title: 'NeuralPulse — AI & SAP AI Intelligence Platform',
+    title: 'NeuralPulse - AI & SAP AI Intelligence Platform',
     description: 'Automated daily AI intelligence: model releases, tool launches, open-source trends, and SAP AI updates.',
     type: 'website',
   },
 };
 
 /**
- * Runs before first paint — reads localStorage and sets the correct theme
+ * Runs before first paint - reads localStorage and sets the correct theme
  * class on <html> with zero flash. Defaults to dark.
  */
 const themeScript = `(function(){try{var t=localStorage.getItem('np-theme');if(t==='light'){document.documentElement.classList.remove('dark')}else{document.documentElement.classList.add('dark')}}catch(e){document.documentElement.classList.add('dark')}})()`;

@@ -1,16 +1,11 @@
 /**
- * ArticleCover — instant, branded SVG cover art.
+ * ArticleCover - instant, branded SVG cover art.
  * No external requests. Deterministic from slug (same article = same image).
  * Matches NeuralPulse dark glassmorphism theme: grid overlay, radial orbs,
  * neural-network node graph, category-specific color palette.
  */
 
-interface Props {
-  category: string;
-  slug: string;
-}
-
-// Linear congruential generator — deterministic, no Math.random()
+// Linear congruential generator - deterministic, no Math.random()
 function createRng(seed: number) {
   let s = (Math.abs(seed) % 2_147_483_646) + 1;
   return () => {

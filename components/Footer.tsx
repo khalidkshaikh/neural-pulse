@@ -136,7 +136,7 @@ export function Footer() {
 
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
             <p className="text-xs text-slate-600">
-              © 2026 NeuralPulse. AI-generated content — always verify with primary sources.
+              © 2026 NeuralPulse. AI-generated content - always verify with primary sources.
             </p>
             <div className="flex items-center gap-4 text-xs text-slate-600">
               <a href="#" className="hover:text-slate-400 transition-colors">Privacy</a>

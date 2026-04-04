@@ -79,7 +79,7 @@ export function Navbar() {
           {/* Theme toggle */}
           <ThemeToggle />
 
-          {/* Hamburger — mobile only */}
+          {/* Hamburger - mobile only */}
           <button
             onClick={() => setMenuOpen((v) => !v)}
             className="md:hidden w-8 h-8 flex items-center justify-center rounded-lg bg-black/[0.04] dark:bg-white/[0.04] border border-black/[0.07] dark:border-white/[0.07] text-slate-600 dark:text-slate-400 hover:bg-black/[0.07] dark:hover:bg-white/[0.07] transition-colors"

@@ -23,11 +23,11 @@ export function FeedbackForm() {
     try {
       const payload: Record<string, string> = {
         access_key: process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? '',
-        subject: `NeuralPulse Feedback — ${rating}/5 stars from ${form.name}`,
+        subject: `NeuralPulse Feedback - ${rating}/5 stars from ${form.name}`,
         from_name: form.name || 'Anonymous',
         message: `Rating: ${rating}/5 stars\n\n${form.message}`,
       };
-      // Only include email if provided — empty email causes Web3Forms validation error
+      // Only include email if provided - empty email causes Web3Forms validation error
       if (form.email) payload.email = form.email;
 
       const res = await fetch('https://api.web3forms.com/submit', {

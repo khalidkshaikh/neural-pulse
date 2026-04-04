@@ -21,7 +21,7 @@ export default function ToolsPage() {
               <span className="gradient-text-cyan">That Matters</span>
             </h1>
             <p className="text-lg text-slate-400 font-light max-w-xl">
-              {tools.length}+ tools across LLMs, image gen, video, coding, agents, writing, voice, and more — with direct links.
+              {tools.length}+ tools across LLMs, image gen, video, coding, agents, writing, voice, and more - with direct links.
             </p>
           </div>
           <div className="hidden md:flex flex-col gap-3 flex-shrink-0">

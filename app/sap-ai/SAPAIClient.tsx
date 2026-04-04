@@ -12,7 +12,7 @@ const productDescriptions: Record<string, string> = {
   'AI Core': 'The foundation for running and serving AI models in the SAP ecosystem',
   'Generative AI Hub': 'Access to 20+ LLMs via a unified API inside SAP AI Core',
   'Business AI': 'AI capabilities embedded into SAP business processes',
-  BTP: 'SAP Business Technology Platform — cloud platform for AI extension',
+  BTP: 'SAP Business Technology Platform - cloud platform for AI extension',
   Community: 'Top questions, discussions, and guides from the SAP AI community',
 };
 
@@ -49,7 +49,7 @@ export default function SAPAIClient({ sapUpdates }: { sapUpdates: SAPUpdate[] })
           <span className="gradient-text-emerald">Ecosystem</span>
         </h1>
         <p className="text-lg text-slate-400 font-light max-w-xl">
-          Daily monitoring of SAP Business AI: Joule, AI Core, Generative AI Hub, and the entire SAP AI ecosystem — without digging through multiple SAP channels.
+          Daily monitoring of SAP Business AI: Joule, AI Core, Generative AI Hub, and the entire SAP AI ecosystem - without digging through multiple SAP channels.
         </p>
       </div>
 
