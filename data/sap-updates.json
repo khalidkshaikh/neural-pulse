@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of April 5, 2026",
+    "title": "Weekly SAP AI Digest — Week of April 4, 2026",
     "summary": "This week in SAP AI: SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems, Showcasing AI Innovation, AI Road Map and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-04T19:47:06.618Z",
+    "publishedAt": "2026-04-04T21:29:32.060Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems",
-    "summary": "SAP Transportation Management supports resilient, intelligent, and sustainable transportation operations.",
+    "summary": "SAP has been named a Leader in Gartner's 2026 Magic Quadrant for Transportation Management Systems. This recognition highlights SAP's capabilities in supporting intelligent, sustainable, and resilient transportation operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-01T15:05:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Showcasing AI Innovation: Hasso Plattner Founders’ Award 2025 Winners Announced",
-    "summary": "From 254 submissions, two teams were selected and awarded the prestigious recognition.",
+    "summary": "Two teams selected for the Hasso Plattner Founders' Award 2025 from 254 submissions. The winners showcase AI innovation, highlighting advancements in the field.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-01T10:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "AI Road Map: How Accenture Uses AI as a Growth Engine",
-    "summary": "The finance team has saved a combined 57,000 hours annually by having AI generate narrative summaries for reporting.",
+    "summary": "Accenture reports AI saves its finance team 57,000 hours annually by automating narrative summaries. This efficiency boost matters as it highlights AI's potential to significantly reduce labor costs and increase productivity in various industries.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-31T12:15:00.000Z",
@@ -55,7 +55,7 @@
   {
     "id": "4",
     "title": "How Swiss Robotics Company ANYbotics and SAP Are Turning Dirty, Dusty, and Dangerous Industrial Inspections into Busines",
-    "summary": "The combination of robotics and enterprise software is moving swiftly from the experimental stage to real-world implementation.",
+    "summary": "ANYbotics and SAP are integrating robotics and enterprise software for industrial inspections. This collaboration enables businesses to gather insights from previously inaccessible areas, reducing risks and improving operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T12:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "A Cocktail of Intelligent Solutions From SAP Goes Live at Campari Group",
-    "summary": "MILAN — The spirits industry leader is establishing an end-to-end digital architecture.",
+    "summary": "SAP's intelligent solutions have gone live at Campari Group, enabling an end-to-end digital architecture. This implementation streamlines operations and enhances decision-making capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T09:00:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "SAP to Acquire Reltio: Make SAP and Non-SAP Data AI-Ready",
-    "summary": "WALLDORF & REDWOOD CITY — Enterprise AI needs trusted context that is open and interoperable across heterogeneous IT landscapes.",
+    "summary": "SAP to acquire Reltio, a data integration company, to make SAP and non-SAP data AI-ready. This acquisition will enable open and interoperable data across heterogeneous IT landscapes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-27T12:00:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "SAP and UnternehmerTUM Drive Co-Innovation in Embodied AI",
-    "summary": "Ideas can lead to tangible results when students, researchers, and SAP teams work together to apply scientific approaches to real-life challenges.",
+    "summary": "SAP and UnternehmerTUM collaborate on co-innovation projects for Embodied AI. \nThis partnership enables the application of scientific approaches to real-life challenges, driving tangible results.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-26T12:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "Team Liquid Turns to Joule to Unlock the Power of Esports Data",
-    "summary": "The world’s largest esports organization is transforming how it manages vast amounts of data.",
+    "summary": "Team Liquid partners with Joule to harness esports data. This collaboration will help the organization analyze and utilize large datasets to improve performance and strategy.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-03-25T11:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Haleon Chooses SAP Solutions to Accelerate Growth Through Technology",
-    "summary": "WALLDORF — The global consumer health company will adopt SAP Business Suite to enhance digital capabilities and advance AI capabilities.",
+    "summary": "Haleon selects SAP Business Suite to boost digital capabilities and AI. This adoption aims to accelerate growth through technology.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-25T09:45:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "How Würth Standardizes B2B E‑Procurement with Customers via SAP Business Network",
-    "summary": "The Würth Group, a subsidiary of Adolf Würth GmbH & Co. KG, is one of the leading players in the development, production, and sale of...",
+    "summary": "The Würth Group standardizes B2B e-procurement with customers through SAP Business Network. This integration enables seamless transactions and streamlined processes with suppliers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-24T12:15:00.000Z",
