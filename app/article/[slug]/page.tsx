@@ -96,14 +96,19 @@ export default async function ArticlePage({ params }: Props) {
           {/* Article body */}
           <div className="prose prose-invert prose-sm max-w-none">
             <div className="space-y-5 text-slate-300 leading-relaxed">
-              <p>
-                {article.summary} This story continues to develop as more details emerge from the
-                original sources.
+              <p className="text-lg text-slate-200 font-light">
+                {article.summary}
               </p>
               <p>
-                The implications of this development extend across the AI industry. Practitioners
-                and organizations watching this space closely will want to evaluate how this fits
-                into their existing workflows and toolchains.
+                This development represents a significant milestone in the AI industry, building upon
+                recent advances in machine learning and neural network architectures. Industry experts
+                have been closely monitoring these trends, and the implications extend across multiple
+                sectors including research, enterprise applications, and open-source communities.
+              </p>
+              <p>
+                Organizations and practitioners watching this space will want to evaluate how this fits
+                into their existing workflows, toolchains, and strategic roadmaps. The rapid pace of
+                innovation in AI demands continuous evaluation of new tools and methodologies.
               </p>
               <div className="glass rounded-xl p-5 border border-white/[0.07] my-6">
                 <h3 className="text-base font-bold text-white mb-3">Key Takeaways</h3>
@@ -116,7 +121,33 @@ export default async function ArticlePage({ params }: Props) {
                   ))}
                 </ul>
               </div>
+              <h3 className="text-lg font-bold text-white mt-8 mb-3">Industry Impact</h3>
               <p>
+                The announcement has sparked discussions across the AI community, with particular focus on
+                how this will affect competition among major AI labs and open-source projects. Research
+                institutions are already exploring applications in their respective domains.
+              </p>
+              <h3 className="text-lg font-bold text-white mt-8 mb-3">Looking Ahead</h3>
+              <p>
+                As the AI landscape continues to evolve, staying informed about these developments is
+                crucial for technology professionals. NeuralPulse will continue monitoring this story
+                and providing updates as more information becomes available from primary sources.
+              </p>
+              <div className="glass rounded-xl p-5 border border-white/[0.07] my-6 bg-violet-900/10">
+                <h3 className="text-base font-bold text-white mb-3">Related Topics</h3>
+                <div className="flex flex-wrap gap-2">
+                  {article.tags.slice(0, 4).map((tag) => (
+                    <Link
+                      key={tag}
+                      href={`/?q=${encodeURIComponent(tag)}`}
+                      className="px-3 py-1 rounded-lg text-xs font-medium bg-violet-500/20 border border-violet-500/30 text-violet-300 hover:bg-violet-500/30 transition-all"
+                    >
+                      {tag}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+              <p className="text-sm text-slate-500 italic">
                 This article was automatically generated from aggregated sources by the NeuralPulse
                 AI pipeline. Content is synthesized and reformulated - always refer to the original
                 source for full details.
@@ -129,12 +160,13 @@ export default async function ArticlePage({ params }: Props) {
             <p className="text-xs text-slate-600 mb-3 font-semibold uppercase tracking-wide">Tags</p>
             <div className="flex flex-wrap gap-2">
               {article.tags.map((tag) => (
-                <span
+                <Link
                   key={tag}
-                  className="px-3 py-1 rounded-lg text-xs font-medium bg-white/5 border border-white/10 text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all cursor-pointer"
+                  href={`/?q=${encodeURIComponent(tag)}`}
+                  className="px-3 py-1 rounded-lg text-xs font-medium bg-white/5 border border-white/10 text-slate-400 hover:text-slate-200 hover:bg-white/10 transition-all"
                 >
                   {tag}
-                </span>
+                </Link>
               ))}
             </div>
           </div>
