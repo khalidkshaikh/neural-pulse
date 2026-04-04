@@ -19,11 +19,21 @@ export default function HomePage() {
   const gridArticles = newsArticles.filter((a) => !a.featured);
   const latestSAPUpdates = sapUpdates.filter((u) => !u.isWeeklyDigest).slice(0, 3);
 
+  const now = new Date();
+  const articlesToday = newsArticles.filter(
+    (a) => now.getTime() - new Date(a.publishedAt).getTime() < 86_400_000
+  ).length;
+  const sapToday = sapUpdates.filter(
+    (u) => !u.isWeeklyDigest && now.getTime() - new Date(u.publishedAt).getTime() < 86_400_000
+  ).length;
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 pb-16">
       <Hero
-        articlesToday={newsArticles.length}
+        articlesToday={articlesToday}
+        totalArticles={newsArticles.length}
         sourcesMonitored={87}
+        sapUpdatesToday={sapToday}
         lastUpdated={timeAgo(featuredArticle.publishedAt)}
       />
 

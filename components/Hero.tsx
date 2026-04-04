@@ -2,11 +2,13 @@ import { Sparkles, TrendingUp, Cpu, Globe } from 'lucide-react';
 
 interface HeroProps {
   articlesToday: number;
+  totalArticles: number;
   sourcesMonitored: number;
+  sapUpdatesToday: number;
   lastUpdated: string;
 }
 
-export function Hero({ articlesToday, sourcesMonitored, lastUpdated }: HeroProps) {
+export function Hero({ articlesToday, totalArticles, sourcesMonitored, sapUpdatesToday, lastUpdated }: HeroProps) {
   return (
     <section className="relative pt-20 pb-16 px-4 sm:px-6 overflow-hidden">
       {/* Hero glow */}
@@ -33,9 +35,11 @@ export function Hero({ articlesToday, sourcesMonitored, lastUpdated }: HeroProps
 
           {/* Stats row */}
           <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-8 animate-fade-up-delay-2">
-            <StatCard icon={<TrendingUp className="w-4 h-4 text-violet-400" />} value={articlesToday} label="Articles Today" color="violet" />
+            <StatCard icon={<TrendingUp className="w-4 h-4 text-violet-400" />} value={articlesToday} label="AI Today" color="violet" />
             <div className="hidden sm:block w-px h-10 bg-white/10" />
-            <StatCard icon={<Globe className="w-4 h-4 text-cyan-400" />} value={sourcesMonitored} label="Sources Monitored" color="cyan" />
+            <StatCard icon={<Globe className="w-4 h-4 text-cyan-400" />} value={totalArticles} label="Total Articles" color="cyan" />
+            <div className="hidden sm:block w-px h-10 bg-white/10" />
+            <StatCard icon={<Sparkles className="w-4 h-4 text-amber-400" />} value={sapUpdatesToday} label="SAP Today" color="amber" />
             <div className="hidden sm:block w-px h-10 bg-white/10" />
             <StatCard icon={<Cpu className="w-4 h-4 text-emerald-400" />} value={lastUpdated} label="Last Updated" color="emerald" isText />
           </div>

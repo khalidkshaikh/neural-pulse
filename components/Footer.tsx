@@ -57,6 +57,12 @@ export function Footer() {
                 tools, open-source projects, and SAP AI ecosystem updates.
               </p>
               <div className="flex items-center gap-2">
+                <a href="https://khalidkshaikh.github.io/neural-pulse" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-slate-400 text-xs font-medium hover:bg-white/10 hover:text-violet-300 transition-colors" title="Live Website">
+                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/>
+                  </svg>
+                  neuralpulse.app
+                </a>
                 <a href="https://github.com/xdrkzx1/neural-pulse" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-lg bg-white/5 border border-white/10 flex items-center justify-center hover:bg-white/10 transition-colors">
                   <Github className="w-3.5 h-3.5 text-slate-400" />
                 </a>
@@ -142,6 +148,7 @@ export function Footer() {
               <a href="#" className="hover:text-slate-400 transition-colors">Privacy</a>
               <a href="#" className="hover:text-slate-400 transition-colors">Terms</a>
               <a href="#" className="hover:text-slate-400 transition-colors">RSS Feed</a>
+              <a href="https://khalidkshaikh.github.io/neural-pulse" target="_blank" rel="noopener noreferrer" className="text-violet-400 hover:text-violet-300 transition-colors">Live Site</a>
             </div>
           </div>
         </div>
