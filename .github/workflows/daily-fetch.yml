@@ -1,10 +1,9 @@
 name: Daily AI News Fetch
 
 on:
-  # Run twice a day — 7:00 AM UTC (morning) and 7:00 PM UTC (evening)
+  # Run every 3 hours — 8 times per day
   schedule:
-    - cron: '0 7 * * *'
-    - cron: '0 19 * * *'
+    - cron: '0 */3 * * *'
 
   # Also allow manual trigger from GitHub Actions UI
   workflow_dispatch:
@@ -93,7 +92,7 @@ jobs:
       - name: Summary
         run: |
           if [ "${{ steps.changes.outputs.changed }}" == "true" ]; then
-            echo "### ✅ Fetch + Deploy complete" >> $GITHUB_STEP_SUMMARY
+            echo "### ✅ Fetch + Deploy complete (every 3 hours)" >> $GITHUB_STEP_SUMMARY
           else
             echo "### ℹ️ No new articles — skipped deployment" >> $GITHUB_STEP_SUMMARY
           fi
