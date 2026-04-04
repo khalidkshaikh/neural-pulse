@@ -5,6 +5,11 @@
  * neural-network node graph, category-specific color palette.
  */
 
+interface Props {
+  category: string;
+  slug: string;
+}
+
 // Linear congruential generator - deterministic, no Math.random()
 function createRng(seed: number) {
   let s = (Math.abs(seed) % 2_147_483_646) + 1;
