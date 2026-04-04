@@ -127,7 +127,6 @@ const AI_SOURCES = [
   { name: 'Papers in Code',    url: 'https://www.papersincode.com/feed',                                   category: 'Research' },
   { name: 'ArXiv Sanity',      url: 'https://arxiv-sanity.com/rss',                                         category: 'Research' },
   { name: 'Hacker News AI',    url: 'https://hnrss.org/newest?q=AI',                                        category: 'Industry' },
-  { name: 'Lobsters AI',       url: 'https://lobste.rs/rss',                                                category: 'Industry' },
   { name: 'Reddit r/MachineLearning', url: 'https://www.reddit.com/r/MachineLearning.rss',               category: 'Research' },
   { name: 'Reddit r/ArtificialIntelligence', url: 'https://www.reddit.com/r/ArtificialIntelligence.rss',  category: 'Industry' },
   { name: 'Reddit r/LocalLLaMA', url: 'https://www.reddit.com/r/LocalLLaMA.rss',                          category: 'Open Source' },
