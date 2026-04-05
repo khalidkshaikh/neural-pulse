@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems, Showcasing AI Innovation, AI Road Map and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-05T18:41:07.815Z",
+    "publishedAt": "2026-04-05T21:29:44.870Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Showcasing AI Innovation: Hasso Plattner Founders’ Award 2025 Winners Announced",
-    "summary": "Two teams were selected from 254 submissions for the Hasso Plattner Founders' Award 2025. This prestigious recognition highlights innovative AI projects.",
+    "summary": "Two teams have been selected as winners of the Hasso Plattner Founders' Award 2025 for AI innovation. This recognition honors exceptional AI achievements from 254 submissions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-01T10:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "AI Road Map: How Accenture Uses AI as a Growth Engine",
-    "summary": "Accenture's finance team uses AI to generate narrative summaries, saving 57,000 hours annually. This efficiency boost matters as it highlights AI's potential to significantly reduce manual labor and drive business growth.",
+    "summary": "Accenture's finance team saves 57,000 hours annually with AI-generated narrative summaries. This efficiency boost highlights AI's potential to significantly reduce manual labor and drive business growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-31T12:15:00.000Z",
@@ -55,7 +55,7 @@
   {
     "id": "4",
     "title": "How Swiss Robotics Company ANYbotics and SAP Are Turning Dirty, Dusty, and Dangerous Industrial Inspections into Busines",
-    "summary": "ANYbotics and SAP are deploying robots for industrial inspections, reducing human risk. This integration of robotics and enterprise software is moving from experimentation to real-world implementation.",
+    "summary": "ANYbotics and SAP are integrating robotics and enterprise software for industrial inspections, enabling safer and more efficient data collection. This collaboration matters as it brings automation and insights to previously hazardous and labor-intensive tasks.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T12:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "A Cocktail of Intelligent Solutions From SAP Goes Live at Campari Group",
-    "summary": "SAP's intelligent solutions go live at Campari Group, enabling an end-to-end digital architecture. This implementation streamlines operations for the spirits industry leader.",
+    "summary": "SAP's intelligent solutions go live at Campari Group, enabling end-to-end digital architecture. This implementation streamlines operations and enhances efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T09:00:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "SAP to Acquire Reltio: Make SAP and Non-SAP Data AI-Ready",
-    "summary": "SAP is acquiring Reltio to integrate AI-ready capabilities across diverse data sources. This move enables seamless data integration and AI analysis across SAP and non-SAP systems.",
+    "summary": "SAP is acquiring Reltio to make SAP and non-SAP data AI-ready. This move enables open and interoperable data across heterogeneous IT landscapes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-27T12:00:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "SAP and UnternehmerTUM Drive Co-Innovation in Embodied AI",
-    "summary": "SAP and UnternehmerTUM collaborate on embodied AI innovation through joint projects. Students, researchers, and SAP teams co-create solutions to real-world challenges using scientific approaches.",
+    "summary": "SAP and UnternehmerTUM collaborate on co-innovation projects applying embodied AI to real-world challenges. This partnership drives tangible results from scientific ideas.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-26T12:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "Team Liquid Turns to Joule to Unlock the Power of Esports Data",
-    "summary": "Team Liquid partners with Joule to harness and analyze esports data. This collaboration enables the organization to unlock insights and make data-driven decisions.",
+    "summary": "Team Liquid partners with Joule to leverage AI and data analytics for esports. This collaboration aims to unlock insights from vast amounts of data, enhancing team performance and strategy.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-03-25T11:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Haleon Chooses SAP Solutions to Accelerate Growth Through Technology",
-    "summary": "Haleon selects SAP Business Suite to boost digital capabilities and AI. This move will help Haleon accelerate growth through technology adoption.",
+    "summary": "Haleon selects SAP Business Suite to boost digital capabilities and AI. This adoption aims to accelerate growth through technology.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-25T09:45:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "How Würth Standardizes B2B E‑Procurement with Customers via SAP Business Network",
-    "summary": "The Würth Group standardized B2B e-procurement with customers using SAP Business Network. This integration enables seamless transactions and real-time visibility into the supply chain.\n\nThis matters because it streamlines business processes and improves supply chain efficiency.",
+    "summary": "Würth Group standardizes B2B e-procurement with customers via SAP Business Network. This allows seamless integration and exchange of data with suppliers and buyers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-24T12:15:00.000Z",
