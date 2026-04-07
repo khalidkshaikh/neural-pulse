@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: The Top Innovators of 2026, SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems, Showcasing AI Innovation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-07T19:01:03.637Z",
+    "publishedAt": "2026-04-07T21:40:44.475Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "The Top Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-    "summary": "SAP announces finalists for its 2026 Innovation Award, highlighting companies using its tech to adapt to change. This matters as it showcases successful applications of SAP technology in real-world scenarios.",
+    "summary": "SAP announces its 2026 Innovation Award finalists, recognizing companies that leverage SAP technology to navigate complexity. This matters as it highlights the growing importance of adaptability and innovation in the face of change.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-07T13:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems",
-    "summary": "SAP Transportation Management has been named a Leader in Gartner's 2026 Magic Quadrant for Transportation Management Systems. This recognition highlights SAP's capabilities in supporting resilient, intelligent, and sustainable transportation operations.",
+    "summary": "SAP has been named a Leader in the 2026 Gartner Magic Quadrant for Transportation Management Systems. This recognition highlights SAP's Transportation Management capabilities for resilient, intelligent, and sustainable operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-01T15:05:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Showcasing AI Innovation: Hasso Plattner Founders’ Award 2025 Winners Announced",
-    "summary": "Two teams were selected as winners of the 2025 Hasso Plattner Founders' Award for AI innovation. The award recognizes exceptional AI achievements, highlighting advancements in the field.",
+    "summary": "Two teams were selected from 254 submissions for the Hasso Plattner Founders' Award 2025. This prestigious recognition highlights innovative AI solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-01T10:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "AI Road Map: How Accenture Uses AI as a Growth Engine",
-    "summary": "Accenture's finance team saves 57,000 hours annually with AI-generated narrative summaries for reporting. This efficiency boost matters as it highlights AI's potential to drive business growth and productivity.",
+    "summary": "Accenture's finance team uses AI to generate narrative summaries, saving 57,000 hours annually. This automation boosts productivity and frees resources for strategic tasks.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-31T12:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "How Swiss Robotics Company ANYbotics and SAP Are Turning Dirty, Dusty, and Dangerous Industrial Inspections into Busines",
-    "summary": "ANYbotics and SAP are partnering to integrate robotics into industrial inspections, using robots to gather data in hazardous environments. This collaboration matters as it brings business insights from previously inaccessible areas.",
+    "summary": "ANYbotics and SAP are integrating robotics with enterprise software for industrial inspections. This partnership brings business insights to traditionally dirty, dusty, and hazardous tasks.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T12:15:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "A Cocktail of Intelligent Solutions From SAP Goes Live at Campari Group",
-    "summary": "SAP's intelligent solutions have gone live at Campari Group, enabling an end-to-end digital architecture. This implementation streamlines operations and enhances decision-making capabilities.",
+    "summary": "SAP's intelligent solutions go live at Campari Group, creating an end-to-end digital architecture. This marks a significant shift for the spirits industry leader in leveraging technology for operational efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T09:00:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "SAP to Acquire Reltio: Make SAP and Non-SAP Data AI-Ready",
-    "summary": "SAP to acquire Reltio, making SAP and non-SAP data AI-ready. This move enables open and interoperable data across heterogeneous IT landscapes.",
+    "summary": "SAP is acquiring Reltio to integrate its master data management capabilities with SAP's AI technology. This move enables open and interoperable data across heterogeneous IT landscapes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-27T12:00:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "SAP and UnternehmerTUM Drive Co-Innovation in Embodied AI",
-    "summary": "SAP and UnternehmerTUM collaborate on co-innovation projects in Embodied AI, combining scientific approaches with real-life challenges. This partnership drives the application of AI in tangible, practical ways.",
+    "summary": "SAP and UnternehmerTUM collaborate on embodied AI projects, combining academia and industry expertise. This partnership drives co-innovation, translating research into real-world applications.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-26T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Team Liquid Turns to Joule to Unlock the Power of Esports Data",
-    "summary": "Team Liquid partners with Joule to leverage esports data analytics. This collaboration aims to unlock insights and optimize performance.",
+    "summary": "Team Liquid partners with Joule to harness and analyze vast esports data. This collaboration unlocks new insights for strategic decision-making and competitive advantage.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-03-25T11:15:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Haleon Chooses SAP Solutions to Accelerate Growth Through Technology",
-    "summary": "Haleon selects SAP Business Suite to boost digital and AI capabilities. This move enables Haleon to accelerate growth through technology advancements.",
+    "summary": "Haleon selects SAP Business Suite to boost digital capabilities and AI. This adoption aims to accelerate growth through technology.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-25T09:45:00.000Z",
