@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of April 13, 2026",
+    "title": "Weekly SAP AI Digest — Week of April 14, 2026",
     "summary": "This week in SAP AI: SAP SuccessFactors 1H 2026 Release, SAP Extends Contract with Chief People Officer Gina Vargiu-Breuer, AI Is Causing Entry Level Roles to Evolve, Not Vanish—and CHROs Say the Stakes Are Rising and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-13T21:46:25.477Z",
+    "publishedAt": "2026-04-14T02:24:39.617Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP SuccessFactors 1H 2026 Release: Strengthening Connection Across HR and the Business",
-    "summary": "SAP SuccessFactors 1H 2026 Release integrates AI across HR and business functions. This allows AI to continuously impact workforce lifecycle.",
+    "summary": "SAP SuccessFactors releases new 1H 2026 update, emphasizing continuous AI integration across the workforce lifecycle. This matters as it enables more effective AI-driven HR decisions.",
     "product": "Business AI",
     "updateType": "Release",
     "publishedAt": "2026-04-13T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Extends Contract with Chief People Officer Gina Vargiu-Breuer",
-    "summary": "SAP extends Chief People Officer Gina Vargiu-Breuer's contract to January 31, 2030. This extension matters as it indicates continued confidence in her leadership and strategy within the company.",
+    "summary": "SAP extends Chief People Officer Gina Vargiu-Breuer's contract to January 31, 2030. This matters because it indicates continued confidence in her leadership within the company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-10T09:00:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "AI Is Causing Entry Level Roles to Evolve, Not Vanish—and CHROs Say the Stakes Are Rising",
-    "summary": "New research from SAP and Wakefield shows AI is transforming entry-level roles, not eliminating them, with 61% of CHROs citing rising stakes in AI adoption. This shift matters as it redefines the future of work and talent acquisition.",
+    "summary": "New research from SAP and Wakefield shows AI is transforming entry-level roles, not eliminating them. This shift matters as CHROs face rising stakes in adapting HR strategies to AI-driven hiring and talent management.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-08T12:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "The Top Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-    "summary": "SAP announces finalists for its innovation award, highlighting companies using its tech to adapt and innovate. This matters as it showcases successful applications of SAP technology in the face of change.",
+    "summary": "New: SAP announces finalists for its Innovation Award, highlighting companies that leverage its technology to adapt to change. \nWhy it matters: This showcases companies' ability to innovate in complex environments, demonstrating SAP's technology capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-07T13:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems",
-    "summary": "SAP has been named a Leader in Gartner's 2026 Magic Quadrant for Transportation Management Systems. This recognition highlights SAP's capabilities in supporting resilient, intelligent, and sustainable transportation operations.",
+    "summary": "SAP has been named a Leader in Gartner's 2026 Magic Quadrant for Transportation Management Systems. This recognition highlights SAP's Transportation Management capabilities for resilient, intelligent, and sustainable transportation operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-01T15:05:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "Showcasing AI Innovation: Hasso Plattner Founders’ Award 2025 Winners Announced",
-    "summary": "Two teams have been awarded the Hasso Plattner Founders' Award 2025 for AI innovation. This prestigious recognition acknowledges exceptional AI achievements from 254 submissions.",
+    "summary": "Two AI teams have been awarded the Hasso Plattner Founders' Award 2025 from 254 submissions. This prestigious recognition showcases innovative AI achievements.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-01T10:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "AI Road Map: How Accenture Uses AI as a Growth Engine",
-    "summary": "Accenture's finance team uses AI to generate narrative summaries, saving 57,000 hours annually. This automation enables the team to focus on high-value tasks, improving efficiency.",
+    "summary": "Accenture's finance team now uses AI to generate narrative summaries, saving 57,000 hours annually. This efficiency boost matters as it demonstrates AI's potential to significantly reduce labor costs and free up resources for strategic growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-31T12:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "How Swiss Robotics Company ANYbotics and SAP Are Turning Dirty, Dusty, and Dangerous Industrial Inspections into Busines",
-    "summary": "ANYbotics and SAP are integrating robotics and enterprise software for industrial inspections. This collaboration brings business insights to previously hazardous and dusty tasks.",
+    "summary": "ANYbotics and SAP partner to integrate robotics and enterprise software for industrial inspections. This partnership brings automation to hazardous industrial tasks, improving safety and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "A Cocktail of Intelligent Solutions From SAP Goes Live at Campari Group",
-    "summary": "SAP has launched an end-to-end digital architecture for Campari Group, a spirits industry leader. This move enables Campari to streamline operations and make data-driven decisions.",
+    "summary": "SAP's intelligent solutions are live at Campari Group, enabling an end-to-end digital architecture. This implementation streamlines operations for the spirits industry leader.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-30T09:00:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "SAP to Acquire Reltio: Make SAP and Non-SAP Data AI-Ready",
-    "summary": "SAP acquires Reltio to integrate non-SAP data into AI-ready systems. This acquisition enables open and interoperable data across heterogeneous IT landscapes.",
+    "summary": "SAP is acquiring Reltio to integrate AI capabilities across diverse IT systems. This move enables seamless data integration and AI-readiness for both SAP and non-SAP data.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-03-27T12:00:00.000Z",
