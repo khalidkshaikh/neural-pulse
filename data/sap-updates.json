@@ -2,10 +2,10 @@
   {
     "id": "0",
     "title": "Weekly SAP AI Digest — Week of April 16, 2026",
-    "summary": "This week in SAP AI: SAP Cloud Infrastructure, SAP to Announce Results for First Quarter of 2026, How Real NHL® Game Data Is Helping Students Build Analytical Skills for the Future and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
+    "summary": "This week in SAP AI: AI in the Flow of Business Execution, SAP Cloud Infrastructure, SAP to Announce Results for First Quarter of 2026 and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-16T10:14:08.584Z",
+    "publishedAt": "2026-04-16T13:25:42.801Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -16,8 +16,22 @@
   },
   {
     "id": "1",
+    "title": "AI in the Flow of Business Execution: What’s New in SAP Customer Experience Q1 2026",
+    "summary": "SAP releases Q1 2026 updates for Customer Experience, integrating AI for enhanced business execution. This includes AI-driven tools for process automation and decision-making.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-04-16T12:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/04/ai-business-execution-new-sap-customer-experience-q1-2026/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "2",
     "title": "SAP Cloud Infrastructure: Data Centers in Germany Achieve IT-Grundschutz Certification",
-    "summary": "SAP's data centers in Germany have achieved IT-Grundschutz certification, a key security standard. This matters as it reinforces SAP's sovereignty and security in a highly regulated market.",
+    "summary": "SAP's German data centers achieve IT-Grundschutz certification, a key security standard. This matters as it bolsters SAP's sovereign cloud portfolio in a highly security-conscious market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-16T06:00:00.000Z",
@@ -29,9 +43,9 @@
     ]
   },
   {
-    "id": "2",
+    "id": "3",
     "title": "SAP to Announce Results for First Quarter of 2026",
-    "summary": "SAP will announce its Q1 2026 financial results on April 23. This marks the company's quarterly earnings report, providing insight into its recent performance.",
+    "summary": "SAP will release its Q1 2026 earnings on April 23. This marks the company's financial performance after a year of market shifts and technological advancements.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-15T12:05:00.000Z",
@@ -43,9 +57,9 @@
     ]
   },
   {
-    "id": "3",
+    "id": "4",
     "title": "How Real NHL® Game Data Is Helping Students Build Analytical Skills for the Future",
-    "summary": "Real NHL game data is being integrated into an educational game, Business Builders, to teach students analytical skills. This initiative matters as it provides hands-on experience with real-world data.",
+    "summary": "A new educational game, Business Builders, incorporates real NHL game data to teach students analytical skills. This matters because it provides hands-on experience with real-world data.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-15T10:15:00.000Z",
@@ -55,9 +69,9 @@
     "tags": []
   },
   {
-    "id": "4",
+    "id": "5",
     "title": "From Readiness to Resilience: Honoring the 2026 SAP Innovation Award Winners",
-    "summary": "19 companies win 2026 SAP Innovation Awards for combining digital sovereignty, AI, and cloud transformation. This matters as it showcases resilience-building strategies for businesses in a rapidly changing tech landscape.",
+    "summary": "19 companies win 2026 SAP Innovation Awards for combining digital sovereignty, AI, and cloud-based transformation. This matters as it showcases resilient business models that can withstand future disruptions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-14T11:15:00.000Z",
@@ -69,9 +83,9 @@
     ]
   },
   {
-    "id": "5",
+    "id": "6",
     "title": "SAP Business AI: Release Highlights Q1 2026",
-    "summary": "SAP releases new Business AI features in Q1 2026, enhancing AI capabilities for customers. This update matters as it helps businesses derive tangible value from AI technology.",
+    "summary": "SAP Business AI has released new features in Q1 2026, enhancing AI capabilities. This matters as it helps customers derive real business value from AI technology.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-14T10:15:00.000Z",
@@ -83,9 +97,9 @@
     ]
   },
   {
-    "id": "6",
+    "id": "7",
     "title": "SAP SuccessFactors 1H 2026 Release: Strengthening Connection Across HR and the Business",
-    "summary": "SAP SuccessFactors releases its 1H 2026 update, emphasizing seamless AI integration across HR and business functions. This update aims to maximize AI's impact on the entire workforce lifecycle.",
+    "summary": "SAP SuccessFactors releases a new 1H 2026 update, emphasizing AI-driven HR integration. This update focuses on seamless workforce lifecycle management.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-13T12:15:00.000Z",
@@ -97,9 +111,9 @@
     ]
   },
   {
-    "id": "7",
+    "id": "8",
     "title": "SAP Extends Contract with Chief People Officer Gina Vargiu-Breuer",
-    "summary": "SAP extends Chief People Officer Gina Vargiu-Breuer's contract to January 31, 2030. This extension matters as it indicates continued trust in her leadership and strategic direction within the company.",
+    "summary": "SAP extends Chief People Officer Gina Vargiu-Breuer's contract to January 31, 2030. This development matters as it indicates continued stability and commitment to HR leadership within the company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-10T09:00:00.000Z",
@@ -111,9 +125,9 @@
     ]
   },
   {
-    "id": "8",
+    "id": "9",
     "title": "AI Is Causing Entry Level Roles to Evolve, Not Vanish—and CHROs Say the Stakes Are Rising",
-    "summary": "New research from SAP and Wakefield shows AI is transforming entry-level roles, not eliminating them. This shift matters as CHROs face rising stakes in adapting to AI-driven hiring and talent management.",
+    "summary": "New research from SAP and Wakefield shows AI is transforming entry-level roles rather than eliminating them. This shift in job responsibilities matters as CHROs face rising stakes in adapting HR strategies to AI-driven workforce changes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-08T12:15:00.000Z",
@@ -125,9 +139,9 @@
     ]
   },
   {
-    "id": "9",
+    "id": "10",
     "title": "The Top Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-    "summary": "SAP announces 2026 Innovation Award finalists, highlighting companies that successfully adapt to change using SAP technology. This matters as it showcases effective tech implementation in real-world scenarios.",
+    "summary": "SAP announces finalists for its 2026 Innovation Award, highlighting companies that leverage its technology to adapt to change. This matters as it showcases successful implementations of SAP technology in real-world scenarios.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-07T13:15:00.000Z",
@@ -139,7 +153,7 @@
     ]
   },
   {
-    "id": "10",
+    "id": "11",
     "title": "SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems",
     "summary": "SAP has been named a Leader in the 2026 Gartner Magic Quadrant for Transportation Management Systems. This recognition highlights SAP's ability to support resilient, intelligent, and sustainable transportation operations.",
     "product": "Community",
@@ -153,7 +167,7 @@
     ]
   },
   {
-    "id": "11",
+    "id": "12",
     "title": "Showcasing AI Innovation: Hasso Plattner Founders’ Award 2025 Winners Announced",
     "summary": "Two teams have been awarded the Hasso Plattner Founders' Award 2025 for AI innovation. The winners were chosen from 254 submissions, highlighting the growing field of AI advancements.",
     "product": "Community",
@@ -165,7 +179,7 @@
     "tags": []
   },
   {
-    "id": "12",
+    "id": "13",
     "title": "AI Road Map: How Accenture Uses AI as a Growth Engine",
     "summary": "Accenture's finance team now uses AI to generate narrative summaries for reporting, saving 57,000 hours annually. This efficiency gain matters as it showcases AI's potential to drive significant productivity improvements in business operations.",
     "product": "Community",
@@ -177,7 +191,7 @@
     "tags": []
   },
   {
-    "id": "13",
+    "id": "14",
     "title": "How Swiss Robotics Company ANYbotics and SAP Are Turning Dirty, Dusty, and Dangerous Industrial Inspections into Busines",
     "summary": "ANYbotics and SAP are integrating robotics and enterprise software for industrial inspections. This collaboration combines robotic exploration with data analysis for actionable insights.",
     "product": "Community",
@@ -191,7 +205,7 @@
     ]
   },
   {
-    "id": "14",
+    "id": "15",
     "title": "A Cocktail of Intelligent Solutions From SAP Goes Live at Campari Group",
     "summary": "SAP's intelligent solutions go live at Campari Group, establishing an end-to-end digital architecture. This implementation enables the spirits industry leader to streamline operations and enhance decision-making capabilities.",
     "product": "Community",
@@ -205,7 +219,7 @@
     ]
   },
   {
-    "id": "15",
+    "id": "16",
     "title": "SAP to Acquire Reltio: Make SAP and Non-SAP Data AI-Ready",
     "summary": "SAP is acquiring Reltio to make data from both SAP and non-SAP systems AI-ready. This acquisition aims to provide open and interoperable data across heterogeneous IT landscapes.",
     "product": "Community",
@@ -219,7 +233,7 @@
     ]
   },
   {
-    "id": "16",
+    "id": "17",
     "title": "SAP and UnternehmerTUM Drive Co-Innovation in Embodied AI",
     "summary": "SAP and UnternehmerTUM collaborate on embodied AI co-innovation projects. Students, researchers, and SAP teams work together to apply scientific approaches to real-life challenges.",
     "product": "Community",
@@ -233,7 +247,7 @@
     ]
   },
   {
-    "id": "17",
+    "id": "18",
     "title": "Team Liquid Turns to Joule to Unlock the Power of Esports Data",
     "summary": "Team Liquid partners with Joule to leverage esports data. This collaboration aims to unlock insights from vast amounts of data, improving team performance and strategy.",
     "product": "Joule",
@@ -247,7 +261,7 @@
     ]
   },
   {
-    "id": "18",
+    "id": "19",
     "title": "Haleon Chooses SAP Solutions to Accelerate Growth Through Technology",
     "summary": "Haleon selects SAP Business Suite for enhanced digital and AI capabilities. This move aims to accelerate growth through technology adoption.",
     "product": "Community",
@@ -261,7 +275,7 @@
     ]
   },
   {
-    "id": "19",
+    "id": "20",
     "title": "How Würth Standardizes B2B E‑Procurement with Customers via SAP Business Network",
     "summary": "Würth standardizes B2B e-procurement with customers via SAP Business Network. This integration streamlines purchasing processes and provides real-time inventory management.",
     "product": "Community",
@@ -275,7 +289,7 @@
     ]
   },
   {
-    "id": "20",
+    "id": "21",
     "title": "Next‑Gen SAP Ariba Is Here: Building the Foundation for Intelligent Procurement",
     "summary": "SAP Ariba has released its next-gen platform, leveraging AI for intelligent procurement. This update aims to transform the source-to-pay process with AI-driven capabilities.",
     "product": "Community",
@@ -289,7 +303,7 @@
     ]
   },
   {
-    "id": "21",
+    "id": "22",
     "title": "Announcing the 2026 SAP Partner Awards – Global Winners",
     "summary": "SAP has announced the 2026 Partner Awards, recognizing top-performing partners globally. The awards highlight partners that have excelled in delivering value to customers.",
     "product": "Community",
@@ -303,7 +317,7 @@
     ]
   },
   {
-    "id": "22",
+    "id": "23",
     "title": "SAP Distributed Energy Resources Enables the Energy Flexibility Market",
     "summary": "SAP Distributed Energy Resources offers data orchestration for utilities to unlock value from distributed energy resources. This enables the energy flexibility market by providing real-time data management.",
     "product": "Community",
@@ -317,7 +331,7 @@
     ]
   },
   {
-    "id": "23",
+    "id": "24",
     "title": "Strengthening Customer Experience Across the Lead-to-Cash Journey",
     "summary": "Companies are integrating customer experience with operational precision to streamline the lead-to-cash journey. This matters because it enables more efficient and personalized customer interactions.",
     "product": "Community",
@@ -329,7 +343,7 @@
     "tags": []
   },
   {
-    "id": "24",
+    "id": "25",
     "title": "The SAP-NHL Front Office App for iPad: Real-Time, Data-Driven Decisions On the Go",
     "summary": "SAP and the NHL launched a mobile app for iPad, providing real-time data for front office decisions. This app gives teams instant access to critical information, enhancing their ability to make informed decisions.",
     "product": "Community",
@@ -343,7 +357,7 @@
     ]
   },
   {
-    "id": "25",
+    "id": "26",
     "title": "SAP Cloud ERP Private: Delivering Continuous Innovation with FPS01",
     "summary": "SAP Cloud ERP Private now integrates AI capabilities, enhancing its functionality. This update enables continuous innovation and improved performance.",
     "product": "Community",
@@ -357,7 +371,7 @@
     ]
   },
   {
-    "id": "26",
+    "id": "27",
     "title": "International Women’s Day 2026: Building Trust and Equity Through Pay Transparency",
     "summary": "Organizations can now leverage pay transparency to build trust and equity. This shift from compliance to proactive action matters because it promotes fairer work environments.",
     "product": "Community",
@@ -369,7 +383,7 @@
     "tags": []
   },
   {
-    "id": "27",
+    "id": "28",
     "title": "SAP AppHaus Network: Riding the Waves of Change Together",
     "summary": "SAP AppHaus Network held its annual global meet-up, bringing together nearly all members. This event marks a continued commitment to collaboration and innovation within the network.",
     "product": "Community",
@@ -383,7 +397,7 @@
     ]
   },
   {
-    "id": "28",
+    "id": "29",
     "title": "SAP Deepens SmartRecruiters Integration for AI-Driven Hiring and a More Connected HCM Suite",
     "summary": "SAP deepens integration with SmartRecruiters for AI-driven hiring. This integration creates a connected talent architecture for hiring decisions, skills intelligence, and workforce planning.",
     "product": "Community",
@@ -397,7 +411,7 @@
     ]
   },
   {
-    "id": "29",
+    "id": "30",
     "title": "Why Generative UI Is the New Frontier for Business Software",
     "summary": "Generative UI technology allows software to dynamically create user interfaces based on user input and context. This innovation matters because it can revolutionize business software by providing a more personalized and adaptive user experience.",
     "product": "Community",
