@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of April 18, 2026",
+    "title": "Weekly SAP AI Digest — Week of April 19, 2026",
     "summary": "This week in SAP AI: AI in the Flow of Business Execution, SAP Cloud Infrastructure, SAP to Announce Results for First Quarter of 2026 and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-18T21:33:27.502Z",
+    "publishedAt": "2026-04-19T02:30:00.299Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI in the Flow of Business Execution: What’s New in SAP Customer Experience Q1 2026",
-    "summary": "SAP updates its Customer Experience platform with AI-driven tools for improved business execution. AI capabilities are integrated to enhance customer interactions and operational efficiency.",
+    "summary": "SAP introduces AI-powered capabilities in Q1 2026 to enhance business execution. AI is now integrated into the SAP Customer Experience platform.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-16T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Cloud Infrastructure: Data Centers in Germany Achieve IT-Grundschutz Certification",
-    "summary": "SAP Cloud Infrastructure data centers in Germany have achieved IT-Grundschutz certification. This certification strengthens SAP's sovereign cloud portfolio in a highly security-conscious market.",
+    "summary": "SAP Cloud Infrastructure data centers in Germany have achieved IT-Grundschutz certification, a significant security milestone. This matters as it solidifies SAP's position in a highly security-conscious market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-16T06:00:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "SAP to Announce Results for First Quarter of 2026",
-    "summary": "SAP will release its Q1 2026 financial results on April 23. This matters as it will provide insight into the company's performance and growth trajectory.",
+    "summary": "SAP will announce its Q1 2026 financial results on April 23. This marks the company's first earnings release of the year, providing insight into its performance.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-15T12:05:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "How Real NHL® Game Data Is Helping Students Build Analytical Skills for the Future",
-    "summary": "A new Business Builders game uses real NHL game data to teach students analytical skills. This matters because it provides hands-on experience with real-world data.",
+    "summary": "Real NHL game data is being used in a new educational game, Business Builders, to help students develop analytical skills. This matters because it provides students with real-world data experience, preparing them for future careers in data analysis and related fields.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-15T10:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "From Readiness to Resilience: Honoring the 2026 SAP Innovation Award Winners",
-    "summary": "19 companies win 2026 SAP Innovation Awards for combining digital sovereignty, AI, and cloud-based transformation. This matters because it showcases innovative approaches to business resilience.",
+    "summary": "19 companies win 2026 SAP Innovation Awards for combining digital sovereignty, AI, and cloud-based transformation. This matters because it showcases resilience-building strategies in a rapidly changing business landscape.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-14T11:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "SAP Business AI: Release Highlights Q1 2026",
-    "summary": "SAP has released new AI capabilities in Q1 2026 to enhance business value. This update aims to improve AI adoption and utilization for customers.",
+    "summary": "SAP has released new features for its Business AI platform in Q1 2026. This update aims to enhance AI capabilities for customers.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-14T10:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "SAP SuccessFactors 1H 2026 Release: Strengthening Connection Across HR and the Business",
-    "summary": "SAP SuccessFactors releases 1H 2026 update, enhancing HR and business connection. \nThis update matters as AI in HR achieves greatest impact when applied across the entire workforce lifecycle.",
+    "summary": "SAP SuccessFactors has announced its 1H 2026 release, emphasizing AI integration across the entire HR lifecycle. This continuous AI connection aims to deliver greater impact in HR.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-13T12:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "SAP Extends Contract with Chief People Officer Gina Vargiu-Breuer",
-    "summary": "SAP extends Chief People Officer Gina Vargiu-Breuer's contract to January 31, 2030. This extension matters as it indicates the company's confidence in her leadership and strategic direction.",
+    "summary": "SAP extends Chief People Officer Gina Vargiu-Breuer's contract to January 31, 2030. This extension matters as it indicates continued confidence in her leadership role within the company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-10T09:00:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "AI Is Causing Entry Level Roles to Evolve, Not Vanish—and CHROs Say the Stakes Are Rising",
-    "summary": "New research from SAP and Wakefield shows AI is transforming entry-level roles, not eliminating them. This shift matters as CHROs face rising stakes in adapting HR strategies to AI-driven workforce changes.",
+    "summary": "New research from SAP and Wakefield shows AI is transforming entry-level roles, not eliminating them. This shift matters as CHROs face rising stakes in adapting to AI-driven changes in the employee lifecycle.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-08T12:15:00.000Z",
@@ -141,7 +141,7 @@
   {
     "id": "10",
     "title": "The Top Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-    "summary": "SAP has announced its 2026 Innovation Award finalists, recognizing companies that leverage SAP technology to adapt to change. This matters because it highlights the importance of technology in driving business resilience and innovation.",
+    "summary": "SAP announces finalists for its 2026 Innovation Award, recognizing companies using its technology to adapt and innovate. This matters as it highlights successful applications of SAP technology in the face of change and complexity.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-07T13:15:00.000Z",
