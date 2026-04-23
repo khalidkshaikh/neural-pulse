@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of April 22, 2026",
+    "title": "Weekly SAP AI Digest — Week of April 23, 2026",
     "summary": "This week in SAP AI: AI Is Raising the Bar for Customer Experience, SAP and Google Cloud Expand Partnership to Deploy Multi-Agent AI, Using AI to Scale Social Impact and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-22T21:50:13.819Z",
+    "publishedAt": "2026-04-23T02:28:01.408Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI Is Raising the Bar for Customer Experience: SAP and Google Cloud Are Building What Comes Next",
-    "summary": "SAP and Google Cloud are developing AI-powered customer experience tools through multi-agent orchestration. This technology connects trusted enterprise data to improve customer interactions.",
+    "summary": "SAP and Google Cloud are developing AI-powered customer experience technology through multi-agent orchestration. This innovation connects trusted enterprise data for enhanced customer interactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T12:00:00.000Z",
@@ -33,7 +33,7 @@
   {
     "id": "2",
     "title": "SAP and Google Cloud Expand Partnership to Deploy Multi-Agent AI",
-    "summary": "SAP and Google Cloud have expanded their partnership to deploy multi-agent AI, enabling marketers to use AI agents at scale. This collaboration will integrate AI capabilities into marketing workflows.",
+    "summary": "SAP and Google Cloud expand partnership to deploy multi-agent AI, enabling large-scale AI agent deployment. This collaboration allows marketers to utilize AI agents more efficiently.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T12:00:00.000Z",
@@ -49,7 +49,7 @@
   {
     "id": "3",
     "title": "Using AI to Scale Social Impact",
-    "summary": "AI is being leveraged to amplify social impact by partnering with innovators, scaling solutions, and driving positive change. This matters because it enables socially responsible businesses to grow while achieving meaningful goals.",
+    "summary": "Researchers are applying AI to amplify social impact initiatives, combining tech with innovation to drive positive change. This matters as it can help scale meaningful projects, increasing their reach and effectiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T11:15:00.000Z",
@@ -61,7 +61,7 @@
   {
     "id": "4",
     "title": "The Engagement Divide: 15 Reasons It’s Time to Fix CX",
-    "summary": "Customers now expect seamless, omnichannel experiences. Technology has created new standards for customer engagement, making poor experiences increasingly unacceptable.",
+    "summary": "Customers now expect seamless, personalized experiences across all touchpoints. This shift demands companies adapt their CX strategies to meet evolving expectations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-21T12:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "SAP at Hannover Messe 2026: Operationalizing Agentic AI to Drive Resilient, End-to-End Manufacturing",
-    "summary": "SAP showcases AI-driven end-to-end supply chain orchestration at Hannover Messe 2026. This matters as it enables resilient manufacturing operations.",
+    "summary": "SAP showcases operationalized agentic AI at Hannover Messe 2026 for resilient manufacturing. This matters as it aims to drive end-to-end supply chain orchestration with AI.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-20T10:15:00.000Z",
@@ -88,7 +88,7 @@
   {
     "id": "6",
     "title": "F1 World Champion Mika Häkkinen Joins SAP Sapphire 2026 in Orlando and Madrid",
-    "summary": "F1 World Champion Mika Häkkinen will attend SAP Sapphire 2026 in Orlando and Madrid. His appearance highlights the connection between high-performance racing and data-driven business strategies.",
+    "summary": "F1 World Champion Mika Häkkinen is joining SAP Sapphire 2026 in Orlando and Madrid. This collaboration highlights the intersection of high-performance racing and data-driven business strategies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-20T09:15:00.000Z",
@@ -103,7 +103,7 @@
   {
     "id": "7",
     "title": "Industry Under Pressure: How SAP and Uhlmann Are Strengthening Value Creation Resilience",
-    "summary": "SAP and Uhlmann unveiled PacXplorer at HANNOVER MESSE 2026. This technology aims to improve value creation resilience through a digitalized packaging process.",
+    "summary": "SAP and Uhlmann unveiled PacXplorer at HANNOVER MESSE 2026, a new platform for value creation resilience. This technology strengthens supply chain management and production efficiency, improving business agility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -117,7 +117,7 @@
   {
     "id": "8",
     "title": "AI in the Flow of Business Execution: What’s New in SAP Customer Experience Q1 2026",
-    "summary": "SAP introduces AI-powered business execution capabilities in Q1 2026, enhancing customer experience. This update brings automation and optimization to business processes, improving efficiency and decision-making.",
+    "summary": "SAP Customer Experience Q1 2026 introduces AI-enhanced business execution capabilities. This integration aims to optimize customer interactions and workflow efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-16T12:15:00.000Z",
@@ -131,7 +131,7 @@
   {
     "id": "9",
     "title": "SAP Cloud Infrastructure: Data Centers in Germany Achieve IT-Grundschutz Certification",
-    "summary": "SAP Cloud Infrastructure's German data centers have achieved IT-Grundschutz certification. This certification strengthens SAP's Sovereign Cloud portfolio in a highly security-conscious market.",
+    "summary": "SAP Cloud Infrastructure data centers in Germany have achieved IT-Grundschutz certification. This certification strengthens SAP's sovereign cloud portfolio in a highly security-conscious market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-16T06:00:00.000Z",
@@ -145,7 +145,7 @@
   {
     "id": "10",
     "title": "SAP to Announce Results for First Quarter of 2026",
-    "summary": "SAP will release its Q1 2026 financial results on April 23. This announcement matters as it will provide insight into the company's performance and growth.",
+    "summary": "SAP will announce its first quarter 2026 results on April 23. This announcement marks the company's quarterly earnings report.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-15T12:05:00.000Z",
