@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of April 25, 2026",
+    "title": "Weekly SAP AI Digest — Week of April 26, 2026",
     "summary": "This week in SAP AI: Information About Upcoming Merger of emarsys interactive services GmbH into SAP SE, SAP Announces Q1 2026 Results, The Real Risk to AI in HR Is Fragmentation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-25T21:35:08.377Z",
+    "publishedAt": "2026-04-26T02:33:22.382Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Information About Upcoming Merger of emarsys interactive services GmbH into SAP SE",
-    "summary": "SAP SE is acquiring emarsys interactive services GmbH, a marketing automation platform. This merger will expand SAP's marketing and customer experience offerings.",
+    "summary": "SAP SE will merge emarsys interactive services GmbH into its entity. The deal aims to expand SAP's customer experience capabilities.\n\nThis matters as it may strengthen SAP's position in the customer experience market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-24T07:45:18.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Announces Q1 2026 Results",
-    "summary": "SAP reports strong Q1 2026 results with 25% growth in cloud backlog and 27% increase in cloud revenue at constant currencies. This matters as it indicates a significant boost in the company's cloud business, a key area of growth in the tech industry.",
+    "summary": "SAP reports 25% growth in current cloud backlog and 27% increase in cloud revenue at constant currencies in Q1 2026. This matters as it indicates a strong start to the year for the company, demonstrating its cloud business momentum.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-23T20:22:30.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "The Real Risk to AI in HR Is Fragmentation",
-    "summary": "Fragmentation in AI-powered HR systems is emerging as a significant risk. This fragmentation can lead to inconsistent decision-making, undermining AI's effectiveness.",
+    "summary": "Fragmentation in AI adoption in HR is emerging as a significant risk. This fragmentation leads to inconsistent decision-making, hindering AI's full potential in HR applications.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-23T10:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "AI Is Raising the Bar for Customer Experience: SAP and Google Cloud Are Building What Comes Next",
-    "summary": "SAP and Google Cloud are developing a multi-agent orchestration system connected to enterprise data. This innovation enables seamless integration and automation of customer experiences.",
+    "summary": "SAP and Google Cloud are developing AI-powered customer experience solutions through multi-agent orchestration and trusted enterprise data integration. This technology matters as it aims to enhance customer interactions and drive business growth through more personalized and efficient experiences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T12:00:00.000Z",
@@ -75,7 +75,7 @@
   {
     "id": "5",
     "title": "SAP and Google Cloud Expand Partnership to Deploy Multi-Agent AI",
-    "summary": "SAP and Google Cloud expand their partnership to deploy multi-agent AI, enabling marketers to utilize AI agents at scale. This collaboration allows for more efficient AI implementation.",
+    "summary": "SAP and Google Cloud expand partnership to deploy multi-agent AI, enabling marketers to utilize AI agents at scale. This partnership matters as it unlocks large-scale AI adoption in marketing.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T12:00:00.000Z",
@@ -91,7 +91,7 @@
   {
     "id": "6",
     "title": "Using AI to Scale Social Impact",
-    "summary": "AI is being leveraged to amplify social impact by scaling innovative solutions to real-world problems. This matters because it can drive meaningful change and create sustainable business models.",
+    "summary": "Researchers explore AI's potential to amplify social impact initiatives. This collaboration can drive scalable solutions to pressing global issues.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T11:15:00.000Z",
@@ -103,7 +103,7 @@
   {
     "id": "7",
     "title": "The Engagement Divide: 15 Reasons It’s Time to Fix CX",
-    "summary": "Customers now expect seamless, personalized experiences across all touchpoints. This shift demands companies adapt their customer experience (CX) strategies to meet evolving expectations.",
+    "summary": "New: Companies must adapt to changing customer expectations driven by technology advancements. \nWhy it matters: Failing to do so risks losing customer engagement and loyalty.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-21T12:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "SAP at Hannover Messe 2026: Operationalizing Agentic AI to Drive Resilient, End-to-End Manufacturing",
-    "summary": "SAP is showcasing operationalized Agentic AI at Hannover Messe 2026 for end-to-end manufacturing. This matters as it enables resilient supply chain orchestration with AI.",
+    "summary": "SAP showcases operationalizing agentic AI at Hannover Messe 2026 for resilient manufacturing. This matters as it enables end-to-end supply chain orchestration with AI.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-20T10:15:00.000Z",
@@ -130,7 +130,7 @@
   {
     "id": "9",
     "title": "F1 World Champion Mika Häkkinen Joins SAP Sapphire 2026 in Orlando and Madrid",
-    "summary": "F1 World Champion Mika Häkkinen joins SAP Sapphire 2026 in Orlando and Madrid. This marks a collaboration between high-performance racing and SAP's data-driven solutions.",
+    "summary": "F1 World Champion Mika Häkkinen is joining SAP Sapphire 2026 in Orlando and Madrid. This collaboration highlights the intersection of high-performance racing and data-driven technology, showcasing SAP's expertise in navigating complex digital landscapes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-20T09:15:00.000Z",
@@ -145,7 +145,7 @@
   {
     "id": "10",
     "title": "Industry Under Pressure: How SAP and Uhlmann Are Strengthening Value Creation Resilience",
-    "summary": "SAP and Uhlmann unveiled PacXplorer at HANNOVER MESSE 2026, a solution strengthening value creation resilience. This technology matters as it likely enhances supply chain efficiency and stability.",
+    "summary": "SAP and Uhlmann unveil PacXplorer at HANNOVER MESSE 2026, a solution for strengthening value creation resilience. This development matters as it addresses industry pressures and enhances operational efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-20T07:00:00.000Z",
