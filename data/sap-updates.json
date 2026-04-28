@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of April 27, 2026",
+    "title": "Weekly SAP AI Digest — Week of April 28, 2026",
     "summary": "This week in SAP AI: From Policy Debate to Practice, Where Do You Stand? Business Transformation Maturity Assessment Tool Now Available, Software Is Entering Its Most Powerful Era and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-27T21:52:18.194Z",
+    "publishedAt": "2026-04-28T02:43:05.101Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "From Policy Debate to Practice: BSI Vice President Thomas Caspers on C3A, Cloud Sovereignty, and SAP",
-    "summary": "BSI Vice President Thomas Caspers discusses the practical implementation of digital sovereignty through C3A and cloud sovereignty. This shift matters as it ensures data protection and control in the face of increasing cloud adoption.",
+    "summary": "BSI Vice President Thomas Caspers is implementing cloud sovereignty through C3A, a cloud computing platform. This marks a shift from policy debate to practical implementation of digital sovereignty.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T13:30:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Where Do You Stand? Business Transformation Maturity Assessment Tool Now Available",
-    "summary": "A new Business Transformation Maturity Assessment Tool is now available to help organizations evaluate their transformation capabilities. This tool matters because it will help companies identify areas for improvement to survive and thrive in a rapidly changing business landscape.",
+    "summary": "A new business transformation maturity assessment tool is now available to help organizations evaluate their digital transformation capabilities. This tool will help companies identify areas for improvement to stay competitive.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T11:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Software Is Entering Its Most Powerful Era",
-    "summary": "Enterprise software is experiencing a surge in power and necessity, driven by AI and cloud computing advancements. This matters because it solidifies software's role as a fundamental business infrastructure, driving long-term growth and resilience.",
+    "summary": "Software stocks are experiencing a selloff, revealing the industry's growing importance. This matters because it highlights the increasing reliance of enterprises on software solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T10:00:00.000Z",
@@ -55,7 +55,7 @@
   {
     "id": "4",
     "title": "Information About Upcoming Merger of emarsys interactive services GmbH into SAP SE",
-    "summary": "SAP SE to merge emarsys interactive services GmbH into its entity. The acquisition is expected to strengthen SAP's customer experience and commerce capabilities.\n\nThis matters as it expands SAP's offerings in customer engagement and commerce.",
+    "summary": "SAP SE is acquiring emarsys, a marketing automation platform, in a merger. The acquisition is subject to regulatory approvals and other conditions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-24T07:45:18.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "SAP Announces Q1 2026 Results",
-    "summary": "SAP reports 25% growth in cloud backlog and 27% increase in cloud revenue at constant currencies in Q1 2026. This matters as it indicates a strong start to the year for SAP's cloud business.",
+    "summary": "SAP reports a 25% increase in current cloud backlog and 27% growth in cloud revenue at constant currencies in Q1 2026. This growth matters as it indicates strong demand for SAP's cloud services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-23T20:22:30.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "The Real Risk to AI in HR Is Fragmentation",
-    "summary": "Fragmentation in AI adoption in HR is a growing concern. It leads to inconsistent decision-making, hindering the technology's full potential.",
+    "summary": "Fragmentation in AI-powered HR systems is emerging as a significant risk. It leads to inconsistent decision-making, hindering the effectiveness of AI-driven HR tools.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-23T10:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "AI Is Raising the Bar for Customer Experience: SAP and Google Cloud Are Building What Comes Next",
-    "summary": "SAP and Google Cloud are developing AI-powered customer experience technology with multi-agent orchestration. This integration connects trusted enterprise data for enhanced customer interactions.",
+    "summary": "SAP and Google Cloud are developing AI-powered customer experience technology through multi-agent orchestration. This innovation connects trusted enterprise data to improve customer interactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T12:00:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "SAP and Google Cloud Expand Partnership to Deploy Multi-Agent AI",
-    "summary": "SAP and Google Cloud expand partnership to deploy multi-agent AI at scale. This collaboration enables marketers to utilize AI agents more efficiently.",
+    "summary": "SAP and Google Cloud expand partnership to deploy multi-agent AI, enabling marketers to utilize AI agents at scale. This partnership matters as it unlocks the potential for more efficient and effective AI-driven marketing strategies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T12:00:00.000Z",
@@ -129,7 +129,7 @@
   {
     "id": "9",
     "title": "Using AI to Scale Social Impact",
-    "summary": "Researchers explore AI's potential to amplify social impact by combining tech with social innovators' visions. This synergy can create a future where profit and purpose align.",
+    "summary": "AI is being leveraged to amplify social impact by pairing technology with social innovators' visions. This convergence enables scalable solutions that merge profit with purpose.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-22T11:15:00.000Z",
@@ -141,7 +141,7 @@
   {
     "id": "10",
     "title": "The Engagement Divide: 15 Reasons It’s Time to Fix CX",
-    "summary": "Customers now expect seamless, omnichannel experiences. This gap between expectation and reality highlights the need for improved customer experience (CX).",
+    "summary": "Customers now expect seamless, personalized experiences across all touchpoints, driven by technological advancements. This shift highlights the need for businesses to prioritize customer experience (CX) to remain competitive.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-21T12:15:00.000Z",
