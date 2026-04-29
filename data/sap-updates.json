@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: With AI, Fast-Growing Companies Could Compete on Innovation, Not Size, TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football, Live AI Use Cases Show How SAP Delivers Trusted Orchestration and Smarter Execution for Manufacturing and Supply Chain M and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-29T19:21:54.201Z",
+    "publishedAt": "2026-04-29T21:58:01.531Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "With AI, Fast-Growing Companies Could Compete on Innovation, Not Size",
-    "summary": "New: SAP's AI and cloud ERP solutions enable smaller companies to compete with larger ones on innovation. \nWhy it matters: This shift in economics levels the playing field, allowing fast-growing companies to succeed despite size disparities.",
+    "summary": "SAP's AI and cloud ERP solutions enable fast-growing companies to compete with larger enterprises through innovation. This shift in economics allows smaller companies to bypass traditional size-based advantages.",
     "product": "Business AI",
     "updateType": "Release",
     "publishedAt": "2026-04-29T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football",
-    "summary": "TSG Hoffenheim and SAP expand partnership to apply AI in football scouting and video analysis. This integration aims to improve team performance and decision-making.",
+    "summary": "TSG Hoffenheim and SAP expand AI co-innovation to enhance football scouting and video analysis. This partnership leverages AI to improve football-specific processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-29T10:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Live AI Use Cases Show How SAP Delivers Trusted Orchestration and Smarter Execution for Manufacturing and Supply Chain M",
-    "summary": "SAP showcased AI-powered innovations for manufacturing and supply chain management at Hannover Messe 2026. This matters as it demonstrates SAP's ability to deliver trusted AI-driven solutions for critical industries.",
+    "summary": "SAP showcased AI-powered innovations for manufacturing and supply chain management at Hannover Messe 2026. This matters as it demonstrates SAP's ability to deliver trusted orchestration and smarter execution in these critical industries.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T13:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "The New SAP AppHaus Walldorf Opens Its Doors for Customers",
-    "summary": "SAP has opened a new AppHaus Walldorf for customers. This facility will integrate customer experience on SAP's Walldorf campus.",
+    "summary": "SAP has opened a new AppHaus on its Walldorf campus. This marks a step towards integrated customer experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T10:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "From Track to Tech: David Coulthard at SAP Sapphire 2026 in Orlando and Madrid",
-    "summary": "David Coulthard, former F1 driver, spoke at SAP Sapphire 2026 about applying racing insights to business transformation. His talk highlighted the parallels between high-performance racing and digital innovation.",
+    "summary": "Formula One legend David Coulthard shares insights on business transformation at SAP Sapphire 2026. He draws parallels between racing and tech innovation to drive business success.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T09:15:00.000Z",
@@ -88,7 +88,7 @@
   {
     "id": "6",
     "title": "How NEC Is Becoming an AI-Native Enterprise with SAP",
-    "summary": "NEC is partnering with SAP to integrate AI capabilities across its business functions. This collaboration will enable NEC to make data-driven decisions and automate processes more efficiently.\n\nWhy it matters: This partnership will help NEC to become more agile and competitive in the market.",
+    "summary": "NEC partners with SAP to integrate AI across its enterprise systems. This collaboration enables NEC to leverage SAP's AI capabilities for enhanced decision-making and operations.\n\nWhy it matters: This partnership boosts NEC's competitiveness in the AI-driven market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T08:15:00.000Z",
@@ -102,7 +102,7 @@
   {
     "id": "7",
     "title": "From Policy Debate to Practice: BSI Vice President Thomas Caspers on C3A, Cloud Sovereignty, and SAP",
-    "summary": "BSI Vice President Thomas Caspers emphasizes practical implementation of digital sovereignty through C3A. This shift focuses on cloud sovereignty and SAP integration.",
+    "summary": "BSI Vice President Thomas Caspers discusses C3A, a German cloud computing initiative, and cloud sovereignty. \nThis practical implementation of digital sovereignty matters as it impacts global data security and governance.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T13:30:00.000Z",
@@ -116,7 +116,7 @@
   {
     "id": "8",
     "title": "Where Do You Stand? Business Transformation Maturity Assessment Tool Now Available",
-    "summary": "A new business transformation maturity assessment tool is now available to help organizations evaluate their ability to adapt and innovate. This tool will help companies identify areas for improvement, enabling them to stay competitive and thrive in a rapidly changing market.",
+    "summary": "A new Business Transformation Maturity Assessment Tool is now available. This tool helps organizations evaluate their ability to transform and adapt to changing environments, a crucial skill for survival and success.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T11:15:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "Information About Upcoming Merger of emarsys interactive services GmbH into SAP SE",
-    "summary": "SAP SE is acquiring emarsys interactive services GmbH in an upcoming merger. The deal will expand SAP's customer experience and marketing capabilities.",
+    "summary": "SAP SE is acquiring emarsys interactive services GmbH, a marketing automation platform provider. This merger will expand SAP's customer experience offerings.\n\nWhy it matters: The acquisition strengthens SAP's position in the marketing automation space.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-24T07:45:18.000Z",
@@ -154,7 +154,7 @@
   {
     "id": "11",
     "title": "SAP Announces Q1 2026 Results",
-    "summary": "SAP reports strong Q1 2026 results with 25% growth in cloud backlog and 27% increase in cloud revenue. This matters as it indicates a significant boost in the company's cloud business.",
+    "summary": "SAP reports 25% growth in current cloud backlog and 27% increase in cloud revenue at constant currencies in Q1 2026. This matters as it indicates a strong start to the year for the company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-23T20:22:30.000Z",
