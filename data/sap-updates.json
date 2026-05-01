@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of April 30, 2026",
+    "title": "Weekly SAP AI Digest — Week of May 1, 2026",
     "summary": "This week in SAP AI: Five Make-or-Break Moments for Your AI Ambitions in 2026, With AI, Fast-Growing Companies Could Compete on Innovation, Not Size, TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-04-30T21:54:59.540Z",
+    "publishedAt": "2026-05-01T02:50:29.765Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Five Make-or-Break Moments for Your AI Ambitions in 2026",
-    "summary": "Evaluating AI now focuses on precision, governance, scalability, and business impact. This shift prioritizes practical applications over theoretical capabilities.",
+    "summary": "AI evaluation criteria expand to precision, governance, scalability, and business impact in 2026. This shift matters as it sets a new standard for AI success, emphasizing practical applications and responsible use.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-30T10:00:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "With AI, Fast-Growing Companies Could Compete on Innovation, Not Size",
-    "summary": "New: SAP's AI and cloud ERP solutions level the playing field for fast-growing companies. \nThis matters because it allows them to compete on innovation, not just size.",
+    "summary": "New: SAP's AI and cloud ERP solutions level the playing field for fast-growing companies. \nThis matters because it allows smaller companies to compete with larger ones on innovation, not just size.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-29T12:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football",
-    "summary": "TSG Hoffenheim and SAP are expanding their AI co-innovation to enhance football-specific processes. This includes scouting and video analysis to gain a competitive edge.",
+    "summary": "TSG Hoffenheim and SAP expand their co-innovation partnership to integrate AI in football. AI will support scouting and video analysis processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-29T10:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Live AI Use Cases Show How SAP Delivers Trusted Orchestration and Smarter Execution for Manufacturing and Supply Chain M",
-    "summary": "SAP showcased AI-powered manufacturing and supply chain innovations at Hannover Messe 2026. This live demonstration highlights SAP's trusted orchestration and smarter execution capabilities for industrial clients.",
+    "summary": "SAP showcased AI-powered innovations for manufacturing and supply chain management at Hannover Messe 2026. This matters as it demonstrates SAP's commitment to delivering trusted orchestration and smarter execution for industries reliant on these processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T13:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "The New SAP AppHaus Walldorf Opens Its Doors for Customers",
-    "summary": "SAP has opened a new AppHaus in Walldorf, a space for customers to collaborate and innovate. This move aims to enhance the customer experience through integrated solutions.",
+    "summary": "SAP has opened a new AppHaus in Walldorf, a dedicated space for customers to collaborate with developers. This marks a significant step towards integrated customer experience on the SAP campus.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T10:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "From Track to Tech: David Coulthard at SAP Sapphire 2026 in Orlando and Madrid",
-    "summary": "Former F1 driver David Coulthard shares insights on business transformation at SAP Sapphire 2026. He draws parallels between racing and technology to inspire innovation.",
+    "summary": "Formula One legend David Coulthard shares business transformation insights at SAP Sapphire 2026. He draws parallels between racing and tech innovation to drive business growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T09:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "How NEC Is Becoming an AI-Native Enterprise with SAP",
-    "summary": "NEC is partnering with SAP to integrate AI capabilities into its enterprise systems. This partnership enables NEC to develop more AI-driven solutions for its customers.",
+    "summary": "NEC is partnering with SAP to integrate AI into its operations, leveraging SAP's AI capabilities and NEC's expertise in data analysis. This collaboration allows NEC to become an AI-native enterprise, streamlining processes and improving decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T08:15:00.000Z",
@@ -114,7 +114,7 @@
   {
     "id": "8",
     "title": "From Policy Debate to Practice: BSI Vice President Thomas Caspers on C3A, Cloud Sovereignty, and SAP",
-    "summary": "BSI is moving from policy debate to practical implementation of digital sovereignty. This shift matters as it sets a precedent for companies to prioritize local data control.",
+    "summary": "BSI Vice President Thomas Caspers discusses practical implementation of digital sovereignty through C3A. Cloud sovereignty is a key focus area for SAP and BSI.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T13:30:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "Where Do You Stand? Business Transformation Maturity Assessment Tool Now Available",
-    "summary": "A new Business Transformation Maturity Assessment Tool is available to help organizations evaluate their transformation capabilities. This tool matters because it will help companies identify areas for improvement and stay competitive in a rapidly changing business landscape.",
+    "summary": "A business transformation maturity assessment tool is now available to help organizations evaluate their transformation capabilities. This tool will identify areas for improvement, enabling companies to adapt and thrive in a rapidly changing market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T11:15:00.000Z",
@@ -152,7 +152,7 @@
   {
     "id": "11",
     "title": "Information About Upcoming Merger of emarsys interactive services GmbH into SAP SE",
-    "summary": "SAP SE announces the merger of emarsys interactive services GmbH into SAP SE. The acquisition is expected to enhance SAP's customer experience and commerce capabilities.",
+    "summary": "SAP SE is acquiring emarsys interactive services GmbH, expanding its customer experience offerings. This merger will integrate emarsys' marketing automation capabilities into SAP's portfolio.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-24T07:45:18.000Z",
