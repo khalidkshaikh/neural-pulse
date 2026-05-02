@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Named a Leader in the IDC MarketScape, Agentic AI Will Change the Market, Five Make-or-Break Moments for Your AI Ambitions in 2026 and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-02T02:32:11.326Z",
+    "publishedAt": "2026-05-02T05:35:00.417Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessmen",
-    "summary": "SAP has been named a Leader in the IDC MarketScape for Worldwide Carbon Accounting and Management Applications for the second time. This recognition highlights SAP's expertise in carbon accounting and management solutions.",
+    "summary": "SAP has been named a Leader in IDC's MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessment for the second time. This recognition solidifies SAP's position as a leading provider of carbon accounting and management solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-01T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Agentic AI Will Change the Market",
-    "summary": "SAP is integrating agentic AI into its ABAP platform, enabling developers to build more autonomous and adaptive applications. This integration will allow businesses to create more efficient and dynamic systems.",
+    "summary": "SAP is integrating Agentic AI into its ABAP platform, enabling developers to build AI-powered applications. This integration will simplify AI development and deployment.\n\nWhy it matters: This shift will accelerate the adoption of AI in enterprise software development, increasing efficiency and competitiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-01T10:15:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "Five Make-or-Break Moments for Your AI Ambitions in 2026",
-    "summary": "Evaluations of AI now focus on precision, governance, scalability, and business impact. This shift highlights the need for practical AI applications that deliver tangible results.",
+    "summary": "Evaluating AI now includes precision, governance, scalability, and business impact. This shift in evaluation criteria matters as it sets a higher standard for AI success in 2026.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-30T10:00:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "With AI, Fast-Growing Companies Could Compete on Innovation, Not Size",
-    "summary": "SAP's Business AI and Cloud ERP have democratized access to cutting-edge tech, enabling smaller companies to compete with larger ones. This shift in economics matters because it levels the playing field for innovation, promoting competition and potentially disrupting traditional industry hierarchies.",
+    "summary": "SAP's AI-powered enterprise software now allows fast-growing companies to compete with larger ones on innovation, not just size. This shift in economics enables smaller companies to access advanced technology previously reserved for large corporations.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-29T12:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football",
-    "summary": "TSG Hoffenheim and SAP expand co-innovation to integrate AI in professional football. AI will support football-specific processes like scouting and video analysis.",
+    "summary": "TSG Hoffenheim and SAP are expanding their AI co-innovation to enhance football-specific processes. This includes scouting and video analysis.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-29T10:15:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "Live AI Use Cases Show How SAP Delivers Trusted Orchestration and Smarter Execution for Manufacturing and Supply Chain M",
-    "summary": "SAP showcased AI-powered manufacturing and supply chain innovations at Hannover Messe 2026. This live demonstration highlights SAP's ability to deliver trusted orchestration and smarter execution for industrial clients.",
+    "summary": "SAP showcased AI-powered innovations for manufacturing and supply chain management at Hannover Messe 2026. These live use cases demonstrate trusted orchestration and smarter execution, enhancing efficiency and productivity.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T13:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "The New SAP AppHaus Walldorf Opens Its Doors for Customers",
-    "summary": "SAP has opened a new AppHaus in Walldorf, a customer-focused innovation space. This development matters as it aims to deliver an integrated customer experience.",
+    "summary": "SAP opens new AppHaus Walldorf, a facility for developing and showcasing customer-centric innovations. This marks a significant step towards delivering seamless, integrated customer experiences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T10:15:00.000Z",
@@ -114,7 +114,7 @@
   {
     "id": "8",
     "title": "From Track to Tech: David Coulthard at SAP Sapphire 2026 in Orlando and Madrid",
-    "summary": "Former Formula One driver David Coulthard shares insights from racing at SAP Sapphire 2026. He applies racing strategies to business transformation.",
+    "summary": "Formula One legend David Coulthard to keynote at SAP Sapphire 2026 in Orlando and Madrid. He will share insights on business transformation inspired by his racing career.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T09:15:00.000Z",
@@ -129,7 +129,7 @@
   {
     "id": "9",
     "title": "How NEC Is Becoming an AI-Native Enterprise with SAP",
-    "summary": "NEC is partnering with SAP to integrate AI into its enterprise operations. This collaboration enables NEC to develop AI-driven business processes and decision-making.",
+    "summary": "NEC partners with SAP to integrate AI capabilities into its enterprise operations. This collaboration enables NEC to leverage SAP's AI expertise and technology.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T08:15:00.000Z",
@@ -143,7 +143,7 @@
   {
     "id": "10",
     "title": "From Policy Debate to Practice: BSI Vice President Thomas Caspers on C3A, Cloud Sovereignty, and SAP",
-    "summary": "BSI Vice President Thomas Caspers emphasizes practical implementation of digital sovereignty. Cloud sovereignty is a key aspect of this, with SAP being a significant player.",
+    "summary": "BSI Vice President Thomas Caspers discusses practical implementation of digital sovereignty through C3A and cloud sovereignty. This shift marks a move from theoretical policy debates to actionable solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-27T13:30:00.000Z",
