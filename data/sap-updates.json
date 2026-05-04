@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe, SAP to Acquire Dremio to Unify SAP and Non-SAP Data to Power Agentic AI, SAP Named a Leader in the IDC MarketScape and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-04T13:54:58.193Z",
+    "publishedAt": "2026-05-04T16:44:32.875Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe",
-    "summary": "SAP is acquiring Prior Labs to establish a leading AI research lab in Europe, combining top AI research with enterprise-ready innovation. This acquisition matters as it strengthens SAP's AI capabilities and enhances its position in the global AI landscape.",
+    "summary": "SAP plans to acquire Prior Labs, a move to establish a leading AI research lab in Europe. This acquisition will turn AI research into enterprise-ready innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-04T11:06:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP to Acquire Dremio to Unify SAP and Non-SAP Data to Power Agentic AI",
-    "summary": "SAP acquires Dremio to unify SAP and non-SAP data. This acquisition will enable customers to access governed, AI-ready intelligence on a single open platform.",
+    "summary": "SAP is acquiring Dremio to integrate SAP and non-SAP data on a unified platform. This move enables customers to access governed, AI-ready intelligence on a single open platform.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-04T11:05:47.000Z",
@@ -47,7 +47,7 @@
   {
     "id": "3",
     "title": "SAP Named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessmen",
-    "summary": "SAP has been named a Leader in the IDC MarketScape for Worldwide Carbon Accounting and Management Applications for the second time. This recognition signifies SAP's continued excellence in carbon management solutions.",
+    "summary": "SAP is named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessment for the second time. This recognition solidifies SAP's position as a leader in carbon accounting and management solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-01T12:15:00.000Z",
@@ -61,7 +61,7 @@
   {
     "id": "4",
     "title": "Agentic AI Will Change the Market",
-    "summary": "SAP is integrating agentic AI into its ABAP platform, enabling self-learning and adaptive code. This change will allow developers to create more efficient and dynamic applications.",
+    "summary": "SAP's Sonja Liénard discusses integrating agentic AI into the ABAP platform, enabling more autonomous and adaptive systems. This integration will allow for real-time data processing and decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-01T10:15:00.000Z",
@@ -76,7 +76,7 @@
   {
     "id": "5",
     "title": "Five Make-or-Break Moments for Your AI Ambitions in 2026",
-    "summary": "Four new AI evaluation criteria emerge: precision, governance, scalability, and business impact. This shift highlights the growing importance of practical AI applications.",
+    "summary": "AI evaluation criteria expand to precision, governance, scalability, and business impact in 2026. This shift matters as it sets a new standard for AI success, emphasizing practical application and accountability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-30T10:00:00.000Z",
@@ -88,7 +88,7 @@
   {
     "id": "6",
     "title": "With AI, Fast-Growing Companies Could Compete on Innovation, Not Size",
-    "summary": "Companies can now compete on innovation, not size, thanks to SAP's AI and cloud ERP solutions. This shift in economics levels the playing field for fast-growing businesses.",
+    "summary": "Companies of all sizes can now compete on innovation with AI, thanks to SAP's Business AI and Cloud ERP. This shift levels the playing field, allowing smaller firms to rival larger ones.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-29T12:15:00.000Z",
@@ -102,7 +102,7 @@
   {
     "id": "7",
     "title": "TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football",
-    "summary": "TSG Hoffenheim and SAP expand co-innovation to integrate AI in football processes. AI will support scouting and video analysis to enhance team performance.",
+    "summary": "TSG Hoffenheim and SAP expand their co-innovation partnership to integrate AI into football processes. AI will support scouting and video analysis for the team.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-29T10:15:00.000Z",
@@ -116,7 +116,7 @@
   {
     "id": "8",
     "title": "Live AI Use Cases Show How SAP Delivers Trusted Orchestration and Smarter Execution for Manufacturing and Supply Chain M",
-    "summary": "SAP showcased AI-powered manufacturing and supply chain innovations at Hannover Messe 2026. This demonstrates SAP's ability to deliver real-time orchestration and smarter execution for industrial operations.",
+    "summary": "SAP showcased AI-powered manufacturing and supply chain innovations at Hannover Messe 2026. This demonstrates the company's ability to deliver trusted orchestration and smarter execution for these industries.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T13:15:00.000Z",
@@ -130,7 +130,7 @@
   {
     "id": "9",
     "title": "The New SAP AppHaus Walldorf Opens Its Doors for Customers",
-    "summary": "SAP has opened its new AppHaus Walldorf, a customer experience hub. This marks a significant step towards integrated customer experience on the company's Walldorf campus.",
+    "summary": "SAP has opened its new AppHaus Walldorf, a space for customers to collaborate on integrated experiences. This matters as it enhances customer interaction and experience with SAP's services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T10:15:00.000Z",
@@ -144,7 +144,7 @@
   {
     "id": "10",
     "title": "From Track to Tech: David Coulthard at SAP Sapphire 2026 in Orlando and Madrid",
-    "summary": "Former F1 driver David Coulthard shares insights on business transformation at SAP Sapphire 2026. He draws parallels between racing and tech innovation to drive business growth.",
+    "summary": "Former F1 driver David Coulthard to speak at SAP Sapphire 2026 in Orlando and Madrid. He will share insights on business transformation inspired by his racing career.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T09:15:00.000Z",
