@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of May 10, 2026",
+    "title": "Weekly SAP AI Digest — Week of May 11, 2026",
     "summary": "This week in SAP AI: SAP Completes Acquisition of Reltio, SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Warehouse Management Systems, SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-10T21:44:35.428Z",
+    "publishedAt": "2026-05-11T02:54:04.462Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Completes Acquisition of Reltio",
-    "summary": "SAP completes acquisition of Reltio, a data integration and AI company. This acquisition enables customers to make their enterprise data, including non-SAP systems, AI-ready.",
+    "summary": "SAP has completed its acquisition of Reltio, a company specializing in master data management. This move enables customers to make both SAP and non-SAP data AI-ready.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-07T18:00:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Warehouse Management Systems",
-    "summary": "SAP has been recognized as a Leader in the 2026 Gartner Magic Quadrant for Warehouse Management Systems for the 12th consecutive time. This recognition reflects the trust customers have in SAP's ability to manage critical logistics operations worldwide.",
+    "summary": "SAP has been named a Leader in the 2026 Gartner Magic Quadrant for Warehouse Management Systems for the 12th consecutive time. This recognition solidifies SAP's position as a trusted provider of logistics operations management solutions worldwide.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-04T16:45:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe",
-    "summary": "SAP is acquiring Prior Labs to establish a leading AI research lab in Europe. This move will turn top AI research into enterprise-ready innovation.",
+    "summary": "SAP to acquire Prior Labs, a European AI research lab. This move establishes SAP as a leading AI innovator in Europe.\n\nThis acquisition matters as it positions SAP to integrate cutting-edge AI research into its enterprise solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-04T11:06:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "SAP to Acquire Dremio to Unify SAP and Non-SAP Data to Power Agentic AI",
-    "summary": "SAP to acquire Dremio, merging SAP and non-SAP data on a unified open platform. This acquisition will enable customers to access governed, AI-ready intelligence.",
+    "summary": "SAP plans to acquire Dremio to unify SAP and non-SAP data on a single platform. This acquisition will enable customers to access governed, AI-ready intelligence, a key step for agentic AI.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-04T11:05:47.000Z",
@@ -75,7 +75,7 @@
   {
     "id": "5",
     "title": "SAP Named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessmen",
-    "summary": "SAP has been named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessment for the second time. This recognition solidifies SAP's position as a leading provider of carbon accounting and management solutions.",
+    "summary": "SAP has been named a Leader in the IDC MarketScape for the second time, in the Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessment. This recognition highlights SAP's leadership in carbon management solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-01T12:15:00.000Z",
@@ -89,7 +89,7 @@
   {
     "id": "6",
     "title": "Agentic AI Will Change the Market",
-    "summary": "SAP's Sonja Liénard discusses integrating agentic AI into the ABAP platform, enabling more autonomous and adaptive applications. This shift will allow businesses to create more sophisticated, self-learning systems.",
+    "summary": "SAP introduces agentic AI capabilities to its ABAP platform, enhancing automation and decision-making. This integration will improve business processes and user experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-01T10:15:00.000Z",
@@ -104,7 +104,7 @@
   {
     "id": "7",
     "title": "Five Make-or-Break Moments for Your AI Ambitions in 2026",
-    "summary": "AI evaluation criteria expand to precision, governance, scalability, and business impact in 2026. This shift emphasizes practical applications and real-world effectiveness, making AI more accountable and results-driven.",
+    "summary": "AI evaluation criteria expand to precision, governance, scalability, and business impact in 2026. This shift matters as it sets a new standard for AI success and accountability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-30T10:00:00.000Z",
@@ -116,7 +116,7 @@
   {
     "id": "8",
     "title": "With AI, Fast-Growing Companies Could Compete on Innovation, Not Size",
-    "summary": "New: SAP's AI and cloud ERP solutions level the playing field for fast-growing companies, enabling them to compete on innovation rather than size. \nThis matters because it democratizes access to enterprise software, allowing smaller companies to compete with larger ones on a more even footing.",
+    "summary": "SAP's AI and cloud ERP solutions level the playing field for fast-growing companies, allowing them to compete with larger enterprises on innovation. This matters because it democratizes access to cutting-edge technology, enabling smaller companies to stay competitive.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-04-29T12:15:00.000Z",
@@ -130,7 +130,7 @@
   {
     "id": "9",
     "title": "TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football",
-    "summary": "TSG Hoffenheim and SAP expand partnership to integrate AI into football processes. AI will support scouting and video analysis for the team.",
+    "summary": "TSG Hoffenheim and SAP expand AI co-innovation to apply AI to football-specific processes. This includes scouting and video analysis to improve team performance.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-29T10:15:00.000Z",
@@ -144,7 +144,7 @@
   {
     "id": "10",
     "title": "Live AI Use Cases Show How SAP Delivers Trusted Orchestration and Smarter Execution for Manufacturing and Supply Chain M",
-    "summary": "SAP showcased AI-powered innovations for manufacturing and supply chain management at Hannover Messe 2026. This matters as it demonstrates SAP's ability to deliver trusted orchestration and smarter execution in key industrial sectors.",
+    "summary": "SAP showcased AI-powered innovations for manufacturing and supply chain management at Hannover Messe 2026. This matters as it demonstrates SAP's ability to deliver trusted orchestration and smarter execution for industries.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-04-28T13:15:00.000Z",
