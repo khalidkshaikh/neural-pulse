@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Unveils the Autonomous Enterprise, Innovation News Guide, SAP and Anthropic Plan to Bring Claude to SAP Business AI Platform and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-12T19:47:48.367Z",
+    "publishedAt": "2026-05-12T22:10:20.412Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Unveils the Autonomous Enterprise",
-    "summary": "SAP introduces the Autonomous Enterprise with a unified SAP Business AI Platform, expanding partnerships with major tech companies. This move solidifies SAP's position in AI and cloud-based services.",
+    "summary": "SAP introduces a unified SAP Business AI Platform, expanding partnerships with major tech companies. This move integrates AI capabilities across the enterprise.",
     "product": "Business AI",
     "updateType": "Release",
     "publishedAt": "2026-05-12T12:35:00.000Z",
@@ -34,7 +34,7 @@
   {
     "id": "2",
     "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
-    "summary": "AI innovation now offers role-specific support, automating workflows to boost business productivity. This advancement enables tailored assistance, streamlining operations and increasing efficiency.",
+    "summary": "AI innovation now offers role-specific support, automating workflows to boost business productivity. This advancement enables tailored assistance, freeing employees from mundane tasks and increasing overall efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-12T12:34:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "SAP and Anthropic Plan to Bring Claude to SAP Business AI Platform",
-    "summary": "SAP and Anthropic partner to integrate Claude, an AI model, into SAP's Business AI Platform. This integration aims to seamlessly incorporate AI capabilities into existing enterprise systems.",
+    "summary": "SAP and Anthropic partner to integrate Claude, a large language model, into SAP's Business AI Platform. This integration aims to bring AI capabilities to existing enterprise systems without rebuilding them.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-12T12:33:00.000Z",
@@ -62,7 +62,7 @@
   {
     "id": "4",
     "title": "Shaping the Future of Secure AI Agents: How SAP and NVIDIA Are Co-Defining Enterprise-Grade Agent Execution",
-    "summary": "SAP and NVIDIA are collaborating to develop enterprise-grade AI agents with built-in security and governance. This ensures safe, governable, and auditable AI execution, reducing risk for businesses.",
+    "summary": "SAP and NVIDIA are collaborating to develop secure AI agents for enterprises. This partnership aims to create AI agents that are safe, governable, and auditable by design, ensuring accountability and trust.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-12T12:32:00.000Z",
@@ -77,7 +77,7 @@
   {
     "id": "5",
     "title": "SAP and AWS Enable Next-Generation AI with Bi-Directional Zero-Copy Data Sharing with SAP Business Data Cloud",
-    "summary": "AWS and SAP now enable bi-directional zero-copy data sharing with SAP Business Data Cloud, allowing seamless access to mission-critical data. This matters because it simplifies data integration and enhances AI capabilities across AWS services.",
+    "summary": "SAP and AWS now enable bi-directional zero-copy data sharing with SAP Business Data Cloud. This allows seamless access to SAP data across AWS services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-12T12:31:00.000Z",
@@ -91,7 +91,7 @@
   {
     "id": "6",
     "title": "SAP and Palantir Enhance Partnership with AI-Supported Data Migration Tooling to Accelerate Enterprise Cloud ERP Transfo",
-    "summary": "SAP and Palantir strengthen their partnership with AI-powered data migration tools. This integration accelerates enterprise cloud ERP transformation.",
+    "summary": "SAP and Palantir have strengthened their partnership with AI-supported data migration tools. This collaboration enables seamless data transfer for cloud ERP transformations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-12T12:30:00.000Z",
@@ -105,7 +105,7 @@
   {
     "id": "7",
     "title": "Expanding the Global RISE with SAP on Microsoft Azure Initiative: Elevating Customer Success with Microsoft and SAP",
-    "summary": "Microsoft and SAP expand their partnership, modernizing SAP workloads on Azure. This initiative elevates customer success by providing a seamless migration experience.",
+    "summary": "Microsoft and SAP expand their partnership to modernize SAP workloads on Azure. This initiative aims to elevate customer success by streamlining SAP workloads on the cloud platform.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-11T13:00:00.000Z",
@@ -120,7 +120,7 @@
   {
     "id": "8",
     "title": "SAP Completes Acquisition of Reltio",
-    "summary": "SAP completes acquisition of Reltio, enabling customers to make their enterprise data AI-ready. This acquisition integrates Reltio's data management capabilities with SAP's offerings, enhancing data utilization.",
+    "summary": "SAP completes acquisition of Reltio to integrate its data management capabilities. This acquisition enables customers to make their enterprise data, including non-SAP systems, AI-ready.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-07T18:00:00.000Z",
@@ -134,7 +134,7 @@
   {
     "id": "9",
     "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Warehouse Management Systems",
-    "summary": "SAP has been recognized as a Leader in the 2026 Gartner Magic Quadrant for Warehouse Management Systems for the 12th consecutive time. This recognition reflects SAP's trusted position in managing critical logistics operations worldwide.",
+    "summary": "SAP has been named a Leader in the 2026 Gartner Magic Quadrant for Warehouse Management Systems for the 12th consecutive time. This recognition reflects the trust customers have in SAP to manage global logistics operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-04T16:45:00.000Z",
@@ -148,7 +148,7 @@
   {
     "id": "10",
     "title": "SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe",
-    "summary": "SAP is acquiring Prior Labs to establish a leading AI research lab in Europe. This move aims to translate cutting-edge AI research into practical, enterprise-ready solutions.",
+    "summary": "SAP is acquiring Prior Labs to establish a leading AI research lab in Europe. This move will integrate cutting-edge AI research into enterprise-ready solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-04T11:06:00.000Z",
