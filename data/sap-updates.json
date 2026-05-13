@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Unveils Business AI Platform to Power the Autonomous Enterprise, A Symphony of Partnership to Ring in the Era of the Autonomous Enterprise, Business Transformation Management Helps Lay the Foundation for the Autonomous Enterprise and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-13T17:14:33.603Z",
+    "publishedAt": "2026-05-13T19:51:49.126Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
-    "summary": "SAP introduces a business AI platform for autonomous enterprises. \nThis platform enables secure, accurate, and scalable agentic AI use.",
+    "summary": "SAP introduces a business AI platform for the autonomous enterprise, leveraging agentic AI. \nThis platform enables accurate, secure, and scalable AI use, driving business transformation.",
     "product": "Business AI",
     "updateType": "Release",
     "publishedAt": "2026-05-13T16:01:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "A Symphony of Partnership to Ring in the Era of the Autonomous Enterprise",
-    "summary": "SAP partners are being leveraged to accelerate the development of the Autonomous Enterprise. This collaboration enables the creation of a seamless, AI-driven business ecosystem.",
+    "summary": "SAP partners will play a crucial role in bringing the Autonomous Enterprise to life. This partnership will enable the development and implementation of autonomous systems and processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T16:00:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "Business Transformation Management Helps Lay the Foundation for the Autonomous Enterprise",
-    "summary": "SAP's Business Transformation Management solutions enable companies to transition to autonomous enterprises. This foundation allows for seamless integration and automation of processes.",
+    "summary": "SAP's Business Transformation Management solutions enable the autonomous enterprise. This lays the groundwork for companies to automate and streamline operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T12:01:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "Accelerate the Autonomous Enterprise with SAP Business Data Cloud",
-    "summary": "SAP introduces Business Data Cloud to accelerate autonomous enterprise adoption. This innovation enables organizations to make data-driven decisions.",
+    "summary": "SAP introduces Business Data Cloud to accelerate autonomous enterprise adoption. This innovation enables seamless data integration and AI-driven decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T12:00:00.000Z",
@@ -74,7 +74,7 @@
   {
     "id": "5",
     "title": "Announcing New Joule Studio for Enterprise Scale Agentic Development",
-    "summary": "Joule Studio is a new, fully managed platform for enterprise-scale AI development. It enables companies to build, manage, and scale AI agents, applications, and workflows.\n\nWhy it matters: This platform streamlines AI development for enterprises, potentially increasing efficiency and scalability.",
+    "summary": "Joule Studio is a fully managed platform for enterprise-scale AI development. It enables companies to build, manage, and scale AI agents, applications, and workflows.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-05-13T11:59:00.000Z",
@@ -89,7 +89,7 @@
   {
     "id": "6",
     "title": "The Future of the Enterprise Is Autonomous",
-    "summary": "Companies are increasingly adopting AI-driven solutions for enterprise operations. This shift to autonomous systems aims to boost innovation, revenue, and margins.",
+    "summary": "Companies are increasingly adopting AI-driven solutions to boost innovation, revenue, and margins. Autonomous technology is becoming essential for enterprise success, driving business outcomes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T10:00:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "SAP Unveils the Autonomous Enterprise",
-    "summary": "SAP introduces a unified SAP Business AI Platform and deepens partnerships with major tech companies. This move enables businesses to leverage AI and automation more seamlessly.",
+    "summary": "SAP introduces a unified SAP Business AI Platform, expanding partnerships with major tech companies. This move strengthens SAP's AI capabilities and integration with existing technologies.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-12T12:35:00.000Z",
@@ -118,7 +118,7 @@
   {
     "id": "8",
     "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
-    "summary": "AI innovations now offer tailored support for specific roles, automating workflows. This boosts business productivity by freeing up human resources for high-value tasks.",
+    "summary": "AI innovation now offers role-specific support, automating workflows to boost business productivity. This advancement enables tailored assistance, streamlining tasks and freeing up human resources.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-12T12:34:00.000Z",
@@ -130,7 +130,7 @@
   {
     "id": "9",
     "title": "SAP and Anthropic Plan to Bring Claude to SAP Business AI Platform",
-    "summary": "SAP and Anthropic partner to integrate Claude, a large language model, into SAP's Business AI Platform. This integration aims to bring AI capabilities to existing enterprise systems.",
+    "summary": "SAP and Anthropic partner to integrate Claude, an AI model, into SAP's Business AI Platform. This integration aims to bring AI capabilities to existing enterprise systems without requiring a complete overhaul.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-12T12:33:00.000Z",
@@ -146,7 +146,7 @@
   {
     "id": "10",
     "title": "Shaping the Future of Secure AI Agents: How SAP and NVIDIA Are Co-Defining Enterprise-Grade Agent Execution",
-    "summary": "SAP and NVIDIA are collaborating on enterprise-grade AI agent execution. This partnership aims to create secure, governable, and auditable AI agents by design.\n\nWhy it matters: This collaboration ensures AI agents meet enterprise standards for safety and accountability.",
+    "summary": "SAP and NVIDIA are collaborating on enterprise-grade AI agent execution. This partnership focuses on creating AI agents that are safe, governable, and auditable by design.\n\nWhy it matters: This collaboration aims to increase trust in AI systems by ensuring their security and accountability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-12T12:32:00.000Z",
