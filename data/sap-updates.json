@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Why AI Raises the Stakes for Customer Experience, SAP SuccessFactors Innovations Define a New Era of Autonomous HCM, SAP Unveils Business AI Platform to Power the Autonomous Enterprise and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-14T06:24:08.805Z",
+    "publishedAt": "2026-05-14T11:12:13.969Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Why AI Raises the Stakes for Customer Experience",
-    "summary": "AI-powered customer experience (CX) enables faster, more personalized responses to customer needs. This raises the stakes for companies to deliver seamless, loyalty-building experiences or risk losing customers.",
+    "summary": "Autonomous customer experience (CX) uses AI to analyze customer behavior and preferences. This technology enables faster response times, increased loyalty, and more effective customer engagement.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
-    "summary": "SAP SuccessFactors introduces AI-driven innovations for autonomous HCM, shifting work processes with data-driven insights. This matters as it redefines human capital management with automation and efficiency.",
+    "summary": "SAP SuccessFactors introduces autonomous HCM innovations leveraging AI. \nThis shift redefines work processes, grounded in data, systems, and processes, driving efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
-    "summary": "SAP introduces a business AI platform for autonomous enterprises, enabling accurate, secure, and scalable agentic AI. This platform matters as it empowers businesses to leverage AI more effectively.",
+    "summary": "SAP launches Business AI Platform for autonomous enterprise capabilities. \nThis platform enables accurate, secure, and scalable agentic AI use.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-13T16:01:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "A Symphony of Partnership to Ring in the Era of the Autonomous Enterprise",
-    "summary": "SAP partners are now key drivers in bringing the Autonomous Enterprise to life. This partnership will enable companies to accelerate their digital transformation.",
+    "summary": "SAP partners are now key drivers of its Autonomous Enterprise vision. This partnership enables the company to scale its offerings more efficiently.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T16:00:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "Business Transformation Management Helps Lay the Foundation for the Autonomous Enterprise",
-    "summary": "SAP's Business Transformation Management solutions enable organizations to transition to autonomous systems. This foundation is crucial for long-term business success and efficiency.",
+    "summary": "SAP's Business Transformation Management solutions enable companies to transition to autonomous enterprise capabilities. This matters as it lays the groundwork for future automation and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T12:01:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "Accelerate the Autonomous Enterprise with SAP Business Data Cloud",
-    "summary": "SAP introduces Business Data Cloud, a platform for autonomous enterprises. This innovation enables seamless data integration and AI-driven insights.",
+    "summary": "SAP introduces Business Data Cloud to accelerate autonomous enterprise adoption. This innovation integrates data from various sources, enabling real-time decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T12:00:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "Announcing New Joule Studio for Enterprise Scale Agentic Development",
-    "summary": "Google announces Joule Studio, a fully managed platform for enterprise-scale AI development. This offering enables companies to build, manage, and deploy AI agents, applications, and workflows.",
+    "summary": "Joule Studio is a new, fully managed platform for enterprise-scale AI development. It enables companies to build, manage, and deploy AI agents, applications, and workflows at scale, streamlining the development process.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-05-13T11:59:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "The Future of the Enterprise Is Autonomous",
-    "summary": "Companies are turning to autonomous technology for AI-driven outcomes. This shift matters as it can boost innovation, revenue, and margins.",
+    "summary": "Companies are adopting AI-driven autonomous systems to boost innovation, revenue, and margins. This shift matters as it enables businesses of all sizes to stay competitive and achieve better financial outcomes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T10:00:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "SAP Unveils the Autonomous Enterprise",
-    "summary": "SAP introduces a unified SAP Business AI Platform, expanding partnerships with major tech companies. This move integrates AI capabilities across various SAP products and services.",
+    "summary": "SAP introduces a unified SAP Business AI Platform, expanding partnerships with top tech companies. This platform leverages AI to automate enterprise operations.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-12T12:35:00.000Z",
@@ -144,7 +144,7 @@
   {
     "id": "10",
     "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
-    "summary": "AI innovation now offers role-specific support, automating workflows to boost business productivity. This advancement enables tailored assistance, freeing employees to focus on high-value tasks and driving business growth.",
+    "summary": "AI innovation now offers role-specific support, automating workflows to boost business productivity. This advancement enables tailored assistance, streamlining tasks and increasing efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-12T12:34:00.000Z",
