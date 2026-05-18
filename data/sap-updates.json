@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Making AI Value Real Today, The Path to the Autonomous Enterprise, Certification in the AI Era and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-18T15:27:31.534Z",
+    "publishedAt": "2026-05-18T19:42:32.632Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Making AI Value Real Today",
-    "summary": "SAP unveiled the Autonomous Enterprise, a path to tangible AI value for customers. This approach focuses on delivering real-world business benefits through AI.",
+    "summary": "SAP executives unveiled the Autonomous Enterprise at SAP Sapphire, a platform for real AI value. This move aims to help businesses integrate AI into their operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T13:05:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
-    "summary": "SAP introduces new Sustainability AI Agents for the Autonomous Enterprise. These agents enable scalable sustainable outcomes.",
+    "summary": "SAP introduces new AI agents for sustainable outcomes in the Autonomous Enterprise. This enables businesses to scale sustainability efforts.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -47,7 +47,7 @@
   {
     "id": "3",
     "title": "Certification in the AI Era: From Knowledge to Capability",
-    "summary": "Certification programs are shifting from solely testing knowledge to evaluating AI application capabilities. This change matters as it ensures professionals can effectively integrate AI into their work.",
+    "summary": "Certification programs are shifting from solely testing knowledge to assessing AI application capabilities. This change matters because professionals need to demonstrate practical AI skills to remain relevant in the job market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
-    "summary": "AI now integrates with connected workflows to automate spend management. This enables more informed decision-making across the spend life cycle.",
+    "summary": "AI now enables unified workflows for autonomous spend management, streamlining decision-making across the spend life cycle. This matters as it enhances efficiency and reduces costs in business operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T16:00:15.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "From Static Planning to Continuous Enterprise Planning",
-    "summary": "Finance leaders are adopting continuous planning, replacing static exercises with ongoing steering. This shift matters as it enables more agile and responsive financial decision-making.",
+    "summary": "Finance teams are shifting from static planning to continuous enterprise planning, allowing for real-time adjustments and more accurate forecasting. This matters as it enables businesses to respond quickly to changing market conditions and make data-driven decisions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "Moving Toward a More Autonomous Supply Chain",
-    "summary": "New AI innovations enable supply chains to adapt to changing conditions, connect with more stakeholders, and respond quickly to disruptions. This matters as it improves efficiency, reduces costs, and enhances customer satisfaction.",
+    "summary": "New AI innovations enable supply chains to adapt to changing conditions, connect with stakeholders, and respond quickly to disruptions. This matters as it improves efficiency, reduces costs, and enhances customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
@@ -95,7 +95,7 @@
   {
     "id": "7",
     "title": "Why AI Raises the Stakes for Customer Experience",
-    "summary": "AI-powered customer experience (CX) enables businesses to understand customers and respond faster. This raises the stakes for companies to deliver exceptional CX to earn loyalty and stay competitive.",
+    "summary": "Autonomous customer experience (CX) leverages AI to personalize interactions, respond quickly, and build long-term loyalty. This matters because it raises the bar for businesses to deliver seamless, data-driven experiences or risk falling behind.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
@@ -107,7 +107,7 @@
   {
     "id": "8",
     "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
-    "summary": "SAP SuccessFactors introduces AI-driven innovations for Human Capital Management (HCM). \nThis marks a shift towards autonomous HCM, leveraging data and systems to redefine work processes.",
+    "summary": "SAP SuccessFactors introduces AI-driven innovations for Human Capital Management (HCM), rethinking work processes. This shift leverages data, systems, and processes to create autonomous HCM.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
@@ -121,7 +121,7 @@
   {
     "id": "9",
     "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
-    "summary": "SAP introduces a business AI platform for autonomous enterprises, enabling accurate, secure, and scalable agentic AI. This platform matters as it empowers businesses to harness AI for decision-making and automation.",
+    "summary": "SAP introduces a business AI platform for autonomous enterprises, enabling accurate, secure, and scalable AI use. This matters as it empowers businesses to harness AI for improved efficiency and decision-making.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-13T16:01:00.000Z",
@@ -136,7 +136,7 @@
   {
     "id": "10",
     "title": "A Symphony of Partnership to Ring in the Era of the Autonomous Enterprise",
-    "summary": "SAP partners are now key collaborators in bringing the Autonomous Enterprise to life. This partnership marks a significant shift in the company's strategy, enabling faster innovation and adoption.",
+    "summary": "SAP partners are key collaborators in bringing the Autonomous Enterprise to life. This partnership fuels the development of autonomous business capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-13T16:00:00.000Z",
