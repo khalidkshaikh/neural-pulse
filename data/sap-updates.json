@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI, The AI Race Is Being Fought in the Wrong Place, Making AI Value Real Today and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-20T11:48:38.535Z",
+    "publishedAt": "2026-05-20T14:58:02.010Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
-    "summary": "Martur Fompak International deploys autonomous intralogistics model with intelligent robotics. This model boosts throughput and efficiency enabled by Joule and Embodied AI.",
+    "summary": "Martur Fompak International deploys autonomous intralogistics model with intelligent robotics. This is enabled by Joule and Embodied AI's technology. \n\nThis matters as it boosts throughput and efficiency in automotive seating and interior systems production.",
     "product": "Joule",
     "updateType": "Release",
     "publishedAt": "2026-05-20T08:00:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "The AI Race Is Being Fought in the Wrong Place",
-    "summary": "Enterprises are shifting focus from AI model development to integrating context for actionable insights. This shift matters because it highlights the importance of contextual AI for real-world applications.",
+    "summary": "Companies are shifting AI focus from insights to actionable decisions, emphasizing context and enterprise knowledge. This shift matters because it sets the stage for AI to drive meaningful business outcomes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-19T08:00:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Making AI Value Real Today",
-    "summary": "SAP executives unveiled the Autonomous Enterprise concept at SAP Sapphire, aiming to deliver tangible AI value to customers. This approach matters as it could bring AI benefits to a wider range of businesses.",
+    "summary": "SAP executives unveiled the Autonomous Enterprise as the key to unlocking real AI value for customers. This approach aims to automate business processes and deliver tangible benefits.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T13:05:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
-    "summary": "SAP introduces new Sustainability AI Agents to support the Autonomous Enterprise. These agents enable scalable sustainable outcomes for business leaders.",
+    "summary": "SAP introduces new Sustainability AI Agents to enhance the Autonomous Enterprise platform. These agents help deliver sustainable outcomes at scale.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "Certification in the AI Era: From Knowledge to Capability",
-    "summary": "Certification programs now focus on verifying professionals' ability to use AI effectively, shifting from testing knowledge alone. This matters as effective AI adoption requires practical skills, not just theoretical understanding.",
+    "summary": "Certification programs are shifting from testing knowledge to evaluating capability in AI applications. This matters because professionals need to demonstrate practical AI skills to stay relevant in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
-    "summary": "AI is now integrated with connected processes to manage spend autonomously. This shift fundamentally changes decision-making across the spend life cycle.",
+    "summary": "AI now integrates with unified workflows to optimize spend management. This enables more informed, automated decision-making across the spend life cycle.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T16:00:15.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "From Static Planning to Continuous Enterprise Planning",
-    "summary": "Finance departments are adopting continuous planning, shifting from static planning cycles to real-time decision-making. This matters as it enables companies to respond quickly to changing markets and stay competitive.",
+    "summary": "Finance teams shift from static planning to continuous enterprise planning, enabling real-time adjustments. This matters as it improves financial agility and adaptability in rapidly changing business environments.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
@@ -109,7 +109,7 @@
   {
     "id": "8",
     "title": "Moving Toward a More Autonomous Supply Chain",
-    "summary": "New AI innovations enhance supply chain adaptability, connectivity, and responsiveness. This matters as it improves efficiency, reduces costs, and increases resilience in global logistics.",
+    "summary": "New AI innovations enable supply chains to adapt to changing conditions, connect with stakeholders, and respond quickly to disruptions. This matters because it improves efficiency, reduces costs, and enhances customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
@@ -121,7 +121,7 @@
   {
     "id": "9",
     "title": "Why AI Raises the Stakes for Customer Experience",
-    "summary": "Autonomous customer experience (CX) uses AI to analyze and respond to customer interactions in real-time. This technology raises the stakes for businesses, as it demands faster and more personalized responses to maintain customer loyalty.",
+    "summary": "AI-powered customer experience (CX) enables businesses to better understand customers and respond faster, leading to increased loyalty. This technology raises the stakes for companies to deliver exceptional experiences or risk losing customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
@@ -133,7 +133,7 @@
   {
     "id": "10",
     "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
-    "summary": "SAP SuccessFactors introduces AI-driven innovations for Human Capital Management (HCM), shifting focus to data-driven processes. This matters as it enables more efficient and autonomous work environments.",
+    "summary": "SAP SuccessFactors introduces innovations driven by AI, revolutionizing Human Capital Management (HCM) with data-driven processes. This marks a new era of autonomous HCM, where AI optimizes work and decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
