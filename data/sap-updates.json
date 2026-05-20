@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of May 19, 2026",
+    "title": "Weekly SAP AI Digest — Week of May 20, 2026",
     "summary": "This week in SAP AI: The AI Race Is Being Fought in the Wrong Place, Making AI Value Real Today, The Path to the Autonomous Enterprise and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-19T22:14:28.459Z",
+    "publishedAt": "2026-05-20T02:58:00.042Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "The AI Race Is Being Fought in the Wrong Place",
-    "summary": "AI development is shifting from focusing solely on model performance to incorporating enterprise context. This shift matters because it will determine the practical applications and effectiveness of AI in real-world scenarios.",
+    "summary": "AI development is shifting from theoretical models to practical enterprise applications. This shift highlights the importance of context in AI decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-19T08:00:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "Making AI Value Real Today",
-    "summary": "SAP executives and customers showcased the Autonomous Enterprise as the key to unlocking real AI value. This approach aims to simplify and automate business processes, driving tangible benefits for customers.",
+    "summary": "SAP introduces the Autonomous Enterprise, a path to real AI value for customers. This approach leverages AI to automate and optimize business processes, driving efficiency and innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T13:05:00.000Z",
@@ -44,7 +44,7 @@
   {
     "id": "3",
     "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
-    "summary": "SAP introduces new AI agents for sustainable outcomes at scale through its Autonomous Enterprise. This enables businesses to make data-driven decisions and reduce environmental impact.",
+    "summary": "SAP introduces new Sustainability AI Agents for the Autonomous Enterprise. These agents enable scalable sustainable outcomes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Certification in the AI Era: From Knowledge to Capability",
-    "summary": "Certification programs are shifting from verifying knowledge to assessing AI application capabilities. This change matters because it ensures professionals can effectively integrate AI into their work.",
+    "summary": "Certification programs now focus on verifying professionals' ability to apply AI knowledge, not just their knowledge itself. This shift matters because it ensures workers can effectively integrate AI into their work.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
-    "summary": "AI and unified workflows are now integrated for autonomous spend management. This integration fundamentally changes decision-making across the spend life cycle.",
+    "summary": "AI now integrates with workflows to optimize spend management. This fusion enables more informed, data-driven decision-making across the spend life cycle.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T16:00:15.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "From Static Planning to Continuous Enterprise Planning",
-    "summary": "Finance teams are shifting from static planning to continuous enterprise planning, enabling real-time adjustments and improved forecasting. This matters as it enhances business agility and decision-making in rapidly changing environments.",
+    "summary": "Finance teams can now adopt continuous enterprise planning, moving away from static annual budgets. This shift matters because it enables real-time adaptation to changing market conditions and improves business agility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
@@ -95,7 +95,7 @@
   {
     "id": "7",
     "title": "Moving Toward a More Autonomous Supply Chain",
-    "summary": "New AI innovations enable supply chains to adapt to changing conditions, connect with partners more efficiently, and respond to disruptions. This matters because it improves supply chain resilience and efficiency.",
+    "summary": "New AI innovations enhance supply chain adaptability, connectivity, and responsiveness. This matters as it improves logistics efficiency and reduces costs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
@@ -107,7 +107,7 @@
   {
     "id": "8",
     "title": "Why AI Raises the Stakes for Customer Experience",
-    "summary": "Autonomous customer experience (CX) uses AI to understand customers in real-time, enabling faster responses and building loyalty. This technology raises the stakes for businesses to deliver seamless experiences or risk losing customers.",
+    "summary": "Autonomous customer experience (CX) uses AI to analyze customer interactions and respond accordingly. This technology raises the stakes for businesses to deliver seamless experiences to earn customer loyalty.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
@@ -119,7 +119,7 @@
   {
     "id": "9",
     "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
-    "summary": "SAP SuccessFactors introduces innovations driven by AI, rethinking HR processes with data and systems. This matters as it marks a shift towards autonomous Human Capital Management (HCM).",
+    "summary": "SAP SuccessFactors introduces AI-driven innovations for Human Capital Management (HCM), shifting work processes with data, systems, and processes. This matters as it marks a new era in HCM, enabling autonomous and data-driven decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T06:00:00.000Z",
@@ -133,7 +133,7 @@
   {
     "id": "10",
     "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
-    "summary": "SAP introduces a business AI platform for autonomous enterprises, leveraging agentic AI for secure, accurate, and scalable operations. This matters as it could significantly enhance business efficiency and decision-making capabilities.",
+    "summary": "SAP releases a business AI platform for autonomous enterprise use. It enables accurate, secure, and scalable agentic AI.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-13T16:01:00.000Z",
