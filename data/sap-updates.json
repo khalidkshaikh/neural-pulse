@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP, Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP, Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-22T08:58:09.826Z",
+    "publishedAt": "2026-05-22T11:48:23.986Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP",
-    "summary": "Madrid City Council upgrades internal and tax management with SAP software. This marks a 20-year partnership between the council and SAP.",
+    "summary": "Madrid City Council upgrades its internal and tax management with SAP software. This marks a 20-year partnership with SAP, indicating a long-term commitment to modernization.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
-    "summary": "Ericsson introduces Business Data Fabric to scale AI across its entire enterprise. This integration with SAP enables seamless data management and AI deployment.",
+    "summary": "Ericsson launches Business Data Fabric, integrating AI across the enterprise with SAP. This enables seamless data flow and AI-driven decision-making across all departments.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
-    "summary": "Martur Fompak International has deployed an autonomous intralogistics model using Joule and Embodied AI. This boosts throughput and efficiency in their automotive seating and interior systems operations.",
+    "summary": "Martur Fompak International has deployed an autonomous intralogistics model using Joule and Embodied AI's intelligent robotics. This boosts throughput and efficiency in their automotive seating and interior systems.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-05-20T08:00:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "The AI Race Is Being Fought in the Wrong Place",
-    "summary": "Enterprises are shifting AI focus from insights to action, highlighting the importance of context. This shift matters because contextual AI will determine the winners in the AI race.",
+    "summary": "Enterprises are shifting focus from AI model performance to contextual understanding, recognizing that insight alone is not enough. This shift matters because it highlights the need for AI systems to adapt to real-world environments, not just excel in controlled tests.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-19T08:00:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Making AI Value Real Today",
-    "summary": "SAP executives and customers showcased the Autonomous Enterprise as a path to tangible AI benefits. This approach aims to deliver real AI value to customers.",
+    "summary": "SAP executives and customers unveiled the Autonomous Enterprise as a path to real AI value at SAP Sapphire. This approach aims to deliver tangible AI benefits to customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T13:05:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
-    "summary": "SAP introduces new sustainability AI agents for the Autonomous Enterprise. These agents help deliver sustainable outcomes at scale.",
+    "summary": "SAP introduces new AI agents for sustainable outcomes. The agents enable companies to deliver sustainability at scale through autonomous enterprise capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "Certification in the AI Era: From Knowledge to Capability",
-    "summary": "Certification programs are shifting from testing knowledge to assessing AI application capabilities. This change matters because it ensures professionals can effectively integrate AI into their work.",
+    "summary": "Certification programs now prioritize verifying professionals' ability to apply AI alongside their knowledge. This shift focuses on capability over mere knowledge.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
-    "summary": "AI and unified workflows integrate spend management processes. This enables more informed and efficient decision-making across the spend life cycle.",
+    "summary": "AI now enables autonomous spend management through connected processes. This changes decision-making across the spend life cycle, increasing efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T16:00:15.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "From Static Planning to Continuous Enterprise Planning",
-    "summary": "Finance teams adopt continuous planning, shifting from static to dynamic models. This matters as it enables real-time decision-making and adaptability in a rapidly changing business environment.",
+    "summary": "Companies are shifting from static financial planning to continuous enterprise planning, enabling real-time adjustments and data-driven decisions. This matters as it improves financial agility and responsiveness to changing market conditions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "Moving Toward a More Autonomous Supply Chain",
-    "summary": "New AI innovations enable supply chains to adapt to changing conditions, connect with other systems, and respond quickly to disruptions. This matters as it improves efficiency, reduces costs, and enhances customer satisfaction.",
+    "summary": "New AI innovations enhance supply chain adaptability, connectivity, and responsiveness. This matters as it improves efficiency, reduces costs, and increases resilience in global logistics.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T12:00:00.000Z",
