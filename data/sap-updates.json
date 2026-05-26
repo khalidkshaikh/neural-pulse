@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of May 25, 2026",
+    "title": "Weekly SAP AI Digest — Week of May 26, 2026",
     "summary": "This week in SAP AI: SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces, Three Journeys That Redefine Logistics in a Disruptive World, Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-25T22:05:52.580Z",
+    "publishedAt": "2026-05-26T02:54:54.693Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces",
-    "summary": "SAP Signavio has been named a Leader in Gartner's Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks the company's first acknowledgement in the new category, solidifying its position in the field.",
+    "summary": "SAP Signavio has been named a Leader in Gartner's Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first appearance in the new category, solidifying its position in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Three Journeys That Redefine Logistics in a Disruptive World",
-    "summary": "Logistics companies are shifting towards autonomous vehicles, drones, and AI-powered supply chain management. This transformation enables real-time tracking and optimized delivery routes.",
+    "summary": "Logistics companies are shifting towards AI-driven, data-centric approaches to optimize supply chains. This transformation enables real-time tracking and predictive analytics, enhancing efficiency and reliability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T11:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP",
-    "summary": "Madrid City Council upgrades its internal and tax management with SAP software. This modernization aims to improve efficiency and effectiveness in municipal operations.",
+    "summary": "Madrid City Council upgrades its internal and tax management systems with SAP software. This is a continuation of a 20-year partnership with the tech company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
-    "summary": "Ericsson launches Business Data Fabric to scale AI across entire enterprises. This enables seamless data integration and AI deployment across various departments and systems.",
+    "summary": "Ericsson launches Business Data Fabric with SAP to scale AI across its entire enterprise. This marks a shift from AI experimentation to widespread execution.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
-    "summary": "Martur Fompak International has implemented an autonomous intralogistics model using Joule and Embodied AI-powered robotics. This deployment boosts throughput and efficiency in its operations.",
+    "summary": "Martur Fompak International has deployed an autonomous intralogistics model enabled by Joule and Embodied AI. This upgrade boosts throughput and efficiency in their automotive seating and interior systems production.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-05-20T08:00:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "The AI Race Is Being Fought in the Wrong Place",
-    "summary": "Companies are shifting the AI focus from model performance to integrating AI into their business operations. This shift matters because it determines the actual impact of AI on business outcomes.",
+    "summary": "Enterprises are shifting AI focus from insights to actionable decisions, emphasizing context as a key differentiator. This shift matters because it highlights the importance of tailored AI solutions for specific industries and use cases.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-19T08:00:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "Making AI Value Real Today",
-    "summary": "SAP executives showcased the Autonomous Enterprise as a path to tangible AI value for customers at SAP Sapphire. This concept enables businesses to leverage AI in real-world applications, driving innovation and efficiency.",
+    "summary": "SAP executives and customers showcased the Autonomous Enterprise as a path to real AI value at SAP Sapphire. This approach aims to deliver tangible AI benefits to customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T13:05:00.000Z",
@@ -112,7 +112,7 @@
   {
     "id": "8",
     "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
-    "summary": "SAP introduces new AI agents for sustainable outcomes, part of its Autonomous Enterprise initiative. This technology enables businesses to achieve sustainability at scale.",
+    "summary": "SAP introduces new Sustainability AI Agents for the Autonomous Enterprise. \nThese agents enable companies to deliver sustainable outcomes at scale.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "Certification in the AI Era: From Knowledge to Capability",
-    "summary": "Certification programs now focus on verifying professionals' ability to apply AI knowledge, not just their knowledge itself. This shift matters as it ensures workers can effectively integrate AI into their tasks.",
+    "summary": "Certification programs are evolving to focus on AI capabilities rather than just knowledge acquisition. This shift matters because it prepares professionals to effectively integrate AI into their work.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
-    "summary": "AI now integrates with unified workflows to streamline spend management. This enables more informed, automated decision-making across the entire spend life cycle.",
+    "summary": "AI now integrates with connected processes to automate spend management. This enables more informed decision-making across the spend life cycle.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-14T16:00:15.000Z",
