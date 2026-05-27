@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of May 26, 2026",
+    "title": "Weekly SAP AI Digest — Week of May 27, 2026",
     "summary": "This week in SAP AI: The Next Era of Business AI, SAP Helps Boost Grupo UMA’s Motorcycle Production, SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-26T22:18:20.573Z",
+    "publishedAt": "2026-05-27T03:34:32.006Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "The Next Era of Business AI",
-    "summary": "Researchers emphasize that contextual understanding is crucial for AI to effectively deliver results. This highlights the need for more sophisticated AI models.",
+    "summary": "Researchers emphasize that AI requires context to effectively deliver results. This context enables AI to understand nuances and make informed decisions.",
     "product": "Business AI",
     "updateType": "Release",
     "publishedAt": "2026-05-26T17:00:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
-    "summary": "SAP has implemented global models and automated operations for Grupo UMA's motorcycle production. This enables streamlined finance, production, and logistics processes.",
+    "summary": "SAP has collaborated with Grupo UMA to implement global models and automate operations across finance, production, and logistics. This collaboration enables Grupo UMA to boost its motorcycle production efficiency and effectiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-26T11:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces",
-    "summary": "SAP Signavio has been named a Leader in the Gartner Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first acknowledgement in the new category, solidifying its position in process intelligence.",
+    "summary": "SAP Signavio has been named a Leader in the Gartner Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first appearance in the category, solidifying its position in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T12:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Three Journeys That Redefine Logistics in a Disruptive World",
-    "summary": "Companies are leveraging AI, automation, and data analytics to redefine logistics in a rapidly changing world. This shift matters as it enables them to stay competitive and adapt to evolving customer demands.",
+    "summary": "Logistics companies are adopting AI, robotics, and data analytics to optimize supply chains. This shift redefines logistics in a rapidly changing world.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T11:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP",
-    "summary": "Madrid City Council upgrades its internal and tax management with SAP software, leveraging two decades of existing partnership. This modernization matters as it likely enhances efficiency and transparency in city operations.",
+    "summary": "Madrid City Council upgrades its internal and tax management with SAP software. This upgrade represents a continuation of a 20-year partnership with SAP.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
-    "summary": "Ericsson launches Business Data Fabric to scale AI across entire enterprises. This allows for seamless integration of AI capabilities across various departments and systems.",
+    "summary": "Ericsson launches Business Data Fabric to scale AI across entire enterprise. This enables seamless data integration and AI application across all business units.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
-    "summary": "Martur Fompak International deploys autonomous intralogistics model with intelligent robotics. This system is enabled by Joule and Embodied AI, boosting throughput and efficiency.",
+    "summary": "Martur Fompak International deploys autonomous intralogistics model with Joule and Embodied AI. This boosts throughput and efficiency in automotive seating and interior systems production.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-05-20T08:00:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "The AI Race Is Being Fought in the Wrong Place",
-    "summary": "Companies are shifting AI focus from data analysis to contextual decision-making. This shift matters because it determines the effectiveness of AI in real-world applications.",
+    "summary": "Enterprises are shifting AI focus from insight to action, making contextual understanding key. This shift matters because it highlights the importance of contextual AI in real-world applications.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-19T08:00:00.000Z",
@@ -123,7 +123,7 @@
   {
     "id": "9",
     "title": "Making AI Value Real Today",
-    "summary": "SAP executives and customers unveiled the Autonomous Enterprise as the key to unlocking real AI value for customers. This approach aims to integrate AI into business operations for tangible results.",
+    "summary": "SAP unveiled the Autonomous Enterprise as a path to tangible AI value for customers at SAP Sapphire. This approach leverages AI to automate and optimize business processes, driving real-world results.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T13:05:00.000Z",
@@ -138,7 +138,7 @@
   {
     "id": "10",
     "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
-    "summary": "SAP introduces new AI agents for sustainable outcomes. These agents enable companies to deliver sustainability at scale through automation.",
+    "summary": "SAP introduces new Sustainability AI Agents to support the Autonomous Enterprise. These agents enable companies to achieve sustainable outcomes at scale.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T06:00:00.000Z",
