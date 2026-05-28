@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: The Autonomous Enterprise, The Next Era of Business AI, SAP Helps Boost Grupo UMA’s Motorcycle Production and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-28T02:54:01.723Z",
+    "publishedAt": "2026-05-28T06:53:53.557Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "The Autonomous Enterprise: Better Decisions in Motion",
-    "summary": "Companies are adopting autonomous enterprise technology to make rapid decisions without compromising fulfillment, margin, or customer trust. This matters as it enables businesses to stay competitive in a rapidly changing market.",
+    "summary": "Companies are adopting autonomous enterprise strategies to make faster decisions without compromising fulfillment, margin, or customer trust. This approach matters as it enables businesses to stay competitive in a rapidly changing market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-27T10:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "The Next Era of Business AI",
-    "summary": "Researchers emphasize the need for contextual understanding in AI to unlock its full potential. This involves integrating AI with domain-specific knowledge to make informed decisions.",
+    "summary": "Researchers emphasize that AI requires contextual understanding to effectively deliver results. This contextual understanding matters because it enables AI to make informed decisions and drive meaningful business outcomes.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-26T17:00:00.000Z",
@@ -41,7 +41,7 @@
   {
     "id": "3",
     "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
-    "summary": "SAP has helped Grupo UMA boost motorcycle production through global model establishment and automation of finance, production, and logistics operations. This matters as it increases efficiency and productivity in the manufacturing process.",
+    "summary": "SAP helped Grupo UMA establish global models and automate operations across finance, production, and logistics. This integration boosts motorcycle production efficiency, enabling faster and more streamlined processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-26T11:15:00.000Z",
@@ -55,7 +55,7 @@
   {
     "id": "4",
     "title": "SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces",
-    "summary": "SAP Signavio is recognized as a Leader in Gartner's Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first acknowledgement in the category, solidifying its position in business process management.",
+    "summary": "SAP Signavio has been named a Leader in Gartner's Magic Quadrant for process intelligence platforms. This marks its fourth consecutive year as a Leader and its first in the new category.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T12:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "Three Journeys That Redefine Logistics in a Disruptive World",
-    "summary": "Logistics companies are adopting AI, blockchain, and IoT to enhance real-time tracking, reduce costs, and improve supply chain efficiency. This transformation matters as it ensures businesses remain competitive in a rapidly changing market.",
+    "summary": "Logistics companies are shifting to AI-driven, hyper-localized, and carbon-neutral supply chains. This transformation matters as it ensures business survival in a rapidly changing world.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T11:15:00.000Z",
@@ -81,7 +81,7 @@
   {
     "id": "6",
     "title": "Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP",
-    "summary": "Madrid City Council upgrades its internal and tax management with SAP software. This marks a continuation of their 20-year partnership with the company.",
+    "summary": "Madrid City Council upgrades its internal and tax management with SAP software. This marks the continuation of a 20-year partnership with the tech giant.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -95,7 +95,7 @@
   {
     "id": "7",
     "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
-    "summary": "Ericsson introduces Business Data Fabric and SAP integration for enterprise-wide AI execution. This move enables seamless AI scaling across the organization, improving efficiency.",
+    "summary": "Ericsson launches Business Data Fabric to scale AI across the enterprise. This enables seamless data integration and AI deployment across the organization.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
@@ -109,7 +109,7 @@
   {
     "id": "8",
     "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
-    "summary": "Martur Fompak International has deployed an autonomous intralogistics model. This uses intelligent robotics enabled by Joule and Embodied AI to boost throughput and efficiency.",
+    "summary": "Martur Fompak International deploys autonomous intralogistics model. This uses intelligent robotics enabled by Joule and Embodied AI to boost throughput and efficiency.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-05-20T08:00:00.000Z",
@@ -123,7 +123,7 @@
   {
     "id": "9",
     "title": "The AI Race Is Being Fought in the Wrong Place",
-    "summary": "Enterprises are shifting AI focus from data insights to contextual decision-making. This shift matters because it highlights AI's practical applications in real-world business scenarios.",
+    "summary": "Enterprises are shifting AI focus from insight to action, emphasizing contextual understanding. This shift differentiates AI capabilities, making contextual understanding a key differentiator.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-19T08:00:00.000Z",
@@ -135,7 +135,7 @@
   {
     "id": "10",
     "title": "Making AI Value Real Today",
-    "summary": "SAP executives unveiled the Autonomous Enterprise as a path to real AI value for customers. This framework aims to integrate AI into core business processes.",
+    "summary": "SAP executives and customers showcased the Autonomous Enterprise as the key to unlocking AI value. This approach enables businesses to integrate AI into existing systems for tangible results.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-15T13:05:00.000Z",
