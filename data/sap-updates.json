@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of May 31, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 1, 2026",
     "summary": "This week in SAP AI: The EU Pay Transparency Deadline Is Coming, SAP Successfully Places €3.5 Billion Eurobond, Forging a Future-Ready Government and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-05-31T21:57:50.174Z",
+    "publishedAt": "2026-06-01T03:48:37.513Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "The EU Pay Transparency Deadline Is Coming: What HR Leaders Need to Get Right Before June 7",
-    "summary": "EU pay transparency directive's June 7 deadline approaches, requiring companies to disclose salary ranges. This matters because companies must accurately implement the directive to avoid potential fines and reputational damage.",
+    "summary": "EU introduces pay transparency directive with June 7 deadline. HR leaders must execute the directive with confidence, moving beyond understanding its requirements.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-29T12:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "SAP Successfully Places €3.5 Billion Eurobond",
-    "summary": "SAP has issued a €3.5 billion Eurobond, a significant debt financing. This move provides the company with substantial capital.",
+    "summary": "SAP has issued a €3.5 billion Eurobond, securing a significant funding source. This move matters as it demonstrates SAP's financial stability and ability to access capital markets.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T16:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
-    "summary": "Charlottesville launches digital transformation initiative to build future-ready government. This involves investing in emerging technologies to improve services and operations.",
+    "summary": "Charlottesville's government is undergoing digital transformation. It's building a future-ready infrastructure to manage the city's operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T13:15:00.000Z",
@@ -55,7 +55,7 @@
   {
     "id": "4",
     "title": "Operationalizing Autonomous CX with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, a new initiative to streamline autonomous CX operations. This plan enables teams to execute faster and smarter with SAP expertise at the right time.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, streamlining autonomous CX operations. This plan combines expertise to execute CX projects faster and smarter.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T12:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "The Autonomous Enterprise: Better Decisions in Motion",
-    "summary": "Companies can now leverage autonomous enterprise technology to make faster, data-driven decisions. This matters because it enables businesses to stay competitive and adapt quickly to changing market conditions.",
+    "summary": "Companies are adopting autonomous enterprise strategies to make faster decisions. This matters because it enables businesses to stay competitive and adapt quickly to changing markets.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-27T10:15:00.000Z",
@@ -81,7 +81,7 @@
   {
     "id": "6",
     "title": "The Next Era of Business AI",
-    "summary": "New: Contextual AI is emerging as a key factor in unlocking business AI's full potential. \nThis matters because contextual AI enables AI to make informed decisions, driving more accurate and efficient business outcomes.",
+    "summary": "Business AI is evolving beyond just data analysis to contextual understanding. This shift enables AI to make informed decisions and drive meaningful actions.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-26T17:00:00.000Z",
@@ -93,7 +93,7 @@
   {
     "id": "7",
     "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
-    "summary": "SAP helped Grupo UMA automate operations across finance, production, and logistics. This enables the company to establish global models and streamline its motorcycle production process.",
+    "summary": "SAP has helped Grupo UMA boost its motorcycle production by establishing global models and automating operations across finance, production, and logistics. This matters because it increases efficiency and productivity in manufacturing.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-26T11:15:00.000Z",
@@ -107,7 +107,7 @@
   {
     "id": "8",
     "title": "SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces",
-    "summary": "SAP Signavio is recognized as a Leader in Gartner's Process Intelligence Platforms category for the fourth consecutive year. This marks the company's first acknowledgement in the new category, solidifying its position as a leader in process intelligence.",
+    "summary": "SAP Signavio has been named a Leader in the Gartner Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first acknowledgement in the new category, highlighting its expertise in process intelligence.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T12:15:00.000Z",
@@ -121,7 +121,7 @@
   {
     "id": "9",
     "title": "Three Journeys That Redefine Logistics in a Disruptive World",
-    "summary": "Logistics companies are embracing AI, robotics, and IoT to optimize supply chains and improve efficiency. This shift matters as it enables businesses to adapt to a rapidly changing market and stay competitive.",
+    "summary": "Logistics companies are adopting AI, blockchain, and IoT to optimize supply chains and enhance real-time tracking. This shift matters as it can significantly reduce costs, improve efficiency, and enhance customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T11:15:00.000Z",
@@ -133,7 +133,7 @@
   {
     "id": "10",
     "title": "Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP",
-    "summary": "Madrid City Council upgrades internal and tax management with SAP software, marking a 20-year partnership. This modernization effort matters as it likely improves efficiency and service delivery to citizens.",
+    "summary": "Madrid City Council upgrades its internal and tax management systems with SAP software. This modernization aims to improve efficiency and effectiveness in municipal operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-21T08:00:00.000Z",
