@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 1, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 2, 2026",
     "summary": "This week in SAP AI: How E.ON Is Building the Digital Backbone of the Energy Transition, Direct Procurement Roundtable, The EU Pay Transparency Deadline Is Coming and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-01T21:30:21.089Z",
+    "publishedAt": "2026-06-02T03:42:38.434Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
-    "summary": "E.ON is developing a digital backbone for the energy transition, leveraging technology to transform its operations. This matters as it paves the way for a more efficient and sustainable energy system.",
+    "summary": "E.ON is investing in digital infrastructure to support the energy transition. This matters because it ensures a controlled and resilient shift to new energy technologies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T12:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
-    "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption in procurement. They discussed customer journeys, product direction, and the challenges of implementing AI in their organizations.",
+    "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption in procurement. \n\nThis matters because it provides real-world insights into AI's practical applications and challenges in procurement processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T10:15:00.000Z",
@@ -41,7 +41,7 @@
   {
     "id": "3",
     "title": "The EU Pay Transparency Deadline Is Coming: What HR Leaders Need to Get Right Before June 7",
-    "summary": "The EU's pay transparency directive has a June 7 deadline. HR leaders must now focus on executing the directive with confidence.",
+    "summary": "EU pay transparency directive takes effect June 7, requiring companies to disclose salary ranges for job postings. This matters because it will increase transparency and accountability in hiring practices.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-29T12:15:00.000Z",
@@ -53,7 +53,7 @@
   {
     "id": "4",
     "title": "SAP Successfully Places €3.5 Billion Eurobond",
-    "summary": "SAP has raised €3.5 billion through a Eurobond transaction. This large-scale financing move is crucial for the company's future operations and investments.",
+    "summary": "SAP issued a €3.5 billion Eurobond, securing a significant funding source. This move matters as it demonstrates SAP's financial stability and ability to manage its debt.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T16:15:00.000Z",
@@ -67,7 +67,7 @@
   {
     "id": "5",
     "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
-    "summary": "Charlottesville is pioneering a future-ready government through digital transformation. This matters as it sets a model for efficient, forward-thinking public administration.",
+    "summary": "The City of Charlottesville is implementing a digital transformation to prepare for future needs. This forward-thinking approach enables the city to adapt to emerging technologies and changing citizen demands.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T13:15:00.000Z",
@@ -79,7 +79,7 @@
   {
     "id": "6",
     "title": "Operationalizing Autonomous CX with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, a new initiative to streamline autonomous CX operations. This plan aims to provide expert guidance and support to teams executing SAP CX projects.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, a new initiative to streamline autonomous customer experience. This plan aims to accelerate team execution and decision-making with expert guidance.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T12:15:00.000Z",
@@ -93,7 +93,7 @@
   {
     "id": "7",
     "title": "The Autonomous Enterprise: Better Decisions in Motion",
-    "summary": "Companies are adopting autonomous enterprise models to make faster, data-driven decisions. This allows them to capitalize on opportunities without compromising fulfillment, margin, or customer trust.",
+    "summary": "Companies are adopting autonomous enterprise strategies to make faster, data-driven decisions. This approach matters because it enables businesses to seize opportunities while maintaining fulfillment, margin, and customer trust.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-27T10:15:00.000Z",
@@ -105,7 +105,7 @@
   {
     "id": "8",
     "title": "The Next Era of Business AI",
-    "summary": "Researchers emphasize AI requires context to deliver its full potential. This understanding marks the next era of business AI, prioritizing contextual understanding over raw processing power.",
+    "summary": "Researchers emphasize that AI requires context to achieve its full potential. This context is crucial for accurate decision-making and effective business applications.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-26T17:00:00.000Z",
@@ -117,7 +117,7 @@
   {
     "id": "9",
     "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
-    "summary": "SAP has collaborated with Grupo UMA to implement global models and automate operations across finance, production, and logistics. This partnership aims to boost motorcycle production efficiency.",
+    "summary": "SAP helped Grupo UMA implement global models and automate operations across finance, production, and logistics. This streamlines production and enhances efficiency, why it matters.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-26T11:15:00.000Z",
@@ -131,7 +131,7 @@
   {
     "id": "10",
     "title": "SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces",
-    "summary": "SAP Signavio has been named a Leader in the Gartner Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first acknowledgement in the new category, solidifying its position in the industry.",
+    "summary": "SAP Signavio has been named a Leader in Gartner's Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first acknowledgement in the new category, solidifying its position in process intelligence.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-25T12:15:00.000Z",
