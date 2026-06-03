@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 2, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 3, 2026",
     "summary": "This week in SAP AI: From Campus to Career, How E.ON Is Building the Digital Backbone of the Energy Transition, Direct Procurement Roundtable and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-02T23:01:05.422Z",
+    "publishedAt": "2026-06-03T03:52:12.426Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
-    "summary": "SAP is partnering with academia to update curricula and training programs for emerging agentic AI roles. This initiative helps prepare students for the changing job market driven by AI adoption.",
+    "summary": "SAP is partnering with academia to equip students with skills for the age of agentic AI. This matters as it prepares graduates for a changing job market driven by rapid AI adoption.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-02T10:15:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
-    "summary": "E.ON is building a digital backbone for the energy transition, leveraging technology to drive innovation and resilience. This matters because a robust digital infrastructure is crucial for a successful energy transition.",
+    "summary": "E.ON is building a digital backbone for its energy transition, leveraging technology to drive innovation. This matters as it sets a precedent for the energy industry's adoption of digital transformation to meet the demands of a rapidly changing market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T12:15:00.000Z",
@@ -44,7 +44,7 @@
   {
     "id": "3",
     "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
-    "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption in procurement. They discussed customer journeys, product direction, and the challenges of implementing AI in real-world scenarios.",
+    "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption in procurement, citing customer journey mapping and product direction as key challenges. This insight matters as it highlights the real-world applications and limitations of AI in procurement.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T10:15:00.000Z",
@@ -56,7 +56,7 @@
   {
     "id": "4",
     "title": "The EU Pay Transparency Deadline Is Coming: What HR Leaders Need to Get Right Before June 7",
-    "summary": "EU pay transparency directive takes effect June 7, requiring employers to disclose salary ranges. This matters because it forces companies to be transparent about pay, potentially reducing pay disparities.",
+    "summary": "EU pay transparency directive enforcement approaches June 7 deadline. HR leaders must execute the directive with confidence.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-29T12:15:00.000Z",
@@ -68,7 +68,7 @@
   {
     "id": "5",
     "title": "SAP Successfully Places €3.5 Billion Eurobond",
-    "summary": "SAP issued a €3.5 billion Eurobond, securing a significant funding source. This move matters as it provides SAP with substantial capital for future investments and operations.",
+    "summary": "SAP has issued a €3.5 billion Eurobond. This transaction marks a significant financial milestone for the company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T16:15:00.000Z",
@@ -82,7 +82,7 @@
   {
     "id": "6",
     "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
-    "summary": "The City of Charlottesville is implementing a comprehensive digital transformation to prepare for future needs. This effort involves creating a forward-thinking infrastructure to support the city's growth and development.",
+    "summary": "Charlottesville is pioneering a future-ready government through digital transformation. This initiative matters as it sets a precedent for efficient, forward-thinking public services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T13:15:00.000Z",
@@ -94,7 +94,7 @@
   {
     "id": "7",
     "title": "Operationalizing Autonomous CX with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, a new operational framework for autonomous customer experience. This plan streamlines expertise and execution for faster, smarter CX outcomes.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, streamlining autonomous CX execution. This plan accelerates team execution and decision-making with expert guidance.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T12:15:00.000Z",
@@ -108,7 +108,7 @@
   {
     "id": "8",
     "title": "The Autonomous Enterprise: Better Decisions in Motion",
-    "summary": "Companies are turning to autonomous enterprise solutions for real-time decision-making. This matters because it enables faster adaptation to changing markets and customer needs.",
+    "summary": "Companies are leveraging autonomous enterprise technology to make fast, data-driven decisions. This matters because it enables businesses to stay competitive and adapt quickly to changing markets.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-27T10:15:00.000Z",
@@ -120,7 +120,7 @@
   {
     "id": "9",
     "title": "The Next Era of Business AI",
-    "summary": "Business AI is evolving to require contextual understanding, enabling more accurate and relevant decision-making. This shift matters because it will unlock AI's full potential, driving more effective business outcomes.",
+    "summary": "Researchers emphasize the need for contextual understanding in AI to unlock its full potential. This requires AI systems to grasp nuances and subtleties of human language and behavior.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-26T17:00:00.000Z",
@@ -132,7 +132,7 @@
   {
     "id": "10",
     "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
-    "summary": "SAP and Grupo UMA collaborated to implement global models and automate operations across finance, production, and logistics. This integration boosts motorcycle production efficiency.",
+    "summary": "SAP partnered with Grupo UMA to implement global models and automate operations across finance, production, and logistics. This collaboration boosts motorcycle production efficiency and scalability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-26T11:15:00.000Z",
