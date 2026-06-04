@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 3, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 4, 2026",
     "summary": "This week in SAP AI: Victrola Puts a Modern Spin on Growth in the Public Cloud, From Campus to Career, How E.ON Is Building the Digital Backbone of the Energy Transition and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-03T23:04:58.007Z",
+    "publishedAt": "2026-06-04T03:45:06.113Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
-    "summary": "Victrola migrated from SAP ECC to SAP Cloud ERP, adopting a cloud-based solution for its growing retail business. This shift matters as it showcases the strategic importance of cloud adoption for companies seeking scalability and flexibility.",
+    "summary": "Victrola has migrated its SAP system from on-premises to the public cloud, adopting SAP Cloud ERP. This shift enables scalability and agility for the growing retail company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-03T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
-    "summary": "SAP is partnering with academia to update curricula and prepare students for the impact of agentic AI in the workforce. This matters as it helps bridge the skills gap between education and industry.",
+    "summary": "SAP is partnering with academia to update curricula and prepare students for the impact of agentic AI in the workforce. This matters as it helps bridge the skills gap and future-proofs graduates for a rapidly changing job market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-02T10:15:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
-    "summary": "E.ON is developing a digital backbone for the energy transition, leveraging technology to drive innovation and resilience. This matters as it sets a model for the energy industry's digital transformation and future sustainability.",
+    "summary": "E.ON is investing in digital infrastructure to support the energy transition. This matters because it enables the company to adapt to changing energy demands and reduce its environmental impact.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T12:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
-    "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption in procurement. They discussed customer journeys and product direction, highlighting the challenges of implementing AI in real-world settings.",
+    "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption and product direction. This insight highlights the challenges and realities of implementing AI in procurement processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T10:15:00.000Z",
@@ -70,7 +70,7 @@
   {
     "id": "5",
     "title": "The EU Pay Transparency Deadline Is Coming: What HR Leaders Need to Get Right Before June 7",
-    "summary": "EU introduces pay transparency directive with June 7 deadline. HR leaders must execute the directive with confidence, moving beyond understanding its requirements.",
+    "summary": "EU pay transparency directive enforcement is approaching on June 7, requiring companies to disclose salary ranges. This matters because it forces HR leaders to accurately and confidently implement the directive.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-29T12:15:00.000Z",
@@ -82,7 +82,7 @@
   {
     "id": "6",
     "title": "SAP Successfully Places €3.5 Billion Eurobond",
-    "summary": "SAP issued a €3.5 billion Eurobond, marking a significant financial move. This matters as it demonstrates SAP's ability to access large-scale capital markets.",
+    "summary": "SAP has issued a €3.5 billion Eurobond to raise capital. This move will help the company manage its finances and fund future growth initiatives.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T16:15:00.000Z",
@@ -96,7 +96,7 @@
   {
     "id": "7",
     "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
-    "summary": "Charlottesville is pioneering a future-ready government through digital transformation. This matters as it sets a precedent for efficient, forward-thinking governance.",
+    "summary": "Charlottesville adopts a forward-thinking approach to government, prioritizing long-term digital transformation. This matters because it sets a precedent for proactive, future-focused governance in local administrations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T13:15:00.000Z",
@@ -108,7 +108,7 @@
   {
     "id": "8",
     "title": "Operationalizing Autonomous CX with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, a new initiative to streamline autonomous CX execution. This plan enables teams to execute faster and smarter with SAP.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience to streamline autonomous CX operations. This plan provides expert guidance to help teams execute CX projects faster and more efficiently.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T12:15:00.000Z",
@@ -122,7 +122,7 @@
   {
     "id": "9",
     "title": "The Autonomous Enterprise: Better Decisions in Motion",
-    "summary": "Companies can leverage autonomous enterprise systems to make faster, data-driven decisions. This matters as it enables businesses to stay competitive and adapt quickly in a rapidly changing market.",
+    "summary": "Companies are adopting autonomous enterprise models to make faster decisions without sacrificing fulfillment or customer trust. This matters because it enables businesses to stay competitive and adapt quickly to changing market conditions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-27T10:15:00.000Z",
@@ -134,7 +134,7 @@
   {
     "id": "10",
     "title": "The Next Era of Business AI",
-    "summary": "New: Context-aware AI systems are emerging to address AI's limitations. \nThese systems can understand nuances and make informed decisions. \nWhy it matters: This innovation enables AI to deliver on its promise of improved business outcomes.",
+    "summary": "New: Businesses are struggling to implement AI due to lack of contextual understanding. \nWhy it matters: Effective AI requires contextual understanding to deliver meaningful results.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-05-26T17:00:00.000Z",
