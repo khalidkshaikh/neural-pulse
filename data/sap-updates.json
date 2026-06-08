@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 7, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 8, 2026",
     "summary": "This week in SAP AI: AI as a Game Changer for the Energy and Utilities Industry, Autonomous Supply Chain, How Applied Materials Is Driving Transformation of the Finance Function with SAP Taulia and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-07T22:01:57.398Z",
+    "publishedAt": "2026-06-08T03:44:11.696Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI as a Game Changer for the Energy and Utilities Industry",
-    "summary": "AI is being increasingly adopted in the energy and utilities industry to improve efficiency and reduce costs. This matters as it enables companies to better manage resources, reduce waste, and optimize operations.",
+    "summary": "AI adoption is accelerating in the energy and utilities sector, with SAP highlighting its potential for optimization and innovation. This matters as AI can help reduce energy consumption, improve grid management, and enhance customer experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-05T10:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model",
-    "summary": "Agentic AI technology is being integrated into supply chains to enable autonomous decision-making and operations. This shift matters because it increases efficiency and reduces human error in logistics and inventory management.",
+    "summary": "Agentic AI is being leveraged to create a more autonomous supply chain operating model. This shift matters as it enables real-time decision-making and increased efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-04T12:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "How Applied Materials Is Driving Transformation of the Finance Function with SAP Taulia",
-    "summary": "Applied Materials implements SAP Taulia system for global supply chain management. This transformation enables agile and resilient relationships with suppliers, maintaining mutual benefits.",
+    "summary": "Applied Materials has implemented SAP Taulia to transform its finance function and improve relationships with global suppliers. This matters as it enables agility and resilience in financial operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-04T11:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
-    "summary": "Victrola has migrated from SAP ECC to SAP Cloud ERP, adopting a cloud-based solution. This shift matters as it showcases a successful transition to cloud technology for growing retail companies.",
+    "summary": "Victrola has migrated from SAP ECC to SAP Cloud ERP, a move to the public cloud for a growing retail company. This shift matters because it showcases the strategic and operational benefits of cloud adoption for businesses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-03T11:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
-    "summary": "SAP is partnering with academia to prepare students for the age of agentic AI. This matters as it helps graduates stay relevant in a rapidly changing job market driven by AI adoption.",
+    "summary": "SAP partners with academia to prepare students for the age of agentic AI. This matters as it helps graduates stay relevant in a rapidly changing job market driven by AI adoption.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-02T10:15:00.000Z",
@@ -88,7 +88,7 @@
   {
     "id": "6",
     "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
-    "summary": "E.ON is developing a digital backbone to support the energy transition through technological innovation. This matters as it enables efficient and resilient energy management, crucial for a sustainable future.",
+    "summary": "E.ON is leveraging digital technologies to build a robust energy infrastructure. This matters as it enables efficient and sustainable energy transition.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T12:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
-    "summary": "Senior procurement leaders from various industries shared their experiences and challenges with implementing AI in procurement. This insight highlights the complexities and realities of AI adoption in business operations.",
+    "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption in procurement. They discussed customer journeys, product direction, and the challenges of implementing AI in real-world settings.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T10:15:00.000Z",
@@ -112,7 +112,7 @@
   {
     "id": "8",
     "title": "The EU Pay Transparency Deadline Is Coming: What HR Leaders Need to Get Right Before June 7",
-    "summary": "EU pay transparency directive takes effect June 7, requiring companies to disclose salary ranges. This matters because companies must now provide transparent pay data to employees and job applicants.",
+    "summary": "The EU's pay transparency directive is approaching its June 7 deadline, requiring companies to disclose salary ranges in job postings. This mandates HR leaders to accurately implement the directive.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-29T12:15:00.000Z",
@@ -124,7 +124,7 @@
   {
     "id": "9",
     "title": "SAP Successfully Places €3.5 Billion Eurobond",
-    "summary": "SAP issued a €3.5 billion Eurobond, a significant financial move. This matters as it demonstrates SAP's ability to access large-scale capital markets.",
+    "summary": "SAP has issued a €3.5 billion Eurobond, a significant debt financing. This transaction secures funding for the company's future growth and operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T16:15:00.000Z",
@@ -138,7 +138,7 @@
   {
     "id": "10",
     "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
-    "summary": "The City of Charlottesville is implementing a digital transformation to build a future-ready government. This involves investing in technology to improve services and operations.",
+    "summary": "Charlottesville launches digital transformation to prepare for future needs. This initiative focuses on building a forward-thinking infrastructure for the city's government.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-28T13:15:00.000Z",
