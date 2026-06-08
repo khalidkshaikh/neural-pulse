@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: The Future of Hiring at SAP, SAP’s AI-Native North Star Architecture, AI as a Game Changer for the Energy and Utilities Industry and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-08T15:45:47.045Z",
+    "publishedAt": "2026-06-08T20:11:15.273Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
-    "summary": "SAP adopts SmartRecruiters for its global hiring process, leveraging its own software. This move integrates SmartRecruiters with SAP SuccessFactors.",
+    "summary": "SAP is adopting its own SmartRecruiters software for its SuccessFactors platform. This move streamlines the hiring process across the global enterprise.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-08T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP’s AI-Native North Star Architecture: Technical Backbone of the Autonomous Enterprise",
-    "summary": "SAP introduces North Star Architecture, a framework for AI-native systems that integrates context and data. This architecture enables real-time decision-making in the autonomous enterprise.",
+    "summary": "SAP introduces North Star Architecture, an AI-native framework for the autonomous enterprise. It leverages context to drive decision-making, replacing traditional data-centric approaches.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-08T10:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "AI as a Game Changer for the Energy and Utilities Industry",
-    "summary": "AI adoption is accelerating in the energy and utilities industry, with SAP showcasing its AI capabilities at the recent conference. This matters as AI can optimize energy efficiency, predict maintenance needs, and enhance customer experience.",
+    "summary": "AI adoption accelerates in energy and utilities industry, with SAP highlighting its potential for efficiency gains. This matters as AI can help optimize energy consumption and grid management, reducing costs and environmental impact.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-05T10:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model",
-    "summary": "Agentic AI is being used to create autonomous supply chains, transforming logistics and operations. This shift matters because it improves efficiency and reduces human error.",
+    "summary": "Agentic AI is being integrated into supply chains to automate decision-making and optimize operations. This enables greater efficiency and resilience, reducing reliance on human intervention.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-04T12:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "How Applied Materials Is Driving Transformation of the Finance Function with SAP Taulia",
-    "summary": "Applied Materials has implemented SAP Taulia to streamline its finance function, creating an agile and resilient system. This matters as it enables the company to maintain strong relationships with its global suppliers.",
+    "summary": "Applied Materials has implemented SAP Taulia to transform its finance function, achieving agility and resilience. This matters because it enables the company to maintain healthy relationships with global suppliers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-04T11:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
-    "summary": "Victrola has migrated from SAP ECC to SAP Cloud ERP, a significant shift in its cloud infrastructure. This move matters as it showcases a successful transition to a modern, scalable cloud solution for growing retail companies.",
+    "summary": "Victrola migrated from SAP ECC to SAP Cloud ERP, adopting a cloud-based solution for its growing retail business. This shift matters as it showcases a successful transition to the public cloud, a key strategy for modernizing and scaling businesses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-03T11:15:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
-    "summary": "SAP is partnering with academia to update curricula and prepare students for the impact of agentic AI on the job market. This matters as it helps bridge the skills gap and ensure graduates are equipped for emerging tech roles.",
+    "summary": "SAP is partnering with academia to update curricula and prepare students for the impact of agentic AI on the job market. This matters as it helps bridge the skills gap and equip graduates with relevant expertise.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-02T10:15:00.000Z",
@@ -116,7 +116,7 @@
   {
     "id": "8",
     "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
-    "summary": "E.ON is developing a digital backbone to support the energy transition through technological innovation. This matters as it enables efficient and resilient energy management, crucial for a sustainable future.",
+    "summary": "E.ON is building a digital backbone to support the energy transition through innovation. This matters as it ensures a controlled, resilient, and purpose-driven approach to technological change in the energy sector.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T12:15:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
-    "summary": "Senior procurement leaders from various industries shared their experiences with AI in procurement, discussing challenges and product direction. This insight highlights the complexities of implementing AI in real-world procurement processes.",
+    "summary": "Senior procurement leaders discuss customer journeys and product direction in a roundtable. They share realities of AI adoption in their industries.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T10:15:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "The EU Pay Transparency Deadline Is Coming: What HR Leaders Need to Get Right Before June 7",
-    "summary": "The EU's pay transparency directive deadline is approaching on June 7, requiring companies to disclose salary ranges. This will impact HR leaders who must accurately implement the directive.",
+    "summary": "EU pay transparency directive takes effect June 7, requiring employers to disclose salary ranges. This matters because it forces companies to be transparent about pay, reducing pay gaps and promoting fair compensation practices.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-05-29T12:15:00.000Z",
