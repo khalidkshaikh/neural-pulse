@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure, How the SAP Tool Chain Fuels Fast Growth at Harbour Energy, The Future of Hiring at SAP and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-10T03:30:20.818Z",
+    "publishedAt": "2026-06-10T09:55:16.577Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure",
-    "summary": "SAP has received VS-NfD authorization, allowing secure cloud infrastructure for SAP and customer applications. This matters as it enables sensitive applications to run in the cloud securely.",
+    "summary": "SAP has received VS-NfD authorization, allowing secure SAP and customer applications to run in the cloud. This matters as it expands cloud infrastructure options for security-sensitive applications.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-09T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "How the SAP Tool Chain Fuels Fast Growth at Harbour Energy",
-    "summary": "SAP's tool chain enables Harbour Energy to scale quickly and efficiently. This agility allows the company to maintain a startup-like speed despite its major size.",
+    "summary": "Harbour Energy adopts SAP tool chain for rapid growth. This enables the company to scale like a major while maintaining agility like a startup.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-09T12:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
-    "summary": "SAP is adopting its own SmartRecruiters software for its global hiring process. This move will revamp the entire hiring process using SAP SuccessFactors.",
+    "summary": "SAP adopts SmartRecruiters for its global hiring process, leveraging its own software. This move aims to revamp the entire hiring process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-08T11:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "SAP’s AI-Native North Star Architecture: Technical Backbone of the Autonomous Enterprise",
-    "summary": "SAP introduces North Star Architecture, a new AI-native framework for the Autonomous Enterprise. This architecture focuses on leveraging context to drive business decisions.\n\nWhy it matters: Context-driven decision-making is the next frontier in AI adoption, enabling businesses to stay competitive.",
+    "summary": "SAP introduces North Star Architecture, an AI-native framework for the Autonomous Enterprise. This architecture leverages context to drive decision-making and automation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-08T10:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "AI as a Game Changer for the Energy and Utilities Industry",
-    "summary": "AI is being widely adopted in the energy and utilities industry to optimize operations and improve efficiency. This matters as it could significantly reduce costs and enhance grid resilience.",
+    "summary": "AI is being increasingly adopted in the energy and utilities industry to improve efficiency and reduce costs. This matters as it can help mitigate climate change by optimizing energy consumption and grid management.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-05T10:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model",
-    "summary": "Agentic AI is being adopted to automate supply chain operations. This enables real-time decision-making and increased efficiency.",
+    "summary": "Agentic AI enables autonomous supply chain management through self-optimizing and adaptive decision-making. This matters as it enhances efficiency, reduces costs, and improves resilience in complex logistics networks.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-04T12:15:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "How Applied Materials Is Driving Transformation of the Finance Function with SAP Taulia",
-    "summary": "Applied Materials has implemented SAP Taulia to streamline its finance function. This transformation enables the company to maintain mutually beneficial relationships with its global suppliers.",
+    "summary": "Applied Materials has implemented SAP Taulia, transforming its finance function into an agile and resilient system. This matters as it enables the company to maintain strong relationships with its global suppliers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-04T11:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
-    "summary": "Victrola completes migration from SAP ECC to SAP Cloud ERP, adopting a cloud-based solution for its growing retail business. This move underscores the strategic importance of cloud adoption for companies seeking scalability and flexibility.",
+    "summary": "Victrola has migrated its ERP system from SAP ECC to SAP Cloud ERP, adopting a cloud-based infrastructure. This move matters as it showcases the strategic shift towards cloud-based solutions for growing retail companies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-03T11:15:00.000Z",
@@ -129,7 +129,7 @@
   {
     "id": "9",
     "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
-    "summary": "SAP is partnering with academia to adapt curricula to the growing use of agentic AI in industries. This matters as it prepares students for a changing job market driven by AI adoption.",
+    "summary": "SAP partners with academia to develop AI skills in students. This initiative prepares graduates for a job market influenced by agentic AI.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-02T10:15:00.000Z",
@@ -144,7 +144,7 @@
   {
     "id": "10",
     "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
-    "summary": "E.ON is developing a digital backbone for its energy transition, leveraging technology to support its shift towards a more sustainable future. This matters as it sets a precedent for the energy industry's adoption of innovation to meet growing sustainability demands.",
+    "summary": "E.ON is developing a digital backbone to support the energy transition through technological innovation. This matters as it enables controlled, resilient, and purpose-driven adoption of new energy solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-01T12:15:00.000Z",
