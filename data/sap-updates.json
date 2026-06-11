@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Shine On, SAP Launches Joule in SAP for Me, Business Travel Holds Steady as Travel Costs Rise and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-11T20:21:21.994Z",
+    "publishedAt": "2026-06-11T22:49:12.164Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
-    "summary": "SAP CX achieves G2 leadership across multiple categories. This marks a significant milestone for SAP CX, particularly in the enterprise segment.",
+    "summary": "SAP CX achieved G2 leadership across multiple categories, with a strong focus on the enterprise segment. This recognition underscores SAP CX's dominance in its market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-11T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Launches Joule in SAP for Me: An AI-Powered Gateway to Insights, Support, and Guided Actions",
-    "summary": "SAP launches Joule in SAP for Me, a conversational AI gateway to enterprise insights and support. This marks a shift from traditional search-based portals to agent-driven ecosystems.",
+    "summary": "SAP launches Joule in SAP for Me, an AI-powered gateway providing insights, support, and guided actions. This conversational platform replaces the traditional click-and-search portal with agent-driven interactions.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-06-11T11:15:00.000Z",
@@ -47,7 +47,7 @@
   {
     "id": "3",
     "title": "Business Travel Holds Steady as Travel Costs Rise",
-    "summary": "Business travel remains steady despite rising costs, with companies worldwide showing little decrease in travel activity. This trend matters as it suggests companies prioritize travel for business purposes despite economic pressures.",
+    "summary": "Business travel spending remains steady despite rising costs, with companies showing resilience in the face of inflation. This stability matters because it suggests companies are prioritizing business travel, indicating its importance for productivity and revenue.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T13:15:00.000Z",
@@ -61,7 +61,7 @@
   {
     "id": "4",
     "title": "SAP SuccessFactors Earns 19 TrustRadius Top Rated Awards",
-    "summary": "SAP SuccessFactors has earned 19 TrustRadius Top Rated Awards, a recognition based solely on customer feedback. This achievement highlights the platform's effectiveness and user satisfaction.",
+    "summary": "SAP SuccessFactors has earned 19 TrustRadius Top Rated Awards based on customer feedback. This achievement highlights the platform's effectiveness and customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T12:15:00.000Z",
@@ -75,7 +75,7 @@
   {
     "id": "5",
     "title": "Introducing the Autonomous Enterprise Podcast from SAP",
-    "summary": "SAP launches the Autonomous Enterprise Podcast, focusing on AI's business applications. The podcast explores turning AI into meaningful business impact through conversations and insights.",
+    "summary": "SAP launches the Autonomous Enterprise Podcast to discuss AI's business applications. The podcast explores using AI to drive meaningful business outcomes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T11:15:00.000Z",
@@ -89,7 +89,7 @@
   {
     "id": "6",
     "title": "SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure",
-    "summary": "SAP has received VS-NfD authorization, allowing secure SAP and customer applications to run in the cloud. This matters as it expands cloud infrastructure options for sensitive applications.",
+    "summary": "SAP receives VS-NfD authorization for cloud infrastructure, enabling secure cloud deployment of critical SAP and customer applications. This matters as it provides a secure cloud option for sensitive applications.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-09T12:15:00.000Z",
@@ -103,7 +103,7 @@
   {
     "id": "7",
     "title": "How the SAP Tool Chain Fuels Fast Growth at Harbour Energy",
-    "summary": "SAP's tool chain enables Harbour Energy to rapidly scale while maintaining agility. This allows the company to adapt quickly to changing market conditions.",
+    "summary": "Harbour Energy leverages SAP tool chain for rapid growth. This fuels scalability without sacrificing agility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-09T12:15:00.000Z",
@@ -117,7 +117,7 @@
   {
     "id": "8",
     "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
-    "summary": "SAP adopts SmartRecruiters for its SAP SuccessFactors platform to overhaul its global hiring process. This move uses its own software to streamline and improve recruitment.",
+    "summary": "SAP is adopting its own recruitment software, SmartRecruiters, for its hiring process. This move streamlines operations and enhances efficiency within the company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-08T11:15:00.000Z",
@@ -131,7 +131,7 @@
   {
     "id": "9",
     "title": "SAP’s AI-Native North Star Architecture: Technical Backbone of the Autonomous Enterprise",
-    "summary": "SAP introduces North Star Architecture, a foundation for AI-native systems that leverages context to drive decision-making. This shift from data-centric to context-centric architecture is crucial for the autonomous enterprise.",
+    "summary": "SAP unveils North Star Architecture, an AI-native framework for the autonomous enterprise. This architecture focuses on context to drive business decisions.\n\nWhy it matters: It sets a new standard for AI-driven business decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-08T10:15:00.000Z",
@@ -145,7 +145,7 @@
   {
     "id": "10",
     "title": "AI as a Game Changer for the Energy and Utilities Industry",
-    "summary": "AI is being increasingly adopted in the energy and utilities industry for predictive maintenance, grid management, and energy efficiency. This matters as AI can help reduce energy waste and improve grid resilience.",
+    "summary": "AI adoption is accelerating in the energy and utilities sector, with SAP's conference highlighting its potential for optimization and innovation. This matters as AI can improve grid management, reduce energy waste, and enhance customer experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-05T10:15:00.000Z",
