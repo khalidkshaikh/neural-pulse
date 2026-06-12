@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Discovery Center Helps Customers Start Their AI Journey, SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region, Shine On and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-12T20:07:06.006Z",
+    "publishedAt": "2026-06-12T22:23:10.150Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
-    "summary": "SAP launched the Discovery Center to aid customers in exploring and adopting AI solutions. This platform helps companies like Agilent and Sutherland kickstart their AI journeys.",
+    "summary": "SAP launched the Discovery Center to aid customers in exploring and adopting AI solutions. This platform helps companies like Agilent and Sutherland start their AI journey with SAP Business AI solutions.",
     "product": "Business AI",
     "updateType": "Release",
     "publishedAt": "2026-06-12T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
-    "summary": "SAP has opened a new data center in India, expanding its presence in the region. This move underscores the company's growing expertise in data federation and deepens its commitment to the world's fastest-growing large economy.",
+    "summary": "SAP has opened a new data center in India, expanding its presence in the country. This move deepens the company's commitment to India, the world's fastest-growing large economy.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-12T04:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
-    "summary": "SAP CX has been recognized as a leader in multiple categories by G2, a prominent review platform. This leadership status underscores the strength and reliability of SAP CX solutions, particularly in the enterprise segment.",
+    "summary": "SAP CX has been recognized as a leader across multiple categories by G2. This marks its strength in the enterprise segment.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-11T12:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "SAP Launches Joule in SAP for Me: An AI-Powered Gateway to Insights, Support, and Guided Actions",
-    "summary": "SAP introduces Joule, an AI-powered gateway within SAP for Me, offering conversational insights and support. This marks a shift from traditional search-based portals to agent-driven ecosystems.",
+    "summary": "SAP launches Joule in SAP for Me, an AI-powered gateway providing insights, support, and guided actions. This conversational system replaces the traditional click-and-search portal. It matters as it revolutionizes enterprise access to information and support.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-06-11T11:15:00.000Z",
@@ -75,7 +75,7 @@
   {
     "id": "5",
     "title": "Business Travel Holds Steady as Travel Costs Rise",
-    "summary": "Business travel remains steady despite rising costs. Companies are adapting to price increases, indicating resilience in the industry.",
+    "summary": "Companies worldwide maintained business travel activity despite rising costs. This stability matters as it indicates companies are prioritizing face-to-face interactions, despite increased expenses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T13:15:00.000Z",
@@ -89,7 +89,7 @@
   {
     "id": "6",
     "title": "SAP SuccessFactors Earns 19 TrustRadius Top Rated Awards",
-    "summary": "SAP SuccessFactors received 19 TrustRadius Top Rated Awards based on customer feedback. This achievement highlights customer satisfaction with the platform.",
+    "summary": "SAP SuccessFactors earned 19 TrustRadius Top Rated Awards based on customer feedback. This achievement underscores the company's commitment to delivering high-quality solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T12:15:00.000Z",
@@ -103,7 +103,7 @@
   {
     "id": "7",
     "title": "Introducing the Autonomous Enterprise Podcast from SAP",
-    "summary": "SAP launches an Autonomous Enterprise Podcast, focusing on AI-driven business impact. It features conversations and insights on leveraging AI for meaningful business results.",
+    "summary": "SAP launches the Autonomous Enterprise Podcast to discuss AI's business applications. It features conversations on leveraging AI for meaningful business impact.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T11:15:00.000Z",
@@ -117,7 +117,7 @@
   {
     "id": "8",
     "title": "SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure",
-    "summary": "SAP has received VS-NfD authorization for its cloud infrastructure, allowing security-critical applications to run in the cloud. This matters because it expands cloud deployment options for sensitive SAP and customer applications.",
+    "summary": "SAP has received VS-NfD authorization for its cloud infrastructure, allowing secure SAP and customer apps to run in the cloud. This matters as it expands cloud deployment options for security-sensitive applications.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-09T12:15:00.000Z",
@@ -131,7 +131,7 @@
   {
     "id": "9",
     "title": "How the SAP Tool Chain Fuels Fast Growth at Harbour Energy",
-    "summary": "SAP's tool chain enables Harbour Energy to scale efficiently and maintain agility. This allows the company to grow rapidly like a major corporation.",
+    "summary": "SAP's tool chain enables Harbour Energy to scale rapidly while maintaining agility. This allows the company to compete with larger firms while retaining startup-like flexibility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-09T12:15:00.000Z",
@@ -145,7 +145,7 @@
   {
     "id": "10",
     "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
-    "summary": "SAP is adopting its own SmartRecruiters software for its global hiring process, integrating it with SAP SuccessFactors. This move streamlines hiring, improving efficiency and effectiveness.",
+    "summary": "SAP is adopting its own hiring software, SmartRecruiters, for its SuccessFactors platform. This move aims to revamp the company's global hiring process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-08T11:15:00.000Z",
