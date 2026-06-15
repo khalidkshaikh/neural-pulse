@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Named a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition, New Research Reveals Growing Paradox at the Center of Business Travel, Why Partner Momentum Around SAP CX Matters Now and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-15T17:24:20.332Z",
+    "publishedAt": "2026-06-15T20:53:13.033Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
-    "summary": "New research highlights growing paradox in business travel, where employees value travel but face uncertainty. This paradox matters because it affects companies' ability to plan and budget for travel expenses.",
+    "summary": "Researchers found a paradox where employees value business travel despite growing uncertainty. This paradox matters as it highlights the complex relationship between work and travel in today's business landscape.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T12:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Why Partner Momentum Around SAP CX Matters Now",
-    "summary": "SAP CX has gained significant partner momentum, expanding its capabilities. This matters because seamless customer experience relies on direct execution, making partnerships crucial for success.",
+    "summary": "SAP CX partners are gaining momentum as the company strengthens its customer experience offerings. This matters because seamless execution is now a critical component of delivering effective customer experiences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
-    "summary": "SAP launches Discovery Center to aid customers in exploring and adopting AI solutions. This platform allows companies like Agilent and Sutherland to test and implement AI capabilities, streamlining their adoption process.",
+    "summary": "SAP launches Discovery Center to aid customers in exploring and adopting AI solutions. Companies like Agilent and Sutherland use the platform to start their AI journey, leveraging SAP Business AI capabilities.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-06-12T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
-    "summary": "SAP has opened a new data center in India, expanding its presence in the rapidly growing economy. This move underscores SAP's deepening commitment to the region and its expertise in data federation.",
+    "summary": "SAP opens a data center in India, expanding its presence in the country. This move underscores the company's deepening commitment to India, the world's fastest-growing large economy.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-12T04:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
-    "summary": "SAP CX earns G2 leadership across multiple categories, solidifying its strength in the enterprise segment. This matters as it showcases SAP CX's dominance in its market.",
+    "summary": "SAP CX achieves G2 leadership across multiple categories, solidifying its position in the enterprise segment. This recognition matters as it underscores SAP CX's dominance in the market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-11T12:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "SAP Launches Joule in SAP for Me: An AI-Powered Gateway to Insights, Support, and Guided Actions",
-    "summary": "SAP launches Joule in SAP for Me, an AI-powered gateway that uses conversational interface and agents to provide insights, support, and guided actions. This marks a shift from traditional search-based portals to a more interactive and intelligent enterprise ecosystem.",
+    "summary": "SAP launches Joule, an AI-powered gateway integrating insights, support, and guided actions into its SAP for Me portal. This conversational interface replaces traditional click-and-search functionality.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-06-11T11:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "Business Travel Holds Steady as Travel Costs Rise",
-    "summary": "Business travel remains steady despite rising costs, with companies worldwide maintaining their travel activity. This resilience matters as it suggests companies are prioritizing face-to-face interactions and business growth over cost-cutting measures.",
+    "summary": "Business travel spending holds steady globally despite rising costs. This stability matters as it indicates companies are adapting to inflation, prioritizing essential travel.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T13:15:00.000Z",
@@ -129,7 +129,7 @@
   {
     "id": "9",
     "title": "SAP SuccessFactors Earns 19 TrustRadius Top Rated Awards",
-    "summary": "SAP SuccessFactors has received 19 TrustRadius Top Rated Awards based on customer feedback. This achievement underscores the company's commitment to delivering high-quality products and services.",
+    "summary": "SAP SuccessFactors has received 19 TrustRadius Top Rated Awards, a recognition based solely on customer feedback. This achievement highlights SAP's strong reputation and customer satisfaction in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T12:15:00.000Z",
@@ -143,7 +143,7 @@
   {
     "id": "10",
     "title": "Introducing the Autonomous Enterprise Podcast from SAP",
-    "summary": "SAP launches the Autonomous Enterprise Podcast for AI insights. It explores turning AI into business impact through conversations and expert opinions.",
+    "summary": "SAP launches \"Autonomous Enterprise Podcast\" to discuss AI applications in business. The podcast explores turning AI into actionable business results.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T11:15:00.000Z",
