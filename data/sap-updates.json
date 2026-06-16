@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 15, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 16, 2026",
     "summary": "This week in SAP AI: SAP Named a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition, New Research Reveals Growing Paradox at the Center of Business Travel, Why Partner Momentum Around SAP CX Matters Now and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-15T23:01:18.035Z",
+    "publishedAt": "2026-06-16T03:52:19.062Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Named a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition",
-    "summary": "SAP has been named a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition. This recognition highlights SAP's AI-driven approach to workforce orchestration.",
+    "summary": "SAP has been named a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition. This recognition highlights SAP's AI-driven workforce orchestration vision, focusing on skills-based talent management.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T13:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
-    "summary": "New research highlights a paradox in business travel, where employees value it despite growing uncertainty. This paradox matters as it underscores the need for companies to adapt their travel policies to meet evolving employee expectations.",
+    "summary": "New research highlights a paradox in business travel, where employees value travel but also face uncertainty. This paradox matters as it reflects a shift in employee expectations and priorities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T12:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Why Partner Momentum Around SAP CX Matters Now",
-    "summary": "SAP CX has gained significant partner momentum, expanding its ecosystem. This growth enables seamless customer experience connections to business execution.",
+    "summary": "SAP CX gains momentum with new partnerships, expanding its customer experience capabilities. This matters because seamless execution is now directly tied to customer experience success.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
-    "summary": "SAP's Discovery Center enables customers to explore and adopt AI solutions through interactive experiences. This tool helps companies like Agilent and Sutherland kickstart their AI journeys, driving innovation and efficiency.",
+    "summary": "SAP launches Discovery Center to aid customers in exploring and adopting AI solutions. \nThis matters as it streamlines AI adoption for businesses, enabling them to start their AI journey more efficiently.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-06-12T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
-    "summary": "SAP has opened a new data center in India, expanding its presence in the region. This move underscores the company's growing commitment to India, the world's fastest-growing large economy.",
+    "summary": "SAP has opened a new data center in India, expanding its presence in the country. This move underscores the company's growing expertise in data federation and deepens its commitment to the region.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-12T04:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
-    "summary": "SAP CX leads in multiple categories on G2, a prominent review platform. This recognition underscores its strength in the enterprise segment.",
+    "summary": "SAP CX leads in multiple categories on G2, a prominent review platform. This recognition solidifies SAP CX's position in the enterprise segment.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-11T12:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "SAP Launches Joule in SAP for Me: An AI-Powered Gateway to Insights, Support, and Guided Actions",
-    "summary": "SAP launches Joule, an AI-powered gateway for insights, support, and guided actions. This conversational platform replaces traditional search portals, providing a more intuitive user experience.",
+    "summary": "SAP launches Joule, an AI-powered gateway providing insights, support, and guided actions. This conversational platform replaces traditional click-and-search portals.",
     "product": "Joule",
     "updateType": "Feature",
     "publishedAt": "2026-06-11T11:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "Business Travel Holds Steady as Travel Costs Rise",
-    "summary": "Companies maintained business travel levels despite rising costs, according to SAP Concur data. This stability matters as it suggests companies are adapting to inflation and prioritizing travel for business needs.",
+    "summary": "Business travel spending holds steady globally despite rising costs. Companies prioritize travel despite increased expenses, indicating resilience in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T13:15:00.000Z",
@@ -129,7 +129,7 @@
   {
     "id": "9",
     "title": "SAP SuccessFactors Earns 19 TrustRadius Top Rated Awards",
-    "summary": "SAP SuccessFactors has received 19 TrustRadius Top Rated Awards based on customer feedback. This achievement highlights the company's strong reputation among users.",
+    "summary": "SAP SuccessFactors has received 19 TrustRadius Top Rated Awards based on customer feedback. This achievement highlights the company's strong customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T12:15:00.000Z",
@@ -143,7 +143,7 @@
   {
     "id": "10",
     "title": "Introducing the Autonomous Enterprise Podcast from SAP",
-    "summary": "SAP launches the Autonomous Enterprise Podcast, focusing on AI's business applications. The podcast will discuss turning AI into meaningful business impact.",
+    "summary": "SAP launches the Autonomous Enterprise Podcast for AI insights. The podcast explores AI's business applications and meaningful impact.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-10T11:15:00.000Z",
