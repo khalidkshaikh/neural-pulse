@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 17, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 18, 2026",
     "summary": "This week in SAP AI: Reimagining the Supply Chain, Building Africa’s Renewable Backbone, Early Talent Hiring and Development and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-17T22:43:58.652Z",
+    "publishedAt": "2026-06-18T03:40:39.624Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
-    "summary": "Companies are redefining their supply chain strategies to improve efficiency and resilience. This shift matters because it can significantly reduce costs and enhance customer satisfaction.",
+    "summary": "Companies are reevaluating their supply chain strategies to improve efficiency and resilience. This shift matters because effective supply chain orchestration can significantly reduce costs and enhance customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T11:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "Building Africa’s Renewable Backbone: KETRACO’s Push for a Smarter Grid",
-    "summary": "KETRACO is building Africa's renewable energy backbone through a smarter grid. This push for intelligent grid management will enable efficient distribution of renewable energy sources.",
+    "summary": "KETRACO is pushing to create a smarter grid in Africa through renewable energy infrastructure. This matters because a more efficient grid can provide reliable and sustainable power to the continent.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T10:15:00.000Z",
@@ -41,7 +41,7 @@
   {
     "id": "3",
     "title": "Early Talent Hiring and Development: Now’s the Moment for a Major Reset",
-    "summary": "Organizations face a paradox: shrinking entry-level roles despite growing need for AI-native talent. This gap requires a major reset in early talent hiring and development strategies.",
+    "summary": "Organizations are facing a talent shortage as entry-level roles shrink, making it harder to attract AI-native workers. This shift requires a major reset in early talent hiring and development strategies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T12:15:00.000Z",
@@ -53,7 +53,7 @@
   {
     "id": "4",
     "title": "Salt River Project’s 5 Benefits of WalkMe for SAP Business Suite",
-    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite. It has achieved improved process efficiency, compliance, cycle times, cost efficiency, and user experience.",
+    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite, achieving 5 key benefits: improved process efficiency, compliance, cycle times, cost efficiency, and user experience. This matters because streamlined processes and cost savings are crucial for public utilities to efficiently serve their communities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T11:15:00.000Z",
@@ -81,7 +81,7 @@
   {
     "id": "6",
     "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
-    "summary": "Research shows a paradox in business travel, where employees value the experience but are uncertain about its necessity. This paradox matters as it highlights the need for companies to redefine travel policies and prioritize employee needs.",
+    "summary": "Research finds employees value business travel despite growing uncertainty. This paradox matters as it highlights the complexities of modern corporate travel policies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T12:15:00.000Z",
@@ -93,7 +93,7 @@
   {
     "id": "7",
     "title": "Why Partner Momentum Around SAP CX Matters Now",
-    "summary": "SAP CX partners are gaining momentum, offering connected customer experience solutions. This matters because seamless customer experience requires integrated execution, not just isolated interactions.",
+    "summary": "SAP CX has gained significant partner momentum, expanding its capabilities. This matters because seamless customer experience requires direct execution.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T11:15:00.000Z",
@@ -107,7 +107,7 @@
   {
     "id": "8",
     "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
-    "summary": "SAP introduces the Discovery Center, a platform for customers to explore and adopt AI solutions. This tool helps businesses start their AI journey with hands-on experience and guided adoption.",
+    "summary": "SAP launches the Discovery Center, a platform to explore AI solutions. \n\nCompanies like Agilent and Sutherland use it to test and adopt SAP Business AI solutions. \n\nWhy it matters: Businesses can now easily experiment with AI, accelerating adoption and digital transformation.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-06-12T11:15:00.000Z",
@@ -135,7 +135,7 @@
   {
     "id": "10",
     "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
-    "summary": "SAP CX leads in multiple categories on G2, a business software review platform. This recognition showcases SAP CX's strength in the enterprise segment.",
+    "summary": "SAP CX leads in multiple categories on G2, a review platform. This marks a leadership position in the enterprise segment.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-11T12:15:00.000Z",
