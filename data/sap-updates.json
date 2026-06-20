@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 19, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 20, 2026",
     "summary": "This week in SAP AI: How AI Powers Customer Experience in Travel and Transportation, The Autonomous CX Revolution Elevated by Google, From Weeks to Minutes and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-19T22:02:18.197Z",
+    "publishedAt": "2026-06-20T03:27:20.280Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "How AI Powers Customer Experience in Travel and Transportation",
-    "summary": "AI is being integrated into travel and transportation to personalize customer experiences through real-time data analysis and tailored recommendations. This matters as it enhances user satisfaction and loyalty in a competitive industry.",
+    "summary": "AI now enhances customer experience in travel and transportation through personalized interactions and seamless journeys. This matters because it boosts customer satisfaction and loyalty.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-19T10:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "The Autonomous CX Revolution Elevated by Google",
-    "summary": "Google Cloud partners with SAP to elevate autonomous customer experience. This integration combines AI and cloud capabilities to enhance customer interactions.",
+    "summary": "Google Cloud partners with SAP Customer Experience to integrate AI and automation in customer service. This collaboration enables businesses to deliver seamless, personalized experiences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T13:15:00.000Z",
@@ -44,7 +44,7 @@
   {
     "id": "3",
     "title": "From Weeks to Minutes: How SAP Store Is Changing Enterprise Software Procurement",
-    "summary": "SAP Store now offers instant procurement of enterprise software, reducing the process from weeks to minutes. This change streamlines the buying process, enabling businesses to quickly address emerging needs.",
+    "summary": "SAP Store now offers instant procurement for enterprise software, reducing wait times from weeks to minutes. This streamlined process matters as it enables businesses to quickly adapt to changing needs and stay competitive.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T12:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "Navigating the Transition from SAP Solution Manager to SAP Cloud ALM",
-    "summary": "SAP introduces Cloud ALM as a cloud-native solution to replace Solution Manager. This transition enables modern organizations to adapt to a fast-moving digital landscape.",
+    "summary": "SAP is transitioning from SAP Solution Manager to cloud-native SAP Cloud ALM. This shift aims to help modern organizations adapt to the fast-paced digital landscape.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T11:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
-    "summary": "Companies are reimagining supply chains to improve efficiency and agility. This matters because it can reduce costs and enhance customer satisfaction.",
+    "summary": "Companies are rethinking supply chain strategies to prioritize agility and resilience. This shift matters because it can improve operational efficiency and reduce disruptions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T11:15:00.000Z",
@@ -84,7 +84,7 @@
   {
     "id": "6",
     "title": "Building Africa’s Renewable Backbone: KETRACO’s Push for a Smarter Grid",
-    "summary": "Kenya Electricity Transmission Company (KETRACO) is developing a smarter grid to manage Africa's renewable energy growth. This matters as it enables efficient distribution and utilization of renewable energy sources.",
+    "summary": "Kenya Electricity Transmission Company (KETRACO) is developing a smarter grid with intelligent management. This matters as it will help Africa's renewable energy infrastructure scale more efficiently.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T10:15:00.000Z",
@@ -96,7 +96,7 @@
   {
     "id": "7",
     "title": "Early Talent Hiring and Development: Now’s the Moment for a Major Reset",
-    "summary": "Organizations face a paradox: shrinking entry-level roles amidst growing AI demands. This gap necessitates a major reset in early talent hiring and development strategies.",
+    "summary": "Organizations are facing a talent shortage as entry-level roles decline, making it harder to find AI-native workers. This shift requires a major reset in early talent hiring and development strategies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T12:15:00.000Z",
@@ -108,7 +108,7 @@
   {
     "id": "8",
     "title": "Salt River Project’s 5 Benefits of WalkMe for SAP Business Suite",
-    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite, citing 5 key benefits. Improved process efficiency, compliance, cycle times, cost efficiency, and user experience are the results.",
+    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite. The utility has seen improvements in process efficiency, compliance, cycle times, cost efficiency, and user experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T11:15:00.000Z",
@@ -122,7 +122,7 @@
   {
     "id": "9",
     "title": "SAP Named a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition",
-    "summary": "SAP has been named a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition. This recognition highlights SAP's AI-driven approach to skills-based workforce orchestration.",
+    "summary": "SAP has been named a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition. This recognition underscores SAP's commitment to AI-driven, skills-based workforce orchestration.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T13:15:00.000Z",
@@ -136,7 +136,7 @@
   {
     "id": "10",
     "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
-    "summary": "Researchers find a paradox in business travel, where employees value it but also experience uncertainty. This paradox matters because it highlights the growing disconnect between employee expectations and corporate policies.",
+    "summary": "New research highlights a paradox in business travel, where employees increasingly value work trips despite growing uncertainty. This paradox matters as it affects companies' travel policies and employee satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T12:15:00.000Z",
