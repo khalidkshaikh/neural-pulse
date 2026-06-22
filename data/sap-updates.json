@@ -2,10 +2,10 @@
   {
     "id": "0",
     "title": "Weekly SAP AI Digest — Week of June 22, 2026",
-    "summary": "This week in SAP AI: How AI Powers Customer Experience in Travel and Transportation, The Autonomous CX Revolution Elevated by Google, From Weeks to Minutes and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
+    "summary": "This week in SAP AI: Less Back-and-Forth, How AI Powers Customer Experience in Travel and Transportation, The Autonomous CX Revolution Elevated by Google and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-22T03:58:47.249Z",
+    "publishedAt": "2026-06-22T11:49:16.833Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -16,8 +16,22 @@
   },
   {
     "id": "1",
+    "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
+    "summary": "SAP Store Private Offers simplifies software buying and selling through streamlined marketplaces. This change matters as it improves efficiency in the enterprise software market.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-06-22T11:15:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/06/sap-store-private-offers-simplify-buy-and-sell/",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "2",
     "title": "How AI Powers Customer Experience in Travel and Transportation",
-    "summary": "AI now powers personalized customer experiences in travel and transportation, enhancing interactions from booking to destination. This matters as it boosts customer satisfaction and loyalty.",
+    "summary": "AI is being integrated into travel and transportation to personalize customer experiences from booking to arrival. This matters because it sets a new standard for seamless, efficient, and engaging experiences in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-19T10:15:00.000Z",
@@ -27,9 +41,9 @@
     "tags": []
   },
   {
-    "id": "2",
+    "id": "3",
     "title": "The Autonomous CX Revolution Elevated by Google",
-    "summary": "Google Cloud partners with SAP Customer Experience to boost autonomous customer experience. This integration combines AI, cloud, and CX capabilities.",
+    "summary": "Google Cloud is partnering with SAP Customer Experience to elevate autonomous customer experience (CX) capabilities. This partnership enables businesses to automate and personalize customer interactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T13:15:00.000Z",
@@ -42,9 +56,9 @@
     ]
   },
   {
-    "id": "3",
+    "id": "4",
     "title": "From Weeks to Minutes: How SAP Store Is Changing Enterprise Software Procurement",
-    "summary": "SAP Store now offers instant procurement of enterprise software, reducing the process from weeks to minutes. This streamlined process allows businesses to quickly address needs and acquire solutions, improving operational efficiency.",
+    "summary": "SAP Store now enables enterprise software procurement in minutes, a significant shift from weeks-long processes. This change matters as it accelerates innovation and time-to-market for businesses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T12:15:00.000Z",
@@ -56,9 +70,9 @@
     ]
   },
   {
-    "id": "4",
+    "id": "5",
     "title": "Navigating the Transition from SAP Solution Manager to SAP Cloud ALM",
-    "summary": "SAP introduces Cloud ALM, a cloud-native solution replacing Solution Manager. This transition aims to address modern organizations' needs in a rapidly changing digital landscape.",
+    "summary": "SAP Cloud ALM is a cloud-native solution that addresses gaps in modern organizations' digital landscapes. It matters because it provides a more agile and adaptive approach to IT management.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T11:15:00.000Z",
@@ -70,9 +84,9 @@
     ]
   },
   {
-    "id": "5",
+    "id": "6",
     "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
-    "summary": "Companies are adopting supply chain orchestration to streamline operations, but struggle with defining and implementing a strategy. This matters because effective orchestration can boost efficiency and reduce costs.",
+    "summary": "Companies are redefining their supply chain strategies to prioritize orchestration. This shift matters because it can lead to improved efficiency and reduced costs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T11:15:00.000Z",
@@ -82,9 +96,9 @@
     "tags": []
   },
   {
-    "id": "6",
+    "id": "7",
     "title": "Building Africa’s Renewable Backbone: KETRACO’s Push for a Smarter Grid",
-    "summary": "Kenya Electricity Transmission Company (KETRACO) is upgrading its grid infrastructure with a focus on renewable energy sources. This matters as it aims to create a more efficient and reliable power supply in Africa.",
+    "summary": "KETRACO is developing a smarter grid in Africa through renewable energy integration. This push for a more intelligent grid will improve energy efficiency and reliability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T10:15:00.000Z",
@@ -94,9 +108,9 @@
     "tags": []
   },
   {
-    "id": "7",
+    "id": "8",
     "title": "Early Talent Hiring and Development: Now’s the Moment for a Major Reset",
-    "summary": "Organizations face a talent paradox: shrinking entry-level roles despite growing AI demands. This gap requires a major reset in early talent hiring and development strategies.",
+    "summary": "Organizations face a paradox: shrinking entry-level roles despite growing AI demands. This gap requires a major reset in early talent hiring and development strategies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T12:15:00.000Z",
@@ -106,9 +120,9 @@
     "tags": []
   },
   {
-    "id": "8",
+    "id": "9",
     "title": "Salt River Project’s 5 Benefits of WalkMe for SAP Business Suite",
-    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite, yielding 5 key benefits. Improved process efficiency, compliance, cycle times, cost efficiency, and user experience are the results, which matters for optimizing utility operations.",
+    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite, achieving benefits in process efficiency, compliance, cycle times, cost efficiency, and user experience. This matters because it showcases WalkMe's effectiveness in optimizing business operations and user experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T11:15:00.000Z",
@@ -120,9 +134,9 @@
     ]
   },
   {
-    "id": "9",
+    "id": "10",
     "title": "SAP Named a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition",
-    "summary": "SAP has been named a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition. This recognition highlights SAP's AI-driven approach to workforce orchestration, focusing on skills-based management.",
+    "summary": "SAP has been named a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition. This recognition highlights SAP's AI-driven approach to workforce orchestration.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-15T13:15:00.000Z",
@@ -134,7 +148,7 @@
     ]
   },
   {
-    "id": "10",
+    "id": "11",
     "title": "New Research Reveals Growing Paradox at the Center of Business Travel",
     "summary": "New research highlights a paradox in business travel: employees value travel, but uncertainty surrounds its necessity. This paradox matters because it affects companies' ability to justify and optimize travel expenses.",
     "product": "Community",
@@ -146,7 +160,7 @@
     "tags": []
   },
   {
-    "id": "11",
+    "id": "12",
     "title": "Why Partner Momentum Around SAP CX Matters Now",
     "summary": "SAP CX has gained significant partner momentum, expanding its ecosystem. This matters because seamless customer experience requires connected execution.",
     "product": "Community",
@@ -160,7 +174,7 @@
     ]
   },
   {
-    "id": "12",
+    "id": "13",
     "title": "SAP Discovery Center Helps Customers Start Their AI Journey",
     "summary": "SAP has launched the Discovery Center to aid customers in exploring and adopting AI solutions. This platform allows companies to test and implement AI capabilities, such as Agilent and Sutherland, who have already utilized it.",
     "product": "Business AI",
@@ -174,7 +188,7 @@
     ]
   },
   {
-    "id": "13",
+    "id": "14",
     "title": "SAP Opens Data Center in India, Underscoring Expertise in Data Federation and Deepening Commitment to the Region",
     "summary": "SAP has opened a data center in India, expanding its local presence and expertise in data federation. This move deepens the company's commitment to the region, home to over 15,000 SAP employees.",
     "product": "Community",
@@ -188,7 +202,7 @@
     ]
   },
   {
-    "id": "14",
+    "id": "15",
     "title": "Shine On: SAP CX Celebrates G2 Leadership Across Multiple Categories",
     "summary": "SAP CX earns G2 leadership across multiple categories, including enterprise segment. This matters as it solidifies SAP's position in the market.",
     "product": "Community",
@@ -202,7 +216,7 @@
     ]
   },
   {
-    "id": "15",
+    "id": "16",
     "title": "SAP Launches Joule in SAP for Me: An AI-Powered Gateway to Insights, Support, and Guided Actions",
     "summary": "SAP has launched Joule, an AI-powered gateway within SAP for Me, offering conversational insights, support, and guided actions. This shift from a traditional portal to an agent-driven ecosystem enables more intuitive and personalized user experiences.",
     "product": "Joule",
@@ -218,7 +232,7 @@
     ]
   },
   {
-    "id": "16",
+    "id": "17",
     "title": "Business Travel Holds Steady as Travel Costs Rise",
     "summary": "Business travel spending remains steady despite rising costs, with companies worldwide showing little change in travel activity. This stability matters as it suggests companies are adapting to increased expenses, prioritizing business travel for its benefits.",
     "product": "Community",
@@ -232,7 +246,7 @@
     ]
   },
   {
-    "id": "17",
+    "id": "18",
     "title": "SAP SuccessFactors Earns 19 TrustRadius Top Rated Awards",
     "summary": "SAP SuccessFactors has received 19 TrustRadius Top Rated Awards based on customer feedback. This achievement highlights the platform's strong reputation among users.",
     "product": "Community",
@@ -246,7 +260,7 @@
     ]
   },
   {
-    "id": "18",
+    "id": "19",
     "title": "Introducing the Autonomous Enterprise Podcast from SAP",
     "summary": "SAP introduces the Autonomous Enterprise Podcast to discuss AI's business applications. The podcast explores turning AI into actionable business impact.",
     "product": "Community",
@@ -260,7 +274,7 @@
     ]
   },
   {
-    "id": "19",
+    "id": "20",
     "title": "SAP Receives VS-NfD Authorization to Use for SAP Cloud Infrastructure",
     "summary": "SAP has received VS-NfD authorization for its cloud infrastructure, allowing security-critical applications to run in the cloud. This matters as it expands cloud deployment options for SAP and its customers.",
     "product": "Community",
@@ -274,7 +288,7 @@
     ]
   },
   {
-    "id": "20",
+    "id": "21",
     "title": "How the SAP Tool Chain Fuels Fast Growth at Harbour Energy",
     "summary": "Harbour Energy adopts SAP tool chain for rapid growth. This fuels scalability without sacrificing agility.",
     "product": "Community",
@@ -288,7 +302,7 @@
     ]
   },
   {
-    "id": "21",
+    "id": "22",
     "title": "The Future of Hiring at SAP: SAP Runs SmartRecruiters",
     "summary": "SAP adopts its own SmartRecruiters software for its global hiring process. This move integrates hiring with SAP SuccessFactors to streamline the process.",
     "product": "Community",
@@ -302,7 +316,7 @@
     ]
   },
   {
-    "id": "22",
+    "id": "23",
     "title": "SAP’s AI-Native North Star Architecture: Technical Backbone of the Autonomous Enterprise",
     "summary": "SAP introduces North Star Architecture, an AI-native framework for the autonomous enterprise. This architecture focuses on leveraging context to drive business decisions.\n\nWhy it matters: Context-driven decision-making enhances business agility and competitiveness.",
     "product": "Community",
@@ -316,7 +330,7 @@
     ]
   },
   {
-    "id": "23",
+    "id": "24",
     "title": "AI as a Game Changer for the Energy and Utilities Industry",
     "summary": "AI technology is being increasingly adopted in the energy and utilities industry, with SAP highlighting its potential for predictive maintenance and grid management. This matters as AI can optimize energy efficiency and reduce costs.",
     "product": "Community",
@@ -330,7 +344,7 @@
     ]
   },
   {
-    "id": "24",
+    "id": "25",
     "title": "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model",
     "summary": "Agentic AI is emerging as a key technology for autonomous supply chains, enabling self-directed operations. This matters as it can significantly improve supply chain efficiency and resilience.",
     "product": "Community",
@@ -344,7 +358,7 @@
     ]
   },
   {
-    "id": "25",
+    "id": "26",
     "title": "How Applied Materials Is Driving Transformation of the Finance Function with SAP Taulia",
     "summary": "Applied Materials has implemented SAP Taulia, enhancing its finance function with a more agile and resilient system. This transformation maintains mutually beneficial relationships with its global supplier ecosystem, improving supply chain management.",
     "product": "Community",
@@ -358,7 +372,7 @@
     ]
   },
   {
-    "id": "26",
+    "id": "27",
     "title": "Victrola Puts a Modern Spin on Growth in the Public Cloud",
     "summary": "Victrola has migrated its ERP system from SAP ECC to SAP Cloud ERP, adopting a cloud-based infrastructure. This move matters as it showcases the strategic shift towards cloud-based solutions for growing retail companies.",
     "product": "Community",
@@ -372,7 +386,7 @@
     ]
   },
   {
-    "id": "27",
+    "id": "28",
     "title": "From Campus to Career: SAP Empowers Academia to Prepare Students for the Age of Agentic AI",
     "summary": "SAP partners with academia to develop AI skills in students. This initiative prepares graduates for a job market influenced by agentic AI.",
     "product": "Community",
@@ -387,7 +401,7 @@
     ]
   },
   {
-    "id": "28",
+    "id": "29",
     "title": "How E.ON Is Building the Digital Backbone of the Energy Transition",
     "summary": "E.ON is developing a digital backbone to support the energy transition through technological innovation. This matters as it enables controlled, resilient, and purpose-driven adoption of new energy solutions.",
     "product": "Community",
@@ -399,7 +413,7 @@
     "tags": []
   },
   {
-    "id": "29",
+    "id": "30",
     "title": "Direct Procurement Roundtable: Customer Journeys, Product Direction, and the Reality of AI",
     "summary": "Senior procurement leaders from various industries shared their experiences with AI adoption, highlighting the importance of customer journeys and product direction. This insight matters as it reveals the practical applications of AI in procurement.",
     "product": "Community",
@@ -411,7 +425,7 @@
     "tags": []
   },
   {
-    "id": "30",
+    "id": "31",
     "title": "The EU Pay Transparency Deadline Is Coming: What HR Leaders Need to Get Right Before June 7",
     "summary": "The EU's pay transparency directive deadline is June 7, requiring companies to publicly disclose salary ranges. This mandate's execution poses the biggest challenge for HR leaders.",
     "product": "Community",
@@ -423,7 +437,7 @@
     "tags": []
   },
   {
-    "id": "31",
+    "id": "32",
     "title": "SAP Successfully Places €3.5 Billion Eurobond",
     "summary": "SAP has issued a €3.5 billion Eurobond, marking a significant financing milestone. This matters as it demonstrates SAP's ability to secure large-scale funding for future growth and investments.",
     "product": "Community",
@@ -437,7 +451,7 @@
     ]
   },
   {
-    "id": "32",
+    "id": "33",
     "title": "Forging a Future-Ready Government: Charlottesville’s Digital Transformation",
     "summary": "Charlottesville launches digital transformation to prepare for future needs. This initiative focuses on building a forward-thinking infrastructure for the city's government.",
     "product": "Community",
@@ -449,7 +463,7 @@
     "tags": []
   },
   {
-    "id": "33",
+    "id": "34",
     "title": "Operationalizing Autonomous CX with the Advanced Success Plan for SAP Customer Experience",
     "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, a new operational framework for autonomous customer experience. This plan streamlines execution and decision-making to help teams achieve faster results.",
     "product": "Community",
@@ -463,7 +477,7 @@
     ]
   },
   {
-    "id": "34",
+    "id": "35",
     "title": "The Autonomous Enterprise: Better Decisions in Motion",
     "summary": "Companies are adopting autonomous enterprise models to make faster, data-driven decisions. This matters because it allows businesses to stay competitive and adapt quickly to changing markets without compromising quality or trust.",
     "product": "Community",
@@ -475,7 +489,7 @@
     "tags": []
   },
   {
-    "id": "35",
+    "id": "36",
     "title": "The Next Era of Business AI",
     "summary": "Researchers emphasize that AI requires contextual understanding to reach its full potential. This contextual understanding is necessary for AI to deliver on its promise.",
     "product": "Business AI",
@@ -487,7 +501,7 @@
     "tags": []
   },
   {
-    "id": "36",
+    "id": "37",
     "title": "SAP Helps Boost Grupo UMA’s Motorcycle Production",
     "summary": "SAP has collaborated with Grupo UMA to implement global models and automate operations across finance, production, and logistics. This partnership has streamlined UMA's motorcycle production process.",
     "product": "Community",
@@ -501,7 +515,7 @@
     ]
   },
   {
-    "id": "37",
+    "id": "38",
     "title": "SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Proces",
     "summary": "SAP Signavio has been named a Leader in Gartner's Magic Quadrant for Process Intelligence Platforms for the fourth consecutive year. This marks its first acknowledgement in the new category, solidifying its position in process intelligence.",
     "product": "Community",
@@ -515,7 +529,7 @@
     ]
   },
   {
-    "id": "38",
+    "id": "39",
     "title": "Three Journeys That Redefine Logistics in a Disruptive World",
     "summary": "Logistics companies are adopting AI, blockchain, and IoT to optimize supply chains. This shift aims to enhance efficiency, reduce costs, and improve customer satisfaction.",
     "product": "Community",
@@ -527,7 +541,7 @@
     "tags": []
   },
   {
-    "id": "39",
+    "id": "40",
     "title": "Madrid City Council Accelerates the Modernization of Its Internal and Tax Management with SAP",
     "summary": "Madrid City Council upgrades its internal and tax management systems with SAP software. This modernization aims to improve efficiency and effectiveness in municipal operations.",
     "product": "Community",
@@ -541,7 +555,7 @@
     ]
   },
   {
-    "id": "40",
+    "id": "41",
     "title": "Ericsson Scales AI Across the Enterprise with a Business Data Fabric and SAP",
     "summary": "Ericsson launches Business Data Fabric to scale AI across the enterprise. This integration with SAP enables seamless data sharing and AI deployment.",
     "product": "Community",
@@ -555,7 +569,7 @@
     ]
   },
   {
-    "id": "41",
+    "id": "42",
     "title": "Martur Fompak International Boosts Throughput and Efficiency with Intelligent Robotics Enabled by Joule and Embodied AI",
     "summary": "Martur Fompak International deploys autonomous intralogistics model with intelligent robotics. This is enabled by Joule and Embodied AI, boosting throughput and efficiency.",
     "product": "Joule",
@@ -569,7 +583,7 @@
     ]
   },
   {
-    "id": "42",
+    "id": "43",
     "title": "The AI Race Is Being Fought in the Wrong Place",
     "summary": "A shift in the AI landscape is occurring, with insight-generating AI being surpassed by action-oriented AI that incorporates enterprise context. This change matters because it highlights the importance of tailored AI solutions that understand specific business environments.",
     "product": "Community",
@@ -581,7 +595,7 @@
     "tags": []
   },
   {
-    "id": "43",
+    "id": "44",
     "title": "Making AI Value Real Today",
     "summary": "SAP executives and customers showcased the Autonomous Enterprise as the key to unlocking AI value. This approach enables businesses to integrate AI into existing systems for tangible results.",
     "product": "Community",
@@ -596,7 +610,7 @@
     ]
   },
   {
-    "id": "44",
+    "id": "45",
     "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
     "summary": "SAP introduces new AI agents for sustainability, enabling businesses to scale sustainable outcomes. This technology matters as it empowers companies to make data-driven, environmentally conscious decisions.",
     "product": "Community",
@@ -611,7 +625,7 @@
     ]
   },
   {
-    "id": "45",
+    "id": "46",
     "title": "Certification in the AI Era: From Knowledge to Capability",
     "summary": "Certification now focuses on verifying professionals' ability to apply AI knowledge effectively. This shift from knowledge-based to capability-based certification matters as it ensures relevant, practical skills.",
     "product": "Community",
@@ -623,7 +637,7 @@
     "tags": []
   },
   {
-    "id": "46",
+    "id": "47",
     "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
     "summary": "AI and unified workflows now enable autonomous spend management, streamlining decision-making across the spend life cycle. This matters as it improves efficiency and reduces manual intervention.",
     "product": "Community",
@@ -635,7 +649,7 @@
     "tags": []
   },
   {
-    "id": "47",
+    "id": "48",
     "title": "From Static Planning to Continuous Enterprise Planning",
     "summary": "Finance teams are shifting from static planning to continuous enterprise planning, enabling real-time adjustments and more accurate forecasting. This matters as it allows businesses to adapt quickly to changing market conditions and make data-driven decisions.",
     "product": "Community",
@@ -647,7 +661,7 @@
     "tags": []
   },
   {
-    "id": "48",
+    "id": "49",
     "title": "Moving Toward a More Autonomous Supply Chain",
     "summary": "New AI innovations integrate real-time data to make supply chains more adaptive and responsive. This matters as it enables more efficient and resilient logistics operations.",
     "product": "Community",
@@ -659,7 +673,7 @@
     "tags": []
   },
   {
-    "id": "49",
+    "id": "50",
     "title": "Why AI Raises the Stakes for Customer Experience",
     "summary": "AI-powered customer experience (CX) enables businesses to better understand and respond to customers in real-time. This raises the stakes for companies to deliver seamless, personalized experiences to earn customer loyalty.",
     "product": "Community",
@@ -671,7 +685,7 @@
     "tags": []
   },
   {
-    "id": "50",
+    "id": "51",
     "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
     "summary": "SAP SuccessFactors introduces autonomous HCM innovations leveraging AI. This marks a shift in how work is done, grounded in data and systems.",
     "product": "Community",
@@ -685,7 +699,7 @@
     ]
   },
   {
-    "id": "51",
+    "id": "52",
     "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
     "summary": "SAP introduces a business AI platform for autonomous enterprise use. The platform enables accurate, secure, and scalable agentic AI.",
     "product": "Business AI",
@@ -700,7 +714,7 @@
     ]
   },
   {
-    "id": "52",
+    "id": "53",
     "title": "A Symphony of Partnership to Ring in the Era of the Autonomous Enterprise",
     "summary": "SAP partners will help bring the Autonomous Enterprise to life through collaborative efforts. This partnership enables SAP to expand its capabilities and deliver more comprehensive solutions.",
     "product": "Community",
@@ -714,7 +728,7 @@
     ]
   },
   {
-    "id": "53",
+    "id": "54",
     "title": "Business Transformation Management Helps Lay the Foundation for the Autonomous Enterprise",
     "summary": "SAP's Business Transformation Management solutions enable organizations to implement autonomous enterprise capabilities. This lays the groundwork for future automation and AI adoption.",
     "product": "Community",
@@ -728,7 +742,7 @@
     ]
   },
   {
-    "id": "54",
+    "id": "55",
     "title": "Accelerate the Autonomous Enterprise with SAP Business Data Cloud",
     "summary": "SAP introduces Business Data Cloud to accelerate autonomous enterprise adoption. This innovation enables real-time data integration and AI-driven insights.",
     "product": "Community",
@@ -742,7 +756,7 @@
     ]
   },
   {
-    "id": "55",
+    "id": "56",
     "title": "Announcing New Joule Studio for Enterprise Scale Agentic Development",
     "summary": "Joule Studio is a new, fully managed platform for enterprise-scale AI development. It enables companies to build, manage, and scale AI agents, applications, and workflows.",
     "product": "Joule",
@@ -757,7 +771,7 @@
     ]
   },
   {
-    "id": "56",
+    "id": "57",
     "title": "The Future of the Enterprise Is Autonomous",
     "summary": "Companies are adopting AI-driven autonomous systems for increased innovation and revenue. This shift matters as it enables businesses to stay competitive and drive growth.",
     "product": "Community",
@@ -769,7 +783,7 @@
     "tags": []
   },
   {
-    "id": "57",
+    "id": "58",
     "title": "SAP Unveils the Autonomous Enterprise",
     "summary": "SAP introduces a unified SAP Business AI Platform, expanding partnerships with top tech companies. This platform leverages AI to automate enterprise operations.",
     "product": "Business AI",
@@ -786,7 +800,7 @@
     ]
   },
   {
-    "id": "58",
+    "id": "59",
     "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
     "summary": "AI innovation now offers role-specific support, automating workflows to boost business productivity. This advancement enables tailored assistance, streamlining tasks and increasing efficiency.",
     "product": "Community",
@@ -798,7 +812,7 @@
     "tags": []
   },
   {
-    "id": "59",
+    "id": "60",
     "title": "SAP and Anthropic Plan to Bring Claude to SAP Business AI Platform",
     "summary": "SAP and Anthropic partner to integrate Claude, a large language model, into SAP's Business AI Platform. This integration aims to seamlessly incorporate AI into existing enterprise systems, rather than rebuilding around it.",
     "product": "Business AI",
@@ -814,7 +828,7 @@
     ]
   },
   {
-    "id": "60",
+    "id": "61",
     "title": "Shaping the Future of Secure AI Agents: How SAP and NVIDIA Are Co-Defining Enterprise-Grade Agent Execution",
     "summary": "SAP and NVIDIA are collaborating to develop secure AI agents for enterprise use. This partnership aims to make AI agents safe, governable, and auditable by design.",
     "product": "Community",
@@ -829,7 +843,7 @@
     ]
   },
   {
-    "id": "61",
+    "id": "62",
     "title": "SAP and AWS Enable Next-Generation AI with Bi-Directional Zero-Copy Data Sharing with SAP Business Data Cloud",
     "summary": "AWS and SAP enable bi-directional zero-copy data sharing for SAP Business Data Cloud, streamlining access to mission-critical data across AWS services. This integration simplifies data access, improving AI capabilities and user experience.",
     "product": "Community",
@@ -843,7 +857,7 @@
     ]
   },
   {
-    "id": "62",
+    "id": "63",
     "title": "SAP and Palantir Enhance Partnership with AI-Supported Data Migration Tooling to Accelerate Enterprise Cloud ERP Transfo",
     "summary": "SAP and Palantir have strengthened their partnership with AI-powered data migration tools. This enables seamless enterprise cloud ERP transformation for businesses.",
     "product": "Community",
@@ -857,7 +871,7 @@
     ]
   },
   {
-    "id": "63",
+    "id": "64",
     "title": "Expanding the Global RISE with SAP on Microsoft Azure Initiative: Elevating Customer Success with Microsoft and SAP",
     "summary": "Microsoft and SAP expand partnership to modernize SAP workloads on Azure. This collaboration aims to elevate customer success by providing a seamless cloud experience.",
     "product": "Community",
@@ -872,7 +886,7 @@
     ]
   },
   {
-    "id": "64",
+    "id": "65",
     "title": "SAP Completes Acquisition of Reltio",
     "summary": "SAP completes acquisition of Reltio, enhancing its data management capabilities. This acquisition makes customers' enterprise data, including non-SAP systems, AI-ready.",
     "product": "Community",
@@ -886,7 +900,7 @@
     ]
   },
   {
-    "id": "65",
+    "id": "66",
     "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Warehouse Management Systems",
     "summary": "SAP is recognized as a Leader in the 2026 Gartner Magic Quadrant for Warehouse Management Systems for the 12th consecutive time. This reflects SAP's continued trust and reliability in managing global logistics operations.",
     "product": "Community",
@@ -900,7 +914,7 @@
     ]
   },
   {
-    "id": "66",
+    "id": "67",
     "title": "SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe",
     "summary": "SAP is acquiring Prior Labs to establish a leading AI research lab in Europe. This move will enable the company to translate top AI research into practical enterprise solutions.",
     "product": "Community",
@@ -914,7 +928,7 @@
     ]
   },
   {
-    "id": "67",
+    "id": "68",
     "title": "SAP to Acquire Dremio to Unify SAP and Non-SAP Data to Power Agentic AI",
     "summary": "SAP is acquiring Dremio to unify SAP and non-SAP data. This acquisition will power agentic AI with governed, AI-ready intelligence on a single open platform.",
     "product": "Community",
@@ -930,7 +944,7 @@
     ]
   },
   {
-    "id": "68",
+    "id": "69",
     "title": "SAP Named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessmen",
     "summary": "SAP has been named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessment for the second time. This recognition solidifies SAP's position as a leading provider of carbon accounting and management solutions.",
     "product": "Community",
@@ -944,7 +958,7 @@
     ]
   },
   {
-    "id": "69",
+    "id": "70",
     "title": "Agentic AI Will Change the Market",
     "summary": "SAP's Sonja Liénard discusses agentic AI's integration into ABAP, enabling more flexible and autonomous coding. This integration aims to boost developer productivity and efficiency.",
     "product": "Community",
@@ -959,7 +973,7 @@
     ]
   },
   {
-    "id": "70",
+    "id": "71",
     "title": "Five Make-or-Break Moments for Your AI Ambitions in 2026",
     "summary": "AI evaluation criteria expand to precision, governance, scalability, and business impact in 2026. This shift matters as it sets new standards for AI development and adoption.",
     "product": "Community",
@@ -971,7 +985,7 @@
     "tags": []
   },
   {
-    "id": "71",
+    "id": "72",
     "title": "With AI, Fast-Growing Companies Could Compete on Innovation, Not Size",
     "summary": "New: SAP's AI and cloud ERP technologies level the playing field for fast-growing companies. \nWhy it matters: This shifts competition from size to innovation, allowing smaller companies to compete with larger ones.",
     "product": "Business AI",
@@ -985,7 +999,7 @@
     ]
   },
   {
-    "id": "72",
+    "id": "73",
     "title": "TSG Hoffenheim and SAP Expand Co‑Innovation to Advance AI in Professional Football",
     "summary": "TSG Hoffenheim and SAP expand co-innovation partnership to develop AI solutions for football. AI will be applied to scouting and video analysis.",
     "product": "Community",
@@ -999,7 +1013,7 @@
     ]
   },
   {
-    "id": "73",
+    "id": "74",
     "title": "Live AI Use Cases Show How SAP Delivers Trusted Orchestration and Smarter Execution for Manufacturing and Supply Chain M",
     "summary": "SAP showcased AI-powered innovations for manufacturing and supply chain management at Hannover Messe 2026. This matters as it highlights SAP's efforts to deliver trusted orchestration and smarter execution for these critical business processes.",
     "product": "Community",
@@ -1013,7 +1027,7 @@
     ]
   },
   {
-    "id": "74",
+    "id": "75",
     "title": "The New SAP AppHaus Walldorf Opens Its Doors for Customers",
     "summary": "SAP AppHaus Walldorf has opened its doors to customers. This marks a significant step towards delivering an integrated customer experience on SAP's Walldorf campus.",
     "product": "Community",
@@ -1027,7 +1041,7 @@
     ]
   },
   {
-    "id": "75",
+    "id": "76",
     "title": "From Track to Tech: David Coulthard at SAP Sapphire 2026 in Orlando and Madrid",
     "summary": "Former F1 driver David Coulthard to speak at SAP Sapphire 2026 in Orlando and Madrid. He will share insights on business transformation inspired by his racing career.",
     "product": "Community",
@@ -1042,7 +1056,7 @@
     ]
   },
   {
-    "id": "76",
+    "id": "77",
     "title": "How NEC Is Becoming an AI-Native Enterprise with SAP",
     "summary": "NEC is partnering with SAP to integrate AI into its business operations. This partnership enables NEC to develop AI-driven solutions and improve its decision-making capabilities.\n\nWhy it matters: This integration enhances NEC's competitiveness in the market by providing more efficient and data-driven business processes.",
     "product": "Community",
@@ -1056,7 +1070,7 @@
     ]
   },
   {
-    "id": "77",
+    "id": "78",
     "title": "From Policy Debate to Practice: BSI Vice President Thomas Caspers on C3A, Cloud Sovereignty, and SAP",
     "summary": "Digital sovereignty is shifting from policy debate to practical implementation. This matters as it sets a new standard for cloud data management and security.",
     "product": "Community",
@@ -1070,7 +1084,7 @@
     ]
   },
   {
-    "id": "78",
+    "id": "79",
     "title": "Where Do You Stand? Business Transformation Maturity Assessment Tool Now Available",
     "summary": "A new Business Transformation Maturity Assessment Tool is now available to help organizations evaluate their transformation capabilities. This tool will determine which companies have the skills and knowledge to survive and thrive in a rapidly changing environment.",
     "product": "Community",
@@ -1082,7 +1096,7 @@
     "tags": []
   },
   {
-    "id": "79",
+    "id": "80",
     "title": "Software Is Entering Its Most Powerful Era",
     "summary": "Enterprise software is entering its most powerful era due to increased adoption and reliance on digital tools. This shift matters as it solidifies software's role in driving business operations and growth.",
     "product": "Community",
@@ -1094,7 +1108,7 @@
     "tags": []
   },
   {
-    "id": "80",
+    "id": "81",
     "title": "Information About Upcoming Merger of emarsys interactive services GmbH into SAP SE",
     "summary": "SAP SE is merging emarsys interactive services GmbH into its own entity. The merger is subject to regulatory approval.\n\nThis matters as it expands SAP's capabilities in customer experience and marketing automation.",
     "product": "Community",
@@ -1108,7 +1122,7 @@
     ]
   },
   {
-    "id": "81",
+    "id": "82",
     "title": "SAP Announces Q1 2026 Results",
     "summary": "SAP's Q1 2026 results saw a 25% increase in current cloud backlog and 27% growth in cloud revenue at constant currencies. This matters as it indicates a strong start to the year for SAP's cloud business.",
     "product": "Community",
@@ -1122,7 +1136,7 @@
     ]
   },
   {
-    "id": "82",
+    "id": "83",
     "title": "The Real Risk to AI in HR Is Fragmentation",
     "summary": "Fragmentation in AI adoption in HR is a growing concern. This fragmentation hinders effective decision-making, ultimately limiting AI's full potential.",
     "product": "Community",
@@ -1136,7 +1150,7 @@
     ]
   },
   {
-    "id": "83",
+    "id": "84",
     "title": "AI Is Raising the Bar for Customer Experience: SAP and Google Cloud Are Building What Comes Next",
     "summary": "SAP and Google Cloud are developing a multi-agent orchestration system connected to trusted enterprise data. This integration aims to revolutionize customer experience through AI-driven automation and data-driven insights.",
     "product": "Community",
@@ -1152,7 +1166,7 @@
     ]
   },
   {
-    "id": "84",
+    "id": "85",
     "title": "SAP and Google Cloud Expand Partnership to Deploy Multi-Agent AI",
     "summary": "SAP and Google Cloud expand partnership to deploy multi-agent AI, enabling large-scale AI agent deployment for marketers. This partnership matters as it will help businesses scale AI capabilities more efficiently.",
     "product": "Community",
@@ -1168,7 +1182,7 @@
     ]
   },
   {
-    "id": "85",
+    "id": "86",
     "title": "Using AI to Scale Social Impact",
     "summary": "AI is being leveraged to amplify social impact by scaling innovative solutions to pressing global issues. This matters because it can create sustainable, purpose-driven businesses that benefit both people and the planet.",
     "product": "Community",
@@ -1180,7 +1194,7 @@
     "tags": []
   },
   {
-    "id": "86",
+    "id": "87",
     "title": "The Engagement Divide: 15 Reasons It’s Time to Fix CX",
     "summary": "Research highlights 15 key reasons why companies need to improve customer experience (CX). \n\nThe engagement divide matters because it directly impacts customer loyalty and business growth.",
     "product": "Community",
@@ -1192,7 +1206,7 @@
     "tags": []
   },
   {
-    "id": "87",
+    "id": "88",
     "title": "SAP at Hannover Messe 2026: Operationalizing Agentic AI to Drive Resilient, End-to-End Manufacturing",
     "summary": "SAP is showcasing end-to-end supply chain orchestration with AI at Hannover Messe 2026. This matters as it can drive resilient manufacturing operations.",
     "product": "Community",
@@ -1207,7 +1221,7 @@
     ]
   },
   {
-    "id": "88",
+    "id": "89",
     "title": "F1 World Champion Mika Häkkinen Joins SAP Sapphire 2026 in Orlando and Madrid",
     "summary": "F1 World Champion Mika Häkkinen is joining SAP Sapphire 2026 in Orlando and Madrid. This collaboration highlights the intersection of high-performance racing and data-driven technology.",
     "product": "Community",
@@ -1222,7 +1236,7 @@
     ]
   },
   {
-    "id": "89",
+    "id": "90",
     "title": "Industry Under Pressure: How SAP and Uhlmann Are Strengthening Value Creation Resilience",
     "summary": "SAP and Uhlmann unveiled PacXplorer at HANNOVER MESSE 2026, a solution to strengthen value creation resilience. This matters as it helps companies adapt to industry pressures and maintain stability in uncertain markets.",
     "product": "Community",
@@ -1236,7 +1250,7 @@
     ]
   },
   {
-    "id": "90",
+    "id": "91",
     "title": "AI in the Flow of Business Execution: What’s New in SAP Customer Experience Q1 2026",
     "summary": "SAP introduces AI-driven customer experience enhancements in Q1 2026, integrating AI into business execution. This integration enables real-time decision-making and automation.",
     "product": "Community",
@@ -1250,7 +1264,7 @@
     ]
   },
   {
-    "id": "91",
+    "id": "92",
     "title": "SAP Cloud Infrastructure: Data Centers in Germany Achieve IT-Grundschutz Certification",
     "summary": "SAP Cloud Infrastructure data centers in Germany have achieved IT-Grundschutz certification. This certification strengthens SAP's Sovereign Cloud portfolio in a highly security-conscious market.",
     "product": "Community",
@@ -1264,7 +1278,7 @@
     ]
   },
   {
-    "id": "92",
+    "id": "93",
     "title": "SAP to Announce Results for First Quarter of 2026",
     "summary": "SAP will announce its Q1 2026 financial results on April 23. This marks the company's quarterly earnings release.",
     "product": "Community",
@@ -1278,7 +1292,7 @@
     ]
   },
   {
-    "id": "93",
+    "id": "94",
     "title": "How Real NHL® Game Data Is Helping Students Build Analytical Skills for the Future",
     "summary": "Students can now learn analytical skills using real NHL game data through a new Business Builders game. This matters because it provides hands-on experience with real-world data, preparing students for future careers in data analysis.",
     "product": "Community",
@@ -1290,7 +1304,7 @@
     "tags": []
   },
   {
-    "id": "94",
+    "id": "95",
     "title": "From Readiness to Resilience: Honoring the 2026 SAP Innovation Award Winners",
     "summary": "SAP has announced 19 winners of its 2026 Innovation Awards, showcasing resilience through digital sovereignty, AI, and cloud-based transformations. This matters as it highlights companies successfully adapting to a rapidly changing business landscape.",
     "product": "Community",
@@ -1304,7 +1318,7 @@
     ]
   },
   {
-    "id": "95",
+    "id": "96",
     "title": "SAP Business AI: Release Highlights Q1 2026",
     "summary": "SAP releases Q1 2026 updates for Business AI, enhancing customer value from AI. This matters as it helps businesses leverage AI more effectively.",
     "product": "Business AI",
@@ -1318,7 +1332,7 @@
     ]
   },
   {
-    "id": "96",
+    "id": "97",
     "title": "SAP SuccessFactors 1H 2026 Release: Strengthening Connection Across HR and the Business",
     "summary": "SAP SuccessFactors releases 1H 2026 update to integrate HR and business functions. \nThis matters as continuous AI in HR delivers the greatest impact across the workforce lifecycle.",
     "product": "Business AI",
@@ -1332,7 +1346,7 @@
     ]
   },
   {
-    "id": "97",
+    "id": "98",
     "title": "SAP Extends Contract with Chief People Officer Gina Vargiu-Breuer",
     "summary": "SAP extends Chief People Officer Gina Vargiu-Breuer's contract to January 31, 2030. This extension matters as it indicates continued confidence in Vargiu-Breuer's leadership and strategic direction for SAP's human resources.",
     "product": "Community",
@@ -1346,7 +1360,7 @@
     ]
   },
   {
-    "id": "98",
+    "id": "99",
     "title": "AI Is Causing Entry Level Roles to Evolve, Not Vanish—and CHROs Say the Stakes Are Rising",
     "summary": "New research from SAP and Wakefield shows AI is transforming entry-level roles, not eliminating them. This shift raises stakes for CHROs as they adapt to AI-driven changes in the employee lifecycle.",
     "product": "Community",
@@ -1360,7 +1374,7 @@
     ]
   },
   {
-    "id": "99",
+    "id": "100",
     "title": "The Top Innovators of 2026: Announcing the SAP Innovation Award Finalists",
     "summary": "SAP announces finalists for its 2026 Innovation Award, recognizing companies that leverage SAP technology to adapt to change. This matters as it highlights the importance of tech-driven innovation in navigating complexity.",
     "product": "Community",
@@ -1374,7 +1388,7 @@
     ]
   },
   {
-    "id": "100",
+    "id": "101",
     "title": "SAP Named a Leader in the 2026 Gartner® Magic Quadrant™ for Transportation Management Systems",
     "summary": "SAP has been named a Leader in the 2026 Gartner Magic Quadrant for Transportation Management Systems. This recognition highlights SAP's ability to support resilient, intelligent, and sustainable transportation operations.",
     "product": "Community",
@@ -1388,7 +1402,7 @@
     ]
   },
   {
-    "id": "101",
+    "id": "102",
     "title": "Showcasing AI Innovation: Hasso Plattner Founders’ Award 2025 Winners Announced",
     "summary": "Two teams have been awarded the Hasso Plattner Founders' Award 2025 for AI innovation. The winners were chosen from 254 submissions, highlighting the growing field of AI advancements.",
     "product": "Community",
@@ -1400,7 +1414,7 @@
     "tags": []
   },
   {
-    "id": "102",
+    "id": "103",
     "title": "AI Road Map: How Accenture Uses AI as a Growth Engine",
     "summary": "Accenture's finance team now uses AI to generate narrative summaries for reporting, saving 57,000 hours annually. This efficiency gain matters as it showcases AI's potential to drive significant productivity improvements in business operations.",
     "product": "Community",
@@ -1412,7 +1426,7 @@
     "tags": []
   },
   {
-    "id": "103",
+    "id": "104",
     "title": "How Swiss Robotics Company ANYbotics and SAP Are Turning Dirty, Dusty, and Dangerous Industrial Inspections into Busines",
     "summary": "ANYbotics and SAP are integrating robotics and enterprise software for industrial inspections. This collaboration combines robotic exploration with data analysis for actionable insights.",
     "product": "Community",
@@ -1426,7 +1440,7 @@
     ]
   },
   {
-    "id": "104",
+    "id": "105",
     "title": "A Cocktail of Intelligent Solutions From SAP Goes Live at Campari Group",
     "summary": "SAP's intelligent solutions go live at Campari Group, establishing an end-to-end digital architecture. This implementation enables the spirits industry leader to streamline operations and enhance decision-making capabilities.",
     "product": "Community",
@@ -1440,7 +1454,7 @@
     ]
   },
   {
-    "id": "105",
+    "id": "106",
     "title": "SAP to Acquire Reltio: Make SAP and Non-SAP Data AI-Ready",
     "summary": "SAP is acquiring Reltio to make data from both SAP and non-SAP systems AI-ready. This acquisition aims to provide open and interoperable data across heterogeneous IT landscapes.",
     "product": "Community",
@@ -1454,7 +1468,7 @@
     ]
   },
   {
-    "id": "106",
+    "id": "107",
     "title": "SAP and UnternehmerTUM Drive Co-Innovation in Embodied AI",
     "summary": "SAP and UnternehmerTUM collaborate on embodied AI co-innovation projects. Students, researchers, and SAP teams work together to apply scientific approaches to real-life challenges.",
     "product": "Community",
@@ -1468,7 +1482,7 @@
     ]
   },
   {
-    "id": "107",
+    "id": "108",
     "title": "Team Liquid Turns to Joule to Unlock the Power of Esports Data",
     "summary": "Team Liquid partners with Joule to leverage esports data. This collaboration aims to unlock insights from vast amounts of data, improving team performance and strategy.",
     "product": "Joule",
@@ -1482,7 +1496,7 @@
     ]
   },
   {
-    "id": "108",
+    "id": "109",
     "title": "Haleon Chooses SAP Solutions to Accelerate Growth Through Technology",
     "summary": "Haleon selects SAP Business Suite for enhanced digital and AI capabilities. This move aims to accelerate growth through technology adoption.",
     "product": "Community",
@@ -1496,7 +1510,7 @@
     ]
   },
   {
-    "id": "109",
+    "id": "110",
     "title": "How Würth Standardizes B2B E‑Procurement with Customers via SAP Business Network",
     "summary": "Würth standardizes B2B e-procurement with customers via SAP Business Network. This integration streamlines purchasing processes and provides real-time inventory management.",
     "product": "Community",
@@ -1510,7 +1524,7 @@
     ]
   },
   {
-    "id": "110",
+    "id": "111",
     "title": "Next‑Gen SAP Ariba Is Here: Building the Foundation for Intelligent Procurement",
     "summary": "SAP Ariba has released its next-gen platform, leveraging AI for intelligent procurement. This update aims to transform the source-to-pay process with AI-driven capabilities.",
     "product": "Community",
@@ -1524,7 +1538,7 @@
     ]
   },
   {
-    "id": "111",
+    "id": "112",
     "title": "Announcing the 2026 SAP Partner Awards – Global Winners",
     "summary": "SAP has announced the 2026 Partner Awards, recognizing top-performing partners globally. The awards highlight partners that have excelled in delivering value to customers.",
     "product": "Community",
@@ -1538,7 +1552,7 @@
     ]
   },
   {
-    "id": "112",
+    "id": "113",
     "title": "SAP Distributed Energy Resources Enables the Energy Flexibility Market",
     "summary": "SAP Distributed Energy Resources offers data orchestration for utilities to unlock value from distributed energy resources. This enables the energy flexibility market by providing real-time data management.",
     "product": "Community",
@@ -1552,7 +1566,7 @@
     ]
   },
   {
-    "id": "113",
+    "id": "114",
     "title": "Strengthening Customer Experience Across the Lead-to-Cash Journey",
     "summary": "Companies are integrating customer experience with operational precision to streamline the lead-to-cash journey. This matters because it enables more efficient and personalized customer interactions.",
     "product": "Community",
@@ -1564,7 +1578,7 @@
     "tags": []
   },
   {
-    "id": "114",
+    "id": "115",
     "title": "The SAP-NHL Front Office App for iPad: Real-Time, Data-Driven Decisions On the Go",
     "summary": "SAP and the NHL launched a mobile app for iPad, providing real-time data for front office decisions. This app gives teams instant access to critical information, enhancing their ability to make informed decisions.",
     "product": "Community",
@@ -1578,7 +1592,7 @@
     ]
   },
   {
-    "id": "115",
+    "id": "116",
     "title": "SAP Cloud ERP Private: Delivering Continuous Innovation with FPS01",
     "summary": "SAP Cloud ERP Private now integrates AI capabilities, enhancing its functionality. This update enables continuous innovation and improved performance.",
     "product": "Community",
@@ -1592,7 +1606,7 @@
     ]
   },
   {
-    "id": "116",
+    "id": "117",
     "title": "International Women’s Day 2026: Building Trust and Equity Through Pay Transparency",
     "summary": "Organizations can now leverage pay transparency to build trust and equity. This shift from compliance to proactive action matters because it promotes fairer work environments.",
     "product": "Community",
@@ -1604,7 +1618,7 @@
     "tags": []
   },
   {
-    "id": "117",
+    "id": "118",
     "title": "SAP AppHaus Network: Riding the Waves of Change Together",
     "summary": "SAP AppHaus Network held its annual global meet-up, bringing together nearly all members. This event marks a continued commitment to collaboration and innovation within the network.",
     "product": "Community",
@@ -1618,7 +1632,7 @@
     ]
   },
   {
-    "id": "118",
+    "id": "119",
     "title": "SAP Deepens SmartRecruiters Integration for AI-Driven Hiring and a More Connected HCM Suite",
     "summary": "SAP deepens integration with SmartRecruiters for AI-driven hiring. This integration creates a connected talent architecture for hiring decisions, skills intelligence, and workforce planning.",
     "product": "Community",
@@ -1632,7 +1646,7 @@
     ]
   },
   {
-    "id": "119",
+    "id": "120",
     "title": "Why Generative UI Is the New Frontier for Business Software",
     "summary": "Generative UI technology allows software to dynamically create user interfaces based on user input and context. This innovation matters because it can revolutionize business software by providing a more personalized and adaptive user experience.",
     "product": "Community",
