@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Innovation Beyond the Sky, Less Back-and-Forth, How AI Powers Customer Experience in Travel and Transportation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-23T02:57:05.671Z",
+    "publishedAt": "2026-06-23T06:52:30.197Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
-    "summary": "Airbus is pushing the boundaries of flight with cutting-edge innovations. This matters as it could revolutionize air travel and transportation.",
+    "summary": "Airbus is pushing the boundaries of flight with new technologies, including electric and hybrid-electric propulsion. This matters because it could revolutionize air travel, reducing emissions and increasing efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T12:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
-    "summary": "SAP Store Private Offers simplifies software buying and selling through streamlined marketplaces. This innovation reduces back-and-forth communication, making transactions more efficient.",
+    "summary": "SAP Store Private Offers simplifies software buying and selling with reduced back-and-forth. This change streamlines transactions for enterprise software marketplaces.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T11:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "How AI Powers Customer Experience in Travel and Transportation",
-    "summary": "AI is being integrated into travel and transportation to personalize experiences and improve customer interactions. This matters because it enables companies to provide seamless, tailored experiences from booking to destination.",
+    "summary": "AI is being integrated into travel and transportation to personalize customer experiences through real-time data analysis and tailored recommendations. This matters because it enhances customer satisfaction and loyalty in a competitive industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-19T10:15:00.000Z",
@@ -55,7 +55,7 @@
   {
     "id": "4",
     "title": "The Autonomous CX Revolution Elevated by Google",
-    "summary": "Google Cloud partners with SAP Customer Experience to elevate autonomous customer experience. This integration combines AI and cloud technology to enhance customer interactions.",
+    "summary": "Google Cloud partners with SAP Customer Experience to integrate autonomous customer experience (CX) solutions. This partnership elevates CX capabilities with AI-driven automation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T13:15:00.000Z",
@@ -70,7 +70,7 @@
   {
     "id": "5",
     "title": "From Weeks to Minutes: How SAP Store Is Changing Enterprise Software Procurement",
-    "summary": "SAP Store now allows enterprise software procurement in minutes, a significant shift from weeks-long processes. This change matters as it accelerates innovation and time-to-market for businesses.",
+    "summary": "SAP Store now allows enterprise software procurement in minutes, a significant reduction from weeks. This change matters as it accelerates innovation and time-to-market for businesses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T12:15:00.000Z",
@@ -84,7 +84,7 @@
   {
     "id": "6",
     "title": "Navigating the Transition from SAP Solution Manager to SAP Cloud ALM",
-    "summary": "SAP introduces SAP Cloud ALM as a cloud-native solution to replace SAP Solution Manager. This shift addresses modern organizations' needs in a rapidly changing digital environment.",
+    "summary": "SAP introduces cloud-native SAP Cloud ALM, a solution to address modern organizations' digital landscape challenges. This matters as it offers a more efficient and adaptive alternative to traditional SAP Solution Manager.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T11:15:00.000Z",
@@ -98,7 +98,7 @@
   {
     "id": "7",
     "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
-    "summary": "Companies are redefining supply chain management with strategic vision. It matters because effective orchestration can improve efficiency and reduce costs.",
+    "summary": "Companies are redefining supply chain strategies to prioritize agility and resilience. This shift matters because it can improve operational efficiency and reduce costs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T11:15:00.000Z",
@@ -110,7 +110,7 @@
   {
     "id": "8",
     "title": "Building Africa’s Renewable Backbone: KETRACO’s Push for a Smarter Grid",
-    "summary": "KETRACO is developing Africa's renewable energy backbone with a smarter grid. This push for a more intelligent grid will enable efficient management of renewable energy sources.",
+    "summary": "Kenya Electricity Transmission Company (KETRACO) is building a smarter grid with renewable energy. This matters because it could provide reliable and sustainable power to Africa.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T10:15:00.000Z",
@@ -122,7 +122,7 @@
   {
     "id": "9",
     "title": "Early Talent Hiring and Development: Now’s the Moment for a Major Reset",
-    "summary": "Organizations are facing a talent shortage as entry-level roles decline, making it harder to find future AI leaders. This shift requires a major reset in early talent hiring and development strategies.",
+    "summary": "Organizations face a paradox: shrinking entry-level roles despite growing AI needs. This gap requires a major reset in early talent hiring and development.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T12:15:00.000Z",
@@ -134,7 +134,7 @@
   {
     "id": "10",
     "title": "Salt River Project’s 5 Benefits of WalkMe for SAP Business Suite",
-    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite, yielding improved process efficiency, compliance, cycle times, cost efficiency, and user experience. This matters because streamlined operations can lead to significant cost savings and enhanced productivity.",
+    "summary": "Salt River Project has implemented WalkMe for SAP Business Suite, yielding 5 key benefits. Improved process efficiency, compliance, cycle times, cost efficiency, and user experience are the tangible results.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-16T11:15:00.000Z",
