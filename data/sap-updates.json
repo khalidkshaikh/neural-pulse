@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of June 23, 2026",
+    "title": "Weekly SAP AI Digest — Week of June 24, 2026",
     "summary": "This week in SAP AI: Procurement’s New Balancing Act, Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire, Innovation Beyond the Sky and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-23T22:10:19.433Z",
+    "publishedAt": "2026-06-24T02:58:05.032Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-    "summary": "Financial performance reemerges as top benchmark for procurement success. This matters because it signals a shift in focus from strategic value to cost-cutting.",
+    "summary": "Financial performance has reemerged as the primary benchmark of procurement's success, according to the 2026 Economist Enterprise Report. This shift highlights the need for procurement teams to balance cost-cutting with AI adoption and strategic value.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire",
-    "summary": "The SAP Experience Center debuted at SAP Sapphire, showcasing the company's new vision. This matters as it signals SAP's shift in direction and approach.",
+    "summary": "The SAP Experience Center was a major attraction at SAP Sapphire, showcasing the \"new SAP.\" It brought the company's vision to life, offering immersive experiences and demos.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T11:15:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
-    "summary": "Airbus is developing new technologies to redefine flight, including advanced materials, electric propulsion, and urban air mobility solutions. This innovation matters as it could revolutionize transportation, reducing emissions and increasing efficiency.",
+    "summary": "Airbus is developing new aircraft designs and technologies, including electric and hybrid-electric propulsion systems. This innovation matters as it could significantly reduce emissions and operating costs in the aviation industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T12:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
-    "summary": "SAP Store Private Offers simplifies enterprise software buying and selling with streamlined transactions. This change matters as it reduces complexity in the software market.",
+    "summary": "SAP introduces the SAP Store Private Offers, a simplified platform for buying and selling enterprise software. This change streamlines the transaction process, reducing back-and-forth communication.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T11:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "How AI Powers Customer Experience in Travel and Transportation",
-    "summary": "AI now powers customer experience in travel and transportation through personalized interactions. This matters as it sets a new standard for seamless, efficient journeys.",
+    "summary": "AI is being increasingly used in travel and transportation to personalize customer experiences. This matters because it can lead to increased customer satisfaction and loyalty.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-19T10:15:00.000Z",
@@ -84,7 +84,7 @@
   {
     "id": "6",
     "title": "The Autonomous CX Revolution Elevated by Google",
-    "summary": "Google Cloud partners with SAP Customer Experience to enhance autonomous customer experiences. This integration enables businesses to leverage AI-driven automation and real-time data insights.",
+    "summary": "Google Cloud integrates with SAP Customer Experience to enhance autonomous customer experience. This partnership enables businesses to automate and personalize customer interactions at scale.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T13:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "From Weeks to Minutes: How SAP Store Is Changing Enterprise Software Procurement",
-    "summary": "SAP Store now allows enterprise software procurement in minutes, a significant reduction from weeks-long processes. This streamlined approach matters as it enables businesses to adapt quickly to changing needs and stay competitive.",
+    "summary": "SAP Store now enables enterprise software procurement in minutes, down from weeks. This streamlined process allows businesses to quickly identify, evaluate, and purchase solutions, improving efficiency and productivity.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T12:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "Navigating the Transition from SAP Solution Manager to SAP Cloud ALM",
-    "summary": "SAP introduces SAP Cloud ALM as a cloud-native solution to replace SAP Solution Manager. This transition addresses gaps in digital landscape management for modern organizations.",
+    "summary": "SAP introduces Cloud ALM, a cloud-native solution to replace Solution Manager. It addresses gaps in modern organizations' digital landscapes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T11:15:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
-    "summary": "Companies are rethinking supply chain management to prioritize strategic vision over operational efficiency. This shift matters as it can lead to improved resilience and reduced costs.",
+    "summary": "Companies are shifting focus to supply chain orchestration, a strategic approach to optimize operations. This matters because it could significantly reduce costs and improve efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T11:15:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Building Africa’s Renewable Backbone: KETRACO’s Push for a Smarter Grid",
-    "summary": "Kenya Electricity Transmission Company (KETRACO) is developing a smarter grid through renewable energy integration. This matters because it will increase Africa's energy reliability and efficiency.",
+    "summary": "KETRACO is developing a smarter grid to manage Africa's renewable energy resources more efficiently. This matters as it will help stabilize the continent's power supply and reduce reliance on fossil fuels.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T10:15:00.000Z",
