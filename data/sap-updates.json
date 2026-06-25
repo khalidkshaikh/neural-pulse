@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale, Procurement’s New Balancing Act, Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-25T02:57:17.178Z",
+    "publishedAt": "2026-06-25T06:49:59.277Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
-    "summary": "SAP CX's Advanced Success Plan operationalizes hyper-personalization at scale through unified data and orchestrated decisioning. This transforms hyper-personalization into a sustained growth mechanism, driving business success.",
+    "summary": "SAP CX introduces Advanced Success Plan, operationalizing hyper-personalization at scale. This is achieved through unified data and orchestrated decisioning, transforming hyper-personalization into a sustained growth mechanism.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-24T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-    "summary": "Research from the 2026 Economist Enterprise Report shows financial performance is now procurement's top success metric. This shift matters as it highlights the industry's focus on cost-cutting and strategic value in a post-AI adoption era.",
+    "summary": "Financial performance now tops procurement success metrics, surpassing AI adoption and strategic value. This shift highlights the growing pressure on procurement teams to deliver cost savings.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T12:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire",
-    "summary": "The SAP Experience Center was a key attraction at SAP Sapphire, showcasing the company's latest innovations. It brought the \"new SAP\" to life, highlighting the company's evolving direction.",
+    "summary": "The SAP Experience Center was a major draw at SAP Sapphire, showcasing the \"new SAP\". It matters because the center likely provided valuable insights into SAP's future direction and product innovations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T11:15:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
-    "summary": "Airbus is expanding its innovation focus beyond aircraft design to urban air mobility and space exploration. This shift redefines the future of flight and transportation.",
+    "summary": "Airbus is developing new technologies to redefine future flight, including electric and hybrid-electric propulsion systems. This innovation matters as it could significantly reduce emissions and transform the aviation industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T12:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
-    "summary": "SAP Store Private Offers simplifies software buying and selling with streamlined processes. This matters as it reduces complexity and time spent on transactions in the enterprise software market.",
+    "summary": "SAP Store Private Offers simplifies software buying and selling with reduced back-and-forth. This streamlines transactions in the enterprise software market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T11:15:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "How AI Powers Customer Experience in Travel and Transportation",
-    "summary": "AI is being increasingly used in travel and transportation to personalize customer experiences through real-time interactions. This matters because it sets a new standard for customer service, enhancing overall satisfaction and loyalty.",
+    "summary": "AI is being increasingly used to personalize travel experiences, from booking to arrival, through predictive analytics and real-time feedback. This matters because it can significantly enhance customer satisfaction and loyalty in the travel and transportation industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-19T10:15:00.000Z",
@@ -98,7 +98,7 @@
   {
     "id": "7",
     "title": "The Autonomous CX Revolution Elevated by Google",
-    "summary": "Google Cloud partners with SAP Customer Experience to integrate AI-driven customer service. This partnership aims to enhance customer experience through automation and personalization.",
+    "summary": "Google Cloud partners with SAP to elevate autonomous customer experience. This integration combines Google's AI capabilities with SAP's customer experience solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T13:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "From Weeks to Minutes: How SAP Store Is Changing Enterprise Software Procurement",
-    "summary": "SAP Store now offers instant procurement for enterprise software, reducing the process from weeks to minutes. This streamlined approach enables businesses to quickly identify and acquire solutions, increasing efficiency and agility.",
+    "summary": "SAP Store now enables rapid enterprise software procurement, allowing businesses to find, evaluate, and purchase solutions in minutes, down from weeks. This streamlined process matters as it boosts efficiency and agility in business operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T12:15:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "Navigating the Transition from SAP Solution Manager to SAP Cloud ALM",
-    "summary": "SAP introduces cloud-native Solution Manager replacement, SAP Cloud ALM. This new solution addresses gaps in modern digital landscapes.",
+    "summary": "SAP introduces cloud-native Solution Manager successor, SAP Cloud ALM. This new solution addresses gaps in modern digital landscapes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T11:15:00.000Z",
@@ -141,7 +141,7 @@
   {
     "id": "10",
     "title": "Reimagining the Supply Chain: Turning Strategic Vision into Operational Reality",
-    "summary": "Companies are now focusing on supply chain orchestration to improve efficiency. This shift matters as it can significantly reduce costs and enhance customer satisfaction.",
+    "summary": "Companies are redefining supply chain orchestration to improve efficiency and reduce costs. This matters because effective supply chain management can significantly boost competitiveness and customer satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-17T11:15:00.000Z",
