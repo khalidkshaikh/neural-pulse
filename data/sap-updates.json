@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller, Sovereign Data Infrastructure in Europe, SAP Introduces End-to-End Solution for CBAM Declarants and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-27T02:52:11.774Z",
+    "publishedAt": "2026-06-27T06:28:03.118Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
-    "summary": "Lemvigh-Müller will automate 100,000 manual order confirmations using AI agents. This integration embeds AI directly into core business processes.",
+    "summary": "Lemvigh-Müller to automate 100,000 manual order confirmations using AI agents. This integration embeds AI directly into core business processes, showcasing its practical application.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-26T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
-    "summary": "Europe pushes for sovereign AI data centers, a shift from cloud-based infrastructure. This matters as it could reduce reliance on US tech giants and improve data security.",
+    "summary": "Europe pushes for sovereign AI data centers, prioritizing local control and data storage. This shift reflects a growing concern for data security and independence from global tech giants.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T12:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "SAP Introduces End-to-End Solution for CBAM Declarants",
-    "summary": "SAP introduces an end-to-end solution for companies to manage CBAM compliance, streamlining data collection and reporting. This matters as it helps businesses navigate EU's Carbon Border Adjustment Mechanism regulations effectively.",
+    "summary": "SAP introduces an end-to-end solution for companies to comply with the EU's Carbon Border Adjustment Mechanism (CBAM). This solution helps companies navigate CBAM's complex requirements.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
-    "summary": "SAP CX unveils Advanced Success Plan, leveraging unified data and orchestrated decisioning to drive hyper-personalization at scale. This enables sustained growth through targeted customer interactions.",
+    "summary": "SAP CX introduces Advanced Success Plan to operationalize hyper-personalization at scale. This plan leverages unified data and orchestrated decisioning to drive sustained growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-24T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-    "summary": "Financial performance reemerges as top procurement benchmark. Procurement teams must now balance cost-cutting, AI adoption, and proving strategic value.",
+    "summary": "Financial performance now tops procurement's success metrics, surpassing AI adoption and strategic value. This shift highlights procurement's renewed focus on cost-cutting.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T12:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire",
-    "summary": "The SAP Experience Center debuted at SAP Sapphire, showcasing the \"new SAP.\" This immersive experience highlighted SAP's latest innovations and products.",
+    "summary": "The SAP Experience Center debuted at SAP Sapphire, showcasing the company's new vision. This matters as it gives customers a tangible representation of SAP's evolving strategy.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T11:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
-    "summary": "Airbus is redefining the future of flight with innovative technologies and approaches. This matters because it could lead to safer, more efficient, and sustainable air travel.",
+    "summary": "Airbus is pushing the boundaries of flight with experimental aircraft and urban air mobility projects. This matters because it could revolutionize transportation and transform cities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T12:15:00.000Z",
@@ -112,7 +112,7 @@
   {
     "id": "8",
     "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
-    "summary": "SAP Store Private Offers simplifies software buying and selling with reduced back-and-forth communication. This streamlines transactions for enterprises and sellers, reducing complexity.",
+    "summary": "SAP Store Private Offers simplify software buying and selling with reduced back-and-forth. This streamlines the process for enterprises.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T11:15:00.000Z",
@@ -126,7 +126,7 @@
   {
     "id": "9",
     "title": "How AI Powers Customer Experience in Travel and Transportation",
-    "summary": "AI is being increasingly used to personalize and streamline customer experiences in travel and transportation. It matters because this can lead to increased customer satisfaction and loyalty.",
+    "summary": "AI is now being used to personalize travel experiences through tailored recommendations and real-time assistance. This matters as it improves customer satisfaction and loyalty in the travel and transportation industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-19T10:15:00.000Z",
@@ -138,7 +138,7 @@
   {
     "id": "10",
     "title": "The Autonomous CX Revolution Elevated by Google",
-    "summary": "Google Cloud partners with SAP Customer Experience to boost autonomous customer experience. This integration leverages AI and cloud technology to enhance customer interactions.",
+    "summary": "Google Cloud partners with SAP to integrate AI-powered customer experience solutions. This collaboration enables businesses to automate and enhance customer interactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-18T13:15:00.000Z",
