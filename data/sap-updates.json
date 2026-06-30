@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: OMV’s Approach to Data-Driven Workforce Decisions, How SAP Customers Are Simplifying Software Expansion with SAP Store, AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-06-30T03:26:25.818Z",
+    "publishedAt": "2026-06-30T09:29:56.113Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-    "summary": "OMV uses SAP BDC's People Intelligence solution to analyze workforce composition patterns. This approach helps optimize talent placement within the organization.",
+    "summary": "OMV adopts SAP's People Intelligence solution to analyze workforce composition patterns. This enables data-driven decisions to optimize talent distribution within the company.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-    "summary": "SAP customers can now easily expand their software capabilities through the SAP Store, a centralized platform for discovering and deploying new solutions. This simplifies the process, reducing complexity and increasing access to new features and tools.",
+    "summary": "SAP customers can now easily discover and acquire new software solutions through the SAP Store, streamlining the expansion process. This simplification matters as it reduces complexity and enables faster adoption of new technologies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
-    "summary": "Lemvigh-Müller embeds AI into core business processes, automating 100,000 manual order confirmations. This marks a shift from AI as a separate experiment to integrated business solution.",
+    "summary": "Danish wholesaler Lemvigh-Müller will use AI agents to automate 100,000 manual order confirmations. This integration marks a shift from AI being a separate experiment to a core business process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-26T11:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
-    "summary": "Europe pushes for sovereign AI data centers, prioritizing local control and data storage. This shift redefines the role of IT infrastructure in the digital age, emphasizing data sovereignty.",
+    "summary": "Europe is pushing for sovereign AI data centers to host and process data locally. This shift prioritizes data control and security over cloud-based services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T12:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Introduces End-to-End Solution for CBAM Declarants",
-    "summary": "SAP introduces an end-to-end solution for companies to comply with EU's Carbon Border Adjustment Mechanism (CBAM). This solution streamlines CBAM reporting and declaration processes.",
+    "summary": "SAP introduces an end-to-end solution for CBAM declarants, enabling seamless compliance with the EU's Carbon Border Adjustment Mechanism. This solution streamlines reporting and declaration processes, reducing administrative burdens.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T11:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
-    "summary": "New: SAP CX's Advanced Success Plan operationalizes hyper-personalization at scale through unified data and orchestrated decisioning. \nThis matters because it enables sustained growth through targeted customer interactions.",
+    "summary": "SAP CX introduces the Advanced Success Plan, operationalizing hyper-personalization at scale through unified data and orchestrated decisioning. This matters as it enables sustained growth and transforms hyper-personalization into a scalable business mechanism.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-24T11:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-    "summary": "Financial performance now tops procurement success metrics, surpassing AI adoption and strategic value. This shift highlights the industry's focus on cost-cutting and efficiency.",
+    "summary": "Financial performance now tops procurement's success metrics, surpassing AI adoption and strategic value. This shift matters as it prioritizes cost-cutting and efficiency over innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T12:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire",
-    "summary": "The SAP Experience Center debuted at SAP Sapphire, showcasing the company's new vision. This matters as it highlights SAP's shift towards a more immersive and interactive experience for its users.",
+    "summary": "The SAP Experience Center was a popular attraction at SAP Sapphire, showcasing the \"new SAP.\" It matters because it demonstrates SAP's efforts to modernize and engage its audience with interactive experiences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T11:15:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
-    "summary": "Airbus is developing new aircraft and technologies, such as electric propulsion and advanced materials. This innovation matters as it could revolutionize the aviation industry and reduce environmental impact.",
+    "summary": "Airbus is reimagining flight with cutting-edge technologies. This matters because it could revolutionize air travel and transportation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T12:15:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "Less Back-and-Forth: How SAP Store Private Offers Simplify How You Buy and Sell",
-    "summary": "SAP Store Private Offers simplifies software buying and selling with reduced back-and-forth. This streamlines transactions between buyers and sellers in the enterprise software market.",
+    "summary": "SAP Store Private Offers introduce simplified buying and selling processes for enterprise software. This streamlines transactions, reducing back-and-forth negotiations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T11:15:00.000Z",
