@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation, OMV’s Approach to Data-Driven Workforce Decisions, How SAP Customers Are Simplifying Software Expansion with SAP Store and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-01T03:35:18.766Z",
+    "publishedAt": "2026-07-01T09:41:04.544Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
-    "summary": "Nokia partners with SAP and Microsoft in a multi-year agreement to drive cloud and AI business transformation. This alliance advances Nokia's enterprise transformation, leveraging SAP's and Microsoft's expertise in cloud and AI technologies.",
+    "summary": "Nokia partners with SAP and Microsoft in a multi-year agreement to leverage cloud and AI for business transformation. This collaboration will drive innovation and growth in enterprise transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-30T13:00:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-    "summary": "OMV adopts SAP's People Intelligence solution to analyze workforce composition patterns. This allows OMV to optimize talent distribution and make informed workforce decisions.",
+    "summary": "OMV is leveraging SAP's People Intelligence solution to analyze workforce composition patterns. This data-driven approach enables OMV to strategically move talent to areas of need.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T12:15:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-    "summary": "SAP has launched the SAP Store, a platform simplifying software expansion for customers. The platform streamlines access to enterprise software solutions.",
+    "summary": "SAP customers can now easily discover and acquire software solutions through the SAP Store. This simplifies software expansion by streamlining the purchasing process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T11:15:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
-    "summary": "Danish wholesaler Lemvigh-Müller is implementing AI agents to automate 100,000 manual order confirmations. This embeds AI directly into core business processes, rather than treating it as a separate experiment.",
+    "summary": "Lemvigh-Müller embeds AI agents into core business processes, automating 100,000 manual order confirmations. This marks a significant shift in AI adoption, moving from isolated experiments to integral business operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-26T11:15:00.000Z",
@@ -74,7 +74,7 @@
   {
     "id": "5",
     "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
-    "summary": "Europe pushes for sovereign AI data centers, prioritizing local control over data storage and processing. This shift in perception matters as it sets a precedent for national data sovereignty and independence from global tech giants.",
+    "summary": "Europe pushes for sovereign AI data centers to reduce reliance on US-based cloud providers. This move aims to control sensitive data and reduce dependence on foreign infrastructure.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T12:15:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "SAP Introduces End-to-End Solution for CBAM Declarants",
-    "summary": "SAP introduces an end-to-end solution for CBAM declarants, streamlining reporting and compliance. This matters as it helps businesses navigate the EU's Carbon Border Adjustment Mechanism regulations.",
+    "summary": "SAP introduces an end-to-end solution for CBAM declarants, providing a comprehensive platform to manage EU's Carbon Border Adjustment Mechanism. This solution helps companies navigate CBAM complexities and ensure compliance.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T11:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
-    "summary": "SAP CX unveils Advanced Success Plan for hyper-personalization at scale. This plan operationalizes unified data and orchestrated decisioning for sustained growth.",
+    "summary": "Advanced Success Plan for SAP CX operationalizes hyper-personalization at scale through unified data and orchestrated decisioning. This transforms hyper-personalization into a sustained growth mechanism, driving business success.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-24T11:15:00.000Z",
@@ -114,7 +114,7 @@
   {
     "id": "8",
     "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-    "summary": "Financial performance has reemerged as procurement's primary benchmark of success. This shift prioritizes cost-cutting and strategic value over AI adoption.",
+    "summary": "Financial performance now tops procurement success metrics, surpassing AI adoption and strategic value. This shift highlights the pressure on procurement teams to cut costs and prove ROI.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T12:15:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire",
-    "summary": "The SAP Experience Center debuted at SAP Sapphire, showcasing the \"new SAP\" to attendees. This matters as it highlights SAP's efforts to revamp its brand and offerings.",
+    "summary": "The SAP Experience Center was a popular attraction at SAP Sapphire, showcasing the \"new SAP\" to attendees. This matters because it highlights SAP's efforts to revamp its image and engage with customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T11:15:00.000Z",
@@ -143,7 +143,7 @@
   {
     "id": "10",
     "title": "Innovation Beyond the Sky: How Airbus Is Redefining the Future of Flight",
-    "summary": "Airbus is pioneering a new approach to innovation, integrating it into every aspect of its operations. This mindset shift enables the company to drive technological advancements in flight.",
+    "summary": "Airbus is exploring new technologies for sustainable flight, including electric and hybrid-electric propulsion systems. This innovation matters as it could significantly reduce aviation emissions and create a more environmentally friendly future for air travel.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-22T12:15:00.000Z",
