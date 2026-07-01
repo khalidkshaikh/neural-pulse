@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Customer Retention Over Acquisition, Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation, OMV’s Approach to Data-Driven Workforce Decisions and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-01T19:50:37.533Z",
+    "publishedAt": "2026-07-01T22:16:09.084Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Customer Retention Over Acquisition: What the Advanced Success Plan for SAP CX Offers Utilities Customers",
-    "summary": "SAP CX introduces an Advanced Success Plan, prioritizing customer retention over acquisition for utilities customers. This plan leverages industry expertise to become a strategic asset.",
+    "summary": "SAP CX introduces Advanced Success Plan for utilities customers, shifting focus from customer acquisition to retention. This plan leverages industry expertise to become a strategic asset.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-01T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
-    "summary": "Nokia partners with SAP and Microsoft in a multi-year agreement to drive cloud and AI business transformation. This partnership advances Nokia's enterprise transformation with SAP's technology.",
+    "summary": "Nokia, SAP, and Microsoft form a multi-year agreement to drive business transformation through cloud and AI. This partnership will help Nokia accelerate its enterprise transformation and digitalization efforts.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-30T13:00:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-    "summary": "OMV uses SAP's People Intelligence solution to analyze workforce composition patterns and optimize talent allocation. This approach helps OMV make data-driven decisions about its workforce, leading to improved efficiency and productivity.",
+    "summary": "OMV adopts SAP's People Intelligence solution to analyze workforce composition patterns. This enables data-driven decisions to optimize talent placement.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T12:15:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-    "summary": "SAP customers can now easily find and acquire software through the SAP Store, streamlining the expansion process. This simplifies software expansion, reducing complexity and time.",
+    "summary": "SAP customers can now easily discover and deploy software solutions through the SAP Store, streamlining the procurement process. This simplification matters as it reduces complexity and accelerates digital transformation for businesses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T11:15:00.000Z",
@@ -74,7 +74,7 @@
   {
     "id": "5",
     "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
-    "summary": "Lemvigh-Müller is replacing 100,000 manual order confirmations with AI agents. This implementation embeds AI directly into core business processes.",
+    "summary": "Lemvigh-Müller is implementing AI agents to automate 100,000 manual order confirmations. This embeds AI directly into core business processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-26T11:15:00.000Z",
@@ -88,7 +88,7 @@
   {
     "id": "6",
     "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
-    "summary": "Europe pushes for sovereign AI data centers, aiming to control and secure its own data infrastructure. This matters as it could reduce reliance on US cloud services and protect sensitive data from foreign surveillance.",
+    "summary": "Europe's push for sovereign AI data centers marks a shift towards prioritizing domestic infrastructure control. This move matters as it could reduce reliance on US cloud providers and enhance data security.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T12:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "SAP Introduces End-to-End Solution for CBAM Declarants",
-    "summary": "SAP introduces an end-to-end solution for CBAM declarants, providing a comprehensive tool for EU importers to calculate and report carbon emissions. This solution streamlines the process, reducing complexity and ensuring compliance with CBAM regulations.",
+    "summary": "SAP introduces an end-to-end solution for companies to comply with the EU's Carbon Border Adjustment Mechanism (CBAM). This solution enables accurate and efficient reporting, reducing regulatory burden.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T11:15:00.000Z",
@@ -114,7 +114,7 @@
   {
     "id": "8",
     "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
-    "summary": "SAP CX introduces Advanced Success Plan for hyper-personalization at scale. This plan leverages unified data and orchestrated decisioning for sustained growth.",
+    "summary": "SAP CX introduces Advanced Success Plan for operationalizing hyper-personalization at scale. This enables sustained growth through unified data and orchestrated decisioning.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-24T11:15:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-    "summary": "Financial performance now tops procurement success metrics, surpassing AI adoption and strategic value. This shift matters as it highlights procurement's renewed focus on cost-cutting.",
+    "summary": "Financial performance now tops procurement's success metrics, surpassing AI adoption and strategic value. This shift matters as it emphasizes cost-cutting over innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T12:15:00.000Z",
@@ -142,7 +142,7 @@
   {
     "id": "10",
     "title": "Why So Many Wanted to Visit the SAP Experience Center at SAP Sapphire",
-    "summary": "The SAP Experience Center was a popular attraction at SAP Sapphire, showcasing the \"new SAP\". It matters because it highlights SAP's renewed focus on innovation and customer engagement.",
+    "summary": "A new SAP Experience Center was unveiled at SAP Sapphire. It showcased the company's latest innovations and vision for the future.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T11:15:00.000Z",
