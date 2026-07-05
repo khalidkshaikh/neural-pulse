@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of July 4, 2026",
+    "title": "Weekly SAP AI Digest — Week of July 5, 2026",
     "summary": "This week in SAP AI: SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation, Customer Retention Over Acquisition, Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-04T21:56:49.760Z",
+    "publishedAt": "2026-07-05T02:50:12.343Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation",
-    "summary": "SAP and IBM announce growing client adoption of IBM technology and SAP Cloud ERP Private for AI-driven innovation. Global enterprises are modernizing their ERP workloads with these solutions.",
+    "summary": "SAP and IBM announce client momentum for IBM Technology and SAP Cloud ERP Private, driving AI innovation. This partnership supports global enterprises in modernizing their ERP workloads.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-02T12:00:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Customer Retention Over Acquisition: What the Advanced Success Plan for SAP CX Offers Utilities Customers",
-    "summary": "SAP CX introduces Advanced Success Plan, focusing on customer retention over acquisition. This plan leverages industry expertise to become a strategic asset.",
+    "summary": "SAP CX introduces Advanced Success Plan for utilities customers, focusing on retention over acquisition. This plan leverages industry expertise to become a strategic asset.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-01T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
-    "summary": "Nokia, SAP, and Microsoft form a multi-year agreement to advance cloud- and AI-driven business transformation. This partnership will accelerate Nokia's enterprise transformation with SAP.",
+    "summary": "Nokia and SAP partner with Microsoft on a multi-year agreement to drive business transformation through cloud and AI. This partnership will accelerate Nokia's enterprise transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-30T13:00:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-    "summary": "OMV now uses SAP BDC's People Intelligence to analyze workforce patterns and optimize talent placement. This matters as it enables data-driven decisions to improve workforce efficiency.",
+    "summary": "OMV begins using SAP's People Intelligence to analyze workforce composition patterns and optimize talent distribution. This approach matters as it enables data-driven workforce decisions, potentially improving efficiency and productivity.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T12:15:00.000Z",
@@ -74,7 +74,7 @@
   {
     "id": "5",
     "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-    "summary": "SAP has launched the SAP Store, a platform simplifying software expansion for customers by streamlining access to solutions. This platform matters as it reduces complexity and hassle in enterprise software adoption.",
+    "summary": "SAP customers can now easily discover and deploy software solutions through the SAP Store, streamlining the expansion process. This simplification matters as it reduces administrative burdens and accelerates digital transformation for businesses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T11:15:00.000Z",
@@ -88,7 +88,7 @@
   {
     "id": "6",
     "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
-    "summary": "Lemvigh-Müller is implementing AI agents to automate 100,000 manual order confirmations. AI is being integrated directly into core business processes, rather than being a separate experiment.",
+    "summary": "Lemvigh-Müller embeds AI agents to automate 100,000 manual order confirmations. This integration streamlines core business processes, showcasing AI's practical application.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-26T11:15:00.000Z",
@@ -102,7 +102,7 @@
   {
     "id": "7",
     "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
-    "summary": "Europe is pushing for sovereign AI data centers, a shift from relying on foreign infrastructure. This matters because it could reduce reliance on non-European data storage and processing.",
+    "summary": "Europe is pushing for sovereign AI data centers, a shift in IT infrastructure perception. This matters as it could reduce reliance on foreign data storage and enhance data security.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T12:15:00.000Z",
@@ -114,7 +114,7 @@
   {
     "id": "8",
     "title": "SAP Introduces End-to-End Solution for CBAM Declarants",
-    "summary": "SAP introduces an end-to-end solution for CBAM declarants, providing a comprehensive tool for regulatory compliance. This matters as companies must accurately report and manage CBAM requirements to avoid penalties and maintain EU market access.",
+    "summary": "SAP introduces an end-to-end solution for CBAM declarants, providing a comprehensive tool for EU companies to manage carbon emissions reporting. This matters as it helps companies comply with the EU's Carbon Border Adjustment Mechanism, reducing regulatory risks and environmental impact.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T11:15:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "How the Advanced Success Plan for SAP CX Operationalizes Hyper-Personalization at Scale",
-    "summary": "A new SAP CX plan operationalizes hyper-personalization at scale. This transforms hyper-personalization into a sustained growth mechanism by combining unified data and orchestrated decisioning.",
+    "summary": "Advanced Success Plan for SAP CX operationalizes hyper-personalization at scale through unified data and orchestrated decisioning. This enables sustained growth by transforming hyper-personalization into a scalable mechanism.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-24T11:15:00.000Z",
@@ -142,7 +142,7 @@
   {
     "id": "10",
     "title": "Procurement’s New Balancing Act: Cutting Costs, Adopting AI, and Proving Strategic Value",
-    "summary": "Financial performance now tops procurement success metrics, surpassing AI adoption and strategic value. This shift matters as it signals procurement's focus on cost-cutting and efficiency.",
+    "summary": "Financial performance now tops procurement's success metrics, surpassing strategic value and AI adoption. This shift highlights the growing pressure to balance cost-cutting with innovative technology adoption.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-23T12:15:00.000Z",
