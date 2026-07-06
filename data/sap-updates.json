@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience, Fall in Love with the Problem, Not the Solution, SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-06T12:43:53.950Z",
+    "publishedAt": "2026-07-06T17:41:03.064Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) with Customer Checkout. This aims to provide a seamless checkout experience.\n\nWhy it matters: This integration streamlines payment processes, enhancing customer satisfaction and efficiency.",
+    "summary": "SAP and Viva.com are integrating their technologies to streamline payment processes at checkout. This integration aims to provide a seamless experience for customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Fall in Love with the Problem, Not the Solution: Rethinking AI for Real Impact",
-    "summary": "Researchers emphasize focusing on AI problem-solving rather than solely on speed and efficiency. This approach prioritizes meaningful impact over sheer productivity.",
+    "summary": "Researchers emphasize focusing on problem-solving over AI capabilities, prioritizing real-world impact. This shift in approach matters because it could lead to more effective AI applications that genuinely address societal needs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T10:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation",
-    "summary": "SAP and IBM announce client momentum for IBM Technology and SAP Cloud ERP Private, driving AI innovation. Global enterprises are modernizing their ERP workloads on these platforms.",
+    "summary": "SAP and IBM announce client momentum in using IBM technology and SAP Cloud ERP Private for AI innovation. Global enterprises are modernizing their ERP workloads with this partnership.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-02T12:00:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Customer Retention Over Acquisition: What the Advanced Success Plan for SAP CX Offers Utilities Customers",
-    "summary": "SAP CX introduces Advanced Success Plan for utilities customers, prioritizing retention over acquisition. This plan leverages industry expertise to become a strategic asset for businesses.",
+    "summary": "SAP CX offers an Advanced Success Plan for utilities customers, focusing on retention over acquisition. This plan leverages industry expertise to become a strategic asset.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-01T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
-    "summary": "Nokia and SAP have partnered with Microsoft on a multi-year agreement to drive business transformation with cloud and AI technologies. This partnership will accelerate Nokia's enterprise transformation.",
+    "summary": "Nokia and SAP partner with Microsoft in a multi-year agreement to advance cloud- and AI-driven business transformation. This partnership will accelerate Nokia's enterprise transformation with SAP.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-30T13:00:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-    "summary": "OMV adopts SAP's People Intelligence solution to analyze workforce composition patterns. This approach enables data-driven decisions on talent allocation.",
+    "summary": "OMV uses SAP's People Intelligence solution to analyze workforce composition patterns and optimize talent distribution. This approach matters as it enables data-driven workforce decisions, improving efficiency and resource allocation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T12:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-    "summary": "SAP customers can now easily discover and deploy new software through the SAP Store, streamlining the expansion process. This simplification matters because it reduces complexity and speeds up adoption of new solutions.",
+    "summary": "SAP customers can now more easily discover and acquire new software solutions through the SAP Store. This centralized platform simplifies the software expansion process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T11:15:00.000Z",
@@ -114,7 +114,7 @@
   {
     "id": "8",
     "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
-    "summary": "Lemvigh-Müller embeds AI agents to automate 100,000 manual order confirmations, streamlining core business processes. This integration demonstrates AI's potential to drive efficiency in everyday operations.",
+    "summary": "Lemvigh-Müller is implementing AI agents to automate 100,000 manual order confirmations. This direct integration showcases AI's potential in core business processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-26T11:15:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "Sovereign Data Infrastructure in Europe: Essential or a Distraction?",
-    "summary": "Europe's push for sovereign AI data centers marks a shift in IT infrastructure perception, prioritizing local control. This shift matters as it could reduce reliance on US cloud services and enhance data security.",
+    "summary": "Europe's push for sovereign AI data centers represents a shift in IT infrastructure perception from cloud-based services to on-premises control. This shift matters as it could reduce reliance on foreign tech giants and enhance data security.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T12:15:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "SAP Introduces End-to-End Solution for CBAM Declarants",
-    "summary": "SAP introduces an end-to-end solution for companies to manage and report CBAM data. This solution streamlines the process for declarants, reducing administrative burden.",
+    "summary": "SAP introduces an end-to-end solution for CBAM declarants, streamlining reporting and compliance. This solution helps companies navigate the EU's Carbon Border Adjustment Mechanism.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-25T11:15:00.000Z",
