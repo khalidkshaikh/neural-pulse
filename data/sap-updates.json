@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Drive Better HR and Business Decisions with Faster Insights and Governed Data, SAP Completes Acquisition of Dremio, How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-08T08:23:56.912Z",
+    "publishedAt": "2026-07-08T11:02:12.778Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is developing a platform for faster HR and business insights with governed data. This matters as it addresses growing data demand and fragmented access for HR teams.",
+    "summary": "SAP is launching a new approach to people analytics, providing faster insights and governed data. This matters as it enables HR and business teams to make better decisions with more efficient data access.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "SAP Completes Acquisition of Dremio",
-    "summary": "SAP has completed its acquisition of Dremio, an open data lakehouse platform. This move expands SAP's data management capabilities, enhancing its ability to process and analyze large datasets.",
+    "summary": "SAP has completed its acquisition of Dremio, a data lakehouse platform. This move expands SAP's capabilities in data management and analytics.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T18:00:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) to enhance checkout experiences. This aims to provide customers with faster, more flexible, and seamless transactions.",
+    "summary": "SAP and Viva.com are integrating payment processes at the POS with SAP Customer Checkout. This aims to enhance speed and flexibility in checkout experiences.\n\nWhy it matters: It streamlines payment processes for customers, improving overall shopping experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T12:15:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "Fall in Love with the Problem, Not the Solution: Rethinking AI for Real Impact",
-    "summary": "Researchers emphasize focusing on AI problems, not solutions, for meaningful impact. This approach prioritizes understanding real-world challenges over rapid development.",
+    "summary": "Researchers emphasize focusing on AI problems rather than solutions to achieve real impact. This approach prioritizes understanding the underlying challenges and complexities, rather than solely relying on technology to solve them.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T10:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation",
-    "summary": "SAP and IBM have announced significant client momentum in adopting IBM technology and SAP Cloud ERP Private to drive AI innovation. This trend reflects global enterprises' shift towards modernizing their ERP workloads.",
+    "summary": "SAP and IBM have announced significant client momentum in adopting IBM technology and SAP Cloud ERP Private for AI innovation. This momentum is driven by global enterprises modernizing their ERP workloads.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-02T12:00:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "Customer Retention Over Acquisition: What the Advanced Success Plan for SAP CX Offers Utilities Customers",
-    "summary": "SAP CX introduces Advanced Success Plan, prioritizing customer retention over acquisition. This tailored approach leverages industry expertise, transforming the plan into a strategic asset.",
+    "summary": "SAP CX offers an Advanced Success Plan for utilities customers, shifting focus from customer acquisition to retention. This tailored approach leverages industry expertise to become a strategic asset.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-01T11:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
-    "summary": "Nokia and SAP partner with Microsoft for a multi-year agreement to advance cloud- and AI-driven business transformation. This partnership will accelerate Nokia's enterprise transformation with SAP.",
+    "summary": "Nokia partners with SAP and Microsoft for a multi-year agreement to drive cloud- and AI-based business transformation. This collaboration will accelerate Nokia's enterprise transformation and digital innovation efforts.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-30T13:00:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-    "summary": "OMV employs SAP BDC's People Intelligence solution to analyze workforce composition patterns. This approach helps OMV optimize talent distribution, improving operational efficiency.",
+    "summary": "OMV adopts SAP's People Intelligence solution to analyze workforce composition patterns and optimize talent allocation. This approach matters as it enables data-driven decisions to improve workforce efficiency and effectiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T12:15:00.000Z",
@@ -129,7 +129,7 @@
   {
     "id": "9",
     "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-    "summary": "SAP customers can now easily discover and deploy software solutions through the SAP Store, streamlining the expansion process. This simplifies software adoption, reducing complexity and time to value.",
+    "summary": "SAP customers can now easily discover and acquire new software solutions through the SAP Store, streamlining the expansion process. This simplification matters as it reduces complexity and increases efficiency in software adoption.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T11:15:00.000Z",
@@ -143,7 +143,7 @@
   {
     "id": "10",
     "title": "AI Agents to Take Over 100,000 Manual Order Confirmations at Lemvigh‑Müller",
-    "summary": "Lemvigh-Müller is implementing AI agents to automate 100,000 manual order confirmations. This embeds AI directly into core business processes, showcasing its practical application.",
+    "summary": "Lemvigh-Müller embeds AI agents to automate 100,000 manual order confirmations. This marks a significant shift towards integrating AI into core business processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-26T11:15:00.000Z",
