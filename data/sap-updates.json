@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Thirty-Five Degrees of Urgency, Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers, SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-09T19:42:03.922Z",
+    "publishedAt": "2026-07-09T22:19:41.117Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London hosts Climate Action Week amidst record-breaking UK heatwave. The event's urgency is underscored by the extreme weather conditions.",
+    "summary": "A record-breaking heatwave in the UK has coincided with London Climate Action Week 2026. This highlights the pressing need for climate action and urgency in addressing global warming.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP updates its commercial practices to offer greater flexibility to customers. This change aims to provide SAP customers with more adaptable and transparent support options.",
+    "summary": "SAP updates its maintenance and support practices to offer greater flexibility to customers. This change aims to provide customers with more transparent and adaptable options.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP has welcomed a European Commission decision concluding an investigation into its on-premise maintenance and support policies. This decision matters as it upholds SAP's commitment to open competition and customer choice.",
+    "summary": "SAP welcomes European Commission decision concluding investigation into on-premise maintenance and support policies. The decision supports SAP's commitment to open competition and customer choice.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis. This transformation enables real-time financial decision-making.",
+    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables faster financial decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is launching an analytics platform to provide faster insights and governed data for HR and business decisions. This matters because it helps teams make informed decisions with less resources and more efficiency.",
+    "summary": "SAP is introducing faster insights and governed data to enhance people analytics. This matters because it can help HR teams make better business decisions with more efficient data access.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "SAP Completes Acquisition of Dremio",
-    "summary": "SAP has finalized its acquisition of Dremio, a data lakehouse platform. This move expands SAP's capabilities in data management and analytics.",
+    "summary": "SAP has completed the acquisition of Dremio, a data lakehouse platform. This acquisition enhances SAP's data analytics capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T18:00:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-    "summary": "SAP's Customer Checkout and Viva.com are integrating payment processes at the POS for seamless checkout experiences. This advancement prioritizes speed, flexibility, and smooth integration for today's customers.",
+    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) to enhance checkout experiences. This aims to provide customers with speed, flexibility, and seamless integration.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T12:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "Fall in Love with the Problem, Not the Solution: Rethinking AI for Real Impact",
-    "summary": "Researchers emphasize focusing on AI problems, not solutions, for meaningful impact. This shift in approach prioritizes understanding and addressing real-world issues.",
+    "summary": "Researchers emphasize focusing on AI problems rather than solutions for meaningful impact. This shift prioritizes understanding and addressing real-world challenges.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T10:15:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation",
-    "summary": "SAP and IBM announce growing client adoption of IBM technology and SAP Cloud ERP Private, driving AI innovations. This momentum reflects global enterprises' shift towards modernizing their ERP workloads.",
+    "summary": "SAP and IBM announce joint client momentum in using IBM technology and SAP Cloud ERP Private to drive AI innovation. This partnership is driving ERP modernization for global enterprises.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-02T12:00:00.000Z",
@@ -141,7 +141,7 @@
   {
     "id": "10",
     "title": "Customer Retention Over Acquisition: What the Advanced Success Plan for SAP CX Offers Utilities Customers",
-    "summary": "SAP CX introduces Advanced Success Plan for utilities customers, shifting focus from customer acquisition to retention. This strategic asset leverages industry expertise to improve customer relationships and loyalty.",
+    "summary": "SAP CX introduces Advanced Success Plan for utilities customers, prioritizing retention over acquisition. This tailored plan leverages industry expertise to become a strategic asset for utilities companies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-01T11:15:00.000Z",
