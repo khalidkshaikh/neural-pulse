@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of July 8, 2026",
+    "title": "Weekly SAP AI Digest — Week of July 9, 2026",
     "summary": "This week in SAP AI: How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA, Drive Better HR and Business Decisions with Faster Insights and Governed Data, SAP Completes Acquisition of Dremio and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-08T22:03:22.317Z",
+    "publishedAt": "2026-07-09T02:43:41.758Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is using generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This matters because it streamlines financial decision-making.",
+    "summary": "Natura &Co is using generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables instant financial decision-making, streamlining the process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is releasing a solution for HR and people analytics teams to access governed data and faster insights. This matters as it enables teams to make better decisions with more efficient data access.",
+    "summary": "SAP is launching a new people analytics solution to provide faster insights and governed data for HR and business decisions. This matters because it helps teams make data-driven decisions with less resources.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
@@ -47,7 +47,7 @@
   {
     "id": "3",
     "title": "SAP Completes Acquisition of Dremio",
-    "summary": "SAP has completed its acquisition of Dremio, an open data lakehouse platform. This acquisition enhances SAP's data management capabilities.",
+    "summary": "SAP has completed its acquisition of Dremio, an open data lakehouse platform. This acquisition expands SAP's data management capabilities, enhancing its offerings for businesses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T18:00:00.000Z",
@@ -61,7 +61,7 @@
   {
     "id": "4",
     "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) for seamless checkout experiences. This advancement enables faster, more flexible transactions.",
+    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) to enhance checkout experiences. This integration aims to provide speed, flexibility, and seamless transactions for customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T12:15:00.000Z",
@@ -75,7 +75,7 @@
   {
     "id": "5",
     "title": "Fall in Love with the Problem, Not the Solution: Rethinking AI for Real Impact",
-    "summary": "Researchers emphasize focusing on problems, not solutions, in AI development. This shift prioritizes meaningful impact over efficiency and speed, leading to more effective AI applications.",
+    "summary": "Researchers emphasize focusing on problem-solving, not just AI capabilities. This shift prioritizes meaningful impact over efficiency gains.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T10:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "SAP and IBM Announce Client Momentum Across IBM Technology and SAP Cloud ERP Private to Drive AI Innovation",
-    "summary": "SAP and IBM have announced significant client momentum in using IBM technology and SAP Cloud ERP Private to drive AI innovation. This momentum comes from global enterprises modernizing their ERP workloads.",
+    "summary": "SAP and IBM announce strong client adoption of IBM Technology and SAP Cloud ERP Private, driving AI innovation. This momentum reflects growing enterprise demand for modernized ERP workloads.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-02T12:00:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "Customer Retention Over Acquisition: What the Advanced Success Plan for SAP CX Offers Utilities Customers",
-    "summary": "SAP CX unveils an Advanced Success Plan for utilities customers. This plan prioritizes customer retention over acquisition.",
+    "summary": "SAP CX introduces Advanced Success Plan for utilities customers, prioritizing retention over acquisition. This tailored plan leverages industry focus and expertise to become a strategic asset.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-01T11:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation",
-    "summary": "Nokia and SAP partner with Microsoft on a multi-year agreement to advance cloud and AI-driven business transformation. This partnership will accelerate Nokia's enterprise transformation and drive business innovation.",
+    "summary": "Nokia partners with SAP and Microsoft in a multi-year agreement to advance cloud- and AI-driven business transformation. This partnership will accelerate Nokia's enterprise transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-30T13:00:00.000Z",
@@ -130,7 +130,7 @@
   {
     "id": "9",
     "title": "OMV’s Approach to Data-Driven Workforce Decisions",
-    "summary": "OMV implements People Intelligence solution in SAP BDC to analyze workforce composition patterns. This helps identify talent gaps and optimize workforce distribution.",
+    "summary": "OMV now uses SAP's People Intelligence solution to analyze workforce composition patterns and optimize talent allocation. This matters as it enables more informed, data-driven workforce decisions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T12:15:00.000Z",
@@ -144,7 +144,7 @@
   {
     "id": "10",
     "title": "How SAP Customers Are Simplifying Software Expansion with SAP Store",
-    "summary": "SAP customers can now easily discover and acquire software solutions through the SAP Store, streamlining the expansion process. This simplification matters as it reduces complexity and increases efficiency in enterprise software adoption.",
+    "summary": "SAP customers can now easily discover and acquire software from the SAP Store, streamlining the expansion process. This simplification matters as it reduces the complexity and time required to implement new solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-06-29T11:15:00.000Z",
