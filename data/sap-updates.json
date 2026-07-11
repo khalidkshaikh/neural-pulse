@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Luxury on Cloud Nine, Better Pricing, Faster Approvals, Thirty-Five Degrees of Urgency and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-11T02:25:34.910Z",
+    "publishedAt": "2026-07-11T05:38:02.266Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski is implementing SAP Cloud ERP to lay groundwork for AI integration. This move aims to help the luxury brand achieve its strategic targets by 2030.",
+    "summary": "Swarovski adopts SAP Cloud ERP to lay groundwork for AI integration. This move enables the luxury brand to reach strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners, streamlining purchasing and approvals. This expansion connects the entire purchasing journey in one place.",
+    "summary": "SAP Store now offers a self-service platform for partners with streamlined pricing and faster approval processes. This update connects the entire purchasing journey in a single place.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 takes place amidst a record-breaking UK heatwave. This timing highlights the urgent need for climate action.",
+    "summary": "London Climate Action Week 2026 coincided with a record-breaking UK heatwave. This timing underscores the pressing need for climate action.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP is revamping its maintenance and support practices to provide more flexibility for customers. This change aims to deliver greater transparency and adaptability for SAP customers.",
+    "summary": "SAP updates its commercial practices to offer greater flexibility for customers. This change aims to deliver more transparent and adaptable support to meet evolving customer needs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP welcomes European Commission decision concluding investigation into on-premise maintenance and support policies. The decision allows SAP to continue its business practices without restrictions.",
+    "summary": "SAP welcomes European Commission decision concluding investigation into on-premise maintenance and support policies. The decision clears SAP of any wrongdoing, allowing the company to maintain its current business practices.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is using generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables faster financial decision-making.",
+    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables instant financial decision-making, streamlining processes and enhancing business agility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is releasing a solution to help HR and people analytics teams access and analyze data faster. This matters as it enables data-driven decisions and more efficient use of resources.",
+    "summary": "SAP is introducing faster insights and governed data for HR and people analytics teams. This matters because it helps teams make better decisions with more efficient data access.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "SAP Completes Acquisition of Dremio",
-    "summary": "SAP completes acquisition of Dremio, an open high-performance data lakehouse platform. This acquisition expands SAP's data management capabilities and enhances its offerings in the cloud.",
+    "summary": "SAP has completed its acquisition of Dremio, a data lakehouse platform. This acquisition expands SAP's data management capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T18:00:00.000Z",
@@ -129,7 +129,7 @@
   {
     "id": "9",
     "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-    "summary": "SAP and Viva.com are integrating payment processes at the point-of-sale (POS) for a seamless checkout experience. This integration enables speed, flexibility, and smooth integration, meeting customer expectations.",
+    "summary": "SAP's Customer Checkout and Viva.com are integrating payment processes at the POS for seamless checkout experiences. This advancement prioritizes speed, flexibility, and integration.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T12:15:00.000Z",
@@ -143,7 +143,7 @@
   {
     "id": "10",
     "title": "Fall in Love with the Problem, Not the Solution: Rethinking AI for Real Impact",
-    "summary": "Researchers emphasize focusing on AI problems, not just solutions, for genuine impact. This approach prioritizes understanding real-world challenges over solely increasing efficiency.",
+    "summary": "Researchers emphasize focusing on problem-solving rather than AI's capabilities. This shift prioritizes meaningful impact over efficiency and speed.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T10:15:00.000Z",
