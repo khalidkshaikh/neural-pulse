@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: AI Is Exposing Fragmented Systems in Financial Services, Luxury on Cloud Nine, Better Pricing, Faster Approvals and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-13T17:11:15.656Z",
+    "publishedAt": "2026-07-13T19:20:10.834Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities in financial services, leveraging AI to expose fragmented systems. This integration aims to provide a unified platform for the sector.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities in financial services since 2021. This collaboration is exposing fragmented systems in the sector, highlighting the need for modernization.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski partners with SAP to implement cloud ERP, laying groundwork for AI integration. This paves the way for the luxury brand to achieve its strategic targets by 2030.",
+    "summary": "Swarovski is implementing SAP Cloud ERP to lay the groundwork for AI integration. This move aims to help the luxury brand achieve its strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "The SAP Store now offers a self-service platform for partners, streamlining the purchasing process. This update connects the entire purchasing journey in one place, reducing complexity.",
+    "summary": "SAP Store now offers a self-service platform for partners with streamlined pricing and faster approval processes. This update connects the entire purchasing journey in one place.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 coincides with a record-breaking UK heatwave. This timing highlights the pressing need for climate action in the face of extreme weather events.",
+    "summary": "London Climate Action Week 2026 coincides with a record-breaking UK heatwave. This timing highlights the pressing need for climate action.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP updates its commercial practices to provide greater flexibility for customers. This change aims to deliver more transparent and adaptable maintenance and support services.",
+    "summary": "SAP updates its commercial practices to offer more flexibility and transparency for customers. This change aims to deliver greater flexibility for SAP customers.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP welcomes European Commission decision concluding investigation into on-premise maintenance and support policies. The move marks a resolution to the investigation, allowing SAP to continue business as usual.",
+    "summary": "SAP has been cleared by the European Commission in an investigation into its on-premise maintenance and support policies. This decision maintains open competition and customer choice in the market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables faster financial decision-making.",
+    "summary": "Natura &Co is partnering with Numen and SAP to integrate generative AI into its SAP S/4HANA system for real-time financial analysis. This transformation enables instant decision-making, reducing manual processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is revamping its people analytics to provide faster insights and governed data. This matters as it enables HR and business teams to make more informed decisions with reduced resources.",
+    "summary": "SAP is releasing a solution to help HR and people analytics teams access and analyze data more efficiently. This matters as it enables data-driven decision making with faster insights.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
@@ -130,7 +130,7 @@
   {
     "id": "9",
     "title": "SAP Completes Acquisition of Dremio",
-    "summary": "SAP acquires Dremio, an open data lakehouse platform. The acquisition adds high-performance capabilities to SAP's data offerings.",
+    "summary": "SAP completes acquisition of Dremio, an open data lakehouse platform. This acquisition adds high-performance data capabilities to SAP's offerings.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T18:00:00.000Z",
@@ -144,7 +144,7 @@
   {
     "id": "10",
     "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) for seamless checkout experiences. This aims to meet customer expectations for speed, flexibility, and smooth integration.",
+    "summary": "SAP and Viva.com are integrating payment processes into the checkout experience, enhancing speed and flexibility. This matters as it meets customers' expectations for seamless transactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T12:15:00.000Z",
