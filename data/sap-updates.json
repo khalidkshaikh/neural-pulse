@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of July 13, 2026",
+    "title": "Weekly SAP AI Digest — Week of July 14, 2026",
     "summary": "This week in SAP AI: AI Is Exposing Fragmented Systems in Financial Services, Luxury on Cloud Nine, Better Pricing, Faster Approvals and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-13T21:54:01.048Z",
+    "publishedAt": "2026-07-14T02:11:38.737Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021. This expansion is exposing fragmented systems in the sector, highlighting the need for integration and modernization.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021. This collaboration exposes fragmented systems, highlighting inefficiencies and opportunities for improvement.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski is implementing SAP Cloud ERP to support AI-driven growth. This move will help the luxury brand achieve its strategic targets by 2030.",
+    "summary": "Swarovski is leveraging SAP Cloud ERP to lay the groundwork for AI adoption. This move will help the luxury brand achieve its strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners, streamlining purchasing and approval processes. This update connects the entire purchasing journey in one place, improving efficiency.",
+    "summary": "SAP Store now offers self-service for partners with streamlined pricing and faster approval processes. This update connects the entire purchasing journey in one place.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 takes place amidst a record-breaking UK heatwave. This timing highlights the pressing need for climate action.",
+    "summary": "London Climate Action Week 2026 coincides with a record-breaking UK heatwave. This timing highlights the urgent need for climate action, underscoring the consequences of inaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP evolves its maintenance and support practices to offer greater flexibility for customers. This change allows customers to choose from various pricing options and service levels.",
+    "summary": "SAP updates its commercial practices to offer greater flexibility and transparency to customers. This change matters as it addresses customer needs and improves the overall user experience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP has been cleared by the European Commission in an investigation into its on-premise maintenance and support policies. This decision allows SAP to continue its business operations without restrictions.",
+    "summary": "SAP has been cleared by the European Commission after an investigation into its on-premise maintenance and support policies. This decision allows SAP to continue its business without restrictions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables instant financial decision-making, streamlining a previously manual process.",
+    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables faster financial decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
@@ -115,7 +115,7 @@
   {
     "id": "8",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is developing a platform for faster, governed people analytics insights. This matters because it can help HR teams make better decisions with limited resources.",
+    "summary": "SAP is revamping its people analytics platform to provide faster insights and governed data. This matters because it will help HR teams make better decisions with more efficient access to data.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
@@ -130,7 +130,7 @@
   {
     "id": "9",
     "title": "SAP Completes Acquisition of Dremio",
-    "summary": "SAP has completed its acquisition of Dremio, a data lakehouse platform. This deal adds Dremio's capabilities to SAP's offerings, expanding its data management and analytics capabilities.",
+    "summary": "SAP has completed its acquisition of Dremio, a data lakehouse platform. This acquisition bolsters SAP's data management capabilities, expanding its offerings in cloud-based data analytics.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T18:00:00.000Z",
@@ -144,7 +144,7 @@
   {
     "id": "10",
     "title": "How SAP Customer Checkout and Viva.com Are Advancing Payment Processes at the POS Along Checkout Experience",
-    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) for a seamless checkout experience. This aims to meet customers' expectations for speed, flexibility, and smooth integration.",
+    "summary": "SAP and Viva.com are integrating payment processes at the point of sale (POS) for faster checkout experiences. This integration aims to meet customers' expectations of speed, flexibility, and seamless transactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T12:15:00.000Z",
