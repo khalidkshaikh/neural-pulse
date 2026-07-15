@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience, Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds, External Talent Is No Longer Temporary and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-15T19:06:20.308Z",
+    "publishedAt": "2026-07-15T21:57:31.703Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos. This plan provides proactive guidance at every decision point, unifying customer data.",
+    "summary": "SAP introduces an Advanced Success Plan for SAP Customer Experience, breaking down data silos with unified customer data. This plan provides proactive and prescriptive guidance at every decision point.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "AI adoption is accelerating, with 75% of companies using AI in some form, according to SAP. This shift from experimentation to execution drives business value.",
+    "summary": "Business value of AI is increasing due to wider adoption and rising expectations, according to SAP. This shift from experimentation to execution drives AI's growing importance in business operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are now integrating external talent into their workforce strategy permanently. This shift allows for agility, resilience, and access to critical skills, driving business success.",
+    "summary": "Organizations are now permanently integrating external talent into their workforce strategy. This shift allows for agility, resilience, and access to critical skills, transforming talent acquisition.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021, leveraging AI to expose fragmented systems. This development matters because it could lead to more integrated and efficient financial services.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for the financial services sector since 2021. This increased focus on AI-powered solutions is exposing fragmented systems in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski is implementing SAP Cloud ERP to lay groundwork for AI integration. This move aims to help the luxury brand reach its strategic targets by 2030.",
+    "summary": "Swarovski adopts SAP Cloud ERP to lay groundwork for AI integration. This move enables the luxury brand to reach its strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners, streamlining purchasing and approvals. This change connects the full buying process in one place.",
+    "summary": "SAP Store now offers a self-service experience for partners with streamlined pricing and faster approval processes. This update connects the full purchasing journey in one place.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "A record-breaking heatwave in the UK serves as backdrop for London Climate Action Week 2026. This timing highlights the pressing need for climate action.",
+    "summary": "London Climate Action Week 2026 coincided with a record-breaking UK heatwave in late June. This timing highlights the pressing need for climate action, underscoring the urgency of addressing global warming.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP is updating its maintenance and support practices for greater flexibility. This change allows customers to choose from multiple options for support and maintenance.",
+    "summary": "SAP updates its maintenance and support practices to offer greater flexibility. This change aims to provide customers with more transparency and adaptability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP has been cleared by the European Commission after an investigation into its on-premise maintenance and support policies. This decision allows SAP to continue operating without restrictions.",
+    "summary": "SAP welcomes European Commission decision concluding investigation into on-premise maintenance and support policies. The decision allows SAP to maintain its current business practices.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -141,7 +141,7 @@
   {
     "id": "10",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This innovation transforms manual processes into real-time financial decision-making capabilities.",
+    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables real-time financial decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
