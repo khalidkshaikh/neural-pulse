@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of July 14, 2026",
+    "title": "Weekly SAP AI Digest — Week of July 15, 2026",
     "summary": "This week in SAP AI: External Talent Is No Longer Temporary, AI Is Exposing Fragmented Systems in Financial Services, Luxury on Cloud Nine and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-14T21:55:07.800Z",
+    "publishedAt": "2026-07-15T02:09:52.049Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are now integrating external talent permanently into their workforce, shifting from temporary arrangements. This move aims to boost agility, resilience, and access to in-demand skills.",
+    "summary": "Organizations are now integrating external talent into their permanent workforce strategy. This shift aims to enhance agility, resilience, and access to critical skills.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021. This collaboration is exposing fragmented systems in the sector, highlighting inefficiencies and potential for improvement.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021. This expansion exposes fragmented systems in the sector, highlighting inefficiencies and areas for improvement.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -44,7 +44,7 @@
   {
     "id": "3",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski adopts SAP Cloud ERP to enhance luxury brand management. This move lays groundwork for AI integration to achieve strategic targets by 2030.",
+    "summary": "Swarovski is adopting SAP Cloud ERP to lay groundwork for AI integration. This move will help the luxury brand achieve its strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners, streamlining purchasing and approvals. This change simplifies the process, allowing for faster and more efficient transactions.",
+    "summary": "SAP Store now offers a self-service platform for partners, streamlining the purchasing process with better pricing and faster approvals. This update connects the entire purchasing journey in one place, simplifying transactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 takes place amidst record-breaking UK heatwave. This highlights the urgent need for climate action.",
+    "summary": "London Climate Action Week 2026 coincided with a record-breaking UK heatwave. This highlights the pressing need for climate action in the face of escalating global temperatures.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -84,7 +84,7 @@
   {
     "id": "6",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP updates its maintenance and support practices to offer more flexibility to customers. This change allows customers to choose from various support options, catering to their specific needs.",
+    "summary": "SAP updates its maintenance and support practices to offer greater flexibility to customers. This change aims to provide customers with more transparent and adaptable options.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -98,7 +98,7 @@
   {
     "id": "7",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP avoids EU investigation into on-premise maintenance and support policies. This decision allows SAP to maintain business practices without regulatory interference.",
+    "summary": "SAP has been cleared by the European Commission after an investigation into its on-premise maintenance and support policies. This decision allows SAP to continue its business practices without restrictions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -112,7 +112,7 @@
   {
     "id": "8",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is using generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables real-time financial decision-making.",
+    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation matters as it enables faster, data-driven financial decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is developing a platform for faster, governed people analytics to support HR and business decision-making. This matters because it could improve data-driven decision-making efficiency.",
+    "summary": "SAP is launching a new people analytics platform to provide faster insights and governed data. This matters because it helps HR teams make better decisions with more efficient data access.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
@@ -142,7 +142,7 @@
   {
     "id": "10",
     "title": "SAP Completes Acquisition of Dremio",
-    "summary": "SAP has completed the acquisition of Dremio, an open data lakehouse platform. This acquisition adds high-performance capabilities to SAP's offerings, enhancing its data management portfolio.",
+    "summary": "SAP has finalized its acquisition of Dremio, a high-performance data lakehouse platform. This move strengthens SAP's data analytics capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-06T18:00:00.000Z",
