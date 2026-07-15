@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds, External Talent Is No Longer Temporary, AI Is Exposing Fragmented Systems in Financial Services and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-15T08:04:09.534Z",
+    "publishedAt": "2026-07-15T10:47:00.061Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "Business value of AI is increasing due to rising adoption and growing expectations. This shift from experimentation to execution matters as it signals AI's growing integration into mainstream business operations.",
+    "summary": "Business value of AI is spiking, driven by increased adoption and expectations. AI has transitioned from experimental phase to mainstream execution, boosting its business value.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are now integrating external talent into their permanent workforce strategy. This shift provides agility, resilience, and access to critical skills, why it matters.",
+    "summary": "Organizations now integrate external talent into permanent workforce strategy. This shift prioritizes agility, resilience, and access to critical skills.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -44,7 +44,7 @@
   {
     "id": "3",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities in financial services since 2021, leveraging AI to expose fragmented systems. This development matters as it could lead to more efficient and integrated financial services.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services, leveraging AI to expose fragmented systems. This integration aims to improve efficiency and transparency in the sector.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski is implementing SAP Cloud ERP to lay the foundation for AI adoption. This move aims to help the luxury brand reach its strategic targets by 2030.",
+    "summary": "Swarovski is implementing SAP Cloud ERP to lay groundwork for AI integration. This move will help the luxury brand achieve its strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners with streamlined pricing and faster approvals. This update connects the entire purchasing journey in one place.",
+    "summary": "SAP Store now offers a self-service platform for partners, streamlining purchasing and approval processes. This expansion enables faster and more efficient transactions, reducing complexity.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 addresses record-breaking UK heatwave. This event highlights the pressing need for climate action in the UK.",
+    "summary": "London Climate Action Week 2026 takes place during a record-breaking UK heatwave. This timing highlights the pressing need for climate action.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP updates its maintenance and support practices to offer greater flexibility to customers. This change provides customers with more transparent and adaptable options.",
+    "summary": "SAP updates its maintenance and support practices to offer greater flexibility for customers. This change aims to provide more transparency and adapt to evolving customer needs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP has been cleared by the European Commission after an investigation into its on-premise maintenance and support policies. This decision maintains open competition and customer choice in the market.",
+    "summary": "SAP has been cleared by the European Commission in an investigation into its on-premise maintenance and support policies. This decision allows SAP to continue operating without restrictions, preserving customer choice and innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables real-time financial decision-making.",
+    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables instant financial decision-making, revolutionizing the finance process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
@@ -142,7 +142,7 @@
   {
     "id": "10",
     "title": "Drive Better HR and Business Decisions with Faster Insights and Governed Data: How SAP Is Reinventing People Analytics",
-    "summary": "SAP is releasing a solution to help HR teams access and analyze data faster. This matters because it enables more informed business decisions with governed data.",
+    "summary": "SAP is developing a platform to provide faster insights and governed data for HR and business decisions. This matters as it can help teams deliver more with less, addressing growing data demands and fragmented access.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-07T11:15:00.000Z",
