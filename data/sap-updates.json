@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience, Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds, External Talent Is No Longer Temporary and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-15T13:38:20.838Z",
+    "publishedAt": "2026-07-15T16:19:07.761Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "AI adoption is accelerating, with businesses now prioritizing practical implementation over experimentation. This shift in focus increases the business value of AI, driven by growing expectations for tangible results.",
+    "summary": "AI adoption is accelerating, with companies moving from testing to implementing AI solutions. This shift increases business value as companies leverage AI to drive growth and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are now integrating external talent into permanent workforce strategies. This shift aims to boost agility, resilience, and access to critical skills.",
+    "summary": "Organizations are shifting from temporary external talent to permanent workforce strategy. This move enables agility, resilience, and access to critical skills, improving overall workforce flexibility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021. This collaboration is exposing fragmented systems in the sector, revealing areas for improvement.",
+    "summary": "SAP and SAP Fioneer expand joint capabilities for financial services, leveraging AI to expose fragmented systems. This integration aims to streamline processes and improve efficiency across the sector.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners, streamlining purchasing and approval processes. This update connects the entire buying journey in one place, reducing complexity.",
+    "summary": "SAP Store now offers a self-service platform for partners, streamlining purchasing and approval processes. This update connects the entire purchasing journey in one place, reducing complexity.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 coincided with a record-breaking UK heatwave. This convergence highlights the pressing need for climate action in the face of escalating global temperatures.",
+    "summary": "London Climate Action Week 2026 coincided with a record-breaking UK heatwave in late June. This timing highlights the urgent need for climate action.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP updates its maintenance and support practices to offer greater flexibility to customers. This change aims to provide more transparency and adapt to individual customer needs.",
+    "summary": "SAP updates its maintenance and support practices to provide greater flexibility for customers. This change allows customers to tailor their support to their specific needs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies",
-    "summary": "SAP has been cleared by the European Commission in an investigation into its on-premise maintenance and support policies. This decision allows SAP to continue its business practices without restriction.",
+    "summary": "SAP has been cleared by the European Commission after an investigation into its on-premise maintenance and support policies. This decision allows SAP to continue operating without restrictions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -141,7 +141,7 @@
   {
     "id": "10",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables data-driven financial decision-making.",
+    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables faster financial decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
