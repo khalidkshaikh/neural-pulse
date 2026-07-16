@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience, Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds, External Talent Is No Longer Temporary and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-16T02:23:05.719Z",
+    "publishedAt": "2026-07-16T05:37:40.868Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos for unified customer insights. This plan provides proactive and prescriptive guidance at every decision point, streamlining customer data management.",
+    "summary": "SAP introduces an Advanced Success Plan for Customer Experience, breaking down data silos with proactive guidance. This unified approach matters as it enables businesses to make informed decisions with a complete customer view.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "AI adoption is accelerating, with 75% of businesses now using AI, up from 20% in 2020. This growth is driven by increased expectations for AI to deliver tangible business value.",
+    "summary": "AI adoption is surging in businesses, driven by increased expectations for automation and efficiency. This shift marks AI's transition from experimental phase to widespread implementation, driving business value.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are increasingly integrating external talent into their permanent workforce. This shift enables access to critical skills, builds agility, and boosts resilience.",
+    "summary": "Organizations are now permanently incorporating external talent into their workforce strategy. This shift provides access to critical skills and enhances agility and resilience.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their AI capabilities for the financial services sector since 2021. This expansion exposes fragmented systems, highlighting inefficiencies and opportunities for improvement in the industry.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021. This expansion exposes fragmented systems in the sector, highlighting the need for modernization.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -73,7 +73,7 @@
   {
     "id": "5",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski adopts SAP Cloud ERP to lay groundwork for AI integration. This move enables the luxury brand to reach its strategic targets by 2030.",
+    "summary": "Swarovski is implementing SAP Cloud ERP to lay groundwork for AI adoption. This move aims to help the luxury brand achieve its strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -87,7 +87,7 @@
   {
     "id": "6",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a one-stop self-service platform for partners, streamlining the purchasing process. This update enables faster approvals and better pricing.",
+    "summary": "SAP Store now offers a self-service platform for partners, streamlining the purchasing process. This update connects the full purchasing journey in one place, improving efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -101,7 +101,7 @@
   {
     "id": "7",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 was held amidst a record-breaking UK heatwave. This timing highlights the pressing need for climate action.",
+    "summary": "London Climate Action Week 2026 coincides with a record-breaking UK heatwave. This timing highlights the pressing need for climate action.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP updates commercial practices to offer greater flexibility and transparency to customers. This change matters as it allows customers to adapt to changing needs, reducing potential friction and improving overall experience.",
+    "summary": "SAP is updating its maintenance and support practices to offer more flexible options for customers. This change aims to provide greater transparency and adaptability to meet evolving customer needs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
@@ -141,7 +141,7 @@
   {
     "id": "10",
     "title": "How Natura &Co Is Transforming Finance with Generative AI on SAP S/4HANA",
-    "summary": "Natura &Co is leveraging generative AI on SAP S/4HANA to automate gross margin analysis in real-time. This transformation enables real-time financial decision-making.",
+    "summary": "Natura &Co is using generative AI on SAP S/4HANA for real-time financial decision-making. This transforms manual gross margin analysis into a more efficient process.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-08T11:15:00.000Z",
