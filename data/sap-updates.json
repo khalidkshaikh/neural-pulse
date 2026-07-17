@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: When Insight Is Not Enough, The Pattern Emerging Across AI Transformations, Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-17T02:26:05.185Z",
+    "publishedAt": "2026-07-17T05:40:05.316Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistency and scalability. This matters because it can improve customer interactions and overall experience.",
+    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistent and scalable execution across all customer interactions. This matters as it improves customer experience and engagement.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "New: Companies are increasingly embedding AI into core operations, transforming business models. \n\nThis matters because it signals a fundamental shift in how businesses operate, driving efficiency and innovation.",
+    "summary": "Companies are increasingly embedding AI into core operations, transforming business models and processes. This shift matters as it enables more efficient and data-driven decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos. This plan provides proactive guidance at every decision point.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos. This plan provides proactive guidance at every decision point to unify customer data.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "AI adoption is surging, with 80% of businesses now using AI, up from 20% in 2018. This widespread adoption drives increased business value.",
+    "summary": "Companies are increasingly adopting AI, driving its business value to spike. This shift from experimentation to execution matters as it signals AI's growing maturity in the business world.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are permanently integrating external talent into their workforce, leveraging agility and access to critical skills. This shift matters as it signals a fundamental change in how companies approach talent acquisition and retention.",
+    "summary": "Organizations are embracing external talent as a permanent workforce strategy, leveraging agility and access to critical skills. This shift matters as it redefines traditional workforce structures, enabling companies to adapt and innovate more effectively.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -84,7 +84,7 @@
   {
     "id": "6",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021, focusing on AI-driven solutions. This expansion exposes fragmented systems in the financial services sector, highlighting the need for modernization and integration.",
+    "summary": "SAP and SAP Fioneer have expanded joint capabilities for financial services since 2021. This expansion is exposing fragmented systems in the sector, highlighting areas for improvement.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski is implementing SAP Cloud ERP to lay groundwork for AI integration. This move will help the luxury brand reach its strategic targets by 2030.",
+    "summary": "Swarovski adopts SAP Cloud ERP to lay groundwork for AI integration. This move enables the luxury brand to reach strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners, streamlining the purchasing process with better pricing and faster approvals. This update connects the entire purchasing journey in one place, enhancing efficiency.",
+    "summary": "SAP Store now offers a self-service platform for partners with streamlined pricing and faster approval processes. This update integrates the entire purchasing journey into a single place.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
@@ -127,7 +127,7 @@
   {
     "id": "9",
     "title": "Thirty-Five Degrees of Urgency: London Climate Action Week 2026",
-    "summary": "London Climate Action Week 2026 highlights urgent climate action amidst a record-breaking UK heatwave. This event underscores the pressing need for immediate climate action.",
+    "summary": "London Climate Action Week 2026 takes place during a record-breaking UK heatwave. This timing highlights the urgent need for climate action.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T11:15:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Evolving Our Maintenance and Support Practices to Deliver Greater Flexibility for SAP Customers",
-    "summary": "SAP updates its commercial practices to offer greater flexibility for customers. This change aims to provide more transparency and adapt to evolving customer needs.",
+    "summary": "SAP updates its maintenance and support practices to offer greater flexibility to customers. This change aims to provide more transparency and adaptability in its commercial practices.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-09T09:52:00.000Z",
