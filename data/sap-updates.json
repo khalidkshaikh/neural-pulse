@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of July 18, 2026",
+    "title": "Weekly SAP AI Digest — Week of July 19, 2026",
     "summary": "This week in SAP AI: The Winners of the Energy and Utilities Innovation Award, SAP Completes Acquisition of Prior Labs, When Insight Is Not Enough and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-18T21:47:37.435Z",
+    "publishedAt": "2026-07-19T02:27:45.049Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Companies in the energy and utilities sector have won awards for innovative digital solutions. The winners showcase the industry's diverse approaches to digital transformation.",
+    "summary": "Several companies won the Energy and Utilities Innovation Award, showcasing digital transformation in the sector. This matters as it highlights the industry's shift towards technology-driven innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP completes acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition adds AI capabilities to SAP's offerings.",
+    "summary": "SAP completes acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This move strengthens SAP's AI capabilities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistency and scalability. This matters as businesses can now provide seamless experiences across all customer interactions.",
+    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistency and scalability across customer interactions. This matters as businesses can now deliver more seamless experiences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "Companies are embedding AI into their core operations, transforming business models and functions. This shift matters as it enables more efficient, data-driven decision-making and increased competitiveness.",
+    "summary": "Research reveals a pattern of AI transformation where intelligence is embedded into business operations, driving efficiency and growth. This shift matters as it enables companies to adapt quickly to changing markets and maintain a competitive edge.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos. It provides proactive and prescriptive guidance at every decision point.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos. This plan provides proactive and prescriptive guidance at every decision point.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "Business value of AI is increasing rapidly, driven by widespread adoption and rising expectations. This shift from experimentation to execution matters as it signals AI's growing impact on business operations and decision-making.",
+    "summary": "AI adoption is accelerating, with businesses increasingly implementing AI solutions to drive growth. This shift from experimentation to execution underscores AI's growing business value.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -98,7 +98,7 @@
   {
     "id": "7",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are increasingly integrating external talent into their workforce permanently. This shift enables agility, resilience, and access to critical skills.",
+    "summary": "Organizations are now permanently integrating external talent into their workforce strategies. This shift allows for agility, resilience, and access to critical skills.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -110,7 +110,7 @@
   {
     "id": "8",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer have expanded their joint capabilities in financial services, leveraging AI to expose fragmented systems. This collaboration aims to improve efficiency and reduce costs in the sector.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for financial services since 2021, leveraging AI to expose fragmented systems. This matters because it highlights the need for industry-wide modernization and integration.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Luxury on Cloud Nine: Redefining Excellence at Swarovski with SAP Cloud ERP",
-    "summary": "Swarovski is implementing SAP Cloud ERP to lay groundwork for AI adoption. This move is crucial for the luxury brand to achieve its strategic targets by 2030.",
+    "summary": "Swarovski is implementing SAP Cloud ERP to lay the groundwork for AI integration. This move aims to help the luxury brand achieve its strategic targets by 2030.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T11:15:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Better Pricing, Faster Approvals: SAP Store Expands Self-Service for Partners",
-    "summary": "SAP Store now offers a self-service platform for partners, streamlining the purchasing journey. This update provides faster approvals and better pricing, making it more efficient.",
+    "summary": "SAP Store now offers a self-service platform for partners with streamlined pricing and faster approval processes. This change connects the entire purchasing journey in one place.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-10T10:15:00.000Z",
