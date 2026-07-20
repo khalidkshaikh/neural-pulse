@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI, SAP Business AI, The Winners of the Energy and Utilities Innovation Award and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-20T14:00:07.466Z",
+    "publishedAt": "2026-07-20T16:22:29.249Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is adopting SAP Business AI for shipbuilding, aiming for faster and smarter production. This matters as it could improve efficiency and sustainability in the maritime industry.",
+    "summary": "Damen Shiprepair & Conversion is adopting SAP Business AI for faster, smarter shipbuilding. This move enables real-time data analysis and process optimization.",
     "product": "Business AI",
     "updateType": "Release",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI has released new features in Q2 2026, enhancing decision-making capabilities. This update empowers businesses to move faster and focus on key priorities.",
+    "summary": "SAP releases new AI features for Business AI, enhancing decision-making and employee productivity. This matters as it enables businesses to move faster and focus on core priorities.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Companies in the energy and utilities sector are driving digital transformation through various innovative technologies. This matters as it could lead to more efficient and sustainable energy solutions.",
+    "summary": "The Energy and Utilities Innovation Award winners showcase various digital transformation methods in the sector. This matters because it highlights the industry's growing adoption of technology-driven solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP has completed the acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition matters as it strengthens SAP's AI capabilities.",
+    "summary": "SAP has completed its acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition strengthens SAP's AI capabilities, particularly in natural language processing and data analysis.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistent and scalable execution across all customer interactions. This matters as it improves the reliability and efficiency of customer service, ultimately boosting business performance.",
+    "summary": "SAP has released a new update for Customer Experience, focusing on consistent and scalable execution across all customer interactions. This matters because it can improve customer satisfaction and loyalty.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "AI is increasingly becoming integral to business operations, transforming industries through automation and data-driven decision-making. This shift matters as it enables companies to adapt and innovate more efficiently.",
+    "summary": "A new pattern is emerging where AI is being integrated into core business operations, transforming industries and companies from within. This shift matters as it signals a fundamental transformation in how businesses operate, potentially disrupting traditional models and creating new opportunities.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP releases Advanced Success Plan for SAP Customer Experience, breaking down data silos. This plan provides proactive and prescriptive guidance at every decision point.",
+    "summary": "SAP introduces an Advanced Success Plan for SAP Customer Experience, breaking down data silos with unified customer data. This plan provides proactive and prescriptive guidance at every decision point, streamlining customer interactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "AI adoption is now widespread, with businesses increasingly using it to drive value. This shift from experimentation to execution matters as it underscores AI's growing importance in driving business outcomes.",
+    "summary": "AI adoption is accelerating, with SAP finding increased business value from AI-driven initiatives. This shift from experimentation to execution matters as companies can now leverage AI to drive tangible business outcomes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -126,7 +126,7 @@
   {
     "id": "9",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are increasingly integrating external talent into their workforce permanently. This shift aims to boost agility, resilience, and access to critical skills.",
+    "summary": "Organizations are now integrating external talent into their permanent workforce strategy. This shift aims to build agility, resilience, and access to critical skills.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
@@ -138,7 +138,7 @@
   {
     "id": "10",
     "title": "AI Is Exposing Fragmented Systems in Financial Services",
-    "summary": "SAP and SAP Fioneer expand joint capabilities for financial services sector since 2021. This collaboration exposes fragmented systems in the industry, highlighting inefficiencies and opportunities for improvement.",
+    "summary": "SAP and SAP Fioneer have expanded their joint capabilities for the financial services sector since 2021. This expansion exposes fragmented systems in the industry, highlighting the need for modernization and integration.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-13T12:15:00.000Z",
