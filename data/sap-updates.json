@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build, Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI, SAP Business AI and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-21T13:43:04.383Z",
+    "publishedAt": "2026-07-21T16:21:19.026Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos adopts SAP Build for streamlined PPE management. The solution automates processes, enhancing workplace safety and efficiency.",
+    "summary": "São Salvador Alimentos now uses SAP Build to streamline personal protective equipment (PPE) management. This update enhances workplace safety and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is adopting SAP Business AI to streamline shipbuilding and enhance efficiency. This matters as it enables Damen to reduce costs and improve sustainability in the maritime industry.",
+    "summary": "Damen is implementing SAP Business AI to streamline shipbuilding and boost efficiency. This matters as it enables Damen to create more sustainable and intelligent maritime solutions.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI has released new features in Q2 2026 to enhance decision-making and employee empowerment. This matters as businesses can now operate more efficiently and effectively.",
+    "summary": "SAP Business AI releases new features for faster decision-making and employee empowerment. \nThis matters because it enables businesses to optimize operations and improve productivity.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Companies in the energy and utilities sector have won awards for innovative digital transformation projects. This matters because it showcases the sector's adaptability and commitment to harnessing technology for future growth.",
+    "summary": "Companies in the energy and utilities sector are driving digital transformation through innovative solutions. This matters as it shows the sector's adaptability and potential for growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP has completed its acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition expands SAP's AI capabilities, enabling more sophisticated data analysis and processing.",
+    "summary": "SAP completes acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition expands SAP's AI capabilities, enabling more sophisticated data analysis and processing.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released a new update for its Customer Experience platform, enabling more consistent and scalable execution across interactions. This update matters as it improves customer experience, a key factor in business success.",
+    "summary": "SAP has released a new update to its Customer Experience platform, enhancing consistency and scalability in customer interactions. This matters as it improves customer engagement and helps businesses deliver more personalized experiences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "Businesses are increasingly embedding AI into their core operations, transforming traditional models and processes. This shift matters as it enables companies to automate, optimize, and innovate more efficiently.",
+    "summary": "New: Businesses are increasingly embedding AI into core operations, transforming traditional industries. \n\nThis matters: As AI becomes pervasive, companies will need to adapt or risk being left behind in a rapidly changing market landscape.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos with unified customer data. This plan provides proactive and prescriptive guidance at every decision point, streamlining customer data management.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos. This unified approach provides proactive and prescriptive guidance at every decision point.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "AI adoption is accelerating, with businesses increasingly integrating AI into operations. This shift from experimentation to execution boosts AI's business value.",
+    "summary": "Business value of AI is rising, driven by increased adoption and higher expectations. This shift from experimentation to execution matters as it indicates AI's growing impact on business operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are increasingly integrating external talent into their permanent workforce. This shift enables agility, resilience, and access to critical skills.",
+    "summary": "Organizations are now incorporating external talent into permanent workforce strategies. This shift enables agility, resilience, and access to critical skills.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
