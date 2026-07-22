@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build, Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI, SAP Business AI and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-22T05:47:11.196Z",
+    "publishedAt": "2026-07-22T08:23:53.874Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos adopts SAP Build to streamline Personal Protective Equipment (PPE) management. This upgrade improves efficiency and safety protocols.",
+    "summary": "São Salvador Alimentos implements SAP Build to streamline personal protective equipment management. This improves operational efficiency and reduces administrative burdens.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is implementing SAP Business AI for faster, smarter shipbuilding. This move enables more efficient production and sustainability.",
+    "summary": "Damen is implementing SAP Business AI to enhance shipbuilding efficiency and sustainability. This matters because it will help Damen reduce costs and minimize environmental impact.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI releases new features in Q2 2026, enhancing business speed and decision-making. This matters as it enables businesses to optimize operations and empower employees to focus on high-priority tasks.",
+    "summary": "SAP releases new Business AI features in Q2 2026, enhancing decision-making and productivity. This matters because it helps businesses accelerate operations and prioritize key tasks.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Companies in the energy and utilities sector have won innovation awards for digital transformation projects. This highlights the sector's active adoption of AI and tech solutions.",
+    "summary": "Companies in the energy and utilities sector are leveraging digital transformation through various innovations. This matters as it drives more efficient and sustainable energy solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP completes acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition expands SAP's AI capabilities.",
+    "summary": "SAP completes acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition strengthens SAP's AI capabilities and enhances its offerings in the tech industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistent execution across customer interactions. This matters because it improves customer engagement and satisfaction.",
+    "summary": "SAP has released a new update for Customer Experience, enabling consistent and scalable interactions. This matters because it improves customer engagement and satisfaction.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "AI is increasingly becoming deeply embedded in business operations, transforming industries and processes. This shift matters as it enables companies to automate, innovate, and stay competitive in a rapidly changing market.",
+    "summary": "AI is increasingly integrated into business operations, transforming industries and processes. This shift matters as it enables companies to automate, innovate, and adapt more efficiently.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "The business value of AI is increasing rapidly due to rising adoption and shifting expectations. This matters as companies can now expect tangible returns on AI investments.",
+    "summary": "SAP reports a significant spike in AI's business value, driven by increased adoption and rising expectations. This shift from experimentation to execution underscores AI's growing maturity and relevance in the business world.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "External Talent Is No Longer Temporary",
-    "summary": "Organizations are now integrating external talent into their permanent workforce strategy. This shift enables agility, resilience, and access to critical skills, driving business success.",
+    "summary": "Organizations now integrate external talent into permanent workforce strategy. This shift aims to boost agility, resilience, and access to critical skills.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-14T12:15:00.000Z",
