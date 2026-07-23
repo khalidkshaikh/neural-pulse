@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: From the Factory Floor to the Data Layer, São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build, Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-23T13:50:47.318Z",
+    "publishedAt": "2026-07-23T16:24:25.866Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-    "summary": "Companies are shifting focus to build systems that can autonomously adapt and act in real-time. This matters as it enables organizations to stay agile and competitive in rapidly changing markets.",
+    "summary": "Companies are developing systems that can anticipate, adapt, and act autonomously at scale and in real time. This matters because it enables true agility and competitiveness in a rapidly changing market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-22T10:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos adopts SAP Build to streamline Personal Protective Equipment (PPE) management. This upgrade enhances workplace safety and efficiency.",
+    "summary": "São Salvador Alimentos implemented SAP Build to streamline personal protective equipment (PPE) management. This upgrade enhances efficiency and safety in their operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is implementing SAP Business AI to streamline shipbuilding. This will enable faster, more informed decision-making.",
+    "summary": "Damen is adopting SAP Business AI for shipbuilding, aiming for faster and smarter production. This matters as it could significantly boost efficiency and sustainability in the maritime industry.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI receives Q2 2026 updates. New features aim to accelerate business decision-making and employee empowerment.",
+    "summary": "SAP Business AI releases new features in Q2 2026 to enhance business decision-making and employee empowerment. This matters as it enables businesses to make faster, more informed decisions and allocate resources more efficiently.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Companies in the energy and utilities sector are driving digital transformation through innovative solutions. This matters as it enables more efficient and sustainable energy management.",
+    "summary": "Companies in the energy and utilities sector have been recognized for their innovative digital transformation efforts. This matters because it showcases the sector's progress in adopting cutting-edge technologies.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP has completed its acquisition of Prior Labs, a pioneer of Tabular Foundation Models. This acquisition strengthens SAP's AI capabilities, enhancing its offerings in the market.",
+    "summary": "SAP has completed the acquisition of Prior Labs, a pioneer of Tabular Foundation Models. This acquisition expands SAP's AI capabilities and strengthens its position in the market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released Q2 2026 updates for Customer Experience, enhancing consistent and scalable execution. This matters as it improves customer interactions and experiences across various touchpoints.",
+    "summary": "SAP has released a new update for Customer Experience, enhancing consistent and scalable execution across customer interactions. This matters as it improves customer service quality and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "Companies are embedding AI into core operations, transforming business models and processes. This shift matters as it enables more efficient and adaptive decision-making.",
+    "summary": "AI transformations are now being embedded into business core operations, driving fundamental changes. This shift matters as it enables companies to automate, innovate, and adapt more efficiently.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
@@ -123,7 +123,7 @@
   {
     "id": "9",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces Advanced Success Plan for SAP Customer Experience, breaking down data silos. This plan provides proactive guidance at every decision point.",
+    "summary": "SAP introduces an Advanced Success Plan for its Customer Experience platform, aiming to break down data silos. This plan provides proactive guidance at every decision point, streamlining customer data management.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "Business Value of AI Is Spiking, Driven by Increased Adoption and Agentic Expectations, SAP Finds",
-    "summary": "AI adoption is accelerating, with companies increasingly integrating AI into core business operations. This shift in focus boosts the business value of AI, driven by growing expectations for automation and efficiency.",
+    "summary": "AI adoption is accelerating, driven by increased expectations from businesses. This shift from experimentation to execution boosts AI's business value.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T08:00:00.000Z",
