@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Announces Q2 and Half-Year 2026 Results, From the Factory Floor to the Data Layer, São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-26T15:59:20.894Z",
+    "publishedAt": "2026-07-26T19:06:04.431Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Announces Q2 and Half-Year 2026 Results",
-    "summary": "SAP reports strong Q2 cloud backlog growth. The company's current cloud backlog has seen significant expansion.",
+    "summary": "SAP reports strong Q2 cloud backlog growth, meeting expectations. This growth indicates a sustained demand for cloud-based services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-23T20:09:34.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-    "summary": "Companies are shifting focus from traditional agility to real-time, autonomous systems that can adapt at scale. This matters because it enables organizations to respond rapidly to changing demands and stay competitive.",
+    "summary": "Companies are shifting focus to build systems that can autonomously adapt and act in real-time. This matters as it enables organizations to stay agile and responsive in a rapidly changing environment.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-22T10:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos uses SAP Build to streamline Personal Protective Equipment (PPE) management. This upgrade simplifies PPE tracking and inventory management.",
+    "summary": "São Salvador Alimentos implements SAP Build to streamline Personal Protective Equipment (PPE) management. This upgrade improves operational efficiency and compliance.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is implementing SAP Business AI to improve shipbuilding efficiency. This matters because it enables faster, more sustainable ship production.",
+    "summary": "Damen is adopting SAP Business AI for shipbuilding, aiming for faster and smarter production. This matters as it enables Damen to boost efficiency and sustainability in the maritime industry.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI has released new features in Q2 2026, enhancing business decision-making and productivity. This matters as it empowers businesses to focus on core activities, driving efficiency and growth.",
+    "summary": "SAP releases Q2 2026 Business AI update with enhanced decision-making capabilities. \nThis matters as it enables businesses to accelerate operations and improve strategic decisions.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Companies in the energy and utilities sector have won innovation awards for digital transformation projects. This matters because it shows the sector's proactive approach to adopting digital technologies.",
+    "summary": "Companies in the energy and utilities sector are leveraging digital transformation through various innovations. This matters as it drives efficiency and sustainability in the industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP has completed the acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition expands SAP's AI capabilities and enhances its machine learning offerings.",
+    "summary": "SAP acquires Prior Labs, a pioneer in Tabular Foundation Models. This acquisition enhances SAP's AI capabilities with cutting-edge technology.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistent and scalable execution across all customer interactions. This update matters as it improves businesses' ability to deliver seamless customer experiences.",
+    "summary": "SAP has released a new version of its Customer Experience platform, focusing on consistent and scalable execution. This update matters as it helps businesses streamline and improve their customer interactions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "Companies are increasingly embedding AI into their core operations, transforming business models and processes. This shift matters as it enables data-driven decision-making and automation, potentially leading to increased efficiency and competitiveness.",
+    "summary": "Companies are increasingly embedding AI into their core operations, transforming business models and processes. This shift matters as it enables more efficient, data-driven decision-making and competitive advantage.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "Breaking Down Silos to Unified Customer Data, Powered by the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, breaking down data silos. This plan provides proactive guidance at every decision point, streamlining customer data management.",
+    "summary": "SAP introduces an Advanced Success Plan for Customer Experience, breaking down data silos. This plan provides proactive and prescriptive guidance at every decision point.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-15T12:15:00.000Z",
