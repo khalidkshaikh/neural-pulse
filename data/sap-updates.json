@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Connecting Cargo, SAP Announces Q2 and Half-Year 2026 Results, From the Factory Floor to the Data Layer and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-28T08:29:26.544Z",
+    "publishedAt": "2026-07-28T11:14:38.409Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-    "summary": "Real-time container tracking technology is being used to provide live positioning of cargo, enhancing supply chain visibility. This matters as it streamlines logistics and reduces delays.",
+    "summary": "Container tracking technology now provides real-time data on cargo positions. This streamlines supply chains by enhancing visibility and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-27T16:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "SAP Announces Q2 and Half-Year 2026 Results",
-    "summary": "SAP reports strong Q2 cloud backlog growth. The company's current cloud backlog continues to expand.",
+    "summary": "SAP reports Q2 and half-year 2026 results with strong current cloud backlog growth. This growth indicates a continued shift towards cloud-based services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-23T20:09:34.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-    "summary": "Companies are developing systems that can autonomously adapt and act in real-time at scale. This matters as it enables businesses to stay agile and responsive in rapidly changing markets.",
+    "summary": "Companies are shifting from traditional manufacturing agility to data-driven systems that can adapt and act autonomously. This matters because it enables real-time decision-making at scale.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-22T10:15:00.000Z",
@@ -55,7 +55,7 @@
   {
     "id": "4",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos, a Brazilian food producer, has implemented SAP Build to streamline its Personal Protective Equipment (PPE) management. This upgrade enhances operational efficiency and workplace safety.",
+    "summary": "São Salvador Alimentos implements SAP Build for streamlined PPE management. This enhances operational efficiency and reduces administrative burdens.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is implementing SAP Business AI to streamline shipbuilding. This aims to boost efficiency and reduce costs.",
+    "summary": "Damen Shiprepair & Conversion is adopting SAP Business AI for faster, smarter shipbuilding. This move enables Damen to optimize processes and improve efficiency.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI has released new features in Q2 2026, enhancing business decision-making and employee productivity. This matters as it enables businesses to accelerate operations and make more informed choices.",
+    "summary": "SAP Business AI has released new features and enhancements in Q2 2026. This release aims to help businesses make better decisions and empower employees to focus on core tasks.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "The winners of the Energy and Utilities Innovation Award showcase companies employing digital transformation in various sectors. This matters as it highlights the industry's shift towards adopting cutting-edge technology.",
+    "summary": "The Energy and Utilities Innovation Award winners showcase digital transformation in the sector through various possibilities. This matters because it highlights the industry's adoption of cutting-edge technology.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -109,7 +109,7 @@
   {
     "id": "8",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP has completed the acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition enhances SAP's AI capabilities, expanding its offerings in the field.",
+    "summary": "SAP has completed its acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition expands SAP's capabilities in AI and machine learning, enhancing its offerings.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
@@ -123,7 +123,7 @@
   {
     "id": "9",
     "title": "When Insight Is Not Enough: What’s New in SAP Customer Experience Q2 2026",
-    "summary": "SAP has released a new update for Customer Experience, focusing on consistent and scalable execution across all customer interactions. This matters as it enhances businesses' ability to deliver seamless experiences.",
+    "summary": "SAP has released a new update for its Customer Experience platform, enhancing consistency and scalability. This update matters as it improves customer interactions, boosting business efficiency and competitiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T12:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "The Pattern Emerging Across AI Transformations",
-    "summary": "Businesses are increasingly embedding AI into core operations, transforming industries with intelligent processes. This shift matters because it enables companies to adapt and innovate more efficiently, gaining a competitive edge.",
+    "summary": "Businesses are increasingly embedding AI into core operations, transforming decision-making and processes. This shift matters as it enables more efficient and data-driven decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-16T11:15:00.000Z",
