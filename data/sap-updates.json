@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience, Beyond the Ice, Connecting Cargo and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-29T19:11:11.872Z",
+    "publishedAt": "2026-07-29T21:58:19.543Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces an Advanced Success Plan for its Customer Experience platform, focusing on omnichannel commerce and B2B digital transformation. This plan aims to provide seamless experiences across multiple touchpoints for modern B2B buyers, enhancing their overall shopping experience.",
+    "summary": "SAP launches Advanced Success Plan for SAP Customer Experience, focusing on omnichannel commerce and B2B digital transformation. This plan aims to provide seamless experiences across multiple touchpoints, catering to modern B2B buyers' expectations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are launching a global initiative to develop hockey programs in schools and communities. This investment aims to grow the sport and its fan base through grassroots development.",
+    "summary": "SAP and the NHL are launching a global initiative to develop the next generation of hockey players and innovators. This partnership will focus on education, community programs, and innovation hubs to grow the sport.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-    "summary": "Container tracking technology provides real-time data on cargo positioning, streamlining supply chains. This improves logistics efficiency and reduces delays, enabling faster delivery and better customer satisfaction.",
+    "summary": "Container tracking technology provides real-time data on cargo positions. This streamlines supply chains by enabling efficient logistics and reduced delays.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-27T16:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "SAP Announces Q2 and Half-Year 2026 Results",
-    "summary": "SAP reports Q2 and half-year 2026 results with strong current cloud backlog growth. This growth indicates a continued shift towards cloud-based services.",
+    "summary": "SAP reports strong Q2 and half-year 2026 cloud backlog growth. This growth indicates continued demand for SAP's cloud services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-23T20:09:34.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-    "summary": "Companies are now building systems that can anticipate, adapt, and act autonomously, at scale, and in real time. This shift matters because it enables organizations to stay competitive and agile in a rapidly changing business landscape.",
+    "summary": "Companies are developing systems that can anticipate, adapt, and act autonomously in real-time. This shift enables organizations to respond at scale, rewriting the rules of agility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-22T10:15:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos implements SAP Build to streamline Personal Protective Equipment (PPE) management. This improvement enhances workplace safety and efficiency.",
+    "summary": "Brazilian food producer São Salvador Alimentos uses SAP Build to streamline PPE management. This upgrade enhances workplace safety and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen Shiprepair & Conversion adopts SAP Business AI for faster, smarter shipbuilding. This integration enables real-time data analysis and predictive maintenance.",
+    "summary": "Damen is implementing SAP Business AI to streamline shipbuilding processes. This integration aims to boost efficiency and reduce costs.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI releases new features in Q2 2026 to enhance decision-making and employee empowerment. This matters because it enables businesses to move faster and improve productivity.",
+    "summary": "SAP Business AI has released new features in Q2 2026, enhancing decision-making and employee empowerment. This matters because it enables businesses to operate more efficiently and effectively.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Companies in the energy and utilities sector are driving digital transformation with innovative solutions. This matters because it signals a significant shift towards more efficient and sustainable energy management.",
+    "summary": "Companies in the energy and utilities sector have won innovation awards for their digital transformation efforts. This matters because it highlights the sector's adoption of technology to drive change.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP completes acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This deal expands SAP's AI capabilities and enhances its machine learning offerings.",
+    "summary": "SAP has completed its acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This move expands SAP's AI capabilities and strengthens its position in the market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
