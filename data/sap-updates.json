@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP, The Humanity and AI of It All, Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-30T19:21:14.547Z",
+    "publishedAt": "2026-07-30T22:03:52.317Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids antitrust proceedings in Germany after the Bundeskartellamt decides not to initiate proceedings. This decision matters as it clears SAP of potential regulatory hurdles.",
+    "summary": "SAP avoids antitrust proceedings in Germany after the Bundeskartellamt declines to initiate action. This decision spares SAP from potential penalties and reputational damage.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "CX has evolved into a cross-functional discipline, requiring collaboration between teams. This shift matters as the consequences of poor customer experience are now more severe.",
+    "summary": "CX is now a cross-functional discipline, involving multiple departments to deliver seamless experiences. This shift matters as the stakes for poor customer experience are higher than ever, impacting business success and reputation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces an Advanced Success Plan for Omnichannel Commerce, enabling B2B buyers to access seamless experiences across multiple platforms. This matters because it caters to modern buyers' expectations for unified, omnichannel experiences.",
+    "summary": "SAP launches Advanced Success Plan for SAP Customer Experience, focusing on omnichannel commerce and B2B digital transformation. This plan enables seamless experiences across web, mobile, marketplaces, and partner portals, catering to modern B2B buyers' expectations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are partnering to develop hockey programs and innovation hubs globally. This initiative aims to grow the sport and foster the next generation of players and leaders.",
+    "summary": "SAP and the NHL are launching a global initiative to develop hockey programs and innovation hubs. This investment aims to grow the sport and its digital presence.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-    "summary": "Container tracking technology provides real-time data on cargo positions, streamlining supply chains. This matters as it increases efficiency and reduces logistical delays.",
+    "summary": "Container tracking technology now provides real-time data on cargo location. This improves supply chain visibility, reducing delays and losses.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-27T16:15:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "SAP Announces Q2 and Half-Year 2026 Results",
-    "summary": "SAP reports strong Q2 and half-year 2026 cloud backlog growth. This marks another quarter of success in the company's cloud strategy.",
+    "summary": "SAP reports strong Q2 cloud backlog growth, a key indicator of future revenue. This matters as it signals continued momentum in the company's cloud transformation strategy.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-23T20:09:34.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-    "summary": "Companies are developing systems that can autonomously adapt and act in real-time at scale. This shift enables agility and responsiveness to changing conditions.",
+    "summary": "Companies are shifting focus to build systems that can adapt and act autonomously in real time. This matters because it enables organizations to respond quickly to changing conditions and stay competitive.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-22T10:15:00.000Z",
@@ -109,7 +109,7 @@
   {
     "id": "8",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos now uses SAP Build to manage personal protective equipment more efficiently. This upgrade streamlines processes, enhancing workplace safety.",
+    "summary": "São Salvador Alimentos now uses SAP Build to streamline Personal Protective Equipment (PPE) management. This improvement enhances workplace safety and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -123,7 +123,7 @@
   {
     "id": "9",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is implementing SAP Business AI for shipbuilding, aiming for faster and smarter production. This matters as it could improve efficiency and sustainability in the maritime industry.",
+    "summary": "Damen is implementing SAP Business AI in its shipbuilding process. This will enable faster and more efficient production.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI has released new features in Q2 2026, enhancing decision-making and employee empowerment. This matters as it enables businesses to operate more efficiently and effectively.",
+    "summary": "SAP Business AI releases new features in Q2 2026 to accelerate business decision-making and employee empowerment. This matters because it enables businesses to operate more efficiently and effectively.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
