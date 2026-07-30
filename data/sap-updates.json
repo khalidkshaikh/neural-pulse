@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience, Beyond the Ice, Connecting Cargo and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-07-30T08:21:24.630Z",
+    "publishedAt": "2026-07-30T11:05:12.978Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are launching a global initiative to invest in youth hockey development and innovation. This partnership aims to shape the future of hockey through education, community programs, and cutting-edge technology.",
+    "summary": "SAP and the NHL are partnering to invest in youth hockey development through education and innovation initiatives. This collaboration aims to shape the future of hockey globally.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-    "summary": "Container tracking technology provides real-time location data, streamlining supply chains. This matters as it enhances logistics efficiency and reduces delivery times.",
+    "summary": "Container tracking technology and real-time data are now available to track cargo positions in real-time. This streamlines supply chains by providing accurate and timely information.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-27T16:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "SAP Announces Q2 and Half-Year 2026 Results",
-    "summary": "SAP reports strong Q2 cloud backlog growth, exceeding expectations. This matters as it indicates continued momentum in the company's transition to cloud-based services.",
+    "summary": "SAP reports strong cloud backlog growth in Q2 2026. This growth indicates a continued shift towards cloud-based services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-23T20:09:34.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-    "summary": "Companies are developing systems that can autonomously adapt and act in real-time at scale. This shift enables organizations to anticipate and respond to changing conditions more effectively.",
+    "summary": "Companies are building systems that can anticipate, adapt, and act autonomously at scale and in real time. This matters because it enables them to stay competitive in a rapidly changing market.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-22T10:15:00.000Z",
@@ -83,7 +83,7 @@
   {
     "id": "6",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos adopts SAP Build to streamline Personal Protective Equipment (PPE) management. This upgrade simplifies PPE tracking and inventory.",
+    "summary": "São Salvador Alimentos adopts SAP Build to streamline Personal Protective Equipment (PPE) management. This upgrade improves efficiency and reduces administrative tasks.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is implementing SAP Business AI to enhance shipbuilding efficiency. This matters as it will lead to faster and more sustainable ship production.",
+    "summary": "Damen is implementing SAP Business AI to streamline shipbuilding processes. This will enable faster and more efficient production.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "SAP Business AI: Release Highlights Q2 2026",
-    "summary": "SAP Business AI has released new features in Q2 2026 to enhance business decision-making and employee empowerment. This update matters because it helps businesses accelerate operations and focus on core priorities.",
+    "summary": "SAP Business AI has released new features in Q2 2026, enhancing decision-making capabilities. This update empowers businesses to focus on core activities.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T10:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "The Winners of the Energy and Utilities Innovation Award",
-    "summary": "Winners of the Energy and Utilities Innovation Award showcase digital transformation in the sector through various possibilities. This matters as it highlights companies' active role in shaping the future of energy and utilities.",
+    "summary": "Companies in the energy and utilities sector are leveraging digital transformation through various innovations. This matters because it showcases the sector's ability to adapt and improve efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T12:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "SAP Completes Acquisition of Prior Labs",
-    "summary": "SAP completes acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition strengthens SAP's AI capabilities, enhancing its market position and competitiveness.",
+    "summary": "SAP has completed the acquisition of Prior Labs, a pioneer in Tabular Foundation Models. This acquisition expands SAP's AI capabilities and deep learning offerings.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-17T09:00:00.000Z",
