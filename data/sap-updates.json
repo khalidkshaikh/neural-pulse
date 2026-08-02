@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms, Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP, The Humanity and AI of It All and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-02T15:58:10.701Z",
+    "publishedAt": "2026-08-02T19:04:58.033Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been named a leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with continuous observability and AI-driven actionability.",
+    "summary": "SAP has been recognized as a leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This recognition acknowledges SAP's offerings in dynamic digital twins with AI-driven features.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids potential antitrust proceedings in Germany after the Federal Cartel Office declines to initiate action. This decision matters as it clears SAP of regulatory concerns, maintaining its market position.",
+    "summary": "SAP has been cleared of antitrust proceedings by the German Federal Cartel Office. This decision allows SAP to continue operating without regulatory interference.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "Customer experience (CX) has evolved into a cross-functional discipline requiring collaboration across teams. This shift matters as the consequences of failing to deliver CX are now more severe than ever.",
+    "summary": "Customer experience (CX) has become a cross-functional discipline, requiring collaboration from various departments. This shift matters because getting CX wrong now has severe consequences, impacting business success.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, a platform for omnichannel commerce and B2B digital transformation. This platform enables seamless experiences across multiple touchpoints, meeting modern B2B buyers' expectations.",
+    "summary": "SAP introduces the Advanced Success Plan for SAP Customer Experience, focusing on omnichannel commerce and B2B digital transformation. It aims to provide seamless experiences across multiple platforms, meeting modern B2B buyers' expectations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are launching a global initiative to develop hockey programs in schools and communities. This investment aims to grow the sport and its fan base through grassroots development.",
+    "summary": "SAP and the NHL are partnering to invest in hockey development programs globally. The partnership aims to grow the sport through education, community outreach, and innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-    "summary": "Container tracking technology provides real-time data on cargo positions, streamlining supply chains. This matters as it increases efficiency and reduces losses due to misplaced or delayed shipments.",
+    "summary": "Real-time container tracking technology provides live positioning, streamlining supply chains. This improves logistics efficiency and reduces delays, enhancing overall supply chain visibility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-27T16:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "SAP Announces Q2 and Half-Year 2026 Results",
-    "summary": "SAP reports strong Q2 and half-year 2026 cloud backlog growth. This growth marks a continued trend for the company.",
+    "summary": "SAP reports strong cloud backlog growth in Q2 2026. This growth indicates increasing adoption of SAP's cloud services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-23T20:09:34.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "From the Factory Floor to the Data Layer: How Leading Companies Are Rewriting the Rules of Agility",
-    "summary": "Leading companies are building autonomous systems that can anticipate, adapt, and act in real-time at scale. This shift enables them to respond to changing conditions more quickly, driving business agility.",
+    "summary": "Companies are developing systems that can anticipate, adapt, and act autonomously at scale and in real time. This shift in agility matters because it enables organizations to respond rapidly to changing market conditions and stay competitive.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-22T10:15:00.000Z",
@@ -123,7 +123,7 @@
   {
     "id": "9",
     "title": "São Salvador Alimentos Improves Personal Protective Equipment Management with SAP Build",
-    "summary": "São Salvador Alimentos adopts SAP Build for efficient PPE management. This streamlines processes and reduces administrative tasks.",
+    "summary": "São Salvador Alimentos adopts SAP Build to streamline Personal Protective Equipment (PPE) management. This enhances workplace safety and efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-21T11:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "Damen Steers Toward Faster, Smarter Shipbuilding with SAP Business AI",
-    "summary": "Damen is implementing SAP Business AI to streamline shipbuilding. This integration will optimize production and decision-making.",
+    "summary": "Damen is implementing SAP Business AI to streamline shipbuilding. This integration will enable faster and more efficient production.",
     "product": "Business AI",
     "updateType": "Feature",
     "publishedAt": "2026-07-20T11:15:00.000Z",
