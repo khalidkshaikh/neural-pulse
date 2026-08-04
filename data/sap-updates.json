@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: How Salling Group Uses SAP and AI to Improve Everyday Retail, Digital Transformation Isn’t About Technology, It’s About a Strong Foundation, AI Agent Sprawl and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-04T14:04:15.841Z",
+    "publishedAt": "2026-08-04T16:49:30.606Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP as its backbone to apply AI at scale. This integration enables the company to streamline operations and improve retail efficiency.",
+    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance retail operations. This integration enables AI deployment at scale, improving retail efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation highlights the importance of a strong foundation over technology advancements. This matters because a solid foundation enables successful digital transformation, not just flashy tech updates.",
+    "summary": "Ipiranga's digital transformation emphasizes a strong foundation over technological advancements. This approach matters as it highlights the importance of solid groundwork in successful digital transformations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI adoption is accelerating, outpacing governance capabilities. This creates a governance gap that requires board-level attention.",
+    "summary": "AI adoption is accelerating, outpacing governance capabilities. This creates a governance gap that demands board-level attention to mitigate risks.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been recognized as a Leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with continuous observability and AI-driven actionability.",
+    "summary": "SAP has been named a leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with AI-driven features.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids antitrust proceedings in Germany after the Bundeskartellamt declines to initiate action. This decision spares SAP from potential regulatory scrutiny and penalties.",
+    "summary": "SAP avoids antitrust proceedings in Germany after the Bundeskartellamt declines to initiate action. This decision spares SAP from potential regulatory scrutiny.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "Customer experience has evolved into a cross-functional discipline, requiring collaboration from various teams. This shift matters as the consequences of poor CX are now more severe than ever.",
+    "summary": "Customer experience (CX) is now a cross-functional discipline, requiring collaboration between teams. This shift matters because getting CX wrong can have severe consequences.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
@@ -97,7 +97,7 @@
   {
     "id": "7",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces Advanced Success Plan for SAP Customer Experience, focusing on omnichannel commerce and B2B digital transformation. This plan enables seamless experiences across various platforms, meeting modern B2B buyers' expectations.",
+    "summary": "SAP introduces the Advanced Success Plan for Customer Experience, a platform for omnichannel commerce. It enables seamless experiences across web, mobile, marketplaces, and partner portals.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are partnering to invest in youth hockey development and innovation. This initiative aims to shape the future of hockey through education, community programs, and technological advancements.",
+    "summary": "SAP and the NHL are partnering to develop hockey programs and innovation hubs globally. This initiative aims to grow the sport and create opportunities for young players.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-    "summary": "Container tracking technology provides real-time data, enabling live positioning of cargo. This streamlines supply chains by improving visibility and efficiency.",
+    "summary": "Container tracking technology with real-time data is now widely adopted to enhance supply chain visibility. This matters because it streamlines logistics, reducing delays and improving delivery efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-27T16:15:00.000Z",
@@ -137,7 +137,7 @@
   {
     "id": "10",
     "title": "SAP Announces Q2 and Half-Year 2026 Results",
-    "summary": "SAP reports Q2 and half-year 2026 results with strong current cloud backlog growth. This growth indicates continued momentum in the company's cloud business.",
+    "summary": "SAP reports strong cloud backlog growth in Q2 2026, continuing a positive trend. This matters as it signals sustained demand for cloud-based services.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-23T20:09:34.000Z",
