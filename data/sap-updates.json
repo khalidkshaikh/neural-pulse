@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Support Accreditation, How Salling Group Uses SAP and AI to Improve Everyday Retail, Digital Transformation Isn’t About Technology, It’s About a Strong Foundation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-06T05:46:27.319Z",
+    "publishedAt": "2026-08-06T08:31:12.641Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP introduces an enablement course for faster, smarter AI-powered customer support. The course unlocks more efficient issue resolution and AI-driven innovation in under 60 minutes of learning.",
+    "summary": "SAP introduces an AI-powered customer support enablement course, offering 60 minutes of learning to boost efficiency and independence. This matters as it equips support teams with AI-driven skills, driving faster issue resolution and innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance retail operations. This strategic move enables large-scale AI implementation, streamlining processes and improving efficiency.",
+    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance its operations. This integration enables the company to apply AI at scale, improving its retail processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga, a Brazilian oil company, prioritizes a strong foundation over technology in its digital transformation. This approach focuses on assertive fundamentals, not just tech adoption.",
+    "summary": "Ipiranga's digital transformation journey shows that success lies in establishing a solid foundation, not just adopting technology. This matters because a strong foundation enables effective digital adoption, driving business growth and competitiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI adoption is accelerating, outpacing governance capabilities. This creates a risk of uncontrolled AI agent sprawl, threatening organizational stability.",
+    "summary": "AI adoption is accelerating, outpacing governance capabilities. This creates a gap in oversight, making AI governance a critical board-level issue.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been recognized as a Leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This acknowledgment highlights SAP's capabilities in delivering dynamic digital twins with AI-driven actionability.",
+    "summary": "SAP has been recognized as a leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with AI-driven features.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids antitrust proceedings in Germany after the Bundeskartellamt declines to initiate action. This decision spares SAP potential regulatory hurdles.",
+    "summary": "SAP avoids antitrust proceedings in Germany after the Federal Cartel Office declines to initiate action. This decision matters as it clears SAP of potential regulatory hurdles.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "Customer experience (CX) has evolved into a cross-functional discipline, requiring collaboration from various departments. Getting CX wrong now has higher stakes, impacting business success and customer loyalty.",
+    "summary": "Customer experience (CX) has evolved into a cross-functional discipline, requiring collaboration between departments. This shift matters as the consequences of poor CX are now more severe than ever.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
@@ -111,7 +111,7 @@
   {
     "id": "8",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces an Advanced Success Plan for SAP Customer Experience, focusing on omnichannel commerce and B2B digital transformation. This plan aims to provide seamless experiences across multiple channels for modern B2B buyers, enhancing their overall experience.",
+    "summary": "SAP introduces an Advanced Success Plan for its Customer Experience platform, focusing on omnichannel commerce and B2B digital transformation. This plan aims to meet modern B2B buyers' expectations of seamless experiences across various channels.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are launching a global initiative to invest in education and innovation in hockey. This partnership will shape the future of the sport through community development and tech innovation.",
+    "summary": "SAP and the NHL are investing in a global initiative to develop hockey programs and innovation hubs. This partnership aims to shape the future of hockey through education and technology.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Connecting Cargo: How Live Positioning Is Streamlining Supply Chains",
-    "summary": "Container tracking technology provides real-time data on cargo positions, streamlining supply chains. This matters because it increases efficiency and reduces delays in global shipments.",
+    "summary": "Container tracking technology provides real-time data on cargo positions, streamlining supply chains. This live positioning improves logistics efficiency and reduces delays.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-27T16:15:00.000Z",
