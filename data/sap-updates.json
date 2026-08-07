@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: AI Adoption and SAP Transformation, Support Accreditation, How Salling Group Uses SAP and AI to Improve Everyday Retail and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-07T07:10:51.174Z",
+    "publishedAt": "2026-08-07T09:58:35.320Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "New research reveals that 71% of SAP customers have adopted AI, citing improved efficiency and accuracy. This adoption is driven by real-world benefits, not just hype.",
+    "summary": "New research reveals SAP customers are adopting AI to automate tasks, improve decision-making, and enhance customer experiences. AI adoption is transforming SAP operations, driving efficiency and innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP introduces an enablement course for faster, smarter AI-powered customer support. \nThis matters as it empowers support teams to adapt to AI-driven innovation quickly.",
+    "summary": "SAP introduces an enablement course for faster, smarter AI-powered customer support. The course unlocks AI capabilities in under 60 minutes of learning.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "European retailer Salling Group uses SAP Cloud ERP as its backbone to apply AI at scale. This integration enables real-time data analysis and informed decision-making.",
+    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance its retail operations. This integration enables the company to apply AI at scale.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation focuses on foundational elements, not just technology. This approach matters because it highlights the importance of solid groundwork in successful digital transformations.",
+    "summary": "Ipiranga's digital transformation focuses on a strong foundation, not just technology. This approach matters because it highlights the importance of solid fundamentals in successful digital transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI adoption is accelerating, outpacing governance. This creates a board-level issue as companies struggle to manage AI risks.",
+    "summary": "AI adoption is accelerating, outpacing governance capabilities. This gap raises concerns about accountability and control.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been recognized as a leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in providing dynamic digital twins with AI-driven features.",
+    "summary": "SAP has been named a leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in delivering dynamic digital twins with AI-driven actionability features.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "Customer experience (CX) has evolved into a cross-functional discipline, requiring collaboration between departments. This shift matters as the stakes for poor CX are higher than ever, impacting business success.",
+    "summary": "Customer experience (CX) has evolved into a cross-functional discipline, requiring coordination between teams. This shift matters because getting CX wrong now carries higher stakes than ever, impacting business success.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP introduces an advanced success plan for its Customer Experience platform, focusing on omnichannel commerce and B2B digital transformation. This aims to provide seamless experiences for modern B2B buyers across various touchpoints.",
+    "summary": "SAP releases Advanced Success Plan for SAP Customer Experience, a solution for omnichannel commerce and B2B digital transformation. This plan enables seamless experiences across web, mobile, marketplaces, and partner portals.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are launching a global initiative to develop the next generation of hockey players and fans. This investment matters because it will help shape the future of the sport through education and innovation.",
+    "summary": "SAP and the NHL are partnering to invest in next-gen hockey programs and innovation hubs globally. This initiative focuses on developing young players and fostering hockey growth worldwide.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
