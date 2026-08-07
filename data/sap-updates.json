@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of August 6, 2026",
+    "title": "Weekly SAP AI Digest — Week of August 7, 2026",
     "summary": "This week in SAP AI: AI Adoption and SAP Transformation, Support Accreditation, How Salling Group Uses SAP and AI to Improve Everyday Retail and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-06T23:55:45.619Z",
+    "publishedAt": "2026-08-07T02:32:56.969Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "New research reveals 85% of SAP customers report positive experiences with AI adoption, citing improved efficiency and data-driven decision-making. This matters because it validates AI's potential to drive business transformation and increase operational efficiency.",
+    "summary": "New research reveals that 85% of SAP customers report successful AI adoption, citing improved efficiency and accuracy. This matters as it validates AI's potential to drive business transformation and boost competitiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP introduces an enablement course for faster, smarter AI-powered customer support. This 60-minute course unlocks quicker issue resolution and AI-driven innovation.",
+    "summary": "SAP is launching an enablement course to accelerate AI-powered customer support. The course unlocks faster, smarter support in under 60 minutes of learning.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance its operations. This integration enables the company to apply AI at scale, improving its retail processes.",
+    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance retail operations. This integration enables large-scale AI adoption, improving efficiency and decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -59,7 +59,7 @@
   {
     "id": "4",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation journey shows that a strong foundation, not technology, drives success. This matters because it refocuses efforts on core business fundamentals, not just trendy tech.",
+    "summary": "Ipiranga's digital transformation highlights a strong foundation as key, not just technology. This matters because it emphasizes the importance of organizational fundamentals in successful digital transformation efforts.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -71,7 +71,7 @@
   {
     "id": "5",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI agent adoption is accelerating, outpacing governance efforts. This sprawl raises board-level concerns about accountability and oversight.",
+    "summary": "AI adoption is outpacing governance, leading to \"agent sprawl.\" This gap requires board-level attention to mitigate risks and ensure accountability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -85,7 +85,7 @@
   {
     "id": "6",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been recognized as a Leader in Gartner's first Magic Quadrant for Digital Twin of an Organization Platforms. This distinction highlights SAP's capabilities in delivering AI-driven digital twins with continuous observability.",
+    "summary": "SAP has been recognized as a leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering businesses a dynamic digital twin with AI-driven features.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -99,7 +99,7 @@
   {
     "id": "7",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids antitrust proceedings in Germany after the Federal Cartel Office declines to initiate action. This decision spares SAP from potential regulatory scrutiny and penalties.",
+    "summary": "SAP avoids antitrust proceedings in Germany. This decision spares SAP potential regulatory scrutiny and penalties.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
@@ -113,7 +113,7 @@
   {
     "id": "8",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "CX has evolved into a cross-functional discipline, requiring collaboration between teams. This shift matters as the stakes for poor customer experience are higher than ever, impacting business success.",
+    "summary": "Customer experience (CX) has become a cross-functional discipline, requiring collaboration between teams. This shift matters because getting CX wrong now comes with higher stakes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
@@ -125,7 +125,7 @@
   {
     "id": "9",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP launches Advanced Success Plan for SAP Customer Experience, focusing on omnichannel commerce and B2B digital transformation. This plan enables businesses to provide seamless experiences across various channels, meeting modern buyer expectations.",
+    "summary": "SAP launches the Advanced Success Plan for SAP Customer Experience, a comprehensive solution for B2B digital transformation. This plan enables seamless omnichannel experiences for customers, mirroring their expectations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
@@ -139,7 +139,7 @@
   {
     "id": "10",
     "title": "Beyond the Ice: How SAP and the NHL are Investing in the Next Generation",
-    "summary": "SAP and the NHL are launching a global initiative to invest in youth hockey development and innovation. This partnership aims to grow the sport through education, community programs, and technological advancements.",
+    "summary": "SAP and the NHL are launching a global initiative to develop hockey programs and innovation hubs. This effort aims to grow the sport and inspire the next generation of hockey players.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-28T12:15:00.000Z",
