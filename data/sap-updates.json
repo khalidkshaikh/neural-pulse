@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA, AI Adoption and SAP Transformation, Support Accreditation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-08T15:26:33.344Z",
+    "publishedAt": "2026-08-08T18:33:00.192Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
-    "summary": "Cirque du Soleil is leveraging SAP technology to innovate with AI. This integration enables the company to reinvent its operations and stay ahead in the entertainment industry.",
+    "summary": "Cirque du Soleil is leveraging SAP technology to innovate with AI, driving operational efficiency and reinvention. This matters because it showcases AI's potential to transform traditional industries.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-07T11:15:00.000Z",
@@ -32,7 +32,7 @@
   {
     "id": "2",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "New: Companies report mixed results from adopting AI, citing improved efficiency but also integration challenges with existing SAP systems. \n\nWhy it matters: This highlights the need for streamlined AI-SAP integration to maximize business benefits.",
+    "summary": "New: SAP customers report mixed results from AI adoption, citing improved efficiency but also integration challenges. \n\nWhy it matters: This highlights the need for careful planning and execution when implementing AI technologies in enterprise settings.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -46,7 +46,7 @@
   {
     "id": "3",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP offers a 60-minute enablement course for faster, smarter AI-powered customer support. This course unlocks AI capabilities for support teams.",
+    "summary": "SAP introduces enablement course for faster, smarter AI-powered customer support. This 60-minute course unlocks skills to resolve issues independently and stay ahead of AI-driven innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP as its backbone to scale AI adoption. This integration enables the company to apply AI across its operations.",
+    "summary": "Salling Group adopts SAP Cloud ERP as backbone for AI implementation. This enables large-scale AI deployment in retail operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -74,7 +74,7 @@
   {
     "id": "5",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation emphasizes the importance of a strong foundation over technology. This approach matters as it highlights the need for solid organizational fundamentals to drive successful digital transformation.",
+    "summary": "Ipiranga, a Brazilian oil company, prioritizes digital transformation through strong fundamentals, not just technology. This approach matters because it highlights the importance of a solid foundation for successful digital transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI adoption is accelerating, outpacing governance efforts. This creates a governance gap, making AI governance a board-level issue.",
+    "summary": "AI agent adoption is accelerating, outpacing governance capabilities. This creates a governance gap that now requires board-level attention.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -100,7 +100,7 @@
   {
     "id": "7",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been named a Leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's offering of dynamic digital twins with AI-driven actionability features.",
+    "summary": "SAP has been recognized as a leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with AI-driven actionability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -114,7 +114,7 @@
   {
     "id": "8",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids potential antitrust proceedings in Germany after the Federal Cartel Office declines to initiate action. This decision spares SAP from regulatory scrutiny and potential penalties.",
+    "summary": "SAP avoids antitrust proceedings in Germany after the Bundeskartellamt declines to initiate action. This decision allows SAP to continue operating without regulatory interference.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
@@ -128,7 +128,7 @@
   {
     "id": "9",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "Customer experience (CX) has evolved into a cross-functional discipline that requires collaboration among various teams. This shift matters because getting CX wrong now comes with significantly higher stakes.",
+    "summary": "Customer experience (CX) has evolved into a cross-functional discipline, requiring collaboration across departments. This shift matters as the stakes for poor CX are higher than ever, impacting business success and customer loyalty.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "Omnichannel Commerce & B2B Digital Transformation with the Advanced Success Plan for SAP Customer Experience",
-    "summary": "SAP launches Advanced Success Plan for SAP Customer Experience, enabling seamless omnichannel commerce. This allows B2B buyers to access experiences across web, mobile, marketplaces, and partner portals.",
+    "summary": "SAP introduces Advanced Success Plan for SAP Customer Experience, a solution for omnichannel commerce and B2B digital transformation. This plan enables seamless experiences across various touchpoints, catering to modern B2B buyer expectations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-29T11:15:00.000Z",
