@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: AI’s Dual Role in Procurement Transformation, Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA, AI Adoption and SAP Transformation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-10T13:00:55.306Z",
+    "publishedAt": "2026-08-10T15:57:17.361Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "AI’s Dual Role in Procurement Transformation",
-    "summary": "AI adoption in procurement is being hindered by a disconnect between its potential and practical applications. This gap matters because it slows down digital transformation and hinders business efficiency.",
+    "summary": "AI is being used in procurement for both automation and strategic decision-making, but its potential is not being fully realized. This gap matters because it hinders the efficiency and effectiveness of procurement processes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-10T11:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
-    "summary": "Cirque du Soleil is leveraging SAP technology to reinvent its operations with AI. This partnership enables the entertainment company to innovate and improve its business processes.",
+    "summary": "Cirque du Soleil is leveraging SAP technology to innovate and reinvent its operations. This matters because it showcases AI-driven transformation in a creative industry.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-07T11:15:00.000Z",
@@ -44,7 +44,7 @@
   {
     "id": "3",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "Companies report mixed results from adopting AI, with some experiencing improved efficiency and others facing integration challenges. AI adoption matters as it can significantly impact business operations, requiring careful planning and execution to maximize benefits.",
+    "summary": "New: SAP customers report mixed results with AI adoption, citing improved efficiency but also integration challenges. \n\nWhy it matters: This highlights the need for more seamless technology integration in real-world applications.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP introduces an enablement course to accelerate AI-powered customer support. The course unlocks faster, smarter support in under 60 minutes of learning.",
+    "summary": "SAP introduces an enablement course to accelerate AI-powered customer support. The course unlocks faster issue resolution and smarter support in under 60 minutes of learning.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -72,7 +72,7 @@
   {
     "id": "5",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP as its backbone to deploy AI at scale. This integration enables the company to improve everyday retail operations.",
+    "summary": "Salling Group, a European retailer, is implementing SAP Cloud ERP with AI capabilities. This integration enables large-scale AI adoption in retail operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -86,7 +86,7 @@
   {
     "id": "6",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation success is built on a strong foundation, not just technology. This highlights the importance of solid fundamentals in driving effective digital change.",
+    "summary": "Ipiranga's digital transformation emphasizes the importance of a strong foundation over technology. This highlights the need for solid business fundamentals in successful digital transformations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -98,7 +98,7 @@
   {
     "id": "7",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI adoption is outpacing governance, leading to agent sprawl. This matters because unmanaged AI agents can pose significant risks to organizations.",
+    "summary": "AI agent sprawl is accelerating due to rapid adoption, outpacing governance efforts. This gap has elevated AI governance to a board-level issue.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -112,7 +112,7 @@
   {
     "id": "8",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been named a Leader in Gartner's Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in providing dynamic digital twins with AI-driven actionability.",
+    "summary": "SAP has been recognized as a Leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition acknowledges SAP's dynamic digital twin capabilities with continuous observability and AI-driven actionability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -126,7 +126,7 @@
   {
     "id": "9",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids potential antitrust proceedings in Germany. This decision matters as it clears SAP of regulatory concerns.",
+    "summary": "SAP avoids potential antitrust proceedings in Germany after the Federal Cartel Office declines to initiate action. This decision spares SAP from regulatory scrutiny.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
@@ -140,7 +140,7 @@
   {
     "id": "10",
     "title": "The Humanity and AI of It All: The State of Customer Experience",
-    "summary": "Customer experience (CX) has evolved into a cross-functional discipline, requiring collaboration between teams. This shift matters because poor CX can lead to significant financial losses and damage to brand reputation.",
+    "summary": "Customer experience (CX) has evolved into a cross-functional discipline, requiring collaboration between teams. This shift matters because getting CX wrong now comes with higher stakes.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T12:15:00.000Z",
