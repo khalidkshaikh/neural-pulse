@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: Service-Led Growth Starts with the Business Model, How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller, AI’s Dual Role in Procurement Transformation and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-12T18:57:57.873Z",
+    "publishedAt": "2026-08-12T21:41:21.430Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "Service-Led Growth Starts with the Business Model",
-    "summary": "New: Technology can aid service business scaling, but doesn't define value creation, delivery, or monetization. \nWhy it matters: Understanding business models is crucial for effective service-led growth.",
+    "summary": "New: Technology can aid service business scaling but doesn't define value creation, delivery, or monetization. \nThis matters because it emphasizes the importance of a solid business model in service-led growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-12T11:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
-    "summary": "Lemvigh-Müller automates document processing in its supply chain using AI. This streamlines operations for the 180-year-old Danish wholesaler.",
+    "summary": "Lemvigh-Müller automates document processing in its supply chain using AI. This improves efficiency, a crucial aspect of its 180-year-old Danish wholesaler business model.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-11T10:15:00.000Z",
@@ -41,7 +41,7 @@
   {
     "id": "3",
     "title": "AI’s Dual Role in Procurement Transformation",
-    "summary": "AI adoption in procurement is lagging behind initial expectations. It matters because effective AI integration can significantly streamline and optimize procurement processes.",
+    "summary": "Research highlights AI's dual role in procurement transformation, where it simultaneously drives efficiency and creates complexity. This dichotomy hinders widespread adoption, making it crucial to address the gap between AI's promise and procurement's reality.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-10T11:15:00.000Z",
@@ -53,7 +53,7 @@
   {
     "id": "4",
     "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
-    "summary": "Cirque du Soleil is leveraging SAP technology to drive innovation with AI. This strategic move enables the company to reinvent its operations and stay ahead in the entertainment industry.",
+    "summary": "Cirque du Soleil is leveraging SAP technology to drive innovation with AI. This integration enables the company to reinvent its operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-07T11:15:00.000Z",
@@ -68,7 +68,7 @@
   {
     "id": "5",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "New: SAP customers report improved efficiency and reduced costs from AI adoption, citing benefits in automation and data analysis.\n\nWhy it matters: This real-world adoption validates AI's potential to drive business value in day-to-day operations.",
+    "summary": "New research reveals 85% of SAP customers report successful AI adoption, citing improved efficiency and decision-making. This matters as it validates AI's practical application in business operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -82,7 +82,7 @@
   {
     "id": "6",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP launches an AI-powered customer support enablement course. The course unlocks faster, smarter issue resolution and independent work in under 60 minutes of learning.",
+    "summary": "SAP introduces an AI-powered customer support enablement course, allowing faster issue resolution and independent work. This matters as it boosts efficiency in customer support operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -96,7 +96,7 @@
   {
     "id": "7",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance its retail operations. This integration enables the company to apply AI at scale, improving efficiency and decision-making.",
+    "summary": "Salling Group, a European retailer, leverages SAP Cloud ERP and AI to drive retail improvements. This integration enables large-scale AI adoption, enhancing operational efficiency.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -110,7 +110,7 @@
   {
     "id": "8",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation focuses on foundational elements, not just technology. This approach matters because it highlights the importance of a solid foundation for successful digital transformation.",
+    "summary": "Ipiranga, a Brazilian oil company, successfully transformed digitally by focusing on a strong foundation, not just technology. This approach matters because it highlights the importance of solid fundamentals in driving successful digital transformations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -122,7 +122,7 @@
   {
     "id": "9",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI adoption is outpacing governance, leading to unmanaged AI agent sprawl. This issue now requires board-level attention to mitigate risks and ensure accountability.",
+    "summary": "AI agent adoption is accelerating, outpacing governance capabilities. This gap poses significant risks and highlights the need for board-level oversight.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -136,7 +136,7 @@
   {
     "id": "10",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been recognized as a leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with AI-driven features.",
+    "summary": "SAP has been recognized as a leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition acknowledges SAP's capabilities in creating dynamic digital twins with AI-driven actionability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
