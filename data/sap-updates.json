@@ -1,11 +1,11 @@
 [
   {
     "id": "0",
-    "title": "Weekly SAP AI Digest — Week of August 11, 2026",
+    "title": "Weekly SAP AI Digest — Week of August 12, 2026",
     "summary": "This week in SAP AI: How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller, AI’s Dual Role in Procurement Transformation, Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-11T21:42:35.262Z",
+    "publishedAt": "2026-08-12T01:42:25.831Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
-    "summary": "Lemvigh-Müller, a 180-year-old Danish wholesaler, is automating document processing in its supply chain using AI. This automation streamlines operations, enabling the company to maintain its business model.",
+    "summary": "Lemvigh-Müller automates document processing in its supply chain using AI. This AI use case streamlines operations for the 180-year-old Danish wholesaler.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-11T10:15:00.000Z",
@@ -29,7 +29,7 @@
   {
     "id": "2",
     "title": "AI’s Dual Role in Procurement Transformation",
-    "summary": "AI adoption in procurement is progressing, with 60% of companies using AI-powered tools for sourcing and contract management. Effective implementation requires integrating AI with human judgment and process optimization.",
+    "summary": "AI adoption in procurement is moving beyond pilot projects, with companies now integrating it into core processes. This shift requires procurement teams to adapt and develop new skills to effectively leverage AI.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-10T11:15:00.000Z",
@@ -41,7 +41,7 @@
   {
     "id": "3",
     "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
-    "summary": "Cirque du Soleil is leveraging SAP technology with AI to reinvent its operations. This marks a significant shift in the entertainment company's use of technology to drive innovation.",
+    "summary": "Cirque du Soleil is leveraging SAP technology to drive AI-powered innovation in its operations. This marks the company's ongoing commitment to reinvention, a core aspect of its DNA.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-07T11:15:00.000Z",
@@ -56,7 +56,7 @@
   {
     "id": "4",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "Companies report mixed results from AI adoption, citing benefits in automation and data analysis but also challenges in integration and data quality. This highlights the need for practical guidance on implementing AI in real-world operations.",
+    "summary": "New research reveals 80% of SAP customers have implemented AI, citing improved efficiency and decision-making. This widespread adoption highlights the growing importance of AI in enterprise software.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -70,7 +70,7 @@
   {
     "id": "5",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP introduces an enablement course to accelerate AI-powered customer support. The course unlocks faster issue resolution, independent work, and AI-driven innovation in under 60 minutes.",
+    "summary": "SAP introduces an enablement course for faster, smarter AI-powered customer support. The course unlocks skills to resolve issues independently within 60 minutes of learning.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -84,7 +84,7 @@
   {
     "id": "6",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, implements SAP Cloud ERP as its backbone for AI adoption. This enables large-scale AI applications across its retail operations.",
+    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance retail operations. This integration enables the company to apply AI at scale, improving efficiency and effectiveness.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -98,7 +98,7 @@
   {
     "id": "7",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation success stems from a strong foundation, not just technology adoption. This approach matters because it highlights the importance of solid fundamentals in driving meaningful digital change.",
+    "summary": "Ipiranga's digital transformation focuses on a strong foundation, not just technology. This approach matters because it highlights the importance of underlying principles in successful digital transformations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
@@ -110,7 +110,7 @@
   {
     "id": "8",
     "title": "AI Agent Sprawl: Why AI Governance Is Now a Board-Level Issue",
-    "summary": "AI adoption is outpacing governance, leading to a \"sprawl\" of unmanaged agents. This gap matters because it poses significant risks to organizations' security and compliance.",
+    "summary": "AI adoption is outpacing governance, leading to unmanaged AI agent sprawl. This issue now requires board-level attention to mitigate risks and ensure accountability.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-03T12:15:00.000Z",
@@ -124,7 +124,7 @@
   {
     "id": "9",
     "title": "SAP Acknowledged as a Leader in First-Ever Gartner® Magic Quadrant™ for Digital Twin of an Organization Platforms",
-    "summary": "SAP has been recognized as a leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with AI-driven features.",
+    "summary": "SAP has been recognized as a leader in Gartner's first-ever Magic Quadrant for Digital Twin of an Organization Platforms. This recognition highlights SAP's capabilities in offering dynamic digital twins with AI-driven actionability features.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-31T11:15:00.000Z",
@@ -138,7 +138,7 @@
   {
     "id": "10",
     "title": "Statement on the Decision of the German Federal Cartel Office Not to Initiate Antitrust Proceedings Against SAP",
-    "summary": "SAP avoids antitrust proceedings in Germany after the Federal Cartel Office declines to initiate action. This decision matters as it clears SAP of potential regulatory hurdles in a key market.",
+    "summary": "SAP avoids antitrust proceedings in Germany. The decision allows SAP to continue business operations without regulatory interference.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-07-30T13:05:00.000Z",
