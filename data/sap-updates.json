@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites, SAP Order Management Services Named a Leader in IDC MarketScape, Service-Led Growth Starts with the Business Model and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-16T06:34:40.439Z",
+    "publishedAt": "2026-08-16T09:23:49.480Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites",
-    "summary": "SAP has been named a Leader in Gartner's inaugural Magic Quadrant for Supply Chain Management Suites. This recognition highlights SAP's ability to navigate supply chain volatility through connected planning, execution, and business processes.",
+    "summary": "SAP has been named a Leader in Gartner's inaugural Magic Quadrant for Supply Chain Management Suites. This recognition solidifies SAP's position in supply chain management, a critical area for businesses navigating volatility.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-13T15:15:00.000Z",
@@ -31,7 +31,7 @@
   {
     "id": "2",
     "title": "SAP Order Management Services Named a Leader in IDC MarketScape: Worldwide AI-Enabled Order Orchestration and Fulfillmen",
-    "summary": "SAP's Order Management Services has been named a Leader in IDC MarketScape's AI-Enabled Order Orchestration assessment. This recognition highlights SAP's commitment to innovation in order management.",
+    "summary": "SAP's Order Management Services has been named a Leader in IDC MarketScape for AI-enabled order orchestration and fulfillment applications. This recognition highlights SAP's commitment to innovation in order management.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-13T11:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Service-Led Growth Starts with the Business Model",
-    "summary": "Technology can aid service business scaling, but doesn't dictate value creation, delivery, or monetization. This distinction matters because it highlights the importance of a solid business model in driving service-led growth.",
+    "summary": "New: Technology can enhance service businesses, but it doesn't dictate their core models. \nWhy it matters: Understanding the underlying business model is crucial for successful service-led growth.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-12T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
-    "summary": "Lemvigh-Müller automates document processing in its supply chain using AI. This streamlines operations for the 180-year-old Danish wholesaler, its business model reliant on efficiency.",
+    "summary": "Lemvigh-Müller automates document processing in its supply chain using AI. This streamlines operations, improving efficiency and reducing costs.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-11T10:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "AI’s Dual Role in Procurement Transformation",
-    "summary": "AI's role in procurement is expanding beyond automation to strategic decision-making. This shift requires procurement teams to develop AI literacy and adapt business processes.",
+    "summary": "AI adoption in procurement is being hindered by unrealistic expectations and a lack of integration. This gap between promise and reality must be bridged for true transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-10T11:15:00.000Z",
@@ -81,7 +81,7 @@
   {
     "id": "6",
     "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
-    "summary": "Cirque du Soleil is leveraging SAP technology and AI to reinvent its operations. This matters because it showcases AI's potential to drive business transformation and innovation.",
+    "summary": "Cirque du Soleil is leveraging SAP technology to innovate with AI, driving operational efficiency and potentially new creative approaches. This matters as it showcases AI's potential to transform traditional industries and drive innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-07T11:15:00.000Z",
@@ -96,7 +96,7 @@
   {
     "id": "7",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "New: SAP customers report AI adoption and transformation efforts are yielding tangible results, with 71% citing improved operational efficiency and 64% noting enhanced decision-making.\n\nWhy it matters: This validates AI's potential to drive business value, underscoring its growing relevance in enterprise operations.",
+    "summary": "New: SAP customers report AI adoption is improving operational efficiency and decision-making. \n\nKey benefits include reduced manual work, enhanced data analysis, and better forecasting.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -110,7 +110,7 @@
   {
     "id": "8",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP introduces an enablement course for faster, smarter AI-powered customer support. The course unlocks skills in under 60 minutes, empowering support teams to resolve issues independently.",
+    "summary": "SAP introduces an AI-powered enablement course for faster, smarter customer support. This 60-minute course unlocks independent work and AI-driven innovation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -124,7 +124,7 @@
   {
     "id": "9",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, leverages SAP Cloud ERP as its backbone to apply AI at scale. This integration enables the company to streamline operations and improve retail efficiency.",
+    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP as a backbone to apply AI at scale. This integration enables data-driven decision-making and improved retail operations.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -138,7 +138,7 @@
   {
     "id": "10",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation emphasizes foundational elements over technology. This approach matters because it highlights the importance of strong fundamentals in successful digital transformation.",
+    "summary": "Ipiranga's digital transformation highlights the importance of a strong foundation over technology. This matters because successful digital transformation relies on solid organizational fundamentals, not just cutting-edge tech.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
