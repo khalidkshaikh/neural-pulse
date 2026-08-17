@@ -5,7 +5,7 @@
     "summary": "This week in SAP AI: SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites, SAP Order Management Services Named a Leader in IDC MarketScape, Service-Led Growth Starts with the Business Model and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-08-17T03:46:56.804Z",
+    "publishedAt": "2026-08-17T06:48:59.514Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -17,7 +17,7 @@
   {
     "id": "1",
     "title": "SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites",
-    "summary": "SAP has been named a Leader in Gartner's inaugural Magic Quadrant for Supply Chain Management Suites. This recognition highlights SAP's ability to connect planning, execution, and business processes across the enterprise.",
+    "summary": "SAP has been named a Leader in Gartner's inaugural Magic Quadrant for Supply Chain Management Suites. This recognition solidifies SAP's position as a top provider of supply chain management solutions.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-13T15:15:00.000Z",
@@ -45,7 +45,7 @@
   {
     "id": "3",
     "title": "Service-Led Growth Starts with the Business Model",
-    "summary": "Technology can aid service business scaling, but doesn't dictate value creation or monetization. This distinction matters because it emphasizes the importance of business model strategy in service-led growth.",
+    "summary": "Technology can aid service business scalability, but doesn't dictate value creation, delivery, or monetization. This distinction matters because it highlights the importance of a solid business model in driving growth and success.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-12T11:15:00.000Z",
@@ -57,7 +57,7 @@
   {
     "id": "4",
     "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
-    "summary": "Lemvigh-Müller automates document processing in its supply chain with AI. The technology streamlines operations for the 180-year-old Danish wholesaler.",
+    "summary": "Lemvigh-Müller, a 180-year-old Danish wholesaler, is automating document processing in its supply chain using AI. This automation enables the company to maintain its business model, which relies on an efficient supply chain.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-11T10:15:00.000Z",
@@ -69,7 +69,7 @@
   {
     "id": "5",
     "title": "AI’s Dual Role in Procurement Transformation",
-    "summary": "AI adoption in procurement is being hindered by a lack of standardization and data quality. This gap between promise and reality must be addressed for effective transformation.",
+    "summary": "AI is being used in procurement for both automation and strategic decision-making, but adoption is slow. This gap between promise and reality hinders procurement transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-10T11:15:00.000Z",
@@ -81,7 +81,7 @@
   {
     "id": "6",
     "title": "Innovating with AI Because Reinvention Is in Cirque du Soleil’s DNA",
-    "summary": "Cirque du Soleil partners with SAP to leverage AI and technology for operational innovation. This collaboration enables the company to reinvent its business processes and improve efficiency.",
+    "summary": "Cirque du Soleil is leveraging AI and SAP technology to reinvent its operations. This matters as it showcases AI's potential to drive business innovation and transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-07T11:15:00.000Z",
@@ -96,7 +96,7 @@
   {
     "id": "7",
     "title": "AI Adoption and SAP Transformation: What Customers Report from Practice",
-    "summary": "New: SAP customers report successful AI adoption in day-to-day operations, citing improved efficiency and accuracy. \n\nWhy it matters: This validates AI's practical application in enterprise settings, paving the way for broader adoption.",
+    "summary": "New research reveals that AI adoption by SAP customers is hindered by lack of clear ROI and integration challenges. This hinders widespread adoption of AI in SAP environments.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-06T11:15:00.000Z",
@@ -110,7 +110,7 @@
   {
     "id": "8",
     "title": "Support Accreditation: SAP’s Enablement Course to Unlock Faster, Smarter, AI-Powered Customer Support",
-    "summary": "SAP introduces an enablement course to accelerate AI-powered customer support. The course unlocks faster issue resolution and independent work in under 60 minutes of learning.",
+    "summary": "SAP introduces an enablement course to accelerate AI-powered customer support. The course aims to equip support teams with skills to resolve issues quickly and independently.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-05T11:15:00.000Z",
@@ -124,7 +124,7 @@
   {
     "id": "9",
     "title": "How Salling Group Uses SAP and AI to Improve Everyday Retail",
-    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP as its backbone to apply AI at scale. This integration enables data-driven retail operations.",
+    "summary": "Salling Group, a European retailer, is leveraging SAP Cloud ERP and AI to enhance its retail operations. This integration enables the company to apply AI at scale, improving efficiency and decision-making.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T12:15:00.000Z",
@@ -138,7 +138,7 @@
   {
     "id": "10",
     "title": "Digital Transformation Isn’t About Technology, It’s About a Strong Foundation",
-    "summary": "Ipiranga's digital transformation journey shows that a strong foundation is key, not just technology. This matters because it highlights the importance of fundamentals in successful digital transformations.",
+    "summary": "Ipiranga, a Brazilian fuel company, prioritizes foundational aspects like data quality and organizational alignment over technology adoption. This approach ensures successful digital transformation.",
     "product": "Community",
     "updateType": "Community",
     "publishedAt": "2026-08-04T11:15:00.000Z",
