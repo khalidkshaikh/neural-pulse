@@ -2,10 +2,10 @@
   {
     "id": "0",
     "title": "Weekly SAP AI Digest — Week of October 27, 2026",
-    "summary": "This week in SAP AI: SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World, From Orbit to Enterprise, Innovation News Guide and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
+    "summary": "This week in SAP AI: SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution, Innovation News Guide, From Orbit to Enterprise and more. Full roundup of Joule, AI Core, Generative AI Hub, and SAP Business AI updates.",
     "product": "Community",
     "updateType": "Deep Dive",
-    "publishedAt": "2026-10-27T08:37:26.818Z",
+    "publishedAt": "2026-10-27T15:06:37.666Z",
     "sourceUrl": "#",
     "isNew": false,
     "isWeeklyDigest": true,
@@ -16,12 +16,12 @@
   },
   {
     "id": "1",
-    "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
-    "summary": "AI has gone from insight to action. With physical AI, it comes into the physical world.",
+    "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
+    "summary": "BERLIN — SAP SE (NYSE: SAP) today announced a series of AI innovations at its annual SAP TechEd conference that expands its portfolio for developers.",
     "product": "Community",
     "updateType": "Community",
-    "publishedAt": "2026-10-27T08:00:00.000Z",
-    "sourceUrl": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
+    "publishedAt": "2026-10-27T08:02:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
     "isNew": true,
     "isWeeklyDigest": false,
     "tags": [
@@ -30,6 +30,18 @@
   },
   {
     "id": "2",
+    "title": "Innovation News Guide: The Autonomous Enterprise Becomes a Reality",
+    "summary": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.",
+    "product": "Community",
+    "updateType": "Community",
+    "publishedAt": "2026-10-27T08:01:00.000Z",
+    "sourceUrl": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026#new_tab",
+    "isNew": true,
+    "isWeeklyDigest": false,
+    "tags": []
+  },
+  {
+    "id": "3",
     "title": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE",
     "summary": "Tabular AI on SAP works at the edge of possibility.",
     "product": "Community",
@@ -43,25 +55,13 @@
     ]
   },
   {
-    "id": "3",
-    "title": "Innovation News Guide: The Autonomous Enterprise Becomes a Reality",
-    "summary": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.",
-    "product": "Community",
-    "updateType": "Community",
-    "publishedAt": "2026-10-27T08:00:00.000Z",
-    "sourceUrl": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026#new_tab",
-    "isNew": true,
-    "isWeeklyDigest": false,
-    "tags": []
-  },
-  {
     "id": "4",
-    "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
-    "summary": "BERLIN — SAP SE (NYSE: SAP) today announced a series of AI innovations at its annual SAP TechEd conference that expands its portfolio for developers.",
+    "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
+    "summary": "AI has gone from insight to action. With physical AI, it comes into the physical world.",
     "product": "Community",
     "updateType": "Community",
-    "publishedAt": "2026-10-27T08:00:00.000Z",
-    "sourceUrl": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
+    "publishedAt": "2026-10-27T07:59:00.000Z",
+    "sourceUrl": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
     "isNew": true,
     "isWeeklyDigest": false,
     "tags": [
